@@ -18,3 +18,10 @@ _What a child can do in cooperation today, he can do alone tomorrow_ (Vygotsky,
 Social interaction plays an important role in the learning of a child, particularly character development. Through interactions, pupils co-construct knowledge and turn this into positive actions. In West View, we capitalise on this and add an element of fun through our Model Class Award (MCA), a termly award given to classes for their actions in the classroom and beyond.
 
 ![Our Core](/images/Our%20Core.jpg)
+
+Our Foundation
+--------------
+
+While a school teaches its pupils how to be part of a community, it has an important role to be one community itself (Dewey, 1900). In West View, we bring about the sense of community through our Values-In-Action Programme, where pupils create awareness, spread influence and call for action among their peers. This way, they become one another’s positive influence where their impact can be felt beyond themselves.
+
+![Our Foundation](/images/Our%20Foundation.jpg)
