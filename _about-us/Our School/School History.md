@@ -6,13 +6,13 @@ third_nav_title: Our School
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sosrvj8AvOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![4.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2020/About%20Us/Our%20School/School%20History/4.jpg "Official Opening")
-
+<img src="/images/School%20History.jpeg"  
+style="width:70%">
   
 
 West View Primary School began functioning on 2 January 1998 to meet the increased demands for places in Bukit Panjang and Chua Chu Kang housing estates, as a result of rapid demographic population shifts. The school was housed in the former Jalan Teck Whye Primary School and Bukit Panjang Malay School buildings with very limited facilities. In December 1999, the school moved to its current premises at 31 Senja Road. Memorable that year was that the pupil population had increased so exponentially that four of its classes had to be located at the school’s second campus at Fajar Secondary School. The pupil population has since stabilised to its current state of 30 classes.  
 
-<img src="![](/images/WVPS.png)"  
+<img src="/images/WVPS.png"  
 style="width:70%">
 
 Significantly in 2015, the school underwent PERI upgrading to enhance its infrastructure and facilities to provide its pupils with a vibrant and conducive learning environment that better supports their holistic development. The new facilities include an Indoor Sports Hall, a covered basketball court, CCA rooms, dance studio and band room, Outdoor Learning Experiential areas, playground and jogging path. With these enhancements, the school started operating in a single-session in 2016 and started its Student Care Centre (SCC) to provide after-school care.  
