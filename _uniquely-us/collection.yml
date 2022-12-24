@@ -2,4 +2,5 @@ collections:
   uniquely-us:
     output: true
     order:
+      - EinSTein.md
       - STRIVE (Modular CCA).md
