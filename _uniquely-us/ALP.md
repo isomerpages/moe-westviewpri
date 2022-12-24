@@ -51,3 +51,5 @@ During the weekly clean-up, the prefects had to remove all the uneaten food left
 Through this project, the prefects not only get to witness the life cycle of the BSF and learn about the impact these flies have on food waste management, but they also got to play a part in the whole cycle of reducing and converting food waste into useful fertilizer (frass) for the plants.  They act as advocates through their act of influencing sound sustainability practices amongst their peers.     
   
 We hope that the hands-on experience would spur the pupils to keep up their efforts in creating a sustainable environment and be aware that they can make a difference, as Eco-stewards of the environment!
+
+![Sustainability Efforts @ WVPS: Black Soldier Fly (BSF) Upcycling Project](/images/Sustainability%20Efforts%20WVPS%20Black%20Soldier%20Fly%20(BSF)%20Upcycling%20Project.jpg)
