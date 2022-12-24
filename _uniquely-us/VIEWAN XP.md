@@ -58,3 +58,28 @@ Pupils visit the Singapore Zoological Gardens, as a shared learning experience t
 They learn how interactions between people and others (animals and environment) can bring about positive or negative impacts. The novel opportunities in the Zoo provide the learning experiences that lead pupils to discover how they can play their part in controlling the spread of diseases carried by animals. They will then present their findings in an information report collaboratively after the learning journey. Pupils gain knowledge on how people play an important role in conservation to ensure continuity of life and availability of resources.
 
 ![PRIMARY 4](/images/PRIMARY%204.jpg)
+
+**PRIMARY 5**
+
+  
+
+Pupils are provided authentic learning experiences to bring about the enduring understanding of water conservation. The learning experiences provide them with world-wise knowledge in understanding Singapore’s water challenges and solutions to achieve water sustainability.
+
+  
+
+Pupils take part in water rationing exercise to understand that clean water is an essential and a basic need for human survival as well as other living things. They learn that water is a limited resource in Singapore and it can be polluted. They realise the importance of water conservation and why it must be treated.
+
+  
+
+In groups, pupils will then design a poster on water conservation and reflect on what some of the ways to conserve water are and the impact on living things if water is not available. They also discover how their actions will impact the environment affecting the quality of the water.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/P5%20VXP_4.jpeg)" alt="PRIMARY 5" style="width:80%;">  
+  
+</body>
