@@ -67,6 +67,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:80%;">  
+<body><img src="![](/images/Pupils%20Brainstorming.jpg)" alt="English for High Progress Learners" style="width:80%;">  
   
 </body>
