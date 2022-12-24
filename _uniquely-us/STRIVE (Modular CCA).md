@@ -56,3 +56,5 @@ Sports
 
 Life Skills / ICT Skills
 ------------------------
+
+![Life Skills / ICT Skills](/images/Life%20Skills%20and%20ICT%20Skills.jpg)
