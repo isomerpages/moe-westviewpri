@@ -11,5 +11,7 @@ The fundamental value in our EinSTein Programme is the belief that we care for o
 
   
 
-Through EinSTein Programme, we strive to develop our pupils to be **E**ngaged, **I**nquisitive and Co**N**fident. Our approach is to **E**xplore individual talents, **I**dentify learning needs and **N**urture the whole child through a **S**tudent-centred and **T**alent-focused programme so that every child has the opportunity to succeed and achieve their personal best.
+Through EinSTein Programme, we strive to develop our pupils to be&nbsp;**E**ngaged,&nbsp;**I**nquisitive and Co**N**fident. Our approach is to&nbsp;**E**xplore individual talents,&nbsp;**I**dentify learning needs and&nbsp;**N**urture the whole child through a&nbsp;**S**tudent-centred and&nbsp;**T**alent-focused programme so that every child has the opportunity to succeed and achieve their personal best.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAh10ww4lv4F2u7sQ-kVPt_yedw0gkdt5RUO_CDCKsnXoJrVYJsKZYXICbz59zKXRA5hDIMDP1Xq4i/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
