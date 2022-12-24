@@ -49,3 +49,8 @@ Through various experiential learning experience, pupils developed social-emotio
 Our EinSTein pupils attended an art workshop where they had to let their creative juices flow to create beautiful postcards. Through their artwork, these pupils aimed to spread the message of inclusion; expressing in ~as~ words promoting inclusiveness written in calligraphy on each postcard. The beautiful backdrop that carries the message was made using alcohol ink. Each postcard board includes a collaborative effort between two pupils.
 
 As a first step in raising awareness of inclusivity, these postcards will be printed and distributed within and shared with other schools.
+
+Student Support Group (SSG)
+---------------------------
+
+Pupils identified for SSG are given customised academic support in their learning through intensive small group intervention after curriculum hours. The support includes providing guidance in their daily homework as well as providing additional remediation sessions to help close learning gaps.
