@@ -46,3 +46,15 @@ Pupils embark on a learning trail where they explored musical instruments - drum
 Through this situated interest, pupils discover that everyone is unique. They realise that they must learn to respect and appreciate their unique characteristics. They also learn more about themselves and what makes them distinct from their friends and how they relate to others.
 
 ![PRIMARY 3](/images/PRIMARY%203.jpg)
+
+**PRIMARY 4**
+
+  
+
+Pupils visit the Singapore Zoological Gardens, as a shared learning experience to learn about the importance of animal conservation. Through this authentic learning, pupils acquire world-wise knowledge on why conservation is not only important for animals but all living things.
+
+  
+
+They learn how interactions between people and others (animals and environment) can bring about positive or negative impacts. The novel opportunities in the Zoo provide the learning experiences that lead pupils to discover how they can play their part in controlling the spread of diseases carried by animals. They will then present their findings in an information report collaboratively after the learning journey. Pupils gain knowledge on how people play an important role in conservation to ensure continuity of life and availability of resources.
+
+![PRIMARY 4](/images/PRIMARY%204.jpg)
