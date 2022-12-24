@@ -13,12 +13,7 @@ description: ""
 
 **Mission:** Provide every child with the opportunity to ACE the Arts - Appreciate the arts, Create to express themselves and Explore to discover and develop their talents
 
-  
-
-[Aesthetics Vision.pdf](https://westviewpri.moe.edu.sg/qql/slot/u539/2020/Uniquely%20Us/LLP%20-%20ACE%20the%20Arts/Aesthetics%20Vision.pdf)  
-
-  
-
+[Aesthetics Vision.pdf](/files/Aesthetics%20Vision.pdf)
   
 
 There are 3 stages in ACE the Arts programme - Exposure, Experience and Excellence.
@@ -36,6 +31,9 @@ The exposure stage provides all pupils with the opportunity to appreciate the 
   
 
 ![LLP-Experience-Excellence.png](https://westviewpri.moe.edu.sg/qql/slot/u539/2020/Uniquely%20Us/LLP%20-%20ACE%20the%20Arts/LLP-Experience-Excellence.png)  
+
+<img src="/images/qr.jpeg"  
+style="width:40%">
 
 The **Experience** Stage
 
