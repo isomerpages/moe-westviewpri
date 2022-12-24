@@ -1,4 +1,5 @@
 collections:
   uniquely-us:
     output: true
-    order: []
+    order:
+      - STRIVE (Modular CCA).md
