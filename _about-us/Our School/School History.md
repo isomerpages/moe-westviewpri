@@ -54,7 +54,7 @@ In line with national imperatives and MOE priorities and focus, the school’s i
 
   
 
-*   In 2018, the school was accorded the [Applied Learning Programme](https://westviewpri.moe.edu.sg/uniquely-us/alp) on environmental science by MOE. Known as **_FRIEND of Earth_**, the programme serves to empower pupils with the knowledge, values and dispositions to make environmentally friendly decisions to promote a more sustainable living for the future. Anchored on the signature programme, VIEWAN XP (Experience) – premised beyond the regular curriculum that is **_V_**alues-based, **_I_**nterest-driven, **_E_**nduring Understanding, **_W_**orld-wise knowledge, **_A_**uthentic learning and **_N_**ovel opportunities. Beyond mastering the subject content, pupils are equipped in the subject discipline with the necessary skills, competencies and dispositions via authentic problem-based learning and real-world issues.
+*   In 2018, the school was accorded the [Applied Learning Programme](https://westviewpri.moe.edu.sg/uniquely-us/alp) on environmental science by MOE. Known as **_FRIEND of Earth_**, the programme serves to empower pupils with the knowledge, values and dispositions to make environmentally friendly decisions to promote a more sustainable living for the future. Anchored on the signature programme, VIEWAN XP (Experience) – premised beyond the regular curriculum that is **V**alues-based, **I**nterest-driven, **E**nduring Understanding, **W**orld-wise knowledge, **A**uthentic learning and **N**ovel opportunities. Beyond mastering the subject content, pupils are equipped in the subject discipline with the necessary skills, competencies and dispositions via authentic problem-based learning and real-world issues.
 
   
 
