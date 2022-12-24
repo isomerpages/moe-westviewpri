@@ -11,7 +11,7 @@ Beyond mastering the subject content, we believe that pupils must be equipped in
 
 ![VIEWAN XP](/images/VIEWAN%20XP.jpg)
 
-**PRIMARY 1**
+**<u>PRIMARY 1</u>**
 
   
 
@@ -19,7 +19,7 @@ Based on the theme, _My school, My friends and I_, Primary 1 pupils are provide
 
 ![PRIMARY 1](/images/PRIMARY%201.jpg)
 
-**PRIMARY 2**
+**<u>PRIMARY 2</u>**
 
   
 
@@ -31,7 +31,7 @@ The authentic learning experiences allow pupils to demonstrate the values of exc
 
 ![PRIMARY 2](/images/PRIMARY%202.jpg)
 
-**PRIMARY 3**
+**<u>PRIMARY 3</u>**
 
   
 
@@ -47,7 +47,7 @@ Through this situated interest, pupils discover that everyone is unique. They re
 
 ![PRIMARY 3](/images/PRIMARY%203.jpg)
 
-**PRIMARY 4**
+**<u>PRIMARY 4</u>**
 
   
 
@@ -59,7 +59,7 @@ They learn how interactions between people and others (animals and environment) 
 
 ![PRIMARY 4](/images/PRIMARY%204.jpg)
 
-**PRIMARY 5**
+**<u>PRIMARY 5</u>**
 
   
 
@@ -86,7 +86,7 @@ img {
 
 ![PRIMARY 5](/images/PRIMARY%205.jpg)
 
-**PRIMARY 6**  
+**<u>PRIMARY 6</u>**  
 
 Primary 6 pupils made use of our school’s learning walls to find out more about the impacts of energy wastage in Singapore. Back in the classrooms, they work together in groups during curriculum to discuss on the importance of energy conservation. At home, they collaborated further by creating a presentation together to advocate the importance of energy conservation.  
 
