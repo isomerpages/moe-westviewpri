@@ -2,5 +2,6 @@ collections:
   uniquely-us:
     output: true
     order:
+      - DA VINCI.md
       - EinSTein.md
       - STRIVE (Modular CCA).md
