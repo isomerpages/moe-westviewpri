@@ -24,3 +24,9 @@ School Philosophy
 
 <img src="![](/images/School%20Philosophy.jpeg)"  
 style="width:40%">
+
+School Motto
+------------
+
+<img src="![](/images/School%20Motto.jpeg)"  
+style="width:40%">
