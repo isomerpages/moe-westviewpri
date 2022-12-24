@@ -22,11 +22,25 @@ Values - ICARE
 School Philosophy
 -----------------
 
-<img src="![](/images/School%20Philosophy.jpeg)"  
+<img src="/images/School%20Philosophy.jpeg"  
 style="width:40%">
 
 School Motto
 ------------
 
-<img src="![](/images/School%20Motto.jpeg)"  
+<img src="/images/School%20Motto.jpeg"  
+style="width:40%">
+
+When we AIM HIGH and work towards our goals, we overcome the challenges we face to reach greater heights.
+
+Learning Dispositions - PRIDE
+-----------------------------
+
+<img src="![](/images/PRIDE.jpeg)"  
+style="width:40%">
+
+School Crest
+------------
+
+<img src="![](/images/School%20Crest%20&%20Song.jpeg)"  
 style="width:40%">
