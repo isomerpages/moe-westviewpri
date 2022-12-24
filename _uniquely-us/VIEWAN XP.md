@@ -85,3 +85,13 @@ img {
 </body>
 
 ![PRIMARY 5](/images/PRIMARY%205.jpg)
+
+**PRIMARY 6**  
+
+Primary 6 pupils made use of our school’s learning walls to find out more about the impacts of energy wastage in Singapore. Back in the classrooms, they work together in groups during curriculum to discuss on the importance of energy conservation. At home, they collaborated further by creating a presentation together to advocate the importance of energy conservation.  
+
+  
+
+ The pupils have really demonstrated what they had learnt from previous years of ICT baseline skills. They were able to collaborate effectively as a class to research on the content of the presentation and as a group to do up a Google Slide presentation. All of them had indeed emerged stronger due to the opportunities by COVID -19 pandemic.
+ 
+ ![PRIMARY 6](/images/PRIMARY%206.jpg)
