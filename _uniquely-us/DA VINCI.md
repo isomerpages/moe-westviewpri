@@ -33,3 +33,5 @@ Supported by the Gifted Education Branch, E2K Mathematics is run by teachers in 
   
 
 Pupils will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help pupils to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+![Mathematics for High Progress Learners](/images/Mathematics%20for%20High%20Progress%20Learners.jpg)
