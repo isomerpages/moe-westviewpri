@@ -50,11 +50,11 @@ In line with national imperatives and MOE priorities and focus, the school’s i
 
   
 
-*   In 2017, **_ACE the Arts_**, another signature programme, was endorsed as its [Learning for Life Programme](https://westviewpri.moe.edu.sg/uniquely-us/llp) by MOE. Through this comprehensive six-year programme, pupils are given ample exposure and experience to appreciate the arts and discover their talents, to develop their character, attitudes and values.
+*   In 2017, **_ACE the Arts_**, another signature programme, was endorsed as its [Learning for Life Programme](/uniquely-us/llp) by MOE. Through this comprehensive six-year programme, pupils are given ample exposure and experience to appreciate the arts and discover their talents, to develop their character, attitudes and values.
 
   
 
-*   In 2018, the school was accorded the [Applied Learning Programme](https://westviewpri.moe.edu.sg/uniquely-us/alp) on environmental science by MOE. Known as **_FRIEND of Earth_**, the programme serves to empower pupils with the knowledge, values and dispositions to make environmentally friendly decisions to promote a more sustainable living for the future. Anchored on the signature programme, VIEWAN XP (Experience) – premised beyond the regular curriculum that is **V**alues-based, **I**nterest-driven, **E**nduring Understanding, **W**orld-wise knowledge, **A**uthentic learning and **N**ovel opportunities. Beyond mastering the subject content, pupils are equipped in the subject discipline with the necessary skills, competencies and dispositions via authentic problem-based learning and real-world issues.
+*   In 2018, the school was accorded the [Applied Learning Programme](/uniquely-us/alp) on environmental science by MOE. Known as **_FRIEND of Earth_**, the programme serves to empower pupils with the knowledge, values and dispositions to make environmentally friendly decisions to promote a more sustainable living for the future. Anchored on the signature programme, VIEWAN XP (Experience) – premised beyond the regular curriculum that is **V**alues-based, **I**nterest-driven, **E**nduring Understanding, **W**orld-wise knowledge, **A**uthentic learning and **N**ovel opportunities. Beyond mastering the subject content, pupils are equipped in the subject discipline with the necessary skills, competencies and dispositions via authentic problem-based learning and real-world issues.
 
   
 
