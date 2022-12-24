@@ -15,3 +15,37 @@ Through EinSTein Programme, we strive to develop our pupils to be&nbsp;**E**ngag
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAh10ww4lv4F2u7sQ-kVPt_yedw0gkdt5RUO_CDCKsnXoJrVYJsKZYXICbz59zKXRA5hDIMDP1Xq4i/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+Academic Support and Intervention Programme
+-------------------------------------------
+
+EinSTein in West View continued to provide additional support to pupils with weak oral and reading
+
+skills in their English language and their respective Mother Tongue languages via the following
+
+intervention programmes:
+
+  
+
+*   English: [LSP, SDR and RRP](/our-curriculum/english-language/enrichment-programmes-n-support)
+*   Mother Tongues: [Mother Tongue Support Programme (MTSP)](/our-curriculum/mother-tongue-languages/enrichment-programmes-n-support)
+
+These programmes aimed to equip these pupils with basic reading and spelling skills so that they can
+
+learn in the regular classes.
+
+For pupils with weak numeracy skills, they are supported by [LSM](/our-curriculum/mathematics/enrichment-programmes-n-support) (P1 and P2) and [ICAN](/our-curriculum/mathematics/enrichment-programmes-n-support) (P3 to P6)
+
+programme.
+
+Experiential Learning
+---------------------
+
+  
+Through various experiential learning experience, pupils developed social-emotional skills such as building confidence, resilience, effective communication and respect. These experiences allow pupils to empathise, persevere in building relationships and trust and be reflective on their learning. It also stretches their willingness to dare and try something new and alleviate their confidence.  
+  
+**Celebrating our little Einstein project**  
+  
+
+Our EinSTein pupils attended an art workshop where they had to let their creative juices flow to create beautiful postcards. Through their artwork, these pupils aimed to spread the message of inclusion; expressing in ~as~ words promoting inclusiveness written in calligraphy on each postcard. The beautiful backdrop that carries the message was made using alcohol ink. Each postcard board includes a collaborative effort between two pupils.
+
+As a first step in raising awareness of inclusivity, these postcards will be printed and distributed within and shared with other schools.
