@@ -53,3 +53,14 @@ Through this project, the prefects not only get to witness the life cycle of the
 We hope that the hands-on experience would spur the pupils to keep up their efforts in creating a sustainable environment and be aware that they can make a difference, as Eco-stewards of the environment!
 
 ![Sustainability Efforts @ WVPS: Black Soldier Fly (BSF) Upcycling Project](/images/Sustainability%20Efforts%20WVPS%20Black%20Soldier%20Fly%20(BSF)%20Upcycling%20Project.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Pupils%20visiting%20the%20learning%20walls%20to%20gather%20information%20on%20BSF%20(Black%20Soldier%20Fly).jpg)" alt="Pupils visiting the learning walls to gather information on BSF (Black Soldier Fly)" style="width:50%;">  
+  
+</body>
