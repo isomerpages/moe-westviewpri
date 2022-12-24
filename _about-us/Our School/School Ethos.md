@@ -36,11 +36,56 @@ When we AIM HIGH and work towards our goals, we overcome the challenges we face 
 Learning Dispositions - PRIDE
 -----------------------------
 
-<img src="![](/images/PRIDE.jpeg)"  
+<img src="/images/PRIDE.jpeg"  
 style="width:40%">
 
 School Crest
 ------------
 
-<img src="![](/images/School%20Crest%20&%20Song.jpeg)"  
+<img src="/images/School%20Crest%20&%20Song.jpeg"  
 style="width:40%">
+
+The school logo depicts three closely growing flowering plants enclosed in a pentagon. The light blue background signifies the purity and innocence of children while the grey signifies the experience and maturity the children will gain while in West View Primary School.
+
+  
+
+The five sides of the pentagon symbolise the continuous development of the children morally, cognitively, physically, socially and aesthetically.
+
+  
+
+The flowering plants forming the letters 'W' and 'V' represent the zest, exuberance and growth that pupils experience while in West View Primary School and the closeness of the plants indicate the friendship and trust among pupils, teachers and the school community.
+
+School Song
+-----------
+
+**<u>Lyrics</u>**  
+West View Primary School where we belong  
+We grow and learn to be strong  
+West View Primary, the school we hold so dear  
+Forward we march to face the future with joy and cheer  
+  
+Aim high we will  
+Strive hard we shall  
+With wisdom we progress  
+Striving to do our best  
+  
+Aim high we will  
+Strive hard we shall  
+With wisdom we progress  
+Striving to do our best  
+  
+Pursue knowledge; cultivate values  
+Build bonds; make friends and grow strong  
+Confident we'll be, at West View Primary  
+To face the future  
+With what you have given me  
+  
+Aim high we will  
+Strive hard we shall  
+With wisdom we progress  
+Striving to do our best  
+  
+Aim high we will  
+Strive hard we shall  
+With wisdom we progress  
+Striving to do our best (x2)
