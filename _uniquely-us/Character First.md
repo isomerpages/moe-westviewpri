@@ -25,3 +25,5 @@ Our Foundation
 While a school teaches its pupils how to be part of a community, it has an important role to be one community itself (Dewey, 1900). In West View, we bring about the sense of community through our Values-In-Action Programme, where pupils create awareness, spread influence and call for action among their peers. This way, they become one another’s positive influence where their impact can be felt beyond themselves.
 
 ![Our Foundation](/images/Our%20Foundation.jpg)
+
+Ultimately, West Viewans take pride in fostering self-directedness and discipline, turning knowledge into positive actions. West Viewans are anchored by core values to become exemplary individuals for themselves, their family and our Singapore.
