@@ -81,3 +81,9 @@ Through robotics and coding, P4 and P5 pupils think critically and explore diffe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x4iZBQALyio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fc93md-tTvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Overseas Immersion Programme**
+
+  
+
+Our P4 and 5 pupils who have shown their commitment in learning and excelled are given the opportunities to experience how lessons on environmental studies are conducted in Perth. These experiences provide our pupils not only the opportunities to witness how pupils in other countries are tackling environmental issues but also to appreciate the diversity across cultures and countries.
