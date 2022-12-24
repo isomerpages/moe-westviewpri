@@ -61,6 +61,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Pupils%20visiting%20the%20learning%20walls%20to%20gather%20information%20on%20BSF%20(Black%20Soldier%20Fly).jpg" alt="Pupils visiting the learning walls to gather information on BSF (Black Soldier Fly)" style="width:50%;">  
+<body><img src="/images/Pupils%20visiting%20the%20learning%20walls%20to%20gather%20information%20on%20BSF%20(Black%20Soldier%20Fly).jpg" alt="Pupils visiting the learning walls to gather information on BSF (Black Soldier Fly)" style="width:80%;">  
   
 </body>
