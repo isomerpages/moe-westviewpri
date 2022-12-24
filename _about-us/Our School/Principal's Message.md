@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/school.jpeg)" alt="Principal's Message" style="width:50%;">  
+<body><img src="/images/school.jpeg" alt="Principal's Message" style="width:50%;">  
   
 </body>
 
@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/DSC08852-2.jpeg)" alt="School Principal" style="width:50%;">  
+<body><img src="/images/DSC08852-2.jpeg" alt="School Principal" style="width:40%;">  
   
 </body>
 
@@ -42,6 +42,5 @@ On behalf of the school, I would like to express my sincere gratitude to the out
 
   
 
-**Mr Eugene Lee**
-
+**Mr Eugene Lee** <br>
 Principal
