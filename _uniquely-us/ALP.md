@@ -37,3 +37,5 @@ will enable them to acquire the necessary knowledge, values and dispositions to 
 Beyond just knowing the facts (head) about Reducing, Reusing and Recycling and on how to save the environment during Science, Reading and Art programmes, pupils learn to cherish the miracle in Mother Nature, appreciate the enduring understanding of how Man impacts the environment and be grateful how Mother Nature provides for and affects us (hearts). Through their actions (hands), pupils play the roles as Facilitators and Diplomats to develop pro-social behaviours and educate others the cause of their actions, such as reducing food waste, food recycling, saving water and electricity as well as vermicomposting. They also use recycled materials to create amazing 3D art work through visual arts.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4ycEg1qaXgrq_eQzN7cY5HTLnlja7mFLiPt6YgjgMJTSRpil3VOXYnY8Zdxs_Fy0hF-sJTLlj93O6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+***VIDEO TO BE EMBEDDED HERE!***
