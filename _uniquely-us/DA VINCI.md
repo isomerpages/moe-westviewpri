@@ -71,5 +71,17 @@ img {
   
 </body>
 
-<p style="text-align:center;">Pupils brainstorming and sharing about the qualities of a good presenter during the BRAIN programme.
-</p>
+<p style="text-align:center;">Pupils brainstorming and sharing about the qualities of a good presenter during the BRAIN programme.</p>
+
+Mother Tongue for High Progress Learners
+----------------------------------------
+
+*   **Mother Tongue Culture Inculcation**
+
+  
+
+We aim to develop in our pupils - a love for the language, and to understand and appreciate our MT cultures. At West View, we strive to engage our pupils in creative and exciting activities to support their desire to learn.
+
+  
+
+**Click [here](/our-curriculum/mother-tongue-languages/enrichment-programmes-n-support) to find out more on the** **Mother Tongue Culture Inculcation Programme!**
