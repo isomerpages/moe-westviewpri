@@ -39,3 +39,15 @@ Beyond just knowing the facts (head) about Reducing, Reusing and Recycling and o
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4ycEg1qaXgrq_eQzN7cY5HTLnlja7mFLiPt6YgjgMJTSRpil3VOXYnY8Zdxs_Fy0hF-sJTLlj93O6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ***VIDEO TO BE EMBEDDED HERE!***
+
+**Sustainability Efforts @ WVPS: Black Soldier Fly (BSF) Upcycling Project**
+
+As part of the school’s initiative towards promoting sustainability, the Environment Corp Prefects, from Primary Four to Primary Six, embarked on an exciting journey with the Black Soldier Fly (BSF) larvae.    
+  
+With the guidance of teachers from the ALP team, the prefects had hands-on experience in taking care and maintaining the BSF larvae.  The BSF larvae were fed with food waste collected from the school canteen daily. It is heartening to see the prefects showing such enthusiasm and dare (to touch the larvae) in caring for the BSF.     
+  
+During the weekly clean-up, the prefects had to remove all the uneaten food left in the bin. We are heartened to see the “twinkle” in their eyes as they sieve for frass. The frass collected was used as a fertilizer for the plants in the school.    
+  
+Through this project, the prefects not only get to witness the life cycle of the BSF and learn about the impact these flies have on food waste management, but they also got to play a part in the whole cycle of reducing and converting food waste into useful fertilizer (frass) for the plants.  They act as advocates through their act of influencing sound sustainability practices amongst their peers.     
+  
+We hope that the hands-on experience would spur the pupils to keep up their efforts in creating a sustainable environment and be aware that they can make a difference, as Eco-stewards of the environment!
