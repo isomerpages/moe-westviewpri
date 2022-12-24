@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/School Hours.md
       - Our School/School Rules.md
       - Our School/.keep
       - Our People/School Management Committee.md
