@@ -50,11 +50,11 @@ Our EinSTein pupils attended an art workshop where they had to let their creativ
 
 As a first step in raising awareness of inclusivity, these postcards will be printed and distributed within and shared with other schools.
 
-<img src="![](/images/EinSTein%201.jpeg)"  
-style="width:70%">
+<img src="/images/EinSTein%201.jpeg"  
+style="width:80%">
 
-<img src="![](/images/EinSTein%202.jpeg)"  
-style="width:70%">
+<img src="/images/EinSTein%202.jpeg"  
+style="width:80%">
 
 Student Support Group (SSG)
 ---------------------------
