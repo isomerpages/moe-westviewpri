@@ -46,7 +46,7 @@ In line with national imperatives and MOE priorities and focus, the school’s i
 
   
 
-*   In 2016, _[STRIVE@WVPS](https://westviewpri.moe.edu.sg/uniquely-us/strive-modular-cca)_ was started as the school’s signature programme to enrich its pupils’ learning beyond the confines of the classrooms and academic subjects. Pupils go through a range of modular activities to arouse their curiosity, developing in them the ability to deal with ambiguity and having the willingness to try their hand at something new.
+*   In 2016, _[STRIVE@WVPS](/uniquely-us/strive-modular-cca)_ was started as the school’s signature programme to enrich its pupils’ learning beyond the confines of the classrooms and academic subjects. Pupils go through a range of modular activities to arouse their curiosity, developing in them the ability to deal with ambiguity and having the willingness to try their hand at something new.
 
   
 
