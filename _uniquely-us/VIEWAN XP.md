@@ -30,3 +30,19 @@ Based on the theme, ‘Caring and Appreciating Nature and Animals’, our pupils
 The authentic learning experiences allow pupils to demonstrate the values of excellence; where they strive to do their best in caring and appreciating the animals found in nature.
 
 ![PRIMARY 2](/images/PRIMARY%202.jpg)
+
+**PRIMARY 3**
+
+  
+
+Pupils explore the theme on accepting self and others through various novel learning opportunities. They discover and learn the different cultures (the four different races) and cultural sensitivity in an authentic setting.
+
+  
+
+Pupils embark on a learning trail where they explored musical instruments - drums, symbols /colours and mannerism across the four different cultural groups.
+
+  
+
+Through this situated interest, pupils discover that everyone is unique. They realise that they must learn to respect and appreciate their unique characteristics. They also learn more about themselves and what makes them distinct from their friends and how they relate to others.
+
+![PRIMARY 3](/images/PRIMARY%203.jpg)
