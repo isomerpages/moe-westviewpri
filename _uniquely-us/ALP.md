@@ -64,3 +64,16 @@ img {
 <body><img src="/images/Pupils%20visiting%20the%20learning%20walls%20to%20gather%20information%20on%20BSF%20(Black%20Soldier%20Fly).jpg" alt="Pupils visiting the learning walls to gather information on BSF (Black Soldier Fly)" style="width:80%;">  
   
 </body>
+
+**Creative Problem Solving**
+
+  
+
+As Innovator and Explorer, pupils discover new ways of doing things in authentic situations through Science, Technology, Engineering and Mathematics disciplines.
+
+  
+
+Through robotics and coding, P4 and P5 pupils think critically and explore different ways to address authentic issues on energy consumption and wastage. They participate in Sembcorp Greenwave Project to apply their knowledge and skills in Science and Technology to put into action their care for the environment.
+
+
+![Creative Problem Solving](/images/Creative%20Problem%20Solving.jpg)
