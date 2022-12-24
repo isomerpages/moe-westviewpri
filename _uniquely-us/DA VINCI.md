@@ -54,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![English for High Progress Learners](/images/Qualities%20Of%20A%20Good%20Speaker.png)" alt="English for High Progress Learners" style="width:80%;">  
+<body><img src="/images/Qualities%20Of%20A%20Good%20Speaker.png" alt="English for High Progress Learners" style="width:60%;">  
   
 </body>
 
@@ -67,6 +67,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pupils%20Brainstorming.jpg)" alt="English for High Progress Learners" style="width:80%;">  
+<body><img src="/images/Pupils%20Brainstorming.jpg" alt="Pupils brainstorming and sharing about the qualities of a good presenter during the BRAIN programme." style="width:90%;">  
   
 </body>
+
+<p style="text-align:center;">Pupils brainstorming and sharing about the qualities of a good presenter during the BRAIN programme.
+</p>
