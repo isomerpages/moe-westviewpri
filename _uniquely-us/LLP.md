@@ -28,11 +28,7 @@ There are 3 stages in ACE the Arts programme - Exposure, Experience and Exce
 
 The exposure stage provides all pupils with the opportunity to appreciate the arts and acquire specific skills and knowledge about the performing arts. Pupils learn through assembly programmes, recess programmes, Music and Art lessons and STRIVE the modular CCA.
 
-  
-
-![LLP-Experience-Excellence.png](https://westviewpri.moe.edu.sg/qql/slot/u539/2020/Uniquely%20Us/LLP%20-%20ACE%20the%20Arts/LLP-Experience-Excellence.png)  
-
-<img src="/images/qr.jpeg"  
+<img src="![](/images/LLP-Experience-Excellence.png)"  
 style="width:40%">
 
 The **Experience** Stage
