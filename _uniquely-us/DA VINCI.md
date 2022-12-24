@@ -38,3 +38,11 @@ Pupils will have opportunities to collaborate with their peers and engage in mat
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IA35ghwVUzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+English for High Progress Learners
+----------------------------------
+
+*   **The BRAIN Programme**
+
+  
+
+The DA VINCI - BRAIN Programme aims to develop the confidence and persuasive skills in high progress learners’ oral communication skills. It also aims to develop in them research, critical thinking skills and the ability to think on their feet when speaking to an audience.
