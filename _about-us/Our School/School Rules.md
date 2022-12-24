@@ -10,12 +10,12 @@ As West Viewans, we must always uphold the good name and reputation of our schoo
 
 We will:
 
-*   Be&nbsp;**Punctual and Prepared**&nbsp;for all school activities.
-*   Be&nbsp;**Neat and Tidy**&nbsp;in appearance and work.
-*   Be&nbsp;**Courteous and Respectful**&nbsp;to one and all.
-*   Be&nbsp;**Responsible**&nbsp;for our words and actions.
-*   Show&nbsp;**Care and Consideration**&nbsp;to all.
-*   Be&nbsp;**Self-Disciplined**&nbsp;at all times.
+*   Be&nbsp;**<u>Punctual and Prepared</u>**&nbsp;for all school activities.
+*   Be&nbsp;**<u>Neat and Tidy</u>**&nbsp;in appearance and work.
+*   Be&nbsp;**<u>Courteous and Respectful</u>**&nbsp;to one and all.
+*   Be&nbsp;**<u>Responsible</u>**&nbsp;for our words and actions.
+*   Show&nbsp;**<u>Care and Consideration</u>**&nbsp;to all.
+*   Be&nbsp;**<u>Self-Disciplined</u>**&nbsp;at all times.
 
 Pupils in Proper Uniform
 ------------------------
@@ -30,7 +30,7 @@ Every child must have a name tag sewn above the school badge.
 Socks &amp; Shoes:
 --------------
 
-Plain white socks, without coloured trimmings, are to be worn with black canvas shoes. Socks worn should be at least 3cm above the shoes.&nbsp;Ankle socks are not allowed.
+Plain white socks, without coloured trimmings, are to be worn with black canvas shoes. Socks worn should be at least 3cm above the shoes.&nbsp;<u>Ankle socks are not allowed</u>.
 
 Acceptable Hairstyles:
 ----------------------
@@ -51,4 +51,4 @@ Girls with short hair should keep their fringe above the eyebrow. The back of th
 
   
 
-Girls with hair touching the collar should tie up their hair with a black rubber band. Girls should only put on ear studs less than 5mm in diameter. No dangling earrings are allowed.&nbsp;No gold earrings and ear studs are allowed.
+Girls with hair touching the collar should tie up their hair with a black rubber band. Girls should only put on ear studs less than 5mm in diameter. <u>No dangling earrings are allowed.&nbsp;No gold earrings and ear studs are allowed.</u>
