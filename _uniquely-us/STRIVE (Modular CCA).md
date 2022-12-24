@@ -17,3 +17,14 @@ img {
 <body><img src="![](/images/STRIVE.png)" alt="STRIVE (Modular CCA)" style="width:50%;">  
   
 </body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CCA%20-%20Modular%20Core.png)" alt="Co-Curricular Activities (CCA)" style="width:50%;">  
+  
+</body>
