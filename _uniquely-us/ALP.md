@@ -23,3 +23,15 @@ It is envisioned that Every West Viewan is a **_FRIEND of Earth_**, whose role 
   
 
 will enable them to acquire the necessary knowledge, values and dispositions to make environmentally friendly decisions and proactively take an active part in bettering lives.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2OuUc5Qsxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### **<u>Key Programmes</u>**
+
+  
+
+**3R Initiatives** 
+
+  
+
+Beyond just knowing the facts (head) about Reducing, Reusing and Recycling and on how to save the environment during Science, Reading and Art programmes, pupils learn to cherish the miracle in Mother Nature, appreciate the enduring understanding of how Man impacts the environment and be grateful how Mother Nature provides for and affects us (hearts). Through their actions (hands), pupils play the roles as Facilitators and Diplomats to develop pro-social behaviours and educate others the cause of their actions, such as reducing food waste, food recycling, saving water and electricity as well as vermicomposting. They also use recycled materials to create amazing 3D art work through visual arts.
