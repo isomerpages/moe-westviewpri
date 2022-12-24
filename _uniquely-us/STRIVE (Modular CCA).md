@@ -50,6 +50,9 @@ Visual & Performing Arts
 Sports
 ------
 
+![Sports](/images/Sports_1.jpg)
+
+![Sports](/images/Sports_2.jpg)
+
 Life Skills / ICT Skills
 ------------------------
-
