@@ -31,8 +31,8 @@ Another milestone is that MOE Kindergarten (MK)@West View will commence its oper
 In line with national imperatives and MOE priorities and focus, the school’s instructional programme has evolved to educate pupils for the future. The school’s operating tagline is _The Future of the World is in My School Today_!
 
   
-
-![historypage.png](https://westviewpri.moe.edu.sg/qql/slot/u539/2020/About%20Us/Our%20School/School%20History/historypage.png "School's Niche")
+<img src="![](/images/historypage.png)"  
+style="width:70%">
 
 *   Since its beginning, Visual Arts and Performing Arts are a major strength of the school. Over the years, the aesthetics programme achieved acclaim and acknowledgement for its quality. It sustained Achievement Award for Aesthetics for the sixth time, before the removal of MOE’s Masterplan of Awards. In 2013, the **_Music Explorations through Brass Band_ Programme** achieved the MOE’s Niche Status for its outstanding performance.
 
