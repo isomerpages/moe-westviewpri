@@ -82,6 +82,15 @@ Mother Tongue for High Progress Learners
 
 We aim to develop in our pupils - a love for the language, and to understand and appreciate our MT cultures. At West View, we strive to engage our pupils in creative and exciting activities to support their desire to learn.
 
-  
-
 **Click [here](/our-curriculum/mother-tongue-languages/enrichment-programmes-n-support) to find out more on the** **Mother Tongue Culture Inculcation Programme!**
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mother%20Tongue%20Culture%20Inculcation.jpg" alt="Mother Tongue Culture Inculcation" style="width:90%;">  
+  
+</body>
