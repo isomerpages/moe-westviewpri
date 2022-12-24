@@ -2,6 +2,7 @@ collections:
   uniquely-us:
     output: true
     order:
+      - Character First.md
       - VIEWAN XP.md
       - DA VINCI.md
       - EinSTein.md
