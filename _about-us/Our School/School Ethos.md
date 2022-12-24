@@ -37,7 +37,7 @@ Learning Dispositions - PRIDE
 -----------------------------
 
 <img src="/images/PRIDE.jpeg"  
-style="width:40%">
+style="width:100%">
 
 School Crest
 ------------
