@@ -21,3 +21,15 @@ Supported by the Gifted Education Branch, E2K Science is run by teachers in scho
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQoepLqrRgFFD9W68q2bZz1dAimKu_cCZA5deMfJk21h1ajmEIjO5Ib5oPQgKmbvbqanszZNeSCINB6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+Mathematics for High Progress Learners
+--------------------------------------
+
+*   **[Excellence 2000 (E2K) Math](http://moe.gov.sg/programmes/high-ability-learners)**
+
+  
+
+Supported by the Gifted Education Branch, E2K Mathematics is run by teachers in schools who have been trained in the E2K pedagogy. The programme engages upper primary pupils in mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
+
+  
+
+Pupils will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help pupils to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
