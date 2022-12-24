@@ -77,3 +77,7 @@ Through robotics and coding, P4 and P5 pupils think critically and explore diffe
 
 
 ![Creative Problem Solving](/images/Creative%20Problem%20Solving.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4iZBQALyio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fc93md-tTvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
