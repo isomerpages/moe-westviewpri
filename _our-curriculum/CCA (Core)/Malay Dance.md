@@ -91,10 +91,12 @@ img {
 }
 </style>
 <body>
-<img src="![](/images/Gemilang%20Tari%20Si%20Cilik%202019.jpg)" alt="Malay Dance" style="width:90%;">
+<img src="/images/Gemilang%20Tari%20Si%20Cilik%202019.jpg" alt="Malay Dance" style="width:90%;">
 	
 </body>
 <br>
+
+<h4 style="color:black" align="center"><u>SYF 2018</u></h4>
 
 <style>
 img {
