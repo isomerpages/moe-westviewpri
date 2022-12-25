@@ -30,8 +30,8 @@ Achievements
 What’s up in our CCA?
 ---------------------
 
-<h3 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
-</h3>
+<h4 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
+</h4>
 
 <p style="text-align:center;">Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.</p>
 
@@ -47,7 +47,7 @@ img {
 </body>
 <br>
 
-<h3 style="color:black" align="center"><u>Demonstrating Perseverance</u></h3>
+<h4 style="color:black" align="center"><u>Demonstrating Perseverance</u></h4>
 
 <p style="text-align:center;">Our pupils strived to create their work in a manner consistent with their artistic vision. Along the way, they had fun and meaningful interactions with one another.</p>
 
@@ -63,7 +63,7 @@ img {
 </body>
 <br>
 
-<h3 style="color:black" align="center"><u>Displaying Reflectiveness at the CHAPTERS 2.0 Exhibition in Greenridge Secondary School</u></h3>
+<h4 style="color:black" align="center"><u>Displaying Reflectiveness at the CHAPTERS 2.0 Exhibition in Greenridge Secondary School</u></h4>
 
 <p style="text-align:center;">The other school’s docents brought our pupils around and explained some of the works. Later, this served as a source of inspiration when they worked on their Kao Biore Eco-Art-themed work.</p>
 
