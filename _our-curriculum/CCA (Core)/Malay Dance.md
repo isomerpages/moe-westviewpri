@@ -106,10 +106,12 @@ img {
 }
 </style>
 <body>
-<img src="![](/images/SYF%202018%20.jpeg)" alt="Malay Dance" style="width:90%;">
+<img src="/images/SYF%202018%20.jpeg" alt="Malay Dance" style="width:90%;">
 	
 </body>
 <br>
+
+<h4 style="color:black" align="center"><u>SYF Arts Extravaganza 2018 at Bukit Panjang Plaza</u></h4>
 
 <style>
 img {
@@ -119,10 +121,12 @@ img {
 }
 </style>
 <body>
-<img src="![](/images/SYF%20Arts%20Extravaganza%202018%20at%20Bukit%20Panjang%20Plaza%20.jpeg)" alt="Malay Dance" style="width:90%;">
+<img src="/images/SYF%20Arts%20Extravaganza%202018%20at%20Bukit%20Panjang%20Plaza%20.jpeg" alt="Malay Dance" style="width:90%;">
 	
 </body>
 <br>
+
+<h4 style="color:black" align="center"><u>Weekly practice sessions</u></h4>
 
 <style>
 img {
@@ -132,10 +136,13 @@ img {
 }
 </style>
 <body>
-<img src="![](/images/Weekly%20practice%20sessions.jpg)" alt="Malay Dance" style="width:90%;">
+<img src="/images/Weekly%20practice%20sessions.jpg" alt="Malay Dance" style="width:90%;">
 	
 </body>
 <br>
+
+CCA Model Pupil
+---------------
 
 <style>
 img {
@@ -145,7 +152,7 @@ img {
 }
 </style>
 <body>
-<img src="![](/images/Malay%20Dance.png)" alt="Malay Dance" style="width:90%;">
+<img src="/images/Malay%20Dance.png" alt="Malay Dance" style="width:90%;">
 	
 </body>
 <br>
