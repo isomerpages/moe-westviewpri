@@ -73,9 +73,10 @@ Achievements
 What's up in our CCA?
 ---------------------
 
-### **SYFgoesOnline 2020**
+<h3 style="color:black" align="center"><u>SYFgoesOnline 2020</u>
+</h3>
 
-Putri Siti Zhulfa Qysha Binte Zulkiffli of Primary 2 Empathy was selected to participate in DanceVerse20. This event provides an opportunity for like-minded pupils to participate in a dance performance from home to showcase their talents. Indeed, the COVID-19 situation has not dampened Qysha’s love for Malay Dance!
+<p style="text-align:center;">Putri Siti Zhulfa Qysha Binte Zulkiffli of Primary 2 Empathy was selected to participate in DanceVerse20. This event provides an opportunity for like-minded pupils to participate in a dance performance from home to showcase their talents. Indeed, the COVID-19 situation has not dampened Qysha’s love for Malay Dance!</p>
 
 <style>
 img {
