@@ -12,10 +12,70 @@ img {
 }
 </style>
 <body>
-<img src="![](/images/WhatsApp%20Image%202022-09-11.jpeg)" alt="Malay Dance" style="width:90%;">
+<img src="/images/WhatsApp%20Image%202022-09-11.jpeg" alt="Malay Dance" style="width:90%;">
 	
 </body>
 <br>
+
+Brief on CCA
+------------
+
+The Malay Dance CCA provides a platform for pupils to learn about Malay Dance, Malay music and Malay culture. Pupils are given opportunities to perform for the community and during school celebration. 
+
+  
+
+Learning together, pupils inculcate the values of perseverance and continue to strive for excellence.
+
+Teachers in-charge
+------------------
+
+Mdm Suriani Abdul Bakri (Overall in-charge) <br>
+Mdm Ng Ling Ling (Second-in-charge) <br>
+Mr Ramesh Ramiya (Advisor) <br>
+Mrs Charmian New (Advisor) <br>
+Mdm Chua Pei Tee Patty
+
+Achievements
+------------
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j1qd{background-color:#223A5E;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-mqfk{background-color:#FFF8E8;color:#042847;text-align:center;vertical-align:middle}
+.tg .tg-qdaf{background-color:#E3EEFF;color:#042847;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-j1qd"><span style="font-weight:bold;color:#FFF;background-color:#223A5E">Year</span></th>
+    <th class="tg-j1qd"><span style="font-weight:bold;color:#FFF;background-color:#223A5E">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mqfk"><span style="color:#042847;background-color:#FFF8E8">2018</span></td>
+    <td class="tg-mqfk"><span style="color:#042847;background-color:#FFF8E8">Singapore Youth Festival Arts Presentation – Certificate of Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qdaf"><span style="color:#042847;background-color:#E3EEFF">2016</span></td>
+    <td class="tg-qdaf"><span style="color:#042847;background-color:#E3EEFF">Singapore Youth Festival Arts Presentation – Certificate of Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mqfk"><span style="color:#042847;background-color:#FFF8E8">2014</span></td>
+    <td class="tg-mqfk"><span style="color:#042847;background-color:#FFF8E8"> Singapore Youth Festival Arts Presentation – Certificate of Participation</span></td>
+  </tr>
+</tbody>
+</table>
+
+What's up in our CCA?
+---------------------
+
+### **SYFgoesOnline 2020**
+
+Putri Siti Zhulfa Qysha Binte Zulkiffli of Primary 2 Empathy was selected to participate in DanceVerse20. This event provides an opportunity for like-minded pupils to participate in a dance performance from home to showcase their talents. Indeed, the COVID-19 situation has not dampened Qysha’s love for Malay Dance!
 
 <style>
 img {
