@@ -42,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Visual%20Arts.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/Visual%20Arts.jpeg" alt="Programme for Active Learning (PAL)" style="width:90%;">  
   
 </body>
 <br>
@@ -59,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/Drama.jpeg" alt="Programme for Active Learning (PAL)" style="width:90%;">  
   
 </body>
 <br>
@@ -71,17 +71,11 @@ Pupils learn through authentic situations in the outdoors such as finding their 
 
 ![Outdoor Education](/images/Outdoor%20Education.jpg)
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/IMG-20190508-WA0025-01.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
   
-</body>
-<br>
+Sports and Games
+-------------------
+
+Pupils have to work together to overcome obstacles in game like scenarios created by the teachers. They also get to design their own games, present their ideas and facilitate the game play.
 
 <style>  
 img {  
@@ -90,7 +84,24 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dance.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/IMG-20190508-WA0025-01.jpeg" alt="Programme for Active Learning (PAL)" style="width:90%;">  
+  
+</body>
+<br>
+
+Dance
+-----
+
+Pupils learn about body movement and expression. They create movements in groups and perform for their classmates.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Dance.jpeg" alt="Programme for Active Learning (PAL)" style="width:90%;">  
   
 </body>
 <br>
