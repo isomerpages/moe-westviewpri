@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA (Core)/Chinese Dance.md
       - CCA (Core)/Malay Dance.md
       - CCA (Core)/Art & Craft Club.md
       - CCA (Core)/Chinese Culture and Language Society.md
