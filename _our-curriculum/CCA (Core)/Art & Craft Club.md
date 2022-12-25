@@ -63,17 +63,9 @@ img {
 </body>
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="![](/images/Displaying%20Reflectiveness%20at%20the%20CHAPTERS%202%20Exhibition%20in%20Greenridge%20Secondary%20School%20.jpeg)" alt="Art & Craft Club" style="width:80%;">  
-  
-</body>
-<br>
+<h3 style="color:black" align="center"><u>Displaying Reflectiveness at the CHAPTERS 2.0 Exhibition in Greenridge Secondary School</u></h3>
+
+<p style="text-align:center;">The other school’s docents brought our pupils around and explained some of the works. Later, this served as a source of inspiration when they worked on their Kao Biore Eco-Art-themed work.</p>
 
 <style>  
 img {  
@@ -82,7 +74,22 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Arts%20and%20Crafts%20Club.png)" alt="Art & Craft Club" style="width:80%;">  
+<body><img src="/images/Displaying%20Reflectiveness%20at%20the%20CHAPTERS%202%20Exhibition%20in%20Greenridge%20Secondary%20School%20.jpeg" alt="Art & Craft Club" style="width:90%;">  
+  
+</body>
+<br>
+
+CCA Model Pupil
+---------------
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Arts%20and%20Crafts%20Club.png" alt="Art & Craft Club" style="width:80%;">  
   
 </body>
 <br>
