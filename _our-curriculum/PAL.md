@@ -25,10 +25,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Music.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/Music.jpeg" alt="Programme for Active Learning (PAL)" style="width:90%;">  
   
 </body>
 <br>
+
+Art
+---
+
+Pupils get to explore various art materials and its physical nature such as batik dye, modelling clay, paint, markers. Pupils are given multiple opportunities to discuss, reflect and exhibit teamwork. Pupils also learn how to appreciate their own and another’s artwork through gallery walks, art discussions and presentations.
 
 <style>  
 img {  
@@ -42,6 +47,11 @@ img {
 </body>
 <br>
 
+Drama
+-----
+
+Drama provides the contexts or the stories for students to explore, discuss and consider their own values and choices in a safe environment. Through the understanding of body language, expressions, emotions and social relationships, pupils work together to rehearse and present their role-play to others.
+
 <style>  
 img {  
   display: block;  
@@ -53,6 +63,13 @@ img {
   
 </body>
 <br>
+
+Outdoor Education
+-----------------
+
+Pupils learn through authentic situations in the outdoors such as finding their way around a garden in a small group. They gain awareness and appreciation of the inter-relationships between humans and the natural environment.
+
+![Outdoor Education](/images/Outdoor%20Education.jpg)
 
 <style>  
 img {  
