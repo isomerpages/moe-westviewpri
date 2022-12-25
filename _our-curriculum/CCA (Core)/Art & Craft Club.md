@@ -33,7 +33,7 @@ What’s up in our CCA?
 <h3 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
 </h3>
 
-Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.
+<p style="text-align:center;">Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.</p>
 
 <style>  
 img {  
@@ -42,12 +42,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Art%20&%20Craft%20Club_1.jpg)" alt="Art & Craft Club" style="width:80%;">  
+<body><img src="/images/Art%20&%20Craft%20Club_1.jpg" alt="Art & Craft Club" style="width:90%;">  
   
 </body>
 <br>
 
-<h3 style="color:black" align="center">LMAOOO</h3>
+<h3 style="color:black" align="center"><u>Demonstrating Perseverance</u></h3>
+
+<p style="text-align:center;">Our pupils strived to create their work in a manner consistent with their artistic vision. Along the way, they had fun and meaningful interactions with one another.</p>
 
 <style>  
 img {  
@@ -56,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Art%20&%20Craft%20Club_2.jpg)" alt="Art & Craft Club" style="width:80%;">  
+<body><img src="/images/Art%20&%20Craft%20Club_2.jpg" alt="Art & Craft Club" style="width:80%;">  
   
 </body>
 <br>
