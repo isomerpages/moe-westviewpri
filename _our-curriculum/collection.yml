@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA (Core)/.keep
       - CCE/.keep
       - CCE/CCE.md
       - CCE/WV as One.md
