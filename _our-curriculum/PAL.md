@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Music.jpeg)" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/Music.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
   
 </body>
 <br>
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Visual%20Arts.jpeg)" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/Visual%20Arts.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
   
 </body>
 <br>
@@ -49,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Drama.jpeg)" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/Drama.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
   
 </body>
 <br>
@@ -61,7 +61,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG-20190508-WA0025-01.jpeg)" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/IMG-20190508-WA0025-01.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
   
 </body>
 <br>
@@ -73,7 +73,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Dance.jpeg)" alt="Programme for Active Learning (PAL)" style="width:80%;">  
+<body><img src="/images/Dance.jpeg" alt="Programme for Active Learning (PAL)" style="width:80%;">  
   
 </body>
 <br>
