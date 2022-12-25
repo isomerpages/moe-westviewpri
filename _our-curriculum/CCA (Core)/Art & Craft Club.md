@@ -30,7 +30,8 @@ Achievements
 What’s up in our CCA?
 ---------------------
 
-### Showing Inquisitiveness at the National Museum of Singapore
+<h3 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
+</h3>
 
 Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.
 
@@ -45,6 +46,8 @@ img {
   
 </body>
 <br>
+
+<h3 style="color:black" align="center">LMAOOO</h3>
 
 <style>  
 img {  
