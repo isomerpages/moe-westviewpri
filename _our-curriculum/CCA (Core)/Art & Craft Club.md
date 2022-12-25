@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Art%20&%20Craft%20Club_2.jpg" alt="Art & Craft Club" style="width:80%;">  
+<body><img src="/images/Art%20&%20Craft%20Club_2.jpg" alt="Art & Craft Club" style="width:90%;">  
   
 </body>
 <br>
