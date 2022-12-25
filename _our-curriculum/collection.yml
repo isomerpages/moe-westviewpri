@@ -2,8 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/.keep
+      - CCE/CCE.md
       - CCE/WV as One.md
       - CCE/We are Leaders.md
-      - CCE/CCE.md
-      - CCE/.keep
       - PAL.md
