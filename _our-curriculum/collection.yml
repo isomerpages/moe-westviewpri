@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA (Core)/Rugby.md
       - CCA (Core)/Floorball.md
       - CCA (Core)/Basketball.md
       - CCA (Core)/Band.md
