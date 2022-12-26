@@ -15,6 +15,32 @@ img {
   
 </body>
 
+Brief of CCA
+------------
+
+The West View Cub Scouts group is the only uniformed group CCA in the school. All our Cub Scouts are taught to do their best in everything, to help others and to keep the Scout Law. In our weekly sessions, our Cub Scouts learn Outdoor Scouting skills and participate in a variety of activities that ensure that our pupils are ready, willing, and able to do what is necessary in any situation that comes along. This is in line with our Scout’ motto of “Be Prepared”. instill sportsmanship and camaraderie. They also participate in outreach to the community.
+
+Teachers-in-Charge
+------------------
+
+Mdm Siti Murni (Overall-in-charge) <br>
+Mr Uresh Kandasamy (Second-in-charge) <br>
+Mr Ramesh Ramiya (Advisor) <br>
+Mr Ang Eng Chuan <br>
+Ms Gurdeep Kaur <br>
+Mrs Samuel Rechal Silviya <br>
+Mdm Zakiah Arip
+
+Achievements
+------------
+
+<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 117px;">2019<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 532px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Frank Cooper Sands Gold Award: Winner</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Silver and Bronze Award for World Scout Day</span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 248, 232); color: rgb(4, 40, 71); width: 83.25pt;">2017<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 248, 232); color: rgb(4, 40, 71); width: 383.25pt;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Frank Cooper Sands Gold Award: Winner</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Silver Award for World Scout Day</span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 83.25pt;">2016<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 383.25pt;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Frank Cooper Sands Gold Award: Winner</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Silver Award for World Scout Day</span></div></td></tr></tbody></table>
+
+What’s up in our CCA?
+---------------------
+
+### Tent Building Activity in 2022
+
 <style>  
 img {  
   display: block;  
