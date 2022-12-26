@@ -50,7 +50,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="![](/images/wayangkulit.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
