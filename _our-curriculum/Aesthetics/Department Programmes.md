@@ -37,3 +37,8 @@ img {
 </body>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/YLggHOU7CmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Recess Programmes
+-----------------
+
+To maximise our pupils’ learning, a variety of experiences are provided for pupils to enjoy based on their interests. Pupils display self-directed learning as they decide on which activities to participate in. Through these experiences, pupils find joy in learning and develop their interest and passion.
