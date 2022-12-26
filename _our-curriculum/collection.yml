@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Aesthetics/.keep
       - CCA (Core)/Scouts.md
       - CCA (Core)/Rugby.md
       - CCA (Core)/Floorball.md
