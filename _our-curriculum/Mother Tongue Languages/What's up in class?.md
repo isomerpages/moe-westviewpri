@@ -39,10 +39,65 @@ We use games and other interesting activities to promote interest and reinforce 
 
 <p style="text-align:center;"><strong><em>Engaging pupils through Experimental Learning</em></strong></p>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+  
+</body>
+
 <p style="text-align:center;"><strong><em>Using games to reinforce learning</em></strong></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+  
+</body>
 
 <p style="text-align:center;"><strong><em>Making the learning of Mother Tongue Fun and Engaging</em></strong></p>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+  
+</body>
+
 <p style="text-align:center;"><strong><em>Learning of Mother Tongue through Role-Play</em></strong></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+  
+</body><br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+  
+</body>
 
 <p style="text-align:center;"><strong><em>Learning of Mother Tongue through Outdoor Learning</em></strong></p>
