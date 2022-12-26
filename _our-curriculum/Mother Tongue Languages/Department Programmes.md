@@ -17,4 +17,3 @@ third_nav_title: Mother Tongue Languages
 <p style="text-align:center;"><strong><em>We love to make the cover pages for our favourite characters from the stories we read!</em></strong></p>
 
 <p style="text-align:center;"><strong><em>Virtual Storytelling Session</em></strong></p>
-
