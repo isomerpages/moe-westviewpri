@@ -110,7 +110,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Acquisition%20of%20key%20content%20and%20skills%20in%20a%20fun%20manner.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Acquisition%20of%20key%20content%20and%20skills%20in%20a%20fun%20manner.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -123,7 +123,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Additional%20resources%20to%20focus%20on%20word%20recognition%20and%20reading%20skills.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Additional%20resources%20to%20focus%20on%20word%20recognition%20and%20reading%20skills.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -136,7 +136,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Fun%20and%20engaging%20activities%20to%20activate%20learning.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Fun%20and%20engaging%20activities%20to%20activate%20learning.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
