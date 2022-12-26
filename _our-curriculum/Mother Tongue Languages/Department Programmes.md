@@ -52,7 +52,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/P3%20Mother%20Tongue%20Cultural%20Camp.jpeg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Pupils%20read%20the%20e-story%20and%20reflect%20on%20their%20learning.jpg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -83,7 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P3%20Mother%20Tongue%20Cultural%20Camp.jpeg)" alt="Department Programmes" style="width:90%;">  
+<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
