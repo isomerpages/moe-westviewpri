@@ -79,7 +79,7 @@ What’s up in our CCA?
 
 ![Band practice sessions](/images/Band%20practice%20sessions.jpg)
 
-<p style="text-align:center;"> <strong>LMAOOO</strong></p>
+<p style="text-align:center;"> <strong>Band practice sessions</strong></p>
 
 <style>  
 img {  
@@ -91,7 +91,7 @@ img {
 <body><img src="/images/20200121_102050.jpeg" alt="Band" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"> <strong>LMAOOO</strong></p>
+<p style="text-align:center;"> <strong>Attracting interest from potential new members during CCA recruitment</strong></p>
 
 
 <style>  
@@ -104,7 +104,7 @@ img {
 <body><img src="/images/IMG_20190312_163450_062.jpeg" alt="Band" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"> <strong>LMAOOO</strong></p>
+<p style="text-align:center;"> <strong>Seniors leading discussion with the juniors during Band Bonding day</strong></p>
 
 
 <style>  
@@ -117,7 +117,7 @@ img {
 <body><img src="/images/IMG_9884.jpeg" alt="Band" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"> <strong>LMAOOO</strong></p>
+<p style="text-align:center;"> <strong>Performing for Star Awards 2019</strong></p>
 
 
 <style>  
@@ -130,7 +130,7 @@ img {
 <body><img src="/images/IMG-20191108-WA0049_auto_x2_colored_toned.jpeg" alt="Band" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"> <strong>LMAOOO</strong></p>
+<p style="text-align:center;"> <strong>After performing at Asia Square, 8 November 2019</strong></p>
 
 
 <style>  
@@ -143,8 +143,10 @@ img {
 <body><img src="/images/IMG-20191108-WA0042_auto_x2_colored_toned.jpeg" alt="Band" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"> <strong>LMAOOO</strong></p>
+<p style="text-align:center;"> <strong>Performing at Asia Square, 8 November 2019</strong></p>
 
+CCA Model Pupil
+---------------
 
 <style>  
 img {  
