@@ -65,7 +65,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Conversational%20Chinese%20&%20Malay.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Conversational%20Chinese%20&%20Malay.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -80,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Promote%20the%20love%20for%20the%20Mother%20Tongue%20Languages.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Promote%20the%20love%20for%20the%20Mother%20Tongue%20Languages.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -93,13 +93,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Learn%20traditions%20&%20cultures%20through%20experience.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
 <p style="text-align:center;"><em><strong>Learn traditions & cultures through experience</strong></em></p>
 
 <p style="text-align:center;"><strong>Mother Tongue Support Programme (MTSP)</strong></p>
+
+_Mother Tongue Support Programme is a customised programme to support the learning of pupils in Mother Tongue Languages in primary 3 and primary 4. The programme focuses on building basic listening and speaking before reading and writing, in an immersive language environment with activities and games to encourage learning. MTSP pupils will receive more Individualised attention and emotional support from our MT teachers. We hope they will experience success to be competent and confident learners of the Mother Tongue Languages._
 
 <style>  
 img {  
