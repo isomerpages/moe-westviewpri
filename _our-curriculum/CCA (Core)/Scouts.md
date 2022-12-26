@@ -50,7 +50,7 @@ img {
 </style>  
 <body><img src="/images/Tent%20Building%20Activity%20in%202022.jpg" alt="Scouts" style="width:80%;">  
   
-</body>
+</body><br>
 
 <style>  
 img {  
@@ -62,6 +62,7 @@ img {
 <body><img src="/images/Mass%20Tin%20Outdoor%20Cooking.jpg" alt="Scouts" style="width:80%;">  
   
 </body>
+<p style="text-align:center;"><strong>Mass Tin Outdoor Cooking</strong></p>
 
 <style>  
 img {  
@@ -73,6 +74,7 @@ img {
 <body><img src="/images/Outdoor%20Nature%20Walk.jpg" alt="Scouts" style="width:80%;">  
   
 </body>
+<p style="text-align:center;"><strong>Outdoor Nature Walk</strong></p>
 
 <style>  
 img {  
