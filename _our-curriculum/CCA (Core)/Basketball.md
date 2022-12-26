@@ -66,3 +66,5 @@ Achievements
 
 What’s up in our CCA?
 ---------------------
+
+![Basketball](/images/Photo%203.jpeg)
