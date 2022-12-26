@@ -70,3 +70,8 @@ What’s up in our CCA?
 ![Basketball](/images/Photo%203.jpeg)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/_PMPen3vv5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+CCA Model Pupil
+---------------
+
+![CCA Model Pupil](/images/Basketball.png)
