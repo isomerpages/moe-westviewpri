@@ -34,3 +34,5 @@ Our Mother Tongue lessons use differentiated instructions and activities to cate
   
 
 We use games and other interesting activities to promote interest and reinforce learning so that our Mother Tongue lessons are fun and engaging.
+
+![Engaging pupils through Experimental Learning](/images/Engaging%20pupils%20through%20Experimental%20Learning.jpeg)
