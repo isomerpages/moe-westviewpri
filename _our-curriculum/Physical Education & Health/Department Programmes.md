@@ -44,16 +44,10 @@ img {
   
 </body>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="![](/images/Fruittie%20Veggie%20Programme.jpg)" alt="Department Programmes" style="width:80%;">  
-  
-</body>
+Fruittie Veggie Programme
+-------------------------
+
+This initiative aims to promote healthy eating habits in our pupils. Reward cards are given to encourage pupils to consume more fruits and vegetables, mineral water and healthy snacks.
 
 <style>  
 img {  
@@ -62,9 +56,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sugar-free%20Mondays%20.jpeg)" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Fruittie%20Veggie%20Programme.jpg" alt="Department Programmes" style="width:80%;">  
   
 </body>
+
+Sugar-free Mondays
+------------------
+
+Sales of sweet drinks and carbonated drinks are not allowed on Mondays in a bid to encourage pupils to consume less sugar and drink water as an alternative.
 
 <style>  
 img {  
@@ -73,9 +72,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Play@Recess%20.jpeg)" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Sugar-free%20Mondays%20.jpeg" alt="Department Programmes" style="width:80%;">  
   
 </body>
+
+Play@Recess
+-----------
+
+Play@recess encourages pupils to engage in unstructured play to promote a healthy lifestyle. Pupils are able to loan out PE equipment to play. Pupils develop their social skills and build friendships as they play together.
 
 <style>  
 img {  
@@ -84,6 +88,22 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mass%20Workout.jpg)" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Play@Recess%20.jpeg" alt="Department Programmes" style="width:80%;">  
+  
+</body>
+
+Mass Workout
+------------
+
+Our Friday mass workout sessions emphasise the importance of active living amongst pupils.Pupils are energised after the workout to start the day right. Pupils discover the fun in learning novel and interesting dance routines too.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mass%20Workout.jpg" alt="Department Programmes" style="width:80%;">  
   
 </body>
