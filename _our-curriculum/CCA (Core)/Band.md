@@ -23,6 +23,8 @@ img {
 </body>
 <br>
 
+![Band practice sessions](/images/Band%20practice%20sessions.jpg)
+
 <style>  
 img {  
   display: block;  
