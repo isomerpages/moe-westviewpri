@@ -65,3 +65,5 @@ Achievements
   </tr>
 </tbody>
 </table>
+
+![Floorball](/images/Floorball.png)
