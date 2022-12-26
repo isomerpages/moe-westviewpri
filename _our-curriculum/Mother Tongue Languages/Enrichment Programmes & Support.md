@@ -30,18 +30,108 @@ img {
 
 <p style="text-align:center;"><em><strong>Cultural Activity - Paper Cutting</strong></em></p>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
+
 <p style="text-align:center;"><em><strong>An introduction to Chinese Calligraphy</strong></em></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
 
 <p style="text-align:center;"><strong>Conversational Chinese & Malay</strong></p>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
+
 <p style="text-align:center;"><strong>Promote the love for the Mother Tongue Languages</strong></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
+
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
 
 <p style="text-align:center;"><em><strong>Learn traditions & cultures through experience</strong></em></p>
 
 <p style="text-align:center;"><strong>Mother Tongue Support Programme (MTSP)</strong></p>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
+
 <p style="text-align:center;"><em><strong>Acquisition of key content and skills in a fun manner</strong></em></p>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
+
 <p style="text-align:center;"><em><strong>Additional resources to focus on word recognition and reading skills</strong></em></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
 
 <p style="text-align:center;"><em><strong>Fun and engaging activities to activate learning</strong></em></p>
