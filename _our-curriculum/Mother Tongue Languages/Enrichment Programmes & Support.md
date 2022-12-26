@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="![](/images/Cultural%20Activity%20-%20Paper%20Cutting.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
