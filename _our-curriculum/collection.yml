@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
+      - CCA (Core)/.keep
+      - CCA (Core)/CCA (Core).md
       - CCA (Core)/Scouts.md
       - CCA (Core)/Rugby.md
       - CCA (Core)/Floorball.md
@@ -12,8 +14,6 @@ collections:
       - CCA (Core)/Malay Dance.md
       - CCA (Core)/Art & Craft Club.md
       - CCA (Core)/Chinese Culture and Language Society.md
-      - CCA (Core)/CCA (Core).md
-      - CCA (Core)/.keep
       - CCE/.keep
       - CCE/CCE.md
       - CCE/WV as One.md
