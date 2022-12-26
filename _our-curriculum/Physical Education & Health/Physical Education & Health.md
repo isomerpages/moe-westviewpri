@@ -17,8 +17,7 @@ To deliver quality and enjoyable PE lessons, anchored with values
   
 
 **Message from HOD Physical Education & Co-Curricular Activities** <br>
-**Mr Tan Leng Khoon**
-
+**Mr Tan Leng Khoon** <br>
 _"I believe that high-quality PE and CCA Programmes enable pupils to develop a wide range of soft skills and values, which is critical to help them achieve success in life. I envisage pupils of West View Primary to be active individuals who adopt healthy lifestyle, passionate in what they pursue and confident in leading others."_  
 
 **Message from SH/ PE & CCA** <br>
