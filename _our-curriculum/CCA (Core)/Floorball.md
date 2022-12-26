@@ -4,16 +4,9 @@ permalink: /our-curriculum/cca-core/floorball/
 description: ""
 third_nav_title: CCA (Core)
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Floorball%20Junior%20Team%202022.jpeg" alt="Floorball" style="width:80%;">  
+<img style="width:80%;" alt="Floorball" src="/images/Floorball%20Junior%20Team%202022.jpeg">  
   
-</body>
+
 <p style="text-align:center;">Floorball Junior Team (2022)
 </p>
 
@@ -26,7 +19,7 @@ Teachers-in-Charge
 ------------------
 
 Mdm Chan Wai Ling (Overall-in-charge) <br>
-Mdm Liu Ying (Second-in-charge)  <br>
+Mdm Liu Ying&nbsp;(Second-in-charge)  <br>
 Mr Ramesh Ramiya (Advisor) <br>
 Ms Diana Low <br>
 Ms Cai Xingyi <br>
@@ -69,6 +62,6 @@ Achievements
 What's up in our CCA?
 ---------------------
 
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJzG9VFKBG1VII2kI9cwIJBxFtSafUG5l9EAIvEd0y1D7hdYLJj5Kl93FLqwwsr-VCPaHwV_-olRgX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ![Floorball](/images/Floorball.png)
