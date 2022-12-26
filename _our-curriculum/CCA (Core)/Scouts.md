@@ -116,6 +116,10 @@ img {
 <body><img src="/images/KGHI6190.jpeg" alt="Scouts" style="width:80%;">  
   
 </body>
+<p style="text-align:center;">Silver and Bronze Medals for both game stations: Recycling Challenge and Bin the Pins</p>
+
+<h3 style="color:black" align="center"><u>Sixers Camp 2019 @ Nanyang Primary School
+</u></h3>
 
 <style>  
 img {  
@@ -127,5 +131,8 @@ img {
 <body><img src="/images/IMG_9973.jpeg" alt="Scouts" style="width:80%;">  
   
 </body>
+
+CCA Model Pupil
+---------------
 
 ![Scouts](/images/Scouts.png)
