@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Mother%20Tongue%20Language%20Fortnight_1.jpeg)" alt="Department Programmes" style="width:90%;">  
   
 </body><br>
 
@@ -28,7 +28,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Mother%20Tongue%20Language%20Fortnight_2.jpeg)" alt="Department Programmes" style="width:90%;">  
   
 </body><br>
 
@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Mother%20Tongue%20Language%20Fortnight_3.jpeg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -59,6 +59,8 @@ img {
 
 <p style="text-align:center;"><strong><u>Mother Tongue Language Reading Programme</u></strong></p> 
 
+The MTL Reading programme aims to expose pupils to different genres of writing and foster a love for reading so as to build a strong foundation in the Mother Tongue Language.
+
 <style>  
 img {  
   display: block;  
@@ -72,6 +74,8 @@ img {
 
 <p style="text-align:center;"><strong><em>Pupils read the e-story and reflect on their learning</em></strong></p>
 
+The programme aims to improve pupils’ Mother Tongue Language competency and confidence level, and to promote appreciation of Mother Tongue culture through various hands-on tasks and engaging activities.
+
 <style>  
 img {  
   display: block;  
@@ -79,7 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/P3%20Mother%20Tongue%20Cultural%20Camp.jpeg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
