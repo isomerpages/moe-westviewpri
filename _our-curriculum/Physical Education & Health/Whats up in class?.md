@@ -65,3 +65,23 @@ Gymnastics
 Gymnastics enhances overall body management and control through creative interpretation of movement and sequence. Working with others and experiencing a sense of cooperative success in managing different gymnastics problems facilitate the development of care, cooperation, responsibility and resilience.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdb3_ad9j5lbyENbu96s5RtJ-0FLIWq3lmt2UPMc0hWjvVncsS5syf1goFB442DpkpyTR3SejN_diT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bd7NxzOTe5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LXgZ-uF6OOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Athletics
+---------
+
+Pupils engage in running, jumping and throwing activities through multiple learning contexts. Through the challenges, pupils learn to be determined, resilient, develop their potential and improve their personal best.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Athletics.jpg)" alt="Athletics" style="width:80%;">  
+  
+</body>
