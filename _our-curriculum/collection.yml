@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA (Core)/Basketball.md
       - CCA (Core)/Band.md
       - CCA (Core)/Chinese Dance.md
       - CCA (Core)/Malay Dance.md
