@@ -78,6 +78,12 @@ img {
 
 <p style="text-align:center;"><strong><em>Learning of Mother Tongue through Role-Play</em></strong></p>
 
+**How an Upper Primary Mother Tongue Lesson Looks Like**
+
+  
+
+Our students learn Mother Tongue through customised and highly engaging learning experiences which help them learn the language better.
+
 <style>  
 img {  
   display: block;  
