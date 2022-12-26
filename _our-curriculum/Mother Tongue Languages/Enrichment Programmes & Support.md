@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cultural%20Activity%20-%20Paper%20Cutting.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Cultural%20Activity%20-%20Paper%20Cutting.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/An%20introduction%20to%20Chinese%20Calligraphy.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/An%20introduction%20to%20Chinese%20Calligraphy.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -50,11 +50,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/wayangkulit.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/wayangkulit.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
 <p style="text-align:center;"><strong>Conversational Chinese & Malay</strong></p>
+
+Singapore is rich in diversity, multilingual and multiracial. As a multicultural country, the more we know about the culture of another Singaporean in another community, the more we can draw ourselves closer. Our pupils will also be able to have some grounding of ASEAN languages so that they can easily pick up the languages should they need them for economic or other reasons in their adult life.
 
 <style>  
 img {  
@@ -63,7 +65,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="![](/images/Conversational%20Chinese%20&%20Malay.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
