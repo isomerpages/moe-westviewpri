@@ -64,4 +64,9 @@ What's up in our CCA?
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJzG9VFKBG1VII2kI9cwIJBxFtSafUG5l9EAIvEd0y1D7hdYLJj5Kl93FLqwwsr-VCPaHwV_-olRgX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_Uwc9U4iVWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+CCA Model Pupil
+---------------
+
 ![Floorball](/images/Floorball.png)
