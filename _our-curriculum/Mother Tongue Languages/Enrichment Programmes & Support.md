@@ -71,6 +71,8 @@ img {
 
 <p style="text-align:center;"><strong>Promote the love for the Mother Tongue Languages</strong></p>
 
+At West View, we strive to stimulate our pupils' interest in learning by creating opportunities for pupils to use Mother Tongue Language. We hope that pupils will not only be able to cultivate self-motivated pursuit of knowledge, they can “learn by doing” and reflect on the experience.
+
 <style>  
 img {  
   display: block;  
@@ -78,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="![](/images/Promote%20the%20love%20for%20the%20Mother%20Tongue%20Languages.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
