@@ -83,7 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Pupils%20share%20their%20reading%20experience.jpg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
