@@ -16,9 +16,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Artistes%20Of%20The%20Month.jpg" alt="Artistes of the month" style="width:80%;">  
+<img style="width:80%;" alt="Artistes of the month" src="/images/Artistes%20Of%20The%20Month.jpg">  
   
-</body>
+
 
 Birthday Celebrations
 ---------------------
@@ -32,13 +32,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Birthday%20Celebrations.jpg" alt="Birthday Celebrations" style="width:80%;">  
+<img style="width:80%;" alt="Birthday Celebrations" src="/images/Birthday%20Celebrations.jpg">  
   
-</body>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YLggHOU7CmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YLggHOU7CmQ" height="315" width="560"></iframe></center>
 
 Recess Programmes
 -----------------
 
 To maximise our pupils’ learning, a variety of experiences are provided for pupils to enjoy based on their interests. Pupils display self-directed learning as they decide on which activities to participate in. Through these experiences, pupils find joy in learning and develop their interest and passion.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqVoQDbhdIqItZId9VzIxF1LGwbqmh9fizVMYIi1ZUQnncX67XVRaMntFxQ8Lg-dZn2iJ8UJfdXMOy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/izg9FJVQwSs" height="315" width="560"></iframe>
