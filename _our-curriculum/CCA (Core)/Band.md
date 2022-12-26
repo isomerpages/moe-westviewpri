@@ -18,7 +18,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Band" style="width:80%;">  
+<body><img src="![](/images/Band%20CCA%202022%201.jpeg)" alt="Band" style="width:80%;">  
   
 </body>
 <br>
