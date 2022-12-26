@@ -37,3 +37,30 @@ Dance
 -----
 
 Pupils express and communicate feelings and ideas through exploration, creation and performance. They develop an understanding of rhythmic movement. Harmony and respect for cultural differences are promoted when pupils engage in the dance.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Dance%20.jpeg" alt="Dance" style="width:80%;">  
+  
+</body>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XNZ57NiTh8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEXWNonS9z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6Wcnfqe8Dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yeTaShgTUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OA4_-soChE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Gymnastics
+----------
+
+Gymnastics enhances overall body management and control through creative interpretation of movement and sequence. Working with others and experiencing a sense of cooperative success in managing different gymnastics problems facilitate the development of care, cooperation, responsibility and resilience.
+
