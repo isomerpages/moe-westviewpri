@@ -39,7 +39,7 @@ Achievements
 What’s up in our CCA?
 ---------------------
 
-### Tent Building Activity in 2022
+<h3 style="color:black" align="center">Tent Building Activity in 2022</h3>
 
 <style>  
 img {  
