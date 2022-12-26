@@ -76,6 +76,9 @@ img {
 </body>
 <p style="text-align:center;"><strong>Outdoor Nature Walk</strong></p>
 
+<h3 style="color:black" align="center"><u>Certified Sixers
+</u></h3>
+
 <style>  
 img {  
   display: block;  
@@ -86,6 +89,7 @@ img {
 <body><img src="/images/First%20Aid%20Lesson%20via%20Zoom.png" alt="Scouts" style="width:80%;">  
   
 </body>
+<p style="text-align:center;"><strong>First Aid lesson via Zoom</strong></p>
 
 <style>  
 img {  
@@ -97,6 +101,10 @@ img {
 <body><img src="/images/First%20Aid%20Badge%20Ready%20to%20help%20others.jpg" alt="Scouts" style="width:80%;">  
   
 </body>
+<p style="text-align:center;"><strong>First Aid Badge: Ready to help others!</strong></p>
+
+<h3 style="color:black" align="center"><u>North Area Word Scout Day @ Bishan Stadium
+</u></h3>
 
 <style>  
 img {  
