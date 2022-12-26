@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+<body><img src="![](/images/Using%20games%20to%20reinforce%20learning.jpg)" alt="Mother Tongue Curriculum" style="width:90%;">  
   
 </body>
 
@@ -59,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+<body><img src="![](/images/Making%20the%20learning%20of%20Mother%20Tongue%20Fun%20and%20Engaging.jpg)" alt="Mother Tongue Curriculum" style="width:90%;">  
   
 </body>
 
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+<body><img src="![](/images/Learning%20of%20Mother%20Tongue%20through%20Role-Play.jpg)" alt="Mother Tongue Curriculum" style="width:90%;">  
   
 </body>
 
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+<body><img src="![](/images/How%20an%20Upper%20Primary%20Mother%20Tongue%20Lesson%20Looks%20Like.jpg)" alt="Mother Tongue Curriculum" style="width:90%;">  
   
 </body><br>
 
@@ -102,7 +102,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Mother Tongue Curriculum" style="width:90%;">  
+<body><img src="![](/images/Learning%20of%20Mother%20Tongue%20through%20Outdoor%20Learning.jpg)" alt="Mother Tongue Curriculum" style="width:90%;">  
   
 </body>
 
