@@ -17,6 +17,17 @@ As the Chinese saying goes “学海无涯“， the sea of learning has no hori
 
 We aim to develop in our pupils - a love for the language, and to understand and appreciate our MT cultures. At West View, we strive to engage our pupils in creative and exciting activities to support their desire to learn.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+  
+</body>
+
 <p style="text-align:center;"><em><strong>Cultural Activity - Paper Cutting</strong></em></p>
 
 <p style="text-align:center;"><em><strong>An introduction to Chinese Calligraphy</strong></em></p>
