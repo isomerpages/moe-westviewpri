@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mother%20Tongue%20Language%20Fortnight_1.jpeg)" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/Mother%20Tongue%20Language%20Fortnight_1.jpeg" alt="Department Programmes" style="width:90%;">  
   
 </body><br>
 
@@ -28,7 +28,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mother%20Tongue%20Language%20Fortnight_2.jpeg)" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/Mother%20Tongue%20Language%20Fortnight_2.jpeg" alt="Department Programmes" style="width:90%;">  
   
 </body><br>
 
@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mother%20Tongue%20Language%20Fortnight_3.jpeg)" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/Mother%20Tongue%20Language%20Fortnight_3.jpeg" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -52,7 +52,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P3%20Mother%20Tongue%20Cultural%20Camp.jpeg)" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/P3%20Mother%20Tongue%20Cultural%20Camp.jpeg" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pupils%20read%20the%20e-story%20and%20reflect%20on%20their%20learning.jpg)" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/Pupils%20read%20the%20e-story%20and%20reflect%20on%20their%20learning.jpg" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -83,7 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pupils%20share%20their%20reading%20experience.jpg)" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/Pupils%20share%20their%20reading%20experience.jpg" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -97,7 +97,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/We%20love%20to%20make%20the%20cover%20pages%20for%20our%20favourite%20characters%20from%20the%20stories%20we%20read.jpg" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -111,7 +111,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/roleplay.jpg" alt="Department Programmes" style="width:90%;">  
   
 </body><br>
 
@@ -122,7 +122,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="/images/Virtual%20Storytelling%20Session.jpg" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
