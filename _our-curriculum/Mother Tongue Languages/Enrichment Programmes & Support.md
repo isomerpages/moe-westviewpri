@@ -29,4 +29,8 @@ We aim to develop in our pupils - a love for the language, and to understand and
 
 <p style="text-align:center;"><strong>Mother Tongue Support Programme (MTSP)</strong></p>
 
-<p style="text-align:center;"><em><strong>LMAOOO</strong></em></p>
+<p style="text-align:center;"><em><strong>Acquisition of key content and skills in a fun manner</strong></em></p>
+
+<p style="text-align:center;"><em><strong>Additional resources to focus on word recognition and reading skills</strong></em></p>
+
+<p style="text-align:center;"><em><strong>Fun and engaging activities to activate learning</strong></em></p>
