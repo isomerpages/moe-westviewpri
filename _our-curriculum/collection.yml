@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Physical Education & Health/.keep
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - "Aesthetics/Music : Whats up in class?.md"
