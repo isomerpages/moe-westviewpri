@@ -16,3 +16,58 @@ West View Primary School uses a variety of platforms to engage and cultivate hea
 *   Mental wellness
 *   Oral health
 *   Smoking prevention
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Health%20Promotion%20Board%20(HPB)%20Roving%20Exhibition.jpg)" alt="Enrichment Programmes & Support" style="width:90%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Step%20Tracker%20Challenge.jpg)" alt="Enrichment Programmes & Support" style="width:90%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Health%20Log.jpg)" alt="Enrichment Programmes & Support" style="width:90%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Active%20Kids%20Programme%20(AKP).jpeg)" alt="Enrichment Programmes & Support" style="width:90%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Learning%20Journeys.jpg)" alt="Enrichment Programmes & Support" style="width:90%;">  
+  
+</body>
