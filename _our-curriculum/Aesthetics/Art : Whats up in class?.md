@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:80%;" alt="Art" src="/images/Art.jpg">  
+<img src="/images/Art.jpg" alt="Art" style="width:80%;">  
   
 
 
@@ -22,12 +22,14 @@ Appreciate
 
 During Art lessons, pupils are engaged in art discussions on various artworks created by students, local artists, as well as international artists. The discussions enable pupils to observe, understand and make meaning of what they see. They learn not only to appreciate the beauty of a completed artistic product, but also the effort and creative process behind it.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7AV0FOs1xM19rzjfv6DF8p4zZirOqM0p-xjzHyEyqlIZ8QrAaW-nxu47cQdLTPRvaFzctr2zUsvx_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7AV0FOs1xM19rzjfv6DF8p4zZirOqM0p-xjzHyEyqlIZ8QrAaW-nxu47cQdLTPRvaFzctr2zUsvx_/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Create
 ------
 
 Inquiry-based techniques are used to instil critical thinking in pupils and encourage them to think out of the box, hence becoming creative creators. Pupils’ masterpieces are often displayed prominently to promote ownership and recognition as pupils derive a sense of accomplishment when they appreciate their completed product.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7dJG0qo2WwyuugisKKt0mj4VKjI91ZfbecrdFqXTFy1fmmdR49rDun5qr1GesQyq-9PNek4y6d1FF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Explore
 -------
