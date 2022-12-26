@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Aesthetics/Enrichment Programmes & Support.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
       - CCA (Core)/.keep
