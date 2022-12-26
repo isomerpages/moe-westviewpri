@@ -136,7 +136,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="![](/images/Fun%20and%20engaging%20activities%20to%20activate%20learning.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
