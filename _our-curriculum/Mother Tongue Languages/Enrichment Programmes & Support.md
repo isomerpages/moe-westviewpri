@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="![](/images/An%20introduction%20to%20Chinese%20Calligraphy.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
