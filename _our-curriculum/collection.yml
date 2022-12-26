@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - "Aesthetics/Music : Whats up in class?.md"
       - "Aesthetics/Art : Whats up in class?.md"
       - Aesthetics/Department Programmes.md
       - Aesthetics/Enrichment Programmes & Support.md
