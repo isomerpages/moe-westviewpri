@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
       - CCA (Core)/.keep
       - CCA (Core)/CCA (Core).md
