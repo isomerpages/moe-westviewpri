@@ -21,7 +21,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Engage.jpg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Explore.jpg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Explain.jpg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Elaborate.jpg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
 
@@ -73,6 +73,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+<body><img src="![](/images/Evaluate.jpg)" alt="Department Programmes" style="width:90%;">  
   
 </body>
