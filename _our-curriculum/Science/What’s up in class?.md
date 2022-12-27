@@ -25,6 +25,17 @@ Through I & E activities during science lessons, teachers actively engage the pu
 
 I & E activities seek to enhance the learning experiences for pupils. Rather than memorising facts, pupils are given opportunities to explore the concepts collaboratively. This will bring about curiosity among the pupils. Eventually, we hope our pupils will develop a passion for Science through this investigative and explorative approach.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Activities" style="width:80%;">  
+  
+</body>
+
 <p style="color:blue" align="left"><u>Science Maniac Quiz</u></p>
   
 
