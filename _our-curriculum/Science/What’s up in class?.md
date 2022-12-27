@@ -32,7 +32,23 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Investigate and Explore (I & E) Activities" style="width:80%;">  
+<body><img src="![](/images/Investigate%20and%20Explore%20(I%20&%20E)%20Activities.jpg)" alt="Investigate and Explore (I & E) Activities" style="width:80%;">  
+  
+</body>
+
+<p style="color:blue" align="left"><u>Explicit teaching of scientific process skills</u></p>
+  
+
+Scientific process skills are critical for pupils to investigate and explore scientific concepts further. As such, opportunities are provided for pupils to use scientific concepts and integrate skills and processes to inquire about the things around them. Explicit teaching of process skills are conducted termly with progression of skills as pupils advance through the different levels. Hence, these level-appropriate skills packages are designed to customise to the needs of the pupils based on their readiness.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Explicit%20teaching%20of%20scientific%20process%20skills.jpg)" alt="Explicit teaching of scientific process skills" style="width:80%;">  
   
 </body>
 
