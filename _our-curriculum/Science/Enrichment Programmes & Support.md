@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Primary%204%20Heat%20&%20Temperature.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Primary%204%20Heat%20&%20Temperature.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Primary%205%20Diversity%20of%20Cells.jpg)" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Primary%205%20Diversity%20of%20Cells.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
@@ -57,11 +57,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Enrichment Programmes & Support" style="width:85%;">  
+<body><img src="/images/Primary%206%20Adaptations%20of%20Plants%20and%20Animals.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
 </body>
 
-**Excellence 2000 (E2K) Science Programme**
+**<u>Excellence 2000 (E2K) Science Programme</u>**
 
   
 
