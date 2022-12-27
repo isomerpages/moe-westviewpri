@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science/Enrichment Programmes & Support.md
       - Science/Science.md
       - Science/.keep
       - Mother Tongue Languages/.keep
