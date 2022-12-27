@@ -32,7 +32,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Activities" style="width:80%;">  
+<body><img src="LMAOOO" alt="Investigate and Explore (I & E) Activities" style="width:80%;">  
   
 </body>
 
@@ -41,10 +41,32 @@ img {
 
 Science Maniac Quiz (multiple-choice questions) is conducted for every topic as a form of formative assessment. This provides teachers with timely feedback of pupils’ understanding on the concepts taught during their science lessons. This also allows pupils to self-assess their performance for the topic taught in that week and be reflective learners.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Science Maniac Quiz" style="width:80%;">  
+  
+</body>
+
 <p style="color:blue" align="left"><u>Questioning</u></p>
   
 
 As facilitators in the classroom, teachers adopt various questioning techniques to invoke the spirit of curiosity among the pupils. Opportunities are also provided during Science lessons for pupils to ask questions. Through this two-way communication and questioning between teachers and pupils, it allows teachers to gather information on the pupils’ ‘frame of mind’ and the quality of their understanding.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Questioning" style="width:80%;">  
+  
+</body>
 
 <p style="color:blue" align="left"><u>Answering strategies</u></p>
   
@@ -60,3 +82,47 @@ The answering strategies are progressive in nature and are in tandem with the ex
   
 
 <table border="0" class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Multiple-choice questions (MCQ)</b>:<span>&nbsp;</span><font color="#9900FF" style="margin: 0px; outline: 0px; padding: 0px;">KEY</font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Open-ended (OE) questions</b>:<span>&nbsp;</span><font color="#CC0000" style="margin: 0px; outline: 0px; padding: 0px;">KISS</font></font></div></td></tr></tbody></table>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+  
+</body><br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+  
+</body><br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+  
+</body><br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+  
+</body><br>
