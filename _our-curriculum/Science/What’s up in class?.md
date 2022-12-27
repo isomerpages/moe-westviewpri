@@ -64,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Science Maniac Quiz" style="width:80%;">  
+<body><img src="![](/images/Science%20Maniac%20Quiz.jpg)" alt="Science Maniac Quiz" style="width:80%;">  
   
 </body>
 
@@ -80,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Questioning" style="width:80%;">  
+<body><img src="![](/images/Questioning.jpg)" alt="Questioning" style="width:80%;">  
   
 </body>
 
@@ -106,7 +106,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+<body><img src="![](/images/Answering%20strategies.jpg)" alt="Answering strategies" style="width:80%;">  
   
 </body><br>
 
@@ -117,7 +117,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+<body><img src="![](/images/Answering%20strategies_2.jpg)" alt="Answering strategies" style="width:80%;">  
   
 </body><br>
 
@@ -128,7 +128,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+<body><img src="![](/images/Picture%206.jpeg)" alt="Answering strategies" style="width:80%;">  
   
 </body><br>
 
@@ -139,6 +139,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Answering strategies" style="width:80%;">  
+<body><img src="![](/images/Picture%207.jpeg)" alt="Answering strategies" style="width:80%;">  
   
 </body><br>
