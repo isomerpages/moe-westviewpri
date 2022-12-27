@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science/Department Programmes.md
       - Science/Enrichment Programmes & Support.md
       - Science/Science.md
       - Science/.keep
