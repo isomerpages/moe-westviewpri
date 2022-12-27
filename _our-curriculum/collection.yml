@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science/What’s up in class?.md
       - Science/Department Programmes.md
       - Science/Enrichment Programmes & Support.md
       - Science/Science.md
