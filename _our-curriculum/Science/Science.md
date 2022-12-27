@@ -41,3 +41,19 @@ _When pupils are curious and question about the things around them, they learn t
   
 
 The spirit of scientific inquiry is established on the following integral domains- (1) Knowledge, Understanding and Application, (2) Skills & (3) Processes and (4) Ethics and Attitudes. Our programmes are carefully designed for deep learning to take place amongst the pupils. Pupils are better able to relate and make connections to their social, personal and naturalistic environment, making learning more meaningful.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Scientific%20Inquiry%20@%20WVPS.jpeg" alt="Science Curriclum" style="width:90%;">  
+  
+</body>
+
+By the end of Primary 6 at WVPS, pupils should be able to: ·
+
+*   use basic scientific terms and concepts to help them understand themselves and the world around them
+*   develop skills, habits of mind and attitudes necessary for scientific inquiry
