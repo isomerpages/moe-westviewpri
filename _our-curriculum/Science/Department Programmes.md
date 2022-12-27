@@ -14,10 +14,65 @@ In West View Primary School, teachers are the leaders of inquiry in Science lear
 
 **_Engage_** – Pupils use their prior knowledge to learn new science concepts or extend their own learning through engaging activities that promote curiosity.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+  
+</body>
+
 **_Explore_** – Pupils deepen their understanding of the scientific concepts through hands-on activities or by doing experiments.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+  
+</body>
 
 **_Explain_** – Pupils attempt to explain what they have experienced and teachers support pupils in making connections to the various concepts for deeper understanding.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+  
+</body>
+
 **_Elaborate_** – Pupils apply their knowledge to the real-world context for a more practical and broader understanding of Science.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+  
+</body>
+
 **_Evaluate_** – Pupils consolidate and assess their learning through the various strategies like concept mapping and other formative or summative assessment tools.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Department Programmes" style="width:90%;">  
+  
+</body>
