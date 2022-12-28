@@ -24,13 +24,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Learning%20Support%20Programme%20(LSP).jpg)" alt="Learning Support Programme (LSP)" style="width:90%;">  
+<body><img src="/images/Learning%20Support%20Programme%20(LSP).jpg" alt="Learning Support Programme (LSP)" style="width:99%;">  
   
 </body>
 
 **School-based Dyslexia Remediation (SDR)**
-
-  
 
 MOE's SDR programme is a two-year intervention programme for Primary 3 and 4 pupils. These pupils are identified for support through a systematic screening process for dyslexia conducted at the end of Primary 2.
 
@@ -49,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="English" style="width:90%;">  
+<body><img src="![](/images/School-based%20Dyslexia%20Remediation%20(SDR).jpg)" alt="School-based Dyslexia Remediation (SDR)" style="width:90%;">  
   
 </body>
 
@@ -87,6 +85,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="English" style="width:90%;">  
+<body><img src="![](/images/Englishlast.jpg)" alt="English" style="width:90%;">  
   
 </body>
