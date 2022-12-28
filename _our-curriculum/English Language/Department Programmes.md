@@ -90,6 +90,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/14.jpeg)" alt="English Department Programmes" style="width:80%;">  
+<body><img src="/images/14.jpeg" alt="English Department Programmes" style="width:80%;">  
   
 </body>
+<p style="text-align:center;"><em>Primary 5 pupils researching online to educate their juniors on the importance of water conservation</em></p>
