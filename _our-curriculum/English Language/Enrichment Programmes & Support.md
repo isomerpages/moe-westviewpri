@@ -9,11 +9,7 @@ Education Minister Ong Ye Kung mandated, “Lift the bottom, not cap the top”.
 
 ##### **Literacy Support Programmes**
 
-  
-
 **Learning Support Programme (LSP)**
-
-  
 
 Through specialised early intervention programmes, learning support is provided for Primary 1 and Primary 2 pupils who need targeted help with the English Language. These pupils are selected through careful screening. The programme focuses on building English language skills that pupils used to decode and be more confident users of the language.  
 
@@ -28,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="English" style="width:90%;">  
+<body><img src="![](/images/Learning%20Support%20Programme%20(LSP).jpg)" alt="Learning Support Programme (LSP)" style="width:90%;">  
   
 </body>
 
