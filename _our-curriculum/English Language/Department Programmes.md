@@ -45,3 +45,15 @@ Our Primary 1 and 2 pupils participate in the Speech and Drama Enrichment Progra
 
 **Primary 2**
 ![Lower primary pupils building their oracy skills through Speech and Drama](/images/P2%20speech%20and%20drama.jpeg)
+<p style="text-align:center;"><em>LMAOO</em></p>
+
+**Primary 3 Public Speaking Programme**
+
+Building on the speaking skills the pupils have learnt in Primary 1 and 2, the Primary 3 pupils will go on to be equipped with skills that would enable them to be an effective communicator. Through many speaking activities, our pupils develop and hone their skills in vocal expression and engaging the audience orally with the aid of ICT tools.
+
+![Primary 3 Public Speaking Programme](/images/P3%20public%20speaking%202.jpeg)
+<p style="text-align:center;"><em>LMAOO</em></p>
+
+**Primary 4 Public Speaking Programme**
+
+Equipped with public speaking skills, the Primary 4 pupils are challenged to learn how to present themselves like a newscaster. They are exposed to different events happening around the world throughout the sessions. Through the various collaborative activities, they keep themselves abreast of the current affairs and learn about having clear pronunciation and diction during presentation.
