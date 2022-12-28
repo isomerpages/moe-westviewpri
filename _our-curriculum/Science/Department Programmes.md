@@ -4,7 +4,7 @@ permalink: /our-curriculum/science/department-programmes/
 description: ""
 third_nav_title: Science
 ---
-<p style="color:blue" align="left"><u>Inquiry-based Learning of Science at WVPS</u></p>
+<p style="color:blue" align="left"><strong><u>Inquiry-based Learning of Science at WVPS</u></strong></p>
 
 The Science curriculum seeks to nurture a child as an inquirer. The main goal is for pupils to enjoy Science and value Science as an important tool in helping them explore their natural and physical world.
 
