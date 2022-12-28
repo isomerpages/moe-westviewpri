@@ -31,3 +31,17 @@ img {
   
 </body>
 <p style="text-align:center;"><em>LMAOO</em></p>
+
+##### **Speaking Programmes**
+
+**Primary 1 and 2 Speech and Drama**
+
+Our Primary 1 and 2 pupils participate in the Speech and Drama Enrichment Programme. Through the enriching experience of learning to dramatise a story and putting together a performance for an audience, our pupils develop proficiencies in vocal expression, and spatial awareness and stage presence.
+
+  
+
+**Primary 1**
+![Primary 1 and 2 Speech and Drama](/images/P1%20Speech%20and%20drama%20(use%20this).jpeg)
+
+**Primary 2**
+![Lower primary pupils building their oracy skills through Speech and Drama](/images/P2%20speech%20and%20drama.jpeg)
