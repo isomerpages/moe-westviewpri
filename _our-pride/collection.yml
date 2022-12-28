@@ -1,4 +1,5 @@
 collections:
   our-pride:
     output: true
-    order: []
+    order:
+      - 我们心中的故事.md
