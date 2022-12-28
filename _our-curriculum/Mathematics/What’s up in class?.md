@@ -60,5 +60,15 @@ Concrete, Pictorial, Abstract (CPA) is a highly effective approach adopted by ou
 <p style="text-align:center;"><strong><em>“It is better to solve 1 problem five different ways, than to solve 5 problems one way” – George Polya
 </em></strong></p>
 
+![Concrete-Pictorial-Abstract (C-P-A) Approach](/images/cpa1.jpg)
+
+![Concrete-Pictorial-Abstract (C-P-A) Approach](/images/cpa2.jpg)
+
+**Spatial Visual Programme (SVP)**
+
+  
+
+Spatial visualization, also called spatial intelligence, is a measure of the ability to look at a two-dimensional figure and visualize what it would look like expanded into three dimensions. It allows children to visualise and manipulate objects and shapes in their head. This skill can be nurtured and developed in children as young as the age of 9 years old. Just like one never forgets to cycle or hop, spatial skills once developed it remains with the person for life. Beside equipping our pupils with the spatial skills, the programme also aims to build their confidence and developing their metacognition.
+
 <p style="text-align:center;"><strong><em>“Be brave enough to start a conversation that COUNTS”
 </em></strong></p>
