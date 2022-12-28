@@ -34,9 +34,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic.jpeg" alt="MATHEMATICS" style="width:95%;">  
+<img style="width:95%;" alt="MATHEMATICS" src="/images/pic.jpeg">  
   
-</body>
+
 
 **Factual Fluency**
 
@@ -48,6 +48,14 @@ Various modes were used to conduct Factual Fluency. One example is the use of te
 
 <p style="text-align:center;"><strong><em>“Mathematics is not about numbers, equations, computations, or algorithms: it is about UNDERSTANDING” – William Paul Thurston
 </em></strong></p>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWd-6ykqHmgp3m6hPQwg-FbcN1Zp1qweGwew7fX6trtjGSbavNU-5-8U_nMCkMKwk5JqGNEx8XJ5lW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**Concrete-Pictorial-Abstract (C-P-A) Approach**
+
+  
+
+Concrete, Pictorial, Abstract (CPA) is a highly effective approach adopted by our Mathematics department in the teaching and learning of mathematics. This approach aims to develop a deep and sustainable understanding of maths in pupils. It builds on the pupil’s existing knowledge by introducing abstract concepts in a concrete and tangible way. It involves moving from concrete materials, to pictorial representations, to abstract symbols and problems.
 
 <p style="text-align:center;"><strong><em>“It is better to solve 1 problem five different ways, than to solve 5 problems one way” – George Polya
 </em></strong></p>
