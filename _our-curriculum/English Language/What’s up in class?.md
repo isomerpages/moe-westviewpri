@@ -77,10 +77,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/Pre-writing%20activity%20Group%20work%20and%20hot%20seat%20activity%20to%20generate%20ideas%20for%20writing.jpg)" alt="Pre-writing activity: Group work and hot seat activity to generate ideas for writing" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><em>LMAOOO</em></p>
+<p style="text-align:center;"><em>Pre-writing activity: Group work and hot seat activity to generate ideas for writing</em></p>
 
 <style>  
 img {  
@@ -89,10 +89,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/Pupils%20learning%20new%20words%20through%20activities%20and%20games.jpeg)" alt="Pupils learning new words through activities and games, thus enabling them to expand their vocabulary." style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><em>LMAOOO</em></p>
+<p style="text-align:center;"><em>Pupils learning new words through activities and games, thus enabling them to expand their vocabulary.</em></p>
 
 <style>  
 img {  
@@ -101,10 +101,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/Pupils%20learning%20collaboratively%20through%20learning%20centre%20activities.jpeg)" alt="Pupils learning collaboratively through learning centre activities" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><em>LMAOOO</em></p>
+<p style="text-align:center;"><em>Pupils learning collaboratively through learning centre activities</em></p>
 
 <style>  
 img {  
