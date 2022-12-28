@@ -2,4 +2,5 @@ collections:
   our-pride:
     output: true
     order:
+      - WOW! Publication.md
       - 我们心中的故事.md
