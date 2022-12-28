@@ -41,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/The%20librarian%20giving%20a%20tour%20of%20the%20school%20library%20to%20the%20Primary%201%20pupils%20.png)" alt="The librarian giving a tour of the school library to the Primary 1 pupils" style="width:80%;">  
+<body><img src="/images/The%20librarian%20giving%20a%20tour%20of%20the%20school%20library%20to%20the%20Primary%201%20pupils%20.png" alt="The librarian giving a tour of the school library to the Primary 1 pupils" style="width:80%;">  
   
 </body>
 <p style="text-align:center;"><em>The librarian giving a tour of the school library to the Primary 1 pupils</em></p>
@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cultivating%20the%20habit%20of%20reading%20with%20SMM%20in%20place%20.png)" alt="Cultivating the habit of reading with SMM in place" style="width:80%;">  
+<body><img src="/images/Cultivating%20the%20habit%20of%20reading%20with%20SMM%20in%20place%20.png" alt="Cultivating the habit of reading with SMM in place" style="width:80%;">  
   
 </body>
 <p style="text-align:center;"><em>Cultivating the habit of reading with SMM in place</em></p>
@@ -65,7 +65,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Lower%20Primary%20pupils%20presenting%20during%20a%20shared%20experience.jpg)" alt="Lower Primary pupils presenting during a shared experience" style="width:80%;">  
+<body><img src="/images/Lower%20Primary%20pupils%20presenting%20during%20a%20shared%20experience.jpg" alt="Lower Primary pupils presenting during a shared experience" style="width:80%;">  
   
 </body>
 <p style="text-align:center;"><em>Lower Primary pupils presenting during a shared experience</em></p>
@@ -77,7 +77,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pre-writing%20activity%20Group%20work%20and%20hot%20seat%20activity%20to%20generate%20ideas%20for%20writing.jpg)" alt="Pre-writing activity: Group work and hot seat activity to generate ideas for writing" style="width:80%;">  
+<body><img src="/images/Pre-writing%20activity%20Group%20work%20and%20hot%20seat%20activity%20to%20generate%20ideas%20for%20writing.jpg" alt="Pre-writing activity: Group work and hot seat activity to generate ideas for writing" style="width:80%;">  
   
 </body>
 <p style="text-align:center;"><em>Pre-writing activity: Group work and hot seat activity to generate ideas for writing</em></p>
@@ -89,7 +89,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pupils%20learning%20new%20words%20through%20activities%20and%20games.jpeg)" alt="Pupils learning new words through activities and games, thus enabling them to expand their vocabulary." style="width:80%;">  
+<body><img src="/images/Pupils%20learning%20new%20words%20through%20activities%20and%20games.jpeg" alt="Pupils learning new words through activities and games, thus enabling them to expand their vocabulary." style="width:80%;">  
   
 </body>
 <p style="text-align:center;"><em>Pupils learning new words through activities and games, thus enabling them to expand their vocabulary.</em></p>
@@ -101,7 +101,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pupils%20learning%20collaboratively%20through%20learning%20centre%20activities.jpeg)" alt="Pupils learning collaboratively through learning centre activities" style="width:80%;">  
+<body><img src="/images/Pupils%20learning%20collaboratively%20through%20learning%20centre%20activities.jpeg" alt="Pupils learning collaboratively through learning centre activities" style="width:80%;">  
   
 </body>
 <p style="text-align:center;"><em>Pupils learning collaboratively through learning centre activities</em></p>
@@ -120,7 +120,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pupils%20being%20accustomed%20to%20the%20routine%20and%20being%20participative%20in%20class.jpg)" alt="Pupils being accustomed to the routine and being participative in class" style="width:80%;">  
+<body><img src="/images/Pupils%20being%20accustomed%20to%20the%20routine%20and%20being%20participative%20in%20class.jpg" alt="Pupils being accustomed to the routine and being participative in class" style="width:90%;">  
   
 </body>
 <p style="text-align:center;"><strong>Pupils being accustomed to the routine and being participative in class</strong></p>
@@ -136,7 +136,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Pupils%20are%20given%20graded%20books%20to%20read.jpg)" alt="Pupils are given graded books to read before they proceed to do the tasks in their activity booklets. This helps to improve their vocabulary and comprehension skills" style="width:80%;">  
+<body><img src="/images/Pupils%20are%20given%20graded%20books%20to%20read.jpg" alt="Pupils are given graded books to read before they proceed to do the tasks in their activity booklets. This helps to improve their vocabulary and comprehension skills" style="width:90%;">  
   
 </body>
 <p style="text-align:center;"><strong>Pupils are given graded books to read before they proceed to do the tasks in their activity booklets. This helps to improve their vocabulary and comprehension skills</strong></p>
