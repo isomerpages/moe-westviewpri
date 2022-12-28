@@ -2,5 +2,6 @@ collections:
   academics:
     output: true
     order:
+      - 2018.md
       - 2017.md
       - 2016.md
