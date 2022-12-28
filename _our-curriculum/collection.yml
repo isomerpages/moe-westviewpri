@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - English/.keep
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/What’s up in class?.md
