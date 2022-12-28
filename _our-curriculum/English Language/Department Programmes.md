@@ -27,6 +27,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P5%20Literature%20Programme.png)" alt="Primary 5 Literature Programme" style="width:80%;">  
+<body><img src="/images/P5%20Literature%20Programme.png" alt="Primary 5 Literature Programme" style="width:80%;">  
   
 </body>
