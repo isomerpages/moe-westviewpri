@@ -57,3 +57,10 @@ Building on the speaking skills the pupils have learnt in Primary 1 and 2, the P
 **Primary 4 Public Speaking Programme**
 
 Equipped with public speaking skills, the Primary 4 pupils are challenged to learn how to present themselves like a newscaster. They are exposed to different events happening around the world throughout the sessions. Through the various collaborative activities, they keep themselves abreast of the current affairs and learn about having clear pronunciation and diction during presentation.
+
+![Primary 4 pupils applying the techniques/communication skills learnt and presenting their news articles in front of an audience](/images/P4%20public%20speaking.jpeg)
+<p style="text-align:center;"><em>LMAOO</em></p>
+
+**Primary 5 Persuasive Speaking Programme**
+
+After going through different experiences that teach and strengthen the fundamentals of speaking, our Primary 5 pupils will learn the art of persuasive speaking. Through this programme, they will learn the importance of the impact of words and coupled with the correct delivery, they convey different purpose, meaning and emotions. From this experience, pupils learn not only to be effective but also convincing speakers.
