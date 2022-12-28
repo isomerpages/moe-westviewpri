@@ -120,10 +120,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/Pupils%20being%20accustomed%20to%20the%20routine%20and%20being%20participative%20in%20class.jpg)" alt="Pupils being accustomed to the routine and being participative in class" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><strong>LMAOOO</strong></p>
+<p style="text-align:center;"><strong>Pupils being accustomed to the routine and being participative in class</strong></p>
+
+**<u>READ Programme</u>**  
+  
+Our Lower Primary pupils are given graded books to read during READ periods. This differentiation in reading instruction supports the individual needs of the pupils where they have access to a variety of graded books. They also get a chance to read to their peers and teachers which gives them opportunities to practise their literacy skills.
 
 <style>  
 img {  
@@ -132,7 +136,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/Pupils%20are%20given%20graded%20books%20to%20read.jpg)" alt="Pupils are given graded books to read before they proceed to do the tasks in their activity booklets. This helps to improve their vocabulary and comprehension skills" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><strong>LMAOOO</strong></p>
+<p style="text-align:center;"><strong>Pupils are given graded books to read before they proceed to do the tasks in their activity booklets. This helps to improve their vocabulary and comprehension skills</strong></p>
