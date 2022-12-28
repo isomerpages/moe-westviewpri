@@ -106,6 +106,13 @@ img {
 </body>
 <p style="text-align:center;"><em>Pupils learning collaboratively through learning centre activities</em></p>
 
+**<u>Gr8 Quiz</u>**  <br>
+Gr8 quiz or commonly known as Grammar Fluency is conducted in Primary 1 to Primary 6 classes a few times a week during English lessons. It is conducted as a reinforcement of grammar rules before a grammar lesson. 
+
+  
+
+Using grammar quizzes allows pupils to revise and understand a particular grammar item before moving on to more complex grammatical structures. Pupils gain confidence and they are more familiar with the grammar rules too.
+
 <style>  
 img {  
   display: block;  
