@@ -21,6 +21,17 @@ Through specialised early intervention programmes, learning support is provided 
 
 LSP is conducted half an hour a day (in small groups of 8 to 10 pupils).
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="English" style="width:90%;">  
+  
+</body>
+
 **School-based Dyslexia Remediation (SDR)**
 
   
@@ -34,6 +45,17 @@ The programme is conducted in small groups by trained school personnel using a r
   
 
 SDR is conducted on Monday, Tuesday and Wednesday from 2 p.m. to 3 p.m.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="English" style="width:90%;">  
+  
+</body>
 
 **Reading Remediation Programme (RRP)**
 
@@ -61,3 +83,14 @@ Primary 4 pupils will learn to speak clearly and convey their ideas expressively
 The Primary 5 pupils will be able to apply the skills taught in this BRAIN Programme to become descriptive writers. They will also learn the importance of being a creative and reflective communicator by infusing literacy devices to make various text types more interesting.
 
 Click [here](/uniquely-us/da-vinci) to find out more about the English Department’s enrichment programme!
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="English" style="width:90%;">  
+  
+</body>
