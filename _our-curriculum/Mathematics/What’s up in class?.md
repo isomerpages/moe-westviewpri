@@ -34,9 +34,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic.jpeg)" alt="MATHEMATICS" style="width:95%;">  
+<body><img src="/images/pic.jpeg" alt="MATHEMATICS" style="width:95%;">  
   
 </body>
+
+**Factual Fluency**
+
+  
+
+It is important for pupils to be able to recall basic Maths facts fluently. Math facts are important because they form the building blocks for higher-level math concepts. When pupils master his/her math facts, more memory spaces will be free up for them to learn more difficult mathematical concepts.
+
+Various modes were used to conduct Factual Fluency. One example is the use of technology: Ipads were allocated to every pupil. The pupils were timed to complete each question. The timed practice aids the pupils in improving on their speed and accuracy.
 
 <p style="text-align:center;"><strong><em>“Mathematics is not about numbers, equations, computations, or algorithms: it is about UNDERSTANDING” – William Paul Thurston
 </em></strong></p>
