@@ -6,11 +6,7 @@ third_nav_title: English Language
 ---
 **Reading**
 
-  
-
 As West Viewans explore thematic texts, they are also provided with suggestions to read other similar themed texts in various genres. Not only that, pupils are enthused to read and be curious about the world around them through a variety of programmes specially curated by the School Library Committee.
-
-  
 
 **<u>Primary 5 Literature Programme</u>** <br>
 Our Primary 5 pupils had the opportunity to work alongside with ASCD (Association for Supervision and Curriculum Development) on a project with our local authors in Singapore. The purpose of this project is to encourage the reading of Singapore literature by our pupils with their teachers and the local authors.
