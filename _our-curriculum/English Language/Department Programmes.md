@@ -73,3 +73,23 @@ After going through different experiences that teach and strengthen the fundamen
 Prewriting uses a variety of methods and techniques meant to help writers generate ideas in response to a prompt and it activates their schema. By using one or more of these processes, these experiences provide the context and content for the pupils to think and talk about.
 
 ![Our Lower Primary pupils having their shared experience before doing their class writing](/images/Pre-writing%20Lower%20P.jpeg)
+<p style="text-align:center;"><em>LMAOO</em></p>
+
+![Our Middle Primary pupils coming up with solutions based on an authentic situation in their groups](/images/Pre-writing%20middle%20P.jpeg)
+<p style="text-align:center;"><em>LMAOO</em></p>
+
+![Our Upper Primary pupils brainstorming ideas for their prewriting discussion](/images/Pre-writing%20Upper%20P.jpeg)
+<p style="text-align:center;"><em>LMAOO</em></p>
+
+In West View, pupils will not only learn narrative writing but also other text types like information and procedural texts. During this writing process, they will also be given opportunities to learn and hone their collaborative and ICT skills; skills that are much required for the 21st century.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/14.jpeg)" alt="English Department Programmes" style="width:80%;">  
+  
+</body>
