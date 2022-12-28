@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
       - Mathematics/What’s up in class?.md
       - Mathematics/Enrichment Programmes & Support.md
-      - Mathematics/Mathematics.md
-      - Mathematics/.keep
       - Science/.keep
       - Science/Science.md
       - Science/What’s up in class?.md
