@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
+      - English Language/.keep
+      - English Language/English Language.md
       - English Language/What’s up in class?.md
       - English Language/Department Programmes.md
       - English Language/Enrichment Programmes & Support.md
-      - English Language/English Language.md
-      - English Language/.keep
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/What’s up in class?.md
