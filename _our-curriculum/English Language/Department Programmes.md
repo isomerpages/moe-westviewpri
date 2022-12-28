@@ -64,3 +64,5 @@ Equipped with public speaking skills, the Primary 4 pupils are challenged to lea
 **Primary 5 Persuasive Speaking Programme**
 
 After going through different experiences that teach and strengthen the fundamentals of speaking, our Primary 5 pupils will learn the art of persuasive speaking. Through this programme, they will learn the importance of the impact of words and coupled with the correct delivery, they convey different purpose, meaning and emotions. From this experience, pupils learn not only to be effective but also convincing speakers.
+
+![Primary 5 pupils persuading their peers on given topics](/images/P5%20persuasive%20speaking.jpeg)
