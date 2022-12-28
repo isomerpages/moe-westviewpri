@@ -66,3 +66,10 @@ Equipped with public speaking skills, the Primary 4 pupils are challenged to lea
 After going through different experiences that teach and strengthen the fundamentals of speaking, our Primary 5 pupils will learn the art of persuasive speaking. Through this programme, they will learn the importance of the impact of words and coupled with the correct delivery, they convey different purpose, meaning and emotions. From this experience, pupils learn not only to be effective but also convincing speakers.
 
 ![Primary 5 pupils persuading their peers on given topics](/images/P5%20persuasive%20speaking.jpeg)
+<p style="text-align:center;"><em>LMAOO</em></p>
+
+**Writing Programme**
+
+Prewriting uses a variety of methods and techniques meant to help writers generate ideas in response to a prompt and it activates their schema. By using one or more of these processes, these experiences provide the context and content for the pupils to think and talk about.
+
+![Our Lower Primary pupils having their shared experience before doing their class writing](/images/Pre-writing%20Lower%20P.jpeg)
