@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:95%;" alt="MATHEMATICS" src="/images/pic.jpeg">  
+<img src="/images/pic.jpeg" alt="MATHEMATICS" style="width:95%;">  
   
 
 
@@ -49,7 +49,7 @@ Various modes were used to conduct Factual Fluency. One example is the use of te
 <p style="text-align:center;"><strong><em>“Mathematics is not about numbers, equations, computations, or algorithms: it is about UNDERSTANDING” – William Paul Thurston
 </em></strong></p>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWd-6ykqHmgp3m6hPQwg-FbcN1Zp1qweGwew7fX6trtjGSbavNU-5-8U_nMCkMKwk5JqGNEx8XJ5lW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWd-6ykqHmgp3m6hPQwg-FbcN1Zp1qweGwew7fX6trtjGSbavNU-5-8U_nMCkMKwk5JqGNEx8XJ5lW/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Concrete-Pictorial-Abstract (C-P-A) Approach**
 
@@ -69,6 +69,16 @@ Concrete, Pictorial, Abstract (CPA) is a highly effective approach adopted by ou
   
 
 Spatial visualization, also called spatial intelligence, is a measure of the ability to look at a two-dimensional figure and visualize what it would look like expanded into three dimensions. It allows children to visualise and manipulate objects and shapes in their head. This skill can be nurtured and developed in children as young as the age of 9 years old. Just like one never forgets to cycle or hop, spatial skills once developed it remains with the person for life. Beside equipping our pupils with the spatial skills, the programme also aims to build their confidence and developing their metacognition.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfC5bfsR6L9oe4bxzyVdww9BXqYJqwj3VhBQH-QZhtvGUALWC7QkXy3KgoAq2Q687fV7KjReCzERzx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**Learning Centres**
+
+  
+
+A learning center is typically a designated area within the classroom that provides pupils with exciting and interesting experiences to practice, enrich, reteach, and enhance their learning.
+
+The activities allow and encourage pupils to collaborate in small groups where peer learning can takes place. Peer learning can lead to improved attitudes and a more personalized, engaging, and collaborative learning experience, all of which can lead to higher achievement.
 
 <p style="text-align:center;"><strong><em>“Be brave enough to start a conversation that COUNTS”
 </em></strong></p>
