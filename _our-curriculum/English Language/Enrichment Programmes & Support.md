@@ -20,3 +20,44 @@ Through specialised early intervention programmes, learning support is provided 
   
 
 LSP is conducted half an hour a day (in small groups of 8 to 10 pupils).
+
+**School-based Dyslexia Remediation (SDR)**
+
+  
+
+MOE's SDR programme is a two-year intervention programme for Primary 3 and 4 pupils. These pupils are identified for support through a systematic screening process for dyslexia conducted at the end of Primary 2.
+
+  
+
+The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists.
+
+  
+
+SDR is conducted on Monday, Tuesday and Wednesday from 2 p.m. to 3 p.m.
+
+**Reading Remediation Programme (RRP)**
+
+  
+
+RRP aims to provide additional support for P3 and P4 pupils who have difficulty in reading. Pupils are exposed to a range of coping strategies for reading comprehension which will enable them to better manage their learning in the regular classroom.
+
+  
+
+RRP is conducted on Monday and Wednesday from 2 p.m. to 2.45 p.m.
+
+  
+
+  
+
+**Enrichment Programme: DA VINCI - B.R.A.I.N. PROGRAMME**
+
+
+BRAIN programme aims to get the high progress pupils to develop, organise and express their ideas coherently and use these skills to produce texts for a variety of purposes, audiences, and contexts.
+
+  
+
+Primary 4 pupils will learn to speak clearly and convey their ideas expressively. They will also improve their skills in articulation and vocal projection. They also get to think on their feet when given impromptu speech situations.
+
+The Primary 5 pupils will be able to apply the skills taught in this BRAIN Programme to become descriptive writers. They will also learn the importance of being a creative and reflective communicator by infusing literacy devices to make various text types more interesting.
+
+Click [here](/uniquely-us/da-vinci) to find out more about the English Department’s enrichment programme!
