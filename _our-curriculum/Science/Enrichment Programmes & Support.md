@@ -4,7 +4,7 @@ permalink: /our-curriculum/science/enrichment-programmes-n-support/
 description: ""
 third_nav_title: Science
 ---
-<p style="color:blue" align="left"><u>Singapore Science Centre & Lee Kong Chian Natural History Museum (LKCNHM)</u></p>
+<p style="color:blue" align="left"><strong><u>Singapore Science Centre & Lee Kong Chian Natural History Museum (LKCNHM)</u></strong></p>
 
 Pupils have enjoyed and benefited from the wide range of science enrichment programmes and resources provided by the Singapore Science Centre and Lee Kong Chian Natural History Museum. Visiting these two places has helped to complement the school’s science curriculum with authentic hands-on learning experiences for the pupils.
 
