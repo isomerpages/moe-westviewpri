@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/School-based%20Dyslexia%20Remediation%20(SDR).jpg)" alt="School-based Dyslexia Remediation (SDR)" style="width:90%;">  
+<body><img src="/images/School-based%20Dyslexia%20Remediation%20(SDR).jpg" alt="School-based Dyslexia Remediation (SDR)" style="width:90%;">  
   
 </body>
 
@@ -74,7 +74,12 @@ BRAIN programme aims to get the high progress pupils to develop, organise and ex
 
 Primary 4 pupils will learn to speak clearly and convey their ideas expressively. They will also improve their skills in articulation and vocal projection. They also get to think on their feet when given impromptu speech situations.
 
+![Enrichment Programme: DA VINCI - B.R.A.I.N. PROGRAMME](/images/Enrichment%20Programme%20DA%20VINCI%20-%20BRAIN%20PROGRAMME_1.jpg)
+<p style="text-align:center;"><em>LMAOOO</em></p>
+
 The Primary 5 pupils will be able to apply the skills taught in this BRAIN Programme to become descriptive writers. They will also learn the importance of being a creative and reflective communicator by infusing literacy devices to make various text types more interesting.
+
+![Enrichment Programme: DA VINCI - B.R.A.I.N. PROGRAMME](/images/Enrichment%20Programme%20DA%20VINCI%20-%20BRAIN%20PROGRAMME_2.jpg)
 
 Click [here](/uniquely-us/da-vinci) to find out more about the English Department’s enrichment programme!
 
@@ -85,6 +90,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Englishlast.jpg)" alt="English" style="width:90%;">  
+<body><img src="/images/Englishlast.jpg" alt="English" style="width:90%;">  
   
 </body>
