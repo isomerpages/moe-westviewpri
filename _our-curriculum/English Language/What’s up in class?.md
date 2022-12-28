@@ -41,10 +41,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/The%20librarian%20giving%20a%20tour%20of%20the%20school%20library%20to%20the%20Primary%201%20pupils%20.png)" alt="The librarian giving a tour of the school library to the Primary 1 pupils" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><em>LMAOOO</em></p>
+<p style="text-align:center;"><em>The librarian giving a tour of the school library to the Primary 1 pupils</em></p>
 
 <style>  
 img {  
@@ -53,10 +53,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/Cultivating%20the%20habit%20of%20reading%20with%20SMM%20in%20place%20.png)" alt="Cultivating the habit of reading with SMM in place" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><em>LMAOOO</em></p>
+<p style="text-align:center;"><em>Cultivating the habit of reading with SMM in place</em></p>
 
 <style>  
 img {  
@@ -65,10 +65,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOOO" alt="LMAOOO" style="width:80%;">  
+<body><img src="![](/images/Lower%20Primary%20pupils%20presenting%20during%20a%20shared%20experience.jpg)" alt="Lower Primary pupils presenting during a shared experience" style="width:80%;">  
   
 </body>
-<p style="text-align:center;"><em>LMAOOO</em></p>
+<p style="text-align:center;"><em>Lower Primary pupils presenting during a shared experience</em></p>
 
 <style>  
 img {  
