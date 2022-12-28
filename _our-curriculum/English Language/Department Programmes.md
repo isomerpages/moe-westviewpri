@@ -19,3 +19,14 @@ Our Primary 5 pupils had the opportunity to work alongside with ASCD (Associatio
   
 
 Our pupils read a chosen book and explored selected reading activities. They even met up with the local authors who engaged the pupils with a presentation, activities and an insightful question and answer session.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/P5%20Literature%20Programme.png)" alt="Primary 5 Literature Programme" style="width:80%;">  
+  
+</body>
