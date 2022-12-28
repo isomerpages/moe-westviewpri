@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Achievements/Staff.md
       - Achievements/.keep
       - WOW! Publication.md
       - 我们心中的故事.md
