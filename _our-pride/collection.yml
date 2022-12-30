@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Achievements/CCA.md
       - Achievements/Academics.md
       - Achievements/Staff.md
       - Achievements/.keep
