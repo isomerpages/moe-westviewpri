@@ -14,6 +14,6 @@ third_nav_title: Achievements
 8)  [Chinese Cultural and Language Society](/our-curriculum/cca-core/chinese-cultural-and-language-society) <br>
 9)  [Scouts](/our-curriculum/cca-core/scouts)
 
-### 2022
+### [2022](/our-pride/achievements/cca/2022/)
 
-### 2021
+### [2021](/our-pride/achievements/cca/2021/)
