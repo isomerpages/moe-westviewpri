@@ -2,6 +2,7 @@ collections:
   gallery-life-at-wv:
     output: true
     order:
+      - 2016/Hari Raya Celebration.md
       - 2016/Model Class Award.md
       - 2016/Kindergarten Immersion.md
       - 2016/Clean WV 25 May.md
