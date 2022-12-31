@@ -13,6 +13,6 @@ description: ""
 
 ### 2018
 
-### 2017
+### [2017](/our-pride/gallery-life-at-wv/2017/)
 
 ### [2016](/our-pride/gallery-life-at-wv/2016/chinese-new-year-celebrations/)
