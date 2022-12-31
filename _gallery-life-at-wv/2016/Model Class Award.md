@@ -46,6 +46,12 @@ style="width:80%">
 <img src="/images/Model%20class%20(12).jpeg"  
 style="width:80%">
 
+On 15 July, the model classes of West View received the reward of being the role models in Term 2. The Primary 1 pupils had a special dance lesson in the hall whereby they had the opportunity to enjoy dancing with the School Leaders and selected teachers!
+
+  
+
+The Primary 2 to Primary 6 model classes went on a trip to the Esplanade. During the trip, they practised displaying the school values and seven habits while they learnt about the concert hall, how sound travels, reverbations and vibrations. The pupils also enjoyed a concert titled “TiGaia” where they had the chance to learn about the different musical instruments from the various ethnic groups, play angklungs and enjoy the music that was being performed. The pupils enjoyed listening to the sounds of the pipa, the gambus, the bansuri and darbuka etc. It was a delightful and entertaining afternoon; a memorable experience indeed!
+
 <style>  
 img {  
   display: block;  
@@ -56,6 +62,8 @@ img {
 <body><img src="/images/Model-class%201.jpeg" alt="Model Class Award 2016" style="width:70%;">  
   
 </body>  
+
+Primary 1 Creative enjoying their special dancing lesson.
 
 <style>  
 img {  
@@ -68,6 +76,8 @@ img {
   
 </body>  
 
+Having lunch before going to the Esplanade
+
 <style>  
 img {  
   display: block;  
@@ -79,6 +89,8 @@ img {
   
 </body>  
 
+Excited faces, all ready to enjoy being at Esplanade
+
 <style>  
 img {  
   display: block;  
@@ -89,3 +101,5 @@ img {
 <body><img src="/images/Model-class%204.jpeg" alt="Model Class Award 2016" style="width:70%;">  
   
 </body>
+
+Enjoying the concert and playing angkluangs
