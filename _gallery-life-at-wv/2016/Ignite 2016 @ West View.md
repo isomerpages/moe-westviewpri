@@ -13,7 +13,24 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG_7033.jpeg)" alt="Ignite 2016 @ West View" style="width:80%;">  
+<body><img src="/images/IMG_7033.jpeg" alt="Ignite 2016 @ West View" style="width:80%;">  
+  
+</body><br>  
+
+The classroom games were related to the Olympics theme, spreading the message of sportsmanship and excellence. The lower primary pupils were engaged in tele-match games in the hall. The P6s pupils even displayed great teamwork when competing with parents and teachers in Captains Ball! Great job!
+
+  
+
+At the same time, a dunk tank was set up to dunk the teachers! Pupils donated generously and were given the opportunity to dunk their teachers in the freezing cold water. Tons of fun for a good cause!
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IMG_7312.jpeg" alt="Ignite 2016 @ West View" style="width:80%;">  
   
 </body><br>  
 
@@ -24,7 +41,20 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG_7312.jpeg)" alt="Ignite 2016 @ West View" style="width:80%;">  
+<body><img src="/images/IMG_7371.jpeg" alt="Ignite 2016 @ West View" style="width:80%;">  
+  
+</body><br>  
+
+Before the cauldron fire was put off, various aesthetics activities were carried out in the classroom. P3 and P4 pupils had fun creating RIO2016 mascots using recycled materials while the P5 pupils were exposed to musical instruments from Brazil. They even had the opportunity to make their own musical instruments! The best mascots were paraded in the hall as part of the closing ceremony. It truly was a memorable and exciting day.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IMG_2669.jpeg" alt="Ignite 2016 @ West View" style="width:80%;">  
   
 </body><br>  
 
@@ -35,28 +65,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG_7371.jpeg)" alt="Ignite 2016 @ West View" style="width:80%;">  
+<body><img src="/images/IMG_2625.jpeg" alt="Ignite 2016 @ West View" style="width:50%;">  
   
-</body><br>  
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="![](/images/IMG_2669.jpeg)" alt="Ignite 2016 @ West View" style="width:80%;">  
-  
-</body><br>  
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="![](/images/IMG_2625.jpeg)" alt="Ignite 2016 @ West View" style="width:80%;">  
-  
-</body><br>  
+</body><br>
