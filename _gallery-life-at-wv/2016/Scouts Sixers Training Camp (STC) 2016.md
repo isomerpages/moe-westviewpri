@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sixers%20Camp.jpeg)" alt="Scouts Sixers Training Camp (STC) 2016" style="width:70%;">  
+<body><img src="/images/Sixers%20Camp.jpeg" alt="Scouts Sixers Training Camp (STC) 2016" style="width:70%;">  
   
 </body>  
 <br> 
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sixers%20camp2.jpeg)" alt="Scouts Sixers Training Camp (STC) 2016" style="width:70%;">  
+<body><img src="/images/Sixers%20camp2.jpeg" alt="Scouts Sixers Training Camp (STC) 2016" style="width:50%;">  
   
 </body>  
-<br> 
+<br>
