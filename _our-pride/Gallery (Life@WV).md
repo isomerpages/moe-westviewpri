@@ -3,7 +3,6 @@ title: Gallery (Life@WV)
 permalink: /our-pride/gallery-life-at-wv/
 description: ""
 ---
-
 ### 2022
 
 ### 2021
