@@ -2,6 +2,7 @@ collections:
   gallery-life-at-wv:
     output: true
     order:
+      - 2016/Children’s Day 2016.md
       - 2016/Ignite 2016 @ West View.md
       - 2016/Chinese Dance performance at Durian and Fruits Fiesta organised by
         Senja Cashew CC.md
