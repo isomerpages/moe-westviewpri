@@ -4,9 +4,6 @@ permalink: /our-pride/gallery-life-at-wv/2016/start-it-right-2016/
 description: ""
 third_nav_title: "2016"
 ---
-Start-It-Right 2016
-===================
-
 To kick start the school year 2016, the Student Development Team (SDT) initiated a school-wide Start-It-Right (SIR) programme for all levels to welcome our pupils back to school. A 3-week SIR Orientation programme was also planned for the P1s to shed their first day jitters. To involve parents in their child’s learning process, they were invited to attend school with their children on the first day.
 
   
