@@ -22,28 +22,28 @@ style="width:80%">
 <img src="![](/images/Model%20class%20(4).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(5).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(6).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(7).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(8).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(9).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(10).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(11).jpeg)"  
 style="width:80%">
 
-<img src="LMAOOO"  
+<img src="![](/images/Model%20class%20(12).jpeg)"  
 style="width:80%">
 
 <style>  
