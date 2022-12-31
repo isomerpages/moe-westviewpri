@@ -16,6 +16,7 @@ img {
 <body><img src="/images/HR%201.jpeg" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
+<p style="text-align:center;">Pupils enjoying themselves during the Hari Raya concert</p>
 
 <style>  
 img {  
@@ -27,6 +28,7 @@ img {
 <body><img src="/images/HR%202.jpeg" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
+<p style="text-align:center;">Teachers looking very sweet with baju kurung</p>
 
 <style>  
 img {  
@@ -38,6 +40,9 @@ img {
 <body><img src="/images/HR%203.jpeg" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
+<p style="text-align:center;">Pupils taking part in the stage games</p>
+
+The celebration continued on during recess. Pupils were given a change to hit the “kentungan”, tie the “samping” on their own and also shaped the tart pastry. It was indeed a memorable celebration for the teachers and pupils!
 
 <style>  
 img {  
@@ -49,6 +54,7 @@ img {
 <body><img src="/images/HR%204.jpeg" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
+<p style="text-align:center;">Pupils shaping the tart pastry and hitting the “kentungan”</p>
 
 <style>  
 img {  
@@ -60,3 +66,4 @@ img {
 <body><img src="/images/HR%205.jpeg" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
+<p style="text-align:center;">Pupils trying on the “samping”</p>
