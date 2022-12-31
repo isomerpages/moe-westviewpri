@@ -13,9 +13,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IFD(1).jpeg)" alt="International Friendship Day 2016" style="width:70%;">  
+<body><img src="/images/IFD(1).jpeg" alt="International Friendship Day 2016" style="width:70%;">  
   
 </body>  
+
+Pupils also get to enjoy activities during their recess on Tuesday, 5th April, and Thursday, 7th April. On Tuesday, pupils touched and smelt the different spices that they were exposed to during the assembly programme.
 
 <style>  
 img {  
@@ -24,9 +26,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IFD(4).jpeg)" alt="International Friendship Day 2016" style="width:70%;">  
+<body><img src="/images/IFD(4).jpeg" alt="International Friendship Day 2016" style="width:70%;">  
   
 </body>  
+
+On Thursday, pupils played traditional games from different countries. Judging by the smiles on their faces, they have truly enjoyed the experience.
 
 <style>  
 img {  
@@ -35,9 +39,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Presentation1.jpeg)" alt="International Friendship Day 2016" style="width:70%;">  
+<body><img src="/images/Presentation1.jpeg" alt="International Friendship Day 2016" style="width:70%;">  
   
 </body>  
+
+NE Ambassadors manned the area where the pupils could write messages about friendship. Good job, NE Ambassadors!
 
 <style>  
 img {  
@@ -46,6 +52,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Presentation2.jpeg)" alt="International Friendship Day 2016" style="width:70%;">  
+<body><img src="/images/Presentation2.jpeg" alt="International Friendship Day 2016" style="width:70%;">  
   
-</body>  
+</body>
