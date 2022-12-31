@@ -45,3 +45,47 @@ style="width:80%">
 
 <img src="LMAOOO"  
 style="width:80%">
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+  
+</body>  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+  
+</body>  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+  
+</body>  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+  
+</body>  
