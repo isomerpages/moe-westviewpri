@@ -17,3 +17,5 @@ We followed the uncovering of a time capsule through our student emcees, Jan and
   
 
 Apart from acknowledging and showcasing our pupils’ accomplishments, we also acknowledged the support from our partners in education as well as the dedication from our teachers. It is with this synergistic partnership that we share, we are able to provide such rich experiences of schooling for our pupils.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8pwGFltIdTuo45ra9O_zbk5Fx7FNM8Ibxl38MEaqpTiwtzZ3YyvJwAzPGiLiS-c7g0VUhscZ6ZqA-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
