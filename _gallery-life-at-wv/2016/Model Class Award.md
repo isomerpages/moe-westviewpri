@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+<body><img src="![](/images/Model-class%201.jpeg)" alt="Model Class Award 2016" style="width:70%;">  
   
 </body>  
 
@@ -64,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+<body><img src="![](/images/Model-class%202.jpeg)" alt="Model Class Award 2016" style="width:70%;">  
   
 </body>  
 
@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+<body><img src="![](/images/Model-class%203.jpeg)" alt="Model Class Award 2016" style="width:70%;">  
   
 </body>  
 
@@ -86,6 +86,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="lmaoo" alt="Model Class Award 2016" style="width:70%;">  
+<body><img src="![](/images/Model-class%204.jpeg)" alt="Model Class Award 2016" style="width:70%;">  
   
 </body>
