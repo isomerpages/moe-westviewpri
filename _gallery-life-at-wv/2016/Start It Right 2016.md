@@ -26,23 +26,21 @@ During the first three weeks of school, the P1 pupils went through a shared expe
 
 Pic 1: Pupils use the different shapes to form figures
 
-![Pupils use the different shapes to form figures](/images/P1%20Shared%20Experience%201.jpeg)
+<img src="/images/P1%20Shared%20Experience%201.jpeg"  
+style="width:70%">
 
 Pic2: Cooperative skills: matching pictures card with dot cards
 
-  
-
-![2.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/Events/2016/2.jpg)  
+<img src="/images/P1%20Shared%20Experience%202.jpeg"  
+style="width:70%">
 
 Pic 3: using counters for comparison
 
-  
-
-![3.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/Events/2016/3.jpg)  
+<img src="/images/P1%20Shared%20Experience%203.jpeg"  
+style="width:70%">
 
 
 Pic4: Post activity after learning a nursery rhyme
 
-  
-
-![4.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/Events/2016/4.jpg)
+<img src="/images/P1%20Shared%20Experience%204.jpeg"  
+style="width:70%">
