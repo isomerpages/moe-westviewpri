@@ -2,6 +2,7 @@ collections:
   gallery-life-at-wv:
     output: true
     order:
+      - 2016/Kindergarten Immersion.md
       - 2016/Clean WV 25 May.md
       - 2016/School Visit by My First Skool.md
       - 2016/Singapore Rhapsodies – Public Performance.md
