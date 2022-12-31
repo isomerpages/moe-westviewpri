@@ -2,7 +2,6 @@ collections:
   our-pride:
     output: true
     order:
-      - Achievements/Gallery (Life@WV).md
       - Achievements/CCA.md
       - Achievements/Academics.md
       - Achievements/Staff.md
