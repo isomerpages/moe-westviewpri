@@ -16,4 +16,4 @@ third_nav_title: Achievements
 
 ### 2017
 
-### 2016
+### [2016](/our-pride/gallery-life-at-wv/2016/chinese-new-year-celebrations/)
