@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Singapore%20Korean%20International%20School%20(SKIS)%20Cultural%20Exchange%20Programme.jpg)" alt="Singapore Korean International School (SKIS) Cultural Exchange Programme 2016" style="width:70%;">  
+<body><img src="/images/Singapore%20Korean%20International%20School%20(SKIS)%20Cultural%20Exchange%20Programme.jpg" alt="Singapore Korean International School (SKIS) Cultural Exchange Programme 2016" style="width:70%;">  
   
 </body><br>  
 
@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/SKIS%20(4).jpeg)" alt="Singapore Korean International School (SKIS) Cultural Exchange Programme 2016" style="width:70%;">  
+<body><img src="/images/SKIS%20(4).jpeg" alt="Singapore Korean International School (SKIS) Cultural Exchange Programme 2016" style="width:70%;">  
   
 </body><br>  
 
@@ -45,6 +45,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Singapore%20Korean%20International%20School%20(SKIS)%20Cultural%20Exchange%20Programme%20last.jpg)" alt="Singapore Korean International School (SKIS) Cultural Exchange Programme 2016" style="width:70%;">  
+<body><img src="/images/Singapore%20Korean%20International%20School%20(SKIS)%20Cultural%20Exchange%20Programme%20last.jpg" alt="Singapore Korean International School (SKIS) Cultural Exchange Programme 2016" style="width:70%;">  
   
-</body><br>  
+</body><br>
