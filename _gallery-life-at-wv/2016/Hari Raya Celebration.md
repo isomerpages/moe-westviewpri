@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMaooo" alt="Hari Raya Celebration 2016" style="width:70%;">  
+<body><img src="![](/images/HR%201.jpeg)" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
 
@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMaooo" alt="Hari Raya Celebration 2016" style="width:70%;">  
+<body><img src="![](/images/HR%202.jpeg)" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
 
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMaooo" alt="Hari Raya Celebration 2016" style="width:70%;">  
+<body><img src="![](/images/HR%203.jpeg)" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
 
@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMaooo" alt="Hari Raya Celebration 2016" style="width:70%;">  
+<body><img src="![](/images/HR%204.jpeg)" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
 
@@ -57,6 +57,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMaooo" alt="Hari Raya Celebration 2016" style="width:70%;">  
+<body><img src="![](/images/HR%205.jpeg)" alt="Hari Raya Celebration 2016" style="width:70%;">  
   
 </body>
