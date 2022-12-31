@@ -2,6 +2,7 @@ collections:
   gallery-life-at-wv:
     output: true
     order:
+      - 2016/Chinese New Year Celebrations.md
       - 2016/STAR AWARD 2016.md
       - 2016/Singapore Korean International School (SKIS) Cultural Exchange
         Programme.md
