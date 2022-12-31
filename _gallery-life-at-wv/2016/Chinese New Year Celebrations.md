@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
+<body><img src="/images/IMG_7251.jpeg" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
   
 </body><br>
 
@@ -28,7 +28,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
+<body><img src="/images/IMG_7232.jpeg" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
   
 </body><br>
 
@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
+<body><img src="/images/IMG_7290.jpeg" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
   
 </body><br>
 
@@ -50,7 +50,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
+<body><img src="/images/IMG_7307.jpeg" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
   
 </body><br>
 
@@ -61,7 +61,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
+<body><img src="/images/IMG_7369.jpeg" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
   
 </body><br>
 
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
+<body><img src="/images/IMG_7375.jpeg" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
   
 </body><br>
 
@@ -83,6 +83,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
+<body><img src="/images/IMG_7471.jpeg" alt="Chinese New Year Celebrations 2016" style="width:70%;">  
   
 </body><br>
