@@ -2,6 +2,7 @@ collections:
   gallery-life-at-wv:
     output: true
     order:
+      - 2019.md
       - 2018.md
       - 2017.md
       - 2016/Chinese New Year Celebrations.md
