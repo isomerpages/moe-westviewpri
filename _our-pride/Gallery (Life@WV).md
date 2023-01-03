@@ -7,7 +7,7 @@ description: ""
 
 ### 2021
 
-### 2020
+### [2020](/our-pride/gallery-life-at-wv/2020/)
 
 ### [2019](/our-pride/gallery-life-at-wv/2019/)
 
