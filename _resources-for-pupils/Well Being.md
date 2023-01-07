@@ -27,4 +27,4 @@ Additional Resources
 [Building Resilience in Our Children.pdf](/files/Building%20Resilience%20in%20Our%20Children.pdf)  
 [Encouraging Our Children to Show Gratitude.pdf](/files/Encouraging%20Our%20Children%20to%20Show%20Gratitude.pdf)  
 [Praising Our Children.pdf](/files/Praising%20Our%20Children.pdf) 
-[Raising Our Children to be Confident.pdf](https://westviewpri.moe.edu.sg/qql/slot/u539/2020/Resources/Resources%20for%20Pupil/Stay%20Home%20Edition/Well-Being/Additional%20Resources/Raising%20Our%20Children%20to%20be%20Confident.pdf)
+[Raising Our Children to be Confident.pdf](/files/Raising%20Our%20Children%20to%20be%20Confident.pdf)
