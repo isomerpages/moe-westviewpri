@@ -5,7 +5,7 @@ description: ""
 ---
 **Partners-in-Action (PiA)**
 
-<img src="/images/PIA.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "left">
+<img src="/images/PIA.jpeg" style="width:240px;height:180px;margin-left:15px;" align = "left">
 
 West View Primary School Partners in Action (PiA) plays a key role in fostering a strong partnership between parents and the school. It is also a platform for all parents who would like to contribute and participate actively in their children’s development. Through participating in the school programmes at WVPS, parents have a better understanding of how the school conducts their programmes and activities to provide a holistic education for the pupils. PiA also strives to enhance and enrich the experience for every West Viewan.
 
