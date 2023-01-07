@@ -2,9 +2,9 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Curriculum/Flagship Programmes.md
-      - Curriculum/Curriculum.md
       - Curriculum/.keep
+      - Curriculum/Curriculum.md
+      - Curriculum/Flagship Programmes.md
       - Gallery/2022.md
       - Gallery/2021.md
       - Gallery/.keep
