@@ -2,4 +2,5 @@ collections:
   resources-for-pupils:
     output: true
     order:
+      - Art.md
       - Music.md
