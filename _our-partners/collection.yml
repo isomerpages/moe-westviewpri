@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - SAC.md
       - Partners in Action (PiA).md
       - Alumni.md
