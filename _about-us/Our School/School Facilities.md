@@ -4,9 +4,11 @@ permalink: /about-us/our-school/school-facilities/
 description: ""
 third_nav_title: Our School
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGPPIbBGQB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eGPPIbBGQB4" height="315" width="560"></iframe>
 
 ### 1. ALP Learning Walls
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTF4kNcjwMlGaEZm2E75X-0UuEK30BziHHUC5HDlAcmKCv0KMQzmt3VUdSfY1eXhmp15_3aG4GKqovR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### 2. LLP_ACE Theatre
 
