@@ -1,4 +1,5 @@
 collections:
   wvps:
     output: true
-    order: []
+    order:
+      - Photo Gallery.md
