@@ -2,6 +2,7 @@ collections:
   wvps:
     output: true
     order:
+      - Resources/Resources for Pupils.md
       - Resources/Resources for Parents.md
       - Resources/Calendar.md
       - Resources/Resources.md
