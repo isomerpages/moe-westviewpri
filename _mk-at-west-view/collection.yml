@@ -2,4 +2,5 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - Gallery/.keep
       - Partners.md
