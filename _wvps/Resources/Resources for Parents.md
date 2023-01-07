@@ -220,3 +220,11 @@ JOURNEYING WITH OUR CHILDREN, SUPPORTING THEIR ASPIRATIONS
 style="width:40%">
 
 This [handbook for parents](https://www.moe.gov.sg/docs/default-source/document/education/programmes/social-emotional-learning/sel-resources-for-parents/ecg-parent-guide/ecg-parent-guide.pdf) contains tips and advice on ECG and considerations at key education stages to guide their children.
+
+ECG PORTAL – MYSKILLSFUTURE
+---------------------------
+
+<img src="/images/Picture2.jpeg"  
+style="width:40%">
+
+[This brochure](https://www.moe.gov.sg/docs/default-source/document/education/programmes/social-emotional-learning/ecg-resources/parents-brochure.pdf) highlights the key features in MySkillsFuture and how parents can tap on the Portal to support their children in their education and career planning.
