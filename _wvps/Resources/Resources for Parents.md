@@ -228,3 +228,11 @@ ECG PORTAL – MYSKILLSFUTURE
 style="width:40%">
 
 [This brochure](https://www.moe.gov.sg/docs/default-source/document/education/programmes/social-emotional-learning/ecg-resources/parents-brochure.pdf) highlights the key features in MySkillsFuture and how parents can tap on the Portal to support their children in their education and career planning.
+
+WE STories
+----------
+
+<img src="/images/WE%20STories%202022%20cover%20page.png"  
+style="width:40%">
+
+This [handbook](https://online.fliphtml5.com/obrr/qkde/) highlights the strengths and distinctiveness of secondary schools, specialised and specialised independent schools in the West Zone.
