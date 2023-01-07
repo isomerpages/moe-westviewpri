@@ -2,6 +2,7 @@ collections:
   resources-for-pupils:
     output: true
     order:
+      - Chinese Language.md
       - Malay Language.md
       - Tamil Language.md
       - Physical & Health Education.md
