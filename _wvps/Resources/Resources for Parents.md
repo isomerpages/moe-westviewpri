@@ -236,3 +236,8 @@ WE STories
 style="width:40%">
 
 This [handbook](https://online.fliphtml5.com/obrr/qkde/) highlights the strengths and distinctiveness of secondary schools, specialised and specialised independent schools in the West Zone.
+
+School Holiday Edition
+----------------------
+
+[Resource Kit - School Holiday Edition.pdf](/files/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf)
