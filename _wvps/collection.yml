@@ -2,4 +2,5 @@ collections:
   wvps:
     output: true
     order:
+      - Facebook.md
       - Photo Gallery.md
