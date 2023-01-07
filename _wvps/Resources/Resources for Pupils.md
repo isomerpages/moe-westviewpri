@@ -4,8 +4,7 @@ permalink: /wvps/resources/resources-for-pupils/
 description: ""
 third_nav_title: Resources
 ---
-[  
-English](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/english)
+[English](/wvps/resources/resources-for-pupils/english)
 
   
 
@@ -13,32 +12,32 @@ English](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/engl
 
   
 
-[Science](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/science)
+[Science](/wvps/resources/resources-for-pupils/science)
 
   
 
-[Chinese Language](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/chinese-language)
+[Chinese Language](/wvps/resources/resources-for-pupils/chinese-language)
 
   
 
-[Malay Language](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/malay-language)
+[Malay Language](/wvps/resources/resources-for-pupils/malay-language)
 
   
 
-[Tamil Language](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/tamil-language)
+[Tamil Language](/wvps/resources/resources-for-pupils/tamil-language)
 
   
 
-[Physical & Health Education](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/physical-n-health-education)
+[Physical & Health Education](/wvps/resources/resources-for-pupils/physical-n-health-education)
 
   
 
-[Art](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/art)
+[Art](/wvps/resources/resources-for-pupils/art)
 
   
 
-[Music](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/music)
+[Music](/wvps/resources/resources-for-pupils/music)
 
   
 
-[Well-Being](https://westviewpri.moe.edu.sg/wvps/resources/resources-for-pupils/well-being)
+[Well-Being](/wvps/resources/resources-for-pupils/well-being)
