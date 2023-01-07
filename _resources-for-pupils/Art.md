@@ -44,3 +44,15 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Art%20Quote.png)" alt="Art Quote" style="width:50%;">  
+  
+</body>  
+<br>
