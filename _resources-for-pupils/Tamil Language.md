@@ -122,7 +122,7 @@ Recommended Apps for the learning of Tamil Language
   <tr>
     <td class="tg-x9u8"> <span style="background-color:initial">11.</span></td>
     <td class="tg-jqyp"><span style="background-color:initial">NLB Mobile App</span><br><a href="https://mobileapp.nlb.gov.sg/"><span style="text-decoration:underline;color:#EC1F26">https://mobileapp.nlb.gov.sg/</span></a><span style="background-color:initial"> </span></td>
-    <td class="tg-jqyp"><img src="![](/images/nlb.jpeg)" alt="nlb.png" width="33" height="76"></td>
+    <td class="tg-jqyp"><img src="/images/nlb.jpeg" alt="nlb.png" width="33" height="76"></td>
     <td class="tg-jqyp"><span style="background-color:initial">· NLB mobile is your personal library, anytime, anywhere. There are lots of Tamil books and magazines to choose from!</span></td>
     <td class="tg-baqh">√</td>
     <td class="tg-baqh">√</td>
@@ -175,7 +175,7 @@ Recommended Apps & Websites for the learning of Mother Tongue
   <tr>
     <td class="tg-x9u8">2.</td>
     <td class="tg-jqyp">NLB Mobile App<br><a href="https://mobileapp.nlb.gov.sg/"><span style="text-decoration:underline;color:#EC1F26">https://mobileapp.nlb.gov.sg/</span></a><br><br>NLB Website<br><a href="http://www.nlb.gov.sg/discovereads/primary-resources/"><span style="text-decoration:underline;color:#EC1F26">http://www.nlb.gov.sg/discovereads/primary-resources/</span></a></td>
-    <td class="tg-zyem"><img src="/images/nlb%20.jpeg" alt="nlb.jpg" width="63" height="116"># <span style="background-color:initial">NLB Mobile App</span></td>
+    <td class="tg-zyem"><img src="/images/nlb%20.jpeg" alt="nlb.jpg" width="63" height="116"><span style="background-color:initial">NLB Mobile App</span></td>
     <td class="tg-jqyp">·With lots of Mother Tongue books to choose from,   download this app to meet your reading needs! </td>
     <td class="tg-jqyp">√</td>
     <td class="tg-jqyp">√</td>
@@ -184,7 +184,7 @@ Recommended Apps & Websites for the learning of Mother Tongue
   <tr>
     <td class="tg-x9u8">3.</td>
     <td class="tg-jqyp">Learning Mother Tongue Languages - Duolingo<br><a href="https://www.duolingo.com/"><span style="text-decoration:underline;color:#EC1F26">https://www.duolingo.com/</span></a></td>
-    <td class="tg-zyem"><img src="/images/duolingo.png" alt="duolingo.png" width="63" height="76"><span style="background-color:initial">#Duolingo App</span></td>
+    <td class="tg-zyem"><img src="/images/duolingo.png" alt="duolingo.png" width="63" height="76"><span style="background-color:initial">Duolingo App</span></td>
     <td class="tg-jqyp">·You can learn Chinese, Malay, Tamil and other languages with this fun and engaging app.</td>
     <td class="tg-jqyp">√</td>
     <td class="tg-jqyp">√</td>
