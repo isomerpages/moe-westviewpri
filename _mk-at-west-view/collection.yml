@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - About Us/Our Mission, Vision & Beliefs.md
       - About Us/About Us.md
       - About Us/.keep
       - Curriculum/.keep
