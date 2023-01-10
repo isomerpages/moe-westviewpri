@@ -18,15 +18,25 @@ Recommended Resources for the learning of Chinese Language
 
 ![Friends and kinship children book recommends.png](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/Friends%20and%20kinship%20children%20book%20recommends.png)
 
-儿童阅读推荐 （新加坡文化历史）                             9岁前必读的100本
+儿童阅读推荐 （新加坡文化历史）           
 -------------------------------------------------------
 
-![9100.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/9100.jpg)![Singapore history books recommendation Aug 2022.PNG](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/Singapore%20history%20books%20recommendation%20Aug%202022.PNG)
+![Singapore history books recommendation Aug 2022.PNG](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/Singapore%20history%20books%20recommendation%20Aug%202022.PNG)
 
-儿童阅读推荐 （接纳与包容）                                         听故事，识世界
+9岁前必读的100本
+-------------------------------------------------------
+
+![9100.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/9100.jpg)
+
+儿童阅读推荐 （接纳与包容）                  
 --------------------------------------------------------------
 
-![1.PNG](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/1.PNG)![ .jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/%20.jpg)
+![ .jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/%20.jpg)
+
+听故事，识世界
+--------------------------------------------------------------
+
+![1.PNG](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/1.PNG)
 
 ICT tips for the learning of Chinese Language
 ---------------------------------------------
