@@ -11,7 +11,7 @@ Recommended Resources for the learning of Chinese Language
 儿童阅读推荐（2022年12月）
 ----------------
 
-![image001.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/image001.jpg)
+![](/images/image001.jpeg)
 
 儿童阅读推荐 (朋友与友情）
 --------------
