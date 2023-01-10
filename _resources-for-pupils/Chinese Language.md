@@ -36,7 +36,7 @@ Recommended Resources for the learning of Chinese Language
 听故事，识世界
 --------------------------------------------------------------
 
-![1.PNG](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/1.PNG)
+![](/images/Chinese%201.png)
 
 ICT tips for the learning of Chinese Language
 ---------------------------------------------
