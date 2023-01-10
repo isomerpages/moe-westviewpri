@@ -40,3 +40,5 @@ Recommended Resources for the learning of Chinese Language
 
 ICT tips for the learning of Chinese Language
 ---------------------------------------------
+
+![Chinese ICT](/images/Chinese%20ICT%201.png)
