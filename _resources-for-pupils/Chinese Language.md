@@ -31,7 +31,7 @@ Recommended Resources for the learning of Chinese Language
 儿童阅读推荐 （接纳与包容） 
 --------------------------------------------------------------
 
-[![儿童阅读推荐 （接纳与包容)](/images/Chinese.jpeg)](/files/儿童阅读推荐%20（接纳与包容).pdf)
+[![儿童阅读推荐 （接纳与包容)](/images/Chinese.jpeg)](/files/Chinese.pdf)
 
 听故事，识世界
 --------------------------------------------------------------
