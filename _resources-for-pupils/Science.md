@@ -49,13 +49,38 @@ Learning resources for Primary 3 &amp; 4
 
   
 
-| •&nbsp;Groups of animals  
-
- |
-| ![ClassificationofAnimals1.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2020/Resources/Resources%20for%20Pupil/Stay%20Home%20Edition/Science/ClassificationofAnimals1.jpg) |
-| These websites show you the different animal groups and their unique characteristics. |
-| Resources: | [_https://kids.nationalgeographic.com/animals/_](https://kids.nationalgeographic.com/animals/) |
-| [_https://kids.sandiegozoo.org/index.php/animals_](https://kids.sandiegozoo.org/index.php/animals) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zbqb{color:#EC1F26;font-style:italic;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix" colspan="2"><span style="text-decoration:underline">• Groups of animals</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" colspan="2"><img src="https://westviewpri.moe.edu.sg/qql/slot/u539/2020/Resources/Resources%20for%20Pupil/Stay%20Home%20Edition/Science/ClassificationofAnimals1.jpg" alt="ClassificationofAnimals1.jpg" width="387" height="353"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" colspan="2">These websites show you the different animal groups and their unique characteristics.</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="2">Resources:</td>
+    <td class="tg-zbqb"><a href="https://kids.nationalgeographic.com/animals/">https://kids.nationalgeographic.com/animals/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-zbqb"><a href="https://kids.sandiegozoo.org/index.php/animals">https://kids.sandiegozoo.org/index.php/animals</a></td>
+  </tr>
+</tbody>
+</table>
 
   
 
