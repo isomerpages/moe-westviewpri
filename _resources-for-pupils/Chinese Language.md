@@ -28,10 +28,10 @@ Recommended Resources for the learning of Chinese Language
 
 [![9岁前必读的100本](/images/9100.jpeg)](/files/9100.pdf)
 
-儿童阅读推荐 （接纳与包容）&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+儿童阅读推荐 （接纳与包容） 
 --------------------------------------------------------------
 
-![](/images/Chinese.jpeg)
+[![儿童阅读推荐 （接纳与包容)](/images/Chinese.jpeg)](/files/儿童阅读推荐%20（接纳与包容).pdf)
 
 听故事，识世界
 --------------------------------------------------------------
