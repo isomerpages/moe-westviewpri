@@ -11,15 +11,15 @@ Recommended Resources for the learning of Chinese Language
 儿童阅读推荐（2022年12月）
 ----------------
 
-![](/images/image001.jpeg)
+[![儿童阅读推荐（2022年12月)](/images/image001.jpeg)](/files/eBook%20Recommendation%20CPCLL%20Primary%20-%20Oct%202022.pdf)
 
 儿童阅读推荐 (朋友与友情）
 --------------
 
 ![](/images/Friends%20and%20kinship%20children%20book%20recommends.png)
 
-儿童阅读推荐 （新加坡文化历史）&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
--------------------------------------------------------
+儿童阅读推荐 （新加坡文化历史）
+---------------------------
 
 ![](/images/Singapore%20history%20books%20recommendation%20Aug%202022.png)
 
