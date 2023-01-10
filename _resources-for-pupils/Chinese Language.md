@@ -36,7 +36,7 @@ Recommended Resources for the learning of Chinese Language
 听故事，识世界
 --------------------------------------------------------------
 
-![](/images/Chinese%201.png)
+[![听故事，识世界](/images/Chinese%201.png)](/files/Digital%20Storytelling%20Poster%20Mar%202022.pdf)
 
 ICT tips for the learning of Chinese Language
 ---------------------------------------------
