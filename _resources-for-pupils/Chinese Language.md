@@ -21,17 +21,17 @@ Recommended Resources for the learning of Chinese Language
 儿童阅读推荐 （新加坡文化历史）           
 -------------------------------------------------------
 
-![Singapore history books recommendation Aug 2022.PNG](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/Singapore%20history%20books%20recommendation%20Aug%202022.PNG)
+![](/images/Singapore%20history%20books%20recommendation%20Aug%202022.png)
 
 9岁前必读的100本
 -------------------------------------------------------
 
-![9100.jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/9100.jpg)
+![](/images/9100.jpeg)
 
 儿童阅读推荐 （接纳与包容）                  
 --------------------------------------------------------------
 
-![ .jpg](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/%20.jpg)
+![](/images/Chinese.jpeg)
 
 听故事，识世界
 --------------------------------------------------------------
