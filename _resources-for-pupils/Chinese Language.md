@@ -42,3 +42,7 @@ ICT tips for the learning of Chinese Language
 ---------------------------------------------
 
 ![Chinese ICT](/images/Chinese%20ICT%201.png)
+
+![Chinese ICT](/images/Chinese%20ICT%202.png)
+
+![Chinese ICT ](/images/Chinese%20ICT%203.png)
