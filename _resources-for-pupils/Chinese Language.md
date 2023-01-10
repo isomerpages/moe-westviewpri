@@ -16,7 +16,7 @@ Recommended Resources for the learning of Chinese Language
 儿童阅读推荐 (朋友与友情）
 --------------
 
-![Friends and kinship children book recommends.png](https://westviewpri.moe.edu.sg/qql/slot/u539/2022/Mother%20Tongue/Friends%20and%20kinship%20children%20book%20recommends.png)
+![](/images/Friends%20and%20kinship%20children%20book%20recommends.png)
 
 儿童阅读推荐 （新加坡文化历史）           
 -------------------------------------------------------
