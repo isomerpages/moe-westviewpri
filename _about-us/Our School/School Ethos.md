@@ -23,13 +23,13 @@ School Philosophy
 -----------------
 
 <img src="/images/School%20Philosophy.jpeg"  
-style="width:40%">
+style="width:30%">
 
 School Motto
 ------------
 
 <img src="/images/School%20Motto.jpeg"  
-style="width:40%">
+style="width:25%">
 
 When we AIM HIGH and work towards our goals, we overcome the challenges we face to reach greater heights.
 
@@ -43,7 +43,7 @@ School Crest
 ------------
 
 <img src="/images/School%20Crest%20&%20Song.jpeg"  
-style="width:40%">
+style="width:30%">
 
 The school logo depicts three closely growing flowering plants enclosed in a pentagon. The light blue background signifies the purity and innocence of children while the grey signifies the experience and maturity the children will gain while in West View Primary School.
 
