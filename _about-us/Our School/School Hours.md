@@ -28,7 +28,7 @@ third_nav_title: Our School
 </tbody>
 </table>
 
-
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -73,6 +73,8 @@ third_nav_title: Our School
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
