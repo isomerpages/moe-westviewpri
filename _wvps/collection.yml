@@ -2,6 +2,7 @@ collections:
   wvps:
     output: true
     order:
+      - Quick Links.md
       - Services.md
       - Resources/.keep
       - Resources/Resources.md
