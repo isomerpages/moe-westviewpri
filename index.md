@@ -59,4 +59,13 @@ sections:
       url: /uniquely-us/viewan-xp/
       image: /images/viewan.png
       alt: Viewan XP
+  - infopic:
+      title: EinSTein
+      description: Every child is a genius. In Einstein programme, we aim to support
+        our low progress learners, as we believe that they are unique and
+        endowed with different...
+      button: Read More
+      url: /uniquely-us/einstein/
+      image: /images/einstein.png
+      alt: EinSTein
 ---
