@@ -47,4 +47,5 @@ description: ""
 </table>
 
 Find us on Facebook!  
-![Facebook.png](https://westviewpri.moe.edu.sg/qql/slot/u539/Quick%20Links/Facebook.png)
+
+<p><a href="https://www.facebook.com/westviewpri/"><img src="/images/Facebook.png"   style="width:10%"></a></p>
