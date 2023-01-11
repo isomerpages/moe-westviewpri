@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: West View Primary School
+description: West View Primary School
+image: /images/RWD_logo.png
 permalink: /
 notification: ""
 sections:
@@ -87,3 +87,4 @@ sections:
       image: /images/einstein.png
       alt: EinSTein
 ---
+
