@@ -11,13 +11,16 @@ sections:
       key_highlights:
         - title: What's On
           description: ""
-          url: /WVPS/whats-on
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+          url: /wvps/whats-on/
+        - title: Quick Links
+          description: ""
+          url: /wvps/quick-links/
+        - title: Services
+          description: ""
+          url: /wvps/services/
+        - title: Resources
+          description: ""
+          url: /wvps/resources/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
