@@ -60,14 +60,14 @@ sections:
       image: /images/viewan.png
       alt: Viewan XP
   - infopic:
-      title: EinSTein
-      description: Every child is a genius. In Einstein programme, we aim to support
-        our low progress learners, as we believe that they are unique and
-        endowed with different...
+      title: CHARACTER FIRST
+      description: very child is a concerned citizen. We believe that character is the
+        foundation of all worthwhile success. From weekly Start-It-Right
+        programmes to...
       button: Read More
-      url: /uniquely-us/einstein/
-      image: /images/einstein.png
-      alt: EinSTein
+      url: /uniquely-us/character-first/
+      image: /images/character.png
+      alt: Character First
   - infopic:
       title: DA VINCI
       description: Every child is special, with unique combinations of talents,
@@ -77,4 +77,13 @@ sections:
       url: /uniquely-us/da-vinci/
       image: /images/davinci.png
       alt: DA VINCI
+  - infopic:
+      title: EinSTein
+      description: Every child is a genius. In Einstein programme, we aim to support
+        our low progress learners, as we believe that they are unique and
+        endowed with different...
+      button: Read More
+      url: /uniquely-us/einstein/
+      image: /images/einstein.png
+      alt: EinSTein
 ---
