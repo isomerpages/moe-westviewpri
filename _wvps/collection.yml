@@ -2,11 +2,11 @@ collections:
   wvps:
     output: true
     order:
+      - Resources/.keep
+      - Resources/Resources.md
       - Resources/Resources for Pupils.md
       - Resources/Resources for Parents.md
       - Resources/Calendar.md
-      - Resources/Resources.md
-      - Resources/.keep
       - Privacy Statement.md
       - Terms of Use.md
       - Search.md
