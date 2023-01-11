@@ -21,10 +21,14 @@ sections:
         - title: Resources
           description: ""
           url: /wvps/resources/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Applied Learning Programme
+      subtitle: (Friend of Earth)
+      description: Every child is an active contributor. FRIEND of Earth, provides our
+        pupils with varied opportunities to explore and deepen their learning in
+        Science...
+      button: Read More
+      url: /uniquely-us/alp/
+      image: /images/ALP.png
+      alt: Applied Learning Programme
 ---
