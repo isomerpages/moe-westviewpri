@@ -13,7 +13,7 @@ style="width:45%">
 West View Primary School began functioning on 2 January 1998 to meet the increased demands for places in Bukit Panjang and Chua Chu Kang housing estates, as a result of rapid demographic population shifts. The school was housed in the former Jalan Teck Whye Primary School and Bukit Panjang Malay School buildings with very limited facilities. In December 1999, the school moved to its current premises at 31 Senja Road. Memorable that year was that the pupil population had increased so exponentially that four of its classes had to be located at the school’s second campus at Fajar Secondary School. The pupil population has since stabilised to its current state of 30 classes.  
 
 <img src="/images/WVPS.png"  
-style="width:70%">
+style="width:45%">
 
 Significantly in 2015, the school underwent PERI upgrading to enhance its infrastructure and facilities to provide its pupils with a vibrant and conducive learning environment that better supports their holistic development. The new facilities include an Indoor Sports Hall, a covered basketball court, CCA rooms, dance studio and band room, Outdoor Learning Experiential areas, playground and jogging path. With these enhancements, the school started operating in a single-session in 2016 and started its Student Care Centre (SCC) to provide after-school care.  
 
@@ -31,7 +31,7 @@ In line with national imperatives and MOE priorities and focus, the school’s i
 
   
 <img src="/images/historypage.png"  
-style="width:70%">
+style="width:45%">
 
 *   Since its beginning, Visual Arts and Performing Arts are a major strength of the school. Over the years, the aesthetics programme achieved acclaim and acknowledgement for its quality. It sustained Achievement Award for Aesthetics for the sixth time, before the removal of MOE’s Masterplan of Awards. In 2013, the **_Music Explorations through Brass Band_ Programme** achieved the MOE’s Niche Status for its outstanding performance.
 
