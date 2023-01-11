@@ -50,4 +50,13 @@ sections:
       url: /uniquely-us/strive-modular-cca/
       image: /images/strive.png
       alt: "STRIVE "
+  - infopic:
+      title: VIEWAN XP
+      description: Every child is an engaged inquirer.  VIEWAN XP, our school’s
+        enriched curriculum beyond the regular, seeks to provide platforms and
+        create varied...
+      button: Read More
+      url: /uniquely-us/viewan-xp/
+      image: /images/viewan.png
+      alt: Viewan XP
 ---
