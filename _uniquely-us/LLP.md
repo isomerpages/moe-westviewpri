@@ -64,6 +64,10 @@ img {
 </body>  
 <p align="center">Learning Journey to watch Aladdin – The Musical</p>
 
+##### Upcoming: Learning Journey to watch Frozen – The Musical
+
+<p style="color:red" align="left">Competitions and activities to inculcate the love for language in a multicultural society</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCbcwgau62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="color:blue" align="center">(Video filmed pre-Covid-19)</p>
