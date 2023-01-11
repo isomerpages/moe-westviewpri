@@ -41,4 +41,13 @@ sections:
       url: /uniquely-us/llp/
       image: /images/LLP.png
       alt: Learning for Life Programme
+  - infopic:
+      title: STRIVE
+      description: Every child is a talented pupil. STRIVE@West View, our school-based
+        Modular CCA, exposes our pupils to a broad range of experiences in the
+        various...
+      button: Read More
+      url: /uniquely-us/strive-modular-cca/
+      image: /images/strive.png
+      alt: "STRIVE "
 ---
