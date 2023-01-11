@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Olympism@WVPS%20.jpeg" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Olympism@WVPS%20.jpeg" alt="Department Programmes" style="width:60%;">  
   
 </body>
 
@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Healthy%20Canteen%20.jpeg" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Healthy%20Canteen%20.jpeg" alt="Department Programmes" style="width:60%;">  
   
 </body>
 
@@ -56,7 +56,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Fruittie%20Veggie%20Programme.jpg" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Fruittie%20Veggie%20Programme.jpg" alt="Department Programmes" style="width:60%;">  
   
 </body>
 
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Sugar-free%20Mondays%20.jpeg" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Sugar-free%20Mondays%20.jpeg" alt="Department Programmes" style="width:55%;">  
   
 </body>
 
@@ -88,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Play@Recess%20.jpeg" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Play@Recess%20.jpeg" alt="Department Programmes" style="width:60%;">  
   
 </body>
 
@@ -104,6 +104,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mass%20Workout.jpg" alt="Department Programmes" style="width:80%;">  
+<body><img src="/images/Mass%20Workout.jpg" alt="Department Programmes" style="width:65%;">  
   
 </body>
