@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Picture5.jpeg)" alt="Teachers as role models to learn for life - Arts and Life" style="width:50%;">  
+<body><img src="/images/Picture5.jpeg" alt="Teachers as role models to learn for life - Arts and Life" style="width:70%;">  
   
 </body>  
 <br> 
@@ -41,10 +41,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Picture6.png)" alt="LMAOO" style="width:50%;">  
+<body><img src="/images/Picture6.png" alt="LMAOO" style="width:70%;">  
   
 </body>  
 <br> 
+
+Link to 2022 Arts and Life playlist: [https://youtube.com/playlist?list=PLwZqEOsDzxO\_ZvWKiY0lR0-4qsPOsIoQG](https://youtube.com/playlist?list=PLwZqEOsDzxO_ZvWKiY0lR0-4qsPOsIoQG)
 
 <style>  
 img {  
