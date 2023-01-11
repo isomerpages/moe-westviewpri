@@ -44,7 +44,6 @@ img {
 <body><img src="/images/Picture6.png" alt="LMAOO" style="width:70%;">  
   
 </body>  
-<br> 
 
 Link to 2022 Arts and Life playlist: [https://youtube.com/playlist?list=PLwZqEOsDzxO\_ZvWKiY0lR0-4qsPOsIoQG](https://youtube.com/playlist?list=PLwZqEOsDzxO_ZvWKiY0lR0-4qsPOsIoQG)
 
