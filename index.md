@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /wvps/resources/
   - infopic:
-      title: Applied Learning Programme
+      title: APPLIED LEARNING PROGRAMME
       subtitle: (Friend of Earth)
       description: Every child is an active contributor. FRIEND of Earth, provides our
         pupils with varied opportunities to explore and deepen their learning in
@@ -31,4 +31,14 @@ sections:
       url: /uniquely-us/alp/
       image: /images/ALP.png
       alt: Applied Learning Programme
+  - infopic:
+      title: LEARNING FOR LIFE PROGRAMME
+      subtitle: (ACE the Arts)
+      description: Every child is an artiste. A.C.E the Arts seeks to provide every
+        child with the opportunity to discover and develop their talents. Pupils
+        learn how to...
+      button: Read More
+      url: /uniquely-us/llp/
+      image: /images/LLP.png
+      alt: Learning for Life Programme
 ---
