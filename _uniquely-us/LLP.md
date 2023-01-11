@@ -59,10 +59,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Picture7.png)" alt="Learning Journeys to expose pupils to Singapore’s Arts scene" style="width:50%;">  
+<body><img src="/images/Picture7.png" alt="Learning Journeys to expose pupils to Singapore’s Arts scene" style="width:70%;">  
   
 </body>  
-<br> 
+<p align="center">Learning Journey to watch Aladdin – The Musical</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCbcwgau62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
