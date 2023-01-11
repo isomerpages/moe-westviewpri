@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Core%20CCAs.png" alt="CCA" style="width:80%;">  
+<body><img src="/images/Core%20CCAs.png" alt="CCA" style="width:65%;">  
   
 </body>
 
