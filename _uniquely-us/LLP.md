@@ -48,6 +48,10 @@ img {
 
 Link to 2022 Arts and Life playlist: [https://youtube.com/playlist?list=PLwZqEOsDzxO\_ZvWKiY0lR0-4qsPOsIoQG](https://youtube.com/playlist?list=PLwZqEOsDzxO_ZvWKiY0lR0-4qsPOsIoQG)
 
+<p style="color:red" align="left">Learning Journeys to expose pupils to Singapore’s Arts scene</p>
+Pupils gain aesthetic experiences through exposure to live performances at various venues by quality artists.
+
+
 <style>  
 img {  
   display: block;  
@@ -55,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:50%;">  
+<body><img src="![](/images/Picture7.png)" alt="Learning Journeys to expose pupils to Singapore’s Arts scene" style="width:50%;">  
   
 </body>  
 <br> 
