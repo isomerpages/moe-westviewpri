@@ -77,7 +77,7 @@ What's up in our CCA?
 
 <p style="text-align:center;">Putri Siti Zhulfa Qysha Binte Zulkiffli of Primary 2 Empathy was selected to participate in DanceVerse20. This event provides an opportunity for like-minded pupils to participate in a dance performance from home to showcase their talents. Indeed, the COVID-19 situation has not dampened Qysha’s love for Malay Dance!</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_8I9jSV9iMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="text-align:center" width="560" height="315" src="https://www.youtube.com/embed/_8I9jSV9iMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h4 style="color:black" align="center"><u>Gemilang Tari Si Cilik 2019</u></h4>
 
