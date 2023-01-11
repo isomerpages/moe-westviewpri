@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Picture7.png" alt="Learning Journeys to expose pupils to Singapore’s Arts scene" style="width:70%;">  
+<body><img src="/images/Picture7.png" alt="Learning Journeys to expose pupils to Singapore’s Arts scene" style="width:50%;">  
   
 </body>  
 <p align="center">Learning Journey to watch Aladdin – The Musical</p>
@@ -67,17 +67,17 @@ img {
 
 <p style="color:red" align="left">Competitions and activities to inculcate the love for language in a multicultural society</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YrSdIPS-JSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YrSdIPS-JSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Njjekf_LcZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Njjekf_LcZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bkQJy13LdEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/bkQJy13LdEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 What is ACE the Arts?
 ---------------------
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XCbcwgau62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XCbcwgau62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p style="color:blue" align="center">(Video filmed pre-Covid-19)</p>
 
