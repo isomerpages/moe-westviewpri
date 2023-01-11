@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/westviewpri.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: What's On
+          description: ""
+          url: /WVPS/whats-on
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
