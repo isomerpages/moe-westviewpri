@@ -68,4 +68,13 @@ sections:
       url: /uniquely-us/einstein/
       image: /images/einstein.png
       alt: EinSTein
+  - infopic:
+      title: DA VINCI
+      description: Every child is special, with unique combinations of talents,
+        interest and abilities. DA VINCI, a programme to stretch the high
+        progressing learners, seeks to...
+      button: Read More
+      url: /uniquely-us/da-vinci/
+      image: /images/davinci.png
+      alt: DA VINCI
 ---
