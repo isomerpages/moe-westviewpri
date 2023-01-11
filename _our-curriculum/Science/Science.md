@@ -49,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Scientific%20Inquiry%20@%20WVPS.jpeg" alt="Science Curriclum" style="width:90%;">  
+<body><img src="/images/Scientific%20Inquiry%20@%20WVPS.jpeg" alt="Science Curriclum" style="width:65%;">  
   
 </body>
 
