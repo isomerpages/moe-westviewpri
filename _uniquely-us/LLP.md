@@ -20,6 +20,8 @@ Student’s Voice is an avenue where pupils are encouraged to speak up. Pupils a
 
 ![A platform for pupils to be heard and encouraged - Student’s Voice](/images/Picture%203%20and%204.jpg)
 
+<p style="color:red" align="left">Teachers as role models to learn for life - Arts and Life</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCbcwgau62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="color:blue" align="center">(Video filmed pre-Covid-19)</p>
