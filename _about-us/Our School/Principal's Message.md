@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school.jpeg" alt="Principal's Message" style="width:70%;">  
+<body><img src="/images/school.jpeg" alt="Principal's Message" style="width:50%;">  
   
 </body>
 
