@@ -4,18 +4,9 @@ permalink: /our-curriculum/cca-core/malay-dance/
 description: ""
 third_nav_title: CCA (Core)
 ---
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-<body>
-<img src="/images/WhatsApp%20Image%202022-09-11.jpeg" alt="Malay Dance" style="width:90%;">
-	
-</body>
-<br>
+
+<img style="text-align:center" src="/images/WhatsApp%20Image%202022-09-11.jpeg" alt="Malay Dance" style="width:90%;">
+
 
 Brief on CCA
 ------------
