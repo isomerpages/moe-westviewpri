@@ -22,6 +22,42 @@ Student’s Voice is an avenue where pupils are encouraged to speak up. Pupils a
 
 <p style="color:red" align="left">Teachers as role models to learn for life - Arts and Life</p>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="LMAOO" style="width:50%;">  
+  
+</body>  
+<br> 
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="LMAOO" style="width:50%;">  
+  
+</body>  
+<br> 
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="LMAOO" style="width:50%;">  
+  
+</body>  
+<br> 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCbcwgau62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="color:blue" align="center">(Video filmed pre-Covid-19)</p>
