@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:50%;">  
+<body><img src="![](/images/Picture5.jpeg)" alt="Teachers as role models to learn for life - Arts and Life" style="width:50%;">  
   
 </body>  
 <br> 
@@ -41,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="LMAOO" style="width:50%;">  
+<body><img src="![](/images/Picture6.png)" alt="LMAOO" style="width:50%;">  
   
 </body>  
 <br> 
