@@ -45,4 +45,4 @@ To maximise our pupils’ learning, a variety of experiences are provided for pu
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqVoQDbhdIqItZId9VzIxF1LGwbqmh9fizVMYIi1ZUQnncX67XVRaMntFxQ8Lg-dZn2iJ8UJfdXMOy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/izg9FJVQwSs" height="315" width="560"></iframe>
+<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/izg9FJVQwSs" height="315" width="560"></iframe></div>
