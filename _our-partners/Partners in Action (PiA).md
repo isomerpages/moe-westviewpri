@@ -13,15 +13,15 @@ PiA members assist in school events, organize programmes and events to engage pu
 
 **<u>Guiding Principles for a successful and effective partnership between school and PiA</u>**
 
-<u>**T**</u>rust one another in the partnership
+<u><em><strong>T</strong></em></u>rust one another in the partnership
 
-<u>**R**</u>each out communicate
+<u><em><strong>R</strong></em></u>each out communicate
 
-<u>**U**</u>nderstand and empathise
+<u><em><strong>U</strong></em></u>nderstand and empathise
 
-<u>**S**</u>ustain the partnership
+<u><em><strong>S</strong></em></u>ustain the partnership
 
-<u>**T**</u>eam up for the child
+<u><em><strong>T</strong></em></u>eam up for the child
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYAFnK0M1a7zXt2eXCRPeVmXCYrLqVtAiff0_kIbCcrNlt08FG7uWuR6gb21O7rO-qR3nTXths38s3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
