@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Thu
         time: 7.15 a.m. - 5.15 p.m.
-        description: Closed on Public Holidays
+        description: ""
       - days: Fri
         time: 7.15 a.m. - 4.45 p.m.
         description: ""
