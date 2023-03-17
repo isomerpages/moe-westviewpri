@@ -2,7 +2,6 @@ collections:
   gallery-life-at-wv:
     output: true
     order:
-      - 2023 test.md
       - 2023 Term 1/.keep
       - 2023 Term 2/.keep
       - 2023.md
