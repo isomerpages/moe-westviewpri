@@ -35,3 +35,6 @@ Overview of the different kinds of schools and the experiences in Secondary Scho
 <h2 style="color: midnightblue">Video - Love Beyond Grades</h2>
 Parents and their children coming together to share their reflections on success beyond PSLE grades.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h2 style="color:midnightblue">JOURNEYING WITH OUR CHILDREN, SUPPORTING THEIR ASPIRATIONS</h2>
+<h2 style="color:midnightblue">WE STories</h2>
+<h2 style="color:midnightblue">ECG Portal - MySkillsFuture</h2>
