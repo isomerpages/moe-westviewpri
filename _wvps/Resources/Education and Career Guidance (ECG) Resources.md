@@ -31,5 +31,7 @@ The DSA application dates are not available at the moment, but parents may refer
 For more information on the changes to the PSLE scoring system, and how we are remaking secondary education through Full Subject-Based Banding (Full SBB), please visit <a target="_blank" href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html">this link</a>
 <h2 style="color: midnightblue">Video - Welcome to Secondary School</h2>
 Overview of the different kinds of schools and the experiences in Secondary School
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNbr5rLSxAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2 style="color: midnightblue">Video - Love Beyond Grades</h2>
 Parents and their children coming together to share their reflections on success beyond PSLE grades.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
