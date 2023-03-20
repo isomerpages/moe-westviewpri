@@ -4,7 +4,8 @@ permalink: /about-us/our-school/school-history/
 description: ""
 third_nav_title: Our School
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sosrvj8AvOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sosrvj8AvOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+align = "middle"</iframe>
 
 <img src="/images/School%20History.jpeg"  
 style="width:45%">
