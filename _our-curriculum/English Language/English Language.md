@@ -40,6 +40,6 @@ English is the common language that facilitates bonding among the different ethn
   
 The development of multiple competencies will enable our young to capitalise on the rich opportunities of the digital age, while maintaining a strong foundation in the language. It will allow our students to engage meaningfully and confidently with the wider and more diverse communities both in and out of Singapore.
 
-<img src="/images/EL.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "left">  
+<img src="/images/EL.jpeg" style="width:250px;height:250px;margin-left:15px;" align = "middle">  
 
 The following diagram presents the key features of the _EL Syllabus_ undergirded by the principles of EL teaching and learning (CLLIPS) and EL teaching processes (ACOLADE). Drawing on the model of effective teaching in the Singapore Teaching Practice, a pedagogical emphasis on Multiliteracies, Metacognition, and Inquiry through Dialogue in the EL classroom ensures effective and affective language use for all EL learners. The approach to language teaching and learning ensures a firm and rich foundation for all.
