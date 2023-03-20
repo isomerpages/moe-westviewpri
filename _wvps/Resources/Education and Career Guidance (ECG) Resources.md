@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Resources
 ---
 # PSLE scoring and S1 posting matters
-<h2 style="color:purple">a. Parent engagement deck on PSLE scoring and S1 posting changes</h2>
-<h2 style="color:purple">b. Video - Top Questions on PSLE Changes Answered</h2>
+<h2 style="color:purple">Parent engagement deck on PSLE scoring and S1 posting changes</h2>
+<h2 style="color:purple">Video - Top Questions on PSLE Changes Answered</h2>
 MOE’s Deputy Director-General of Education addresses the top questions parents have asked about the PSLE changes.
 
 <h3>Part 1</h3>
