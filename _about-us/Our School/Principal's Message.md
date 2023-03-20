@@ -38,7 +38,7 @@ Our staff has been instrumental in developing the West Viewan experience. Our te
 
 On behalf of the school, I would like to express my sincere gratitude to the outgoing Principal, Mr Eddie Foo, for bringing the school to greater heights in his tenure at WVPS. We wish him the very best in his next school leadership appointment.  
 
-  <body><img src="/images/DSC08852-2.jpeg" alt="School Principal" style="width:40%;">  
+  <body><img src="/images/DSC08852-2.jpeg" alt="School Principal" style="width:30%;">  
   
 </body>
 
