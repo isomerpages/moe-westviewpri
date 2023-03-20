@@ -19,6 +19,8 @@ MOE’s Deputy Director-General of Education addresses the top questions parents
 Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. To understand how Full SBB impacts your child, please visit this <a target="_blank" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html">link</a>.
 
 <h2 style="color:midnightblue">Video – Explainer on Full SBB</h2>
+Ms Liew Wei Li, current Director-General of Education, explains what Full SBB will look like with its implementation from 2024
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTew7GF4NLs?clip=Ugkx1fLVdBgKeq4Rvb6JMaH3HR_GEvP6aF8b&amp;clipt=EOBdGLiRAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 # Direct School Administration matters (DSA)
 <h2 style="color: midnightblue">MOE page on DSA Processes</h2>
