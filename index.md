@@ -87,4 +87,3 @@ sections:
       image: /images/einstein.png
       alt: EinSTein
 ---
-
