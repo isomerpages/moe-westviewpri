@@ -24,4 +24,6 @@ Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and d
 # Other Useful Resources
 <h2 style="color: midnightblue">PSLE - FSBB Microsite</h2>
 <h2 style="color: midnightblue">Video - Welcome to Secondary School</h2>
+Overview of the different kinds of schools and the experiences in Secondary School
 <h2 style="color: midnightblue">Video - Love Beyond Grades</h2>
+Parents and their children coming together to share their reflections on success beyond PSLE grades.
