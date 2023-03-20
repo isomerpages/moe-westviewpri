@@ -14,8 +14,11 @@ MOE’s Deputy Director-General of Education addresses the top questions parents
 
 # Full Subject-based Banding (Full SBB)
 <h2 style="color:midnightblue">To Understand Full SBB</h2>
-Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. To understand how Full SBB impacts your child, please visit this [link](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
+Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. To understand how Full SBB impacts your child, please visit this [link]
+(https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
+
 <h2 style="color:midnightblue">Video – Explainer on Full SBB</h2>
 
 # Direct School Administration matters (DSA)
+
 # Other Useful Resources
