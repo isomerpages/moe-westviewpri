@@ -16,16 +16,21 @@ locations:
         time: 7.15 a.m. - 4.45 p.m.
         description: ""
     maps_link: ""
-    title: General Office
+    title: Office Hours (General Office)
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6760 0178
+      - email: wvps@moe.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: School Number
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - email: ""
+      - other: 170, 171, 176, 178, 180 ,187, 190, 960, 961, 963, 920, 972M, 976
+    title: "Bus Services:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Bukit Panjang MRT Station, Senja LRT (BP13)
+    title: "Nearest MRT/LRT Station:"
 ---
