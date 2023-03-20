@@ -5,7 +5,7 @@ description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
 notification: "Announcements: New! Updated resources for P6 parents on Education
-  and Career Guidance. Click on \"What's On\" to find out more."
+  and Career Guidance. Click on \"What's On\" to find out more"
 sections:
   - hero:
       background: /images/westviewpri.gif
