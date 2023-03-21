@@ -8,7 +8,6 @@ notification: "Announcements: New! Updated resources for P6 parents on Education
   and Career Guidance. Click on \"What's On\" to find out more."
 sections:
   - hero:
-      background: /images/westviewpri.gif
       key_highlights:
         - title: What's On
           description: ""
