@@ -7,7 +7,7 @@ third_nav_title: Resources
 # PSLE scoring and S1 posting matters
 <h2 style="color:midnightblue">Parent engagement deck on PSLE scoring and S1 posting changes</h2>
 
-[Click here for the deck of slides](/files/ECG/PSLE%202022_Parent%20Engagement_Jan2022.pdf)
+<a href="/files/ECG/PSLE%202022_Parent%20Engagement_Jan2022.pdf" target="_blank">Click here for the deck of slides</a>
 <h2 style="color:midnightblue">Video - Top Questions on PSLE Changes Answered</h2>
 MOE’s Deputy Director-General of Education addresses the top questions parents have asked about the PSLE changes.
 
