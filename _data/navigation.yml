@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/RWD_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Uniquely Us
+    collection: uniquely-us
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Pride
+    collection: our-pride
+  - title: Our Partners
+    collection: our-partners
+  - title: MK@West View
+    collection: mk-at-west-view

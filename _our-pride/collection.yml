@@ -1,0 +1,11 @@
+collections:
+  our-pride:
+    output: true
+    order:
+      - Gallery (Life@WV).md
+      - Achievements/CCA.md
+      - Achievements/Academics.md
+      - Achievements/Staff.md
+      - Achievements/.keep
+      - WOW! Publication.md
+      - 我们心中的故事.md

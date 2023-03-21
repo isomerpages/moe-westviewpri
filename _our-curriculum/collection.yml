@@ -1,0 +1,50 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English Language/.keep
+      - English Language/English Language.md
+      - English Language/What’s up in class?.md
+      - English Language/Department Programmes.md
+      - English Language/Enrichment Programmes & Support.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/What’s up in class?.md
+      - Mathematics/Enrichment Programmes & Support.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/What’s up in class?.md
+      - Science/Department Programmes.md
+      - Science/Enrichment Programmes & Support.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/What's up in class?.md
+      - Mother Tongue Languages/Department Programmes.md
+      - Mother Tongue Languages/Enrichment Programmes & Support.md
+      - Physical Education & Health/.keep
+      - Physical Education & Health/Physical Education & Health.md
+      - Physical Education & Health/What's up in class?.md
+      - Physical Education & Health/Department Programmes.md
+      - Physical Education & Health/Enrichment Programmes & Support.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - "Aesthetics/Music : What's up in class?.md"
+      - "Aesthetics/Art : What's up in class?.md"
+      - Aesthetics/Department Programmes.md
+      - Aesthetics/Enrichment Programmes & Support.md
+      - CCA (Core)/.keep
+      - CCA (Core)/CCA (Core).md
+      - CCA (Core)/Scouts.md
+      - CCA (Core)/Rugby.md
+      - CCA (Core)/Floorball.md
+      - CCA (Core)/Basketball.md
+      - CCA (Core)/Band.md
+      - CCA (Core)/Chinese Dance.md
+      - CCA (Core)/Malay Dance.md
+      - CCA (Core)/Art & Craft Club.md
+      - CCA (Core)/Chinese Culture and Language Society.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/WV as One.md
+      - CCE/We are Leaders.md
+      - PAL.md
