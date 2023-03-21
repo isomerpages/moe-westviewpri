@@ -41,7 +41,7 @@ Parents and their children coming together to share their reflections on success
 This <a href="https://www.moe.gov.sg/docs/default-source/document/education/programmes/social-emotional-learning/sel-resources-for-parents/ecg-parent-guide/ecg-parent-guide.pdf" target="_blank">handbook for parents</a> contains tips and advice on ECG and considerations at key education stages to guide their children.
 
 ![](/images/Picture1.jpeg)
-
+																										 
 <h2 style="color:midnightblue">WE STories</h2>
 This <a href="https://online.fliphtml5.com/obrr/qkde/" target="_blank">handbook</a> highlights the strengths and distinctiveness of secondary schools, specialised and specialised independent schools in the West Zone.  
 
