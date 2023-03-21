@@ -47,8 +47,3 @@ This <a href="https://online.fliphtml5.com/obrr/qkde/" target="_blank">handbook<
 
 _(The 2023 WE STories will be updated at a later date)_
 
-![](/images/WE%20STories%202022%20cover%20page.png)
-<h2 style="color:midnightblue">ECG Portal - MySkillsFuture</h2>
-<a href="https://www.moe.gov.sg/docs/default-source/document/education/programmes/social-emotional-learning/ecg-resources/parents-brochure.pdf" target="_blank">This brochure</a> highlights the key features in MySkillsFuture and how parents can tap on the Portal to support their children in their education and career planning.
-
-![](/images/Picture2.jpeg)
