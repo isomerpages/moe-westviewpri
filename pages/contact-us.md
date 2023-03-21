@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ""
+agency_name: West View Primary School
 locations:
   - address:
       - 31 Senja Road
