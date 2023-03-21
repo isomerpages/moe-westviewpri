@@ -21,7 +21,7 @@ sections:
         - title: Resources
           description: ""
           url: /wvps/resources/
-      background: /images/Banner.gif
+      background: /images/Banner2.gif
   - infopic:
       title: APPLIED LEARNING PROGRAMME
       subtitle: (Friend of Earth)
