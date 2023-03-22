@@ -54,4 +54,11 @@ We use games and other interesting activities to promote interest and reinforce 
 
 Our students learn Mother Tongue through customised and highly engaging learning experiences which help them learn the language better.
 
+![](/images/Mother%20Tonuge/What's%20up%20in%20class/Use%20real-life%20context.jpg)
 <p style="text-align:center;"><em><strong>Use real-life context: relate CL to pupils’ daily life experiences to make learning more meaningful</strong></em></p>
+
+![](/images/Mother%20Tonuge/What's%20up%20in%20class/Use%20of%20ICT.jpg)
+<p style="text-align:center;"><em><strong>Use of ICT for self-directed learning</strong></em></p>
+
+![](/images/Mother%20Tonuge/What's%20up%20in%20class/Promote.jpg)
+<p style="text-align:center;"><em><strong>Promote a positive MT learning environment to make learning fun and enjoyable</strong></em></p>
