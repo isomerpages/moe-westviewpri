@@ -6,7 +6,7 @@ description: ""
 Philosophy
 ------------
 
-The Da Vinci programme in West View Primary School is to nurture critical thinking in our West Viewans. Every child is special, with unique combinations of talents and abilities. All of them deserve the opportunity to learn in ways that make the most of their strengths. So, in Da Vinci, we recognise these differences and provide pupils with varied opportunities to maximise their potential to the fullest.
+The DA VINCI Programme in West View Primary School aims to nurture critical thinking in our West Viewans. Every child is special, with unique combinations of talents and abilities. We recognise these differences and seek to provide pupils with varied opportunities to maximise their potential to the fullest.
 ![](/images/DA%20VINCI/image4-min.png)
 
 <h2 style="color:midnightblue">Desired Student Outcomes</h2>
