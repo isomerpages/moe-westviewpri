@@ -14,7 +14,7 @@ The Da Vinci programme in West View Primary School is to nurture critical thinki
 * Discover their interests and strengths through exploration and experimentation
 * Stretch their imagination to solve authentic problems,
 * Make meaningful connections and apply their learning in new contexts.
-* Curious and bold in exploration,
+* Curious and bold in exploration
 * Committed, adaptable and resilient in learning,
 Self-directed learners who can work independently or collaboratively
 ![](/images/DA%20VINCI/image1-min.png)
