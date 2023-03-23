@@ -74,12 +74,12 @@ BRAIN programme aims to get the high progress pupils to develop, organise and ex
 
 Primary 4 pupils will learn to speak clearly and convey their ideas expressively. They will also improve their skills in articulation and vocal projection. They also get to think on their feet when given impromptu speech situations.
 
-![Enrichment Programme: DA VINCI - B.R.A.I.N. PROGRAMME](/images/Enrichment%20Programme%20DA%20VINCI%20-%20BRAIN%20PROGRAMME_1.jpg)
+![](/images/English/P4%20BRAIN.jpg)
 <p style="text-align:center;"><em>Our Primary 4 pupils engaged in activities to help them hone their presentation skills</em></p>
 
 The Primary 5 pupils will be able to apply the skills taught in this BRAIN Programme to become descriptive writers. They will also learn the importance of being a creative and reflective communicator by infusing literacy devices to make various text types more interesting.
 
-![Enrichment Programme: DA VINCI - B.R.A.I.N. PROGRAMME](/images/Enrichment%20Programme%20DA%20VINCI%20-%20BRAIN%20PROGRAMME_2.jpg)
+![](/images/English/P5%20BRAIN.jpg)
 <p style="text-align:center;"><em>Primary 5 pupils collaborating with their peers to gain exposure to a variety of interesting and engaging writing techniques</em></p>
 
 Click [here](/uniquely-us/da-vinci) to find out more about the English Department’s enrichment programme!
