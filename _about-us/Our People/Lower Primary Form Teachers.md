@@ -4,23 +4,10 @@ permalink: /about-us/our-people/lower-primary-form-teachers/
 description: ""
 third_nav_title: Our People
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-eem5{background-color:#FFF8E8;color:#EC1F26;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-91ac{background-color:#E3EEFF;color:#042847;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-4q2c{background-color:#E3EEFF;color:#EC1F26;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-fj3m{background-color:#FFF;color:#EC1F26;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-gcor{background-color:#223A5E;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ha5v{background-color:#FFF8E8;color:#042847;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gcor" colspan="4">PRIMARY 1</th>
+    <th colspan="4" class="tg-gcor">PRIMARY 1</th>
   </tr>
 </thead>
 <tbody>
@@ -72,17 +59,17 @@ third_nav_title: Our People
 .tg .tg-ha5v{background-color:#FFF8E8;color:#042847;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-nqym{background-color:#FFF8E8;color:#042847;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+"&gt;<table class="tg">
 <thead>
   <tr>
-    <th class="tg-gcor" colspan="3">PRIMARY 2</th>
+    <th colspan="3" class="tg-gcor">PRIMARY 2</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ha5v">2 Aspiration</td>
     <td class="tg-eem5"><a href="mailto:Lim_HUI_MIN_C@moe.edu.sg">Mdm Elaine Lim</a></td>
-    <td class="tg-nqym"><span style="color:#042847;background-color:#FFF8E8">Thilagaletchumi Krishnamoorthi</span></td>
+    <td class="tg-nqym"><span style="<td class="><a href="thilagaletchumi_krishnamoorthi.moe.edu.sg">Mdm Thilagaletchumi Krishnamoorthi </a></span></td>
   </tr>
   <tr>
     <td class="tg-91ac">2 Brilliance</td>
