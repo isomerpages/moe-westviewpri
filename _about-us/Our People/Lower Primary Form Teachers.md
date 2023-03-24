@@ -105,10 +105,10 @@ third_nav_title: Our People
 
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
-|<strong>1 Aspiration</strong>|Ms Clara Chia|Mdm Tan Hoon Hoon|
-|<strong>1 Brilliance</strong>|Ms Deviga|Mdm Liu Ying|
-|<strong>1 Confidence</strong>|Mdm Christine Tey|Mr Tan Coon Wei|
-|<strong>1 Diligence</strong>|Ms Michelle Khoo|Mdm Normanisha|
+|<strong>1 Aspiration</strong>|[Ms Clara Chia](mailto:chia_min_clara@moe.edu.sg)|[Mdm Tan Hoon Hoon](mailto:tan_hoon_hoon_b@moe.edu.sg)|
+<strong>1 Brilliance</strong>|[Ms Deviga](mailto:s_deviga@moe.edu.sg)|[Mdm Liu Ying](liu_ying@schools.gov.sg)|
+|<strong>1 Confidence</strong>|[Mdm Christine Tey](mailto:tey_sew_keng@moe.edu.sg)|[Mr Tan Coon Wei](mailto:tan_coon_wei.moe.edu.sg)|
+|<strong>1 Diligence</strong>|[Ms Michelle Khoo](mailto:khoo_wei_lin_michelle@moe.edu.sg)|Mdm Normanisha|
 |<strong>1 Empathy</strong>|Mrs Ho-Tan Soon Hui|Mdm Suriani|
 
 <h2 style="color:midnightblue; text-align:center;">Primary 2</h2>
