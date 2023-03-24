@@ -11,8 +11,7 @@ third_nav_title: Achievements
 5)  [Chinese Dance](/our-curriculum/cca-core/chinese-dance) <br>
 6)  [Band](/our-curriculum/cca-core/band) <br>
 7)  [Art & Craft Club](/our-curriculum/cca-core/art-n-craft-club) <br>
-8)  [Chinese Cultural and Language Society](/our-curriculum/cca-core/chinese-cultural-and-language-society) <br>
-9)  [Scouts](/our-curriculum/cca-core/scouts)
+8)  [Scouts](/our-curriculum/cca-core/scouts)
 
 ### [2022](/our-pride/achievements/cca/2022/)
 
