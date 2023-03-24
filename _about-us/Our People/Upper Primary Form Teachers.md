@@ -103,7 +103,7 @@ third_nav_title: Our People
 
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
-|<strong>6 Aspiration</strong>|Mrs Lum-Ang Chai Hwa|Mdm Majidah Ramli|
-|<strong>6 Brilliance</strong>|Mrs Charmian New|Mdm Hussain Thasvenna|
+|<strong>6 Aspiration</strong>|[Mrs Lum-Ang Chai Hwa](mailto:ang_chai_hwa@moe.edu.sg)|[Mdm Majidah Ramli](mailto:majidah_ramli@moe.edu.sg)|
+|<strong>6 Brilliance</strong>|[Mrs Charmian New](mailto:lee_lufang_charmian@moe.edu.sg)|[Mdm Hussain Thasvenna](mailto:hussain_thasveena@moe.edu.sg)|
 |<strong>6 Confidence</strong>|Mrs Cai Xingyi|Mdm Yow Ai Hui|
 |<strong>6 Diligence</strong>|Mr Peter Ho|Mdm Ng Ling Ling|
