@@ -117,4 +117,4 @@ third_nav_title: Our People
 |<strong>4 Brilliance</strong>|[Mr Uresh](mailto:uresh_s_kandasamy@moe.edu.sg)|[Mdm Wee Shi Xiu](mailto:wee_shi_xiu@moe.edu.sg)|
 |<strong>4 Confidence</strong>|[Mrs Raja-Loke Shu Fen](mailto:loke_shu_fen@moe.edu.sg)|[Mdm Lim Seow Yin](mailto:lim_seow_yin@moe.edu.sg)|
 |<strong>4 Diligence</strong>|[Mdm Chua Kiat Eng](mailto:chua_kiat_eng@moe.edu.sg)|[Mdm Sarifah Hassan](mailto:sarifah.hassan@moe.edu.sg)||
-|<strong>4 Empathy</strong>|[Mrs Lim-Chua Pheck Keng](mailto:chua_pheck_keng@moe.edu.sg)|[Mdm Zakiah](mailto:zakiah_arip@moe.edu.sg|
+|<strong>4 Empathy</strong>|[Mrs Lim-Chua Pheck Keng](mailto:chua_pheck_keng@moe.edu.sg)|[Mdm Zakiah](mailto:zakiah_arip@moe.edu.sg)|
