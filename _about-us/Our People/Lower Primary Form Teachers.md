@@ -115,7 +115,7 @@ third_nav_title: Our People
 
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
-|<strong>2 Aspiration</strong>|[Mdm Elaine Lim](mailto: Lim_HUI_MIN_C@moe.edu.sg)|[Ms Thilagaletchumi](mailto:thilagaletchumi_krishnamoorthi@moe.edu.sg)|
+|<strong>2 Aspiration</strong>|[Mdm Elaine Lim](mailto:Lim_HUI_MIN_C@moe.edu.sg)|[Ms Thilagaletchumi](mailto:thilagaletchumi_krishnamoorthi@moe.edu.sg)|
 |<strong>2 Brilliance</strong>|[Mr Ngho Seng Kuang](mailto:ngho_seng_kuang@moe.edu.sg)|[Mdm Tan Toon Lim](mailto:tan_toon_lim@moe.edu.sg)|
 |<strong>2 Confidence</strong>|[Mrs Tan-Tay Li Gek](mailto:tay_li_gek@moe.edu.sg)|[Mdm Siti Saleha](mailto:siti_saleha_zainal_abidin@moe.edu.sg)
 |<strong>2 Diligence</strong>|[Mr Danny Leong](mailto:danny_leong_weng_keong@moe.edu.sg)|[Mdm Cheng Siew Kim](mailto:cheng_siew_kim@moe.edu.sg)|
