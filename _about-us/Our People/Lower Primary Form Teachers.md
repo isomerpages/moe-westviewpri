@@ -130,8 +130,7 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 |<strong>2 Aspiration</strong>|Mdm Elaine Lim|Ms Thilagaletchumi|
 |<strong>2 Briliance</strong>|Mr Ngho Seng Kuang|Mdm Tan Toon Lim|
-|<strong>2 Confidence</strong>|Mrs Tan-Tay Li Geky|Mdm Siti Seleha
+|<strong>2 Confidence</strong>|Mrs Tan-Tay Li Gek|Mdm Siti Seleha
 |<strong>2 Diligence</strong>|Mr Danny Leong|Mdm Cheng Siew Kim|
 |<strong>2 Empathy</strong>|Mr Neo Zhi Cong|Mdm Zhao Yijin|
 |<strong>2 Faith</strong>|Ms Angie Tan|Mdm Shi Yuanna|
-
