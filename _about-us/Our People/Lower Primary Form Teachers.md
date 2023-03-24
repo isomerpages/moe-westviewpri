@@ -115,9 +115,9 @@ third_nav_title: Our People
 
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
-|<strong>2 Aspiration</strong>|[Mdm Elaine Lim](mailto:)|[Ms Thilagaletchumi](mailto:)|
-|<strong>2 Brilliance</strong>|[Mr Ngho Seng Kuang](mailto:)|[Mdm Tan Toon Lim](mailto:)|
-|<strong>2 Confidence</strong>|[Mrs Tan-Tay Li Gek](mailto:)|[Mdm Siti Seleha](mailto:)
+|<strong>2 Aspiration</strong>|[Mdm Elaine Lim](mailto: Lim_HUI_MIN_C@schools.gov.sg)|[Ms Thilagaletchumi](mailto:thilagaletchumi_krishnamoorthi@schools.gov.sg)|
+|<strong>2 Brilliance</strong>|[Mr Ngho Seng Kuang](mailto:ngho_seng_kuang@schools.gov.sg)|[Mdm Tan Toon Lim](mailto:tan_toon_lim@schools.gov.sg)|
+|<strong>2 Confidence</strong>|[Mrs Tan-Tay Li Gek](mailto:tay_li_gek@schools.gov.sg)|[Mdm Siti Saleha](mailto:siti_saleha_zainal_abidin@schools.gov.sg)
 |<strong>2 Diligence</strong>|[Mr Danny Leong](mailto:)|[Mdm Cheng Siew Kim](mailto:)|
 |<strong>2 Empathy</strong>|[Mr Neo Zhi Cong](mailto:)|[Mdm Zhao Yijin](mailto:)|
 |<strong>2 Faith</strong>|[Ms Angie Tan](mailto:)|[Mdm Shi Yuanna](mailto:)|
