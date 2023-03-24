@@ -115,9 +115,9 @@ third_nav_title: Our People
 
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
-|<strong>2 Aspiration</strong>|Mdm Elaine Lim|Ms Thilagaletchumi|
-|<strong>2 Brilliance</strong>|Mr Ngho Seng Kuang|Mdm Tan Toon Lim|
-|<strong>2 Confidence</strong>|Mrs Tan-Tay Li Gek|Mdm Siti Seleha
-|<strong>2 Diligence</strong>|Mr Danny Leong|Mdm Cheng Siew Kim|
-|<strong>2 Empathy</strong>|Mr Neo Zhi Cong|Mdm Zhao Yijin|
-|<strong>2 Faith</strong>|Ms Angie Tan|Mdm Shi Yuanna|
+|<strong>2 Aspiration</strong>|[Mdm Elaine Lim](mailto:)|[Ms Thilagaletchumi](mailto:)|
+|<strong>2 Brilliance</strong>|[Mr Ngho Seng Kuang](mailto:)|[Mdm Tan Toon Lim](mailto:)|
+|<strong>2 Confidence</strong>|[Mrs Tan-Tay Li Gek](mailto:)|[Mdm Siti Seleha](mailto:)
+|<strong>2 Diligence</strong>|[Mr Danny Leong](mailto:)|[Mdm Cheng Siew Kim](mailto:)|
+|<strong>2 Empathy</strong>|[Mr Neo Zhi Cong](mailto:)|[Mdm Zhao Yijin](mailto:)|
+|<strong>2 Faith</strong>|[Ms Angie Tan](mailto:)|[Mdm Shi Yuanna](mailto:)|
