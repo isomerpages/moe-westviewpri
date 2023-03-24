@@ -94,7 +94,7 @@ third_nav_title: Our People
 
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
-|<strong>5 Aspiration</strong>|Mr Tan Kee Jin|Mdm Chen Jing Ting|
+|<strong>5 Aspiration</strong>|[Mr Tan Kee Jin](mailto:tan_kee_jin@moe.edu.sg)|[Mdm Chen Jing Ting](mailto:chen_jing_ting@moe.edu.sg)|
 |<strong>5 Briliance</strong>|Mr Chng Chyi Woei|Ms Diana Low|
 |<strong>5 Confidence</strong>|Mr Aaron Yip|Mrs Esther Chan|
 |<strong>5 Diligence</strong>|Mdm Nurhijjah|Mr Tan Leng Khoon|
