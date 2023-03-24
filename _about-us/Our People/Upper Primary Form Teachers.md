@@ -90,3 +90,20 @@ third_nav_title: Our People
   </tr>
 </tbody>
 </table>
+<h2 style="color:midnightblue; text-align:center;">Primary 5</h2>
+
+|&nbsp; |&nbsp; |&nbsp;|
+| -------- | -------- | -------- |
+|<strong>5 Aspiration</strong>|Mr Tan Kee Jin|Mdm Chen Jing Ting|
+|<strong>5 Briliance</strong>|Mr Chng Chyi Woei|Ms Diana Low|
+|<strong>5 Confidence</strong>|Mr Aaron Yip|Mrs Esther Chan|
+|<strong>5 Diligence</strong>|Mdm Nurhijjah|Mr Tan Leng Khoon|
+
+<h2 style="color:midnightblue; text-align:center;">Primary 6</h2>
+
+|&nbsp; |&nbsp; |&nbsp;|
+| -------- | -------- | -------- |
+|<strong>6 Aspiration</strong>|Mrs Lum-Ang Chai Hwa|Mdm Majidah Ramli|
+|<strong>6 Brilliance</strong>|Mrs Charmian New|Mdm Hussain Thasvenna|
+|<strong>6 Confidence</strong>|Mrs Cai Xingyi|Mdm Yow Ai Hui|
+|<strong>6 Diligence</strong>|Mr Peter Ho|Ms Ng Ling Ling|
