@@ -106,4 +106,4 @@ third_nav_title: Our People
 |<strong>6 Aspiration</strong>|Mrs Lum-Ang Chai Hwa|Mdm Majidah Ramli|
 |<strong>6 Brilliance</strong>|Mrs Charmian New|Mdm Hussain Thasvenna|
 |<strong>6 Confidence</strong>|Mrs Cai Xingyi|Mdm Yow Ai Hui|
-|<strong>6 Diligence</strong>|Mr Peter Ho|Ms Ng Ling Ling|
+|<strong>6 Diligence</strong>|Mr Peter Ho|Mdm Ng Ling Ling|
