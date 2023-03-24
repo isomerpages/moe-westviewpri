@@ -111,3 +111,27 @@ third_nav_title: Our People
   </tr>
 </tbody>
 </table>
+
+
+
+<h2 style="color:midnightblue; text-align:center;">Primary 1</h2>
+
+|&nbsp; |&nbsp; |&nbsp;|
+| -------- | -------- | -------- |
+|<strong>1 Aspiration</strong>|Ms Clara Chia|Mdm Tan Hoon Hoon|
+|<strong>1 Briliance</strong>|Ms Deviga|Mdm Liu Ying|
+|<strong>1 Confidence</strong>|Mdm Christine Tey|Mr Tan Coon Wei|
+|<strong>1 Diligence</strong>|Ms Michelle Khoo|Mdm Normanisha|
+|<strong>1 Empathy</strong>|Mrs Ho-Tan Soon Hui|Mdm Suriani|
+
+<h2 style="color:midnightblue; text-align:center;">Primary 2</h2>
+
+|&nbsp; |&nbsp; |&nbsp;|
+| -------- | -------- | -------- |
+|<strong>2 Aspiration</strong>|Mdm Elaine Lim|Ms Thilagaletchumi|
+|<strong>2 Briliance</strong>|Mr Ngho Seng Kuang|Mdm Tan Toon Lim|
+|<strong>2 Confidence</strong>|Mrs Tan-Tay Li Geky|Mdm Siti Seleha
+|<strong>2 Diligence</strong>|Mr Danny Leong|Mdm Cheng Siew Kim|
+|<strong>2 Empathy</strong>|Mr Neo Zhi Cong|Mdm Zhao Yijin|
+|<strong>2 Faith</strong>|Ms Angie Tan|Mdm Shi Yuanna|
+
