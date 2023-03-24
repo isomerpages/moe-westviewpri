@@ -104,7 +104,7 @@ third_nav_title: Our People
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
 |<strong>3 Aspiration</strong>|Mdm Yana|Mdm Chan Wai Ling|
-|<strong>3 Briliance</strong>|Mdm Leong Yahui|Mr Ramesh|
+|<strong>3 Brilliance</strong>|Mdm Leong Yahui|Mr Ramesh|
 |<strong>3 Confidence</strong>|Mr Ang Eng Chuan|Mdm Noor Azleen|
 |<strong>3 Diligence</strong>|Mdm He Lu|Ms Gurdeep Kaur|
 |<strong>3 Empathy</strong>|Mdm Soo Bee Li|Mdm Michelle Lew|
@@ -114,7 +114,7 @@ third_nav_title: Our People
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
 |<strong>4 Aspiration</strong>|Mdm Agnes Ang|Mr Andy Kong|
-|<strong>4 Briliance</strong>|Mr Uresh|Mdm Wee Shi Xiu|
+|<strong>4 Brilliance</strong>|Mr Uresh|Mdm Wee Shi Xiu|
 |<strong>4 Confidence</strong>|Mrs Raja-Loke Shu Fen|Mdm Lim Seow Yin|
 |<strong>4 Diligence</strong>|Mdm Chua Kiat Eng|Mdm Sarifah Hassan||
 |<strong>4 Empathy</strong>|Mrs Lim-Chuan Pheck Keng|Mdm Zakiah|
