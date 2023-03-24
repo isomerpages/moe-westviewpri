@@ -109,7 +109,7 @@ third_nav_title: Our People
 <strong>1 Brilliance</strong>|[Ms Deviga](mailto:s_deviga@moe.edu.sg)|[Mdm Liu Ying](liu_ying@schools.gov.sg)|
 |<strong>1 Confidence</strong>|[Mdm Christine Tey](mailto:tey_sew_keng@moe.edu.sg)|[Mr Tan Coon Wei](mailto:tan_coon_wei.moe.edu.sg)|
 |<strong>1 Diligence</strong>|[Ms Michelle Khoo](mailto:khoo_wei_lin_michelle@moe.edu.sg)|[Mdm Normanisha](mailto:normanisha_sarmani@schools.gov.sg)|
-|<strong>1 Empathy</strong>|Mrs Ho-Tan Soon Hui|Mdm Suriani|
+|<strong>1 Empathy</strong>|[Mrs Ho-Tan Soon Hui](mailto:tan_soon_hui_a@moe.edu.sg)|[Mdm Suriani](mailto:suriani_abdul_bakri@moe.edu.sg)|
 
 <h2 style="color:midnightblue; text-align:center;">Primary 2</h2>
 
