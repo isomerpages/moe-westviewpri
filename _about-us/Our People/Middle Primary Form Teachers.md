@@ -103,11 +103,11 @@ third_nav_title: Our People
 
 |&nbsp; |&nbsp; |&nbsp;|
 | -------- | -------- | -------- |
-|<strong>3 Aspiration</strong>|Mdm Yana|Mdm Chan Wai Ling|
-|<strong>3 Brilliance</strong>|Mdm Leong Yahui|Mr Ramesh|
-|<strong>3 Confidence</strong>|Mr Ang Eng Chuan|Mdm Noor Azleen|
-|<strong>3 Diligence</strong>|Mdm He Lu|Ms Gurdeep Kaur|
-|<strong>3 Empathy</strong>|Mdm Soo Bee Li|Mdm Michelle Lew|
+|<strong>3 Aspiration</strong>|[Mdm Yana](mailto:yana_yaacob@moe.edu.sg)|[Mdm Chan Wai Ling](mailto:chan_wai_ling@moe.edu.sg)|
+|<strong>3 Brilliance</strong>|[Mdm Leong Yahui](mailto:leong_yahui@moe.edu.sg)|[Mr Ramesh](mailto:ramesh_ramiya@moe.edu.sg)|
+|<strong>3 Confidence</strong>|[Mr Ang Eng Chuan](mailto:ang_eng_chuan@moe.edu.sg)|[Mdm Noor Azleen](mailto:noor_azleen_sarbini@moe.edu.sg)|
+|<strong>3 Diligence</strong>|[Mdm He Lu](mailto:he_lu@moe.edu.sg)|[Ms Gurdeep Kaur](mailto:gurdeep.kaur_gurnam_singh@moe.edu.sg)|
+|<strong>3 Empathy</strong>|[Mdm Soo Bee Li](mailto:soo_bee_li@moe.edu.sg)|[Mdm Michelle Lew](mailto:lew_yee_loo_michelle@moe.edu.sg)|
 
 <h2 style="color:midnightblue; text-align:center;">Primary 4</h2>
 
