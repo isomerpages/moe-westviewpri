@@ -67,7 +67,7 @@ c.        Character and Citizenship Education (CCE)
 
 **At WEST VIEW Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023</u>:**
 
-<p style="text-align:center;"><strong>Primary 5</strong></p>
+<h2 style="color:midnightblue; text-align: center">Primary 5</h2>
 
 | CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (E.g. Term 1 Week 2) |
 |:---:|:---:|:---:|:---:|
@@ -75,7 +75,7 @@ c.        Character and Citizenship Education (CCE)
 |Growing Years| Did you know?<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. | Term 2 Week 6 - 10 |
 |Growing Years| Keeping Myself Safe<br>(60 Min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 3 Week 1 - 4 |
 
-<p style="text-align:center;"><strong>Primary 6</strong></p>
+<h2 style="color:midnightblue; text-align: center">Primary 6</h2>
 
 | CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (E.g. Term 1 Week 2) |
 |---|---|---|---|
