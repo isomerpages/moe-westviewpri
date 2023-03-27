@@ -10,7 +10,7 @@ Recommended Resources for the learning of Chinese Language
 
 儿童阅读推荐（2023年3月）
 ----------------
-[![儿童阅读推荐（2023年3月](/images/Resources%20for%20pupils/Chinese%20Language/book%20recommendations%20-%20holiday%20reads%202023-03.png)]()
+[![儿童阅读推荐（2023年3月](/images/Resources%20for%20pupils/Chinese%20Language/book%20recommendations%20-%20holiday%20reads%202023-03.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/Book%20Recommendation%20(CPCLL)%20Primary%20Term%201%202023.pdf)
 
 听故事，识世界
 --------------------------------------------------------------
