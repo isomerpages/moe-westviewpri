@@ -89,37 +89,11 @@ Please note: <br>
 
 **Information for Parents**
 
-8.        Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+1.        Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.        Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Resources%20for%20parents/2023%20SED%20Opt%20out%20form_website.pdf) . A completed opt-out form is to be submitted by **3 February 2023**.
+2.        Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Resources%20for%20parents/2023%20SED%20Opt%20out%20form_website.pdf) . A completed opt-out form is to be submitted by **3 February 2023**.
 
-10.      Parents can contact the school at **6760 0178** for discussion or to seek clarification about the school’s sexuality education programme.
-
-11.      Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
-
-JOURNEYING WITH OUR CHILDREN, SUPPORTING THEIR ASPIRATIONS
-----------------------------------------------------------
-
-<img src="/images/Picture1.jpeg"  
-style="width:40%">
-
-This [handbook for parents](https://www.moe.gov.sg/docs/default-source/document/education/programmes/social-emotional-learning/sel-resources-for-parents/ecg-parent-guide/ecg-parent-guide.pdf) contains tips and advice on ECG and considerations at key education stages to guide their children.
-
-ECG PORTAL – MYSKILLSFUTURE
----------------------------
-
-<img src="/images/Picture2.jpeg"  
-style="width:40%">
-
-[This brochure](https://www.moe.gov.sg/docs/default-source/document/education/programmes/social-emotional-learning/ecg-resources/parents-brochure.pdf) highlights the key features in MySkillsFuture and how parents can tap on the Portal to support their children in their education and career planning.
-
-WE STories
-----------
-
-<img src="/images/WE%20STories%202022%20cover%20page.png"  
-style="width:40%">
-
-This [handbook](https://online.fliphtml5.com/obrr/qkde/) highlights the strengths and distinctiveness of secondary schools, specialised and specialised independent schools in the West Zone.
+3.      Parents can contact the school at **6760 0178** for discussion or to seek clarification about the school’s sexuality education programme.
 
 School Holiday Edition
 ----------------------
