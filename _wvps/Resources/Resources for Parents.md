@@ -65,7 +65,7 @@ c.        Character and Citizenship Education (CCE)
 
   
 
-**At WEST VIEW Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023</u>:**
+**At WEST VIEW Primary School, the following lessons from Sexuality Education lessons will be taught in <u>2023</u>:**
 
 <h2 style="color:midnightblue; text-align: center">Primary 5</h2>
 
