@@ -65,7 +65,7 @@ c.        Character and Citizenship Education (CCE)
 
   
 
-**At WEST VIEW Primary School, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:**
+**At WEST VIEW Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023</u>:**
 
 <p style="text-align:center;"><strong>Primary 5</strong></p>
 
@@ -74,78 +74,24 @@ c.        Character and Citizenship Education (CCE)
 | Growing Years | The Changes in Me<br>(60 Min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2 Week 6 - 10 |
 |Growing Years| Did you know?<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. | Term 2 Week 6 - 10 |
 |Growing Years| Keeping Myself Safe<br>(60 Min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 3 Week 1 - 4 |
+
 <p style="text-align:center;"><strong>Primary 6</strong></p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xt79{background-color:#FFF8E8;color:#1C3458;text-align:left;vertical-align:top}
-.tg .tg-o4ng{background-color:#E3EEFF;color:#1C3458;text-align:left;vertical-align:top}
-.tg .tg-w9qd{background-color:#E3EEFF;color:#1C3458;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-w9qd">UNIT</th>
-    <th class="tg-w9qd">LESSONS / DURATION</th>
-    <th class="tg-w9qd">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-    <th class="tg-w9qd">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-o4ng" rowspan="5">Are We More Than Friends?</td>
-    <td class="tg-o4ng">Who Are My Friends?<br>(30 min)</td>
-    <td class="tg-o4ng">·       identify the qualities of a healthy friendship<br>·       recognise the importance of making wise choices in friendship</td>
-    <td class="tg-o4ng">Term 4 Week 7-10</td>
-  </tr>
-  <tr>
-    <td class="tg-xt79">Am I A Good Friend?<br>(30 min)</td>
-    <td class="tg-xt79">·       identify the qualities that they have as a friend<br>·       recognise the importance of developing in oneself the qualities of a good friend</td>
-    <td class="tg-xt79">Term 4 Week 7-10</td>
-  </tr>
-  <tr>
-    <td class="tg-o4ng">What is Love?<br>(30 min)</td>
-    <td class="tg-o4ng">·       identify the characteristics of love and infatuation<br>·       distinguish between the characteristics of love versus infatuation<br>·       identify strong feelings arising from infatuatio</td>
-    <td class="tg-o4ng">Term 4 Week 7-10</td>
-  </tr>
-  <tr>
-    <td class="tg-xt79">Am I Falling In Love?<br>(30 min)</td>
-    <td class="tg-xt79">·       manage strong feelings arising from infatuation<br>·       identify ways to manage and cope with teasing from peers</td>
-    <td class="tg-xt79">Term 4 Week 7-10</td>
-  </tr>
-  <tr>
-    <td class="tg-o4ng">Main Task<br> (30 min)</td>
-    <td class="tg-o4ng">Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
-    <td class="tg-o4ng">Term 4 Week 7-10</td>
-  </tr>
-  <tr>
-    <td class="tg-xt79" rowspan="3">Friends or Foes?</td>
-    <td class="tg-xt79">Are You Really My Friend?<br>(30 min)</td>
-    <td class="tg-xt79">·       identify the pros and cons of forming relationships through social networking websites<br>·       know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-xt79">Term 4 Week 7-10</td>
-  </tr>
-  <tr>
-    <td class="tg-o4ng">Is It All Safe?<br>(30 min)</td>
-    <td class="tg-o4ng">·       know that some information (like pornography) received through the Internet may be harmful<br>·       know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td class="tg-o4ng">Term 4 Week 7-10</td>
-  </tr>
-  <tr>
-    <td class="tg-xt79">Main Task<br> (30 min)</td>
-    <td class="tg-xt79">Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.<br></td>
-    <td class="tg-xt79">Term 4 Week 7-10</td>
-  </tr>
-</tbody>
-</table>
+| CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (E.g. Term 1 Week 2) |
+|---|---|---|---|
+| Growing Years | Are We More than Friends?<br>Lesson 1<br>(60 Min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. | Term 2 Week 1 - 5 |
+|  | Are We More than Friends?<br>Lesson 2<br>(60 Min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other. | Term 2 Week 1 - 5 |
+|  | Did you Know?*<br>(60 Min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 6 - 9 |
+
+Please note: <br>
+*For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort
+
 
 **Information for Parents**
 
 8.        Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.        Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt%20Out%20Form%202022%20Pri_West%20View.pdf) . A completed opt-out form is to be submitted by **18 February 2022, Friday**.
+9.        Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Resources%20for%20parents/2023%20SED%20Opt%20out%20form_website.pdf) . A completed opt-out form is to be submitted by **3 February 2023**.
 
 10.      Parents can contact the school at **6760 0178** for discussion or to seek clarification about the school’s sexuality education programme.
 
