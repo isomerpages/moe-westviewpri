@@ -29,7 +29,15 @@ Click the picture below to access the Handbook.
 | -------- | -------- | -------- |
 |Managing Digital Usage| How do I stop my child from playing online games?|34:53|
 |Managing Digital Usage|What is an appropriate age to give children a mobile phone?|38:50|
-| vi. | Facebook Live:<br><a href="https://go.gov.sg/fblive-blended-learning" target="_blank">Ask Me Anything About...<br>Blending Learning</a><br>[55 mins] | A Facebook Live Session with Director of Educational Technology at MOE, Mr Aaron Loh, and Programme Leader at Singapore Institute of Technology, Dr Jiow Hee Jhee, where they shared what Blended Learning would look like for our students and parents’ roles at home. |
+|
+| vi. | Facebook Live:<br><a href="https://go.gov.sg/fblive-blended-learning" target="_blank">Ask Me Anything About...<br>Blending Learning</a><br>[55 mins] | A Facebook Live Session with Director of Educational Technology at MOE, Mr Aaron Loh, and Programme Leader at Singapore Institute of Technology, Dr Jiow Hee Jhee, where they shared what Blended Learning would look like for our students and parents’ roles at home. 
+
+|Topic|Question|Video Timestamp|
+| -------- | -------- | -------- |
+|Home-Based Learning|How different is blended learning from Home-Based Learning?|19:41|
+|Managing Screentime|What are some suggestions for parents to manage their children's digital time?|23:02|
+|Guiding Our Children in Blended Learning|How do parents guide children to participate in Blended Learning effectively?|40:00|
+|
 | vii. |<a href="https://go.gov.sg/moecorpsite-cw-resources" target="_blank">Cyber Wellness education</a> | MOE’s Cyber Wellness education focuses on helping our students to be responsible digital learners. Check out additional resources from external agencies like <a href="https://go.gov.sg/medialiteracycouncil-cw-resources" target="_blank">Media Literacy Council</a> and <a href="https://go.gov.sg/nlb-sure-campaign" target="_blank"> S.U.R.E. by National Library Board</a> to support our student’s digital journey. |
 
 
