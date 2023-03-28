@@ -17,7 +17,21 @@ Click the picture below to access the Handbook.
 [![P1 2023 Parents' Handbook](/images/Parents%20handbook%2020223%20cover%20image.png)](/files/P1%20Parents%20Handbook%202023.pdf)
 
 ## Promoting Cyber Wellness
-Section under construction
+|&nbsp;| Resources | Description |
+|---|:---:|:---:|
+| i. | Instagram post:<br><a href="https://go.gov.sg/instapostcwconcerns" target="_blank">What are some concerns we may have with our children's digital journey?</a> | The cyberspace provides our students with a vast amount of information and learning opportunities.<br><br>This Instagram post on @parentingwith.moesg shares tips on how to support our students through some of the challenges they may face online. When engaging parents, you may consider using these tips to find out more about their challenges and share what can be done to address their concerns. |
+| ii. | Instagram post:<br><a href="https://go.gov.sg/instapostcwsaferinternetday" target="_blank">Safer Internet Day</a>| There may be potential dangers as our students navigate the cyberspace.<br><br>This Instagram post on @parentingwith.moesg shares tips on how to support and guide our students to stay safe online. |
+| iii. | Schoolbag Article:<br><a href="https://go.gov.sg/sbarticle-keeping-kids-safe-online" target="_blank">Keeping kids safe online - a community effort</a> | Check out how students from Woodlands Primary and Tampines North Primary are learning to be safe online through their cyber wellness curriculum, in collaboration with Cyber Security Agency (CSA).<br><br>Let’s continue to work together with our parents and community partners to keep our students safe online |
+| iv. | Parent Kit:<br><a href="https://go.gov.sg/moe-raising-a-digitally-smart-child" target="_blank">Raising a Digitally Smart Child</a> | Living in a digital world has transformed the way we live, work, and play.<br><br>This Parent Kit issue on Raising a Digitally Smart Child shares tips and resources on practising appropriate device usage, managing over-reliance on devices and ways to handle cyber-bullying.<br><br>You may tap on this resource to provide parents with tips for home-based learning. |
+| v. | Instagram live:<br><a href="https://go.gov.sg/instalive-raising-digitally-smart-kids" target="_blank">Raising Digitally Smart Kids</a><br>[52 mins] | An Instagram Live Session on Raising Digitally Smart Kids with Mr Lucian Teo, Father of 3; and Ms Esther Foong-Tan, Mother of 2, where they shared personal experiences and tips on parents’ top questions in this digital age:
+
+|Topic| Question|Video Timestamp|
+| -------- | -------- | -------- |
+|Managing Digital Usage| How do I stop my child from playing online games?|34:53|
+|Managing Digital Usage|What is an appropriate age to give children a mobile phone?|38:50|
+| vi. | Facebook Live:<br><a href="https://go.gov.sg/fblive-blended-learning" target="_blank">Ask Me Anything About...<br>Blending Learning</a><br>[55 mins] | A Facebook Live Session with Director of Educational Technology at MOE, Mr Aaron Loh, and Programme Leader at Singapore Institute of Technology, Dr Jiow Hee Jhee, where they shared what Blended Learning would look like for our students and parents’ roles at home. |
+| vii. |<a href="https://go.gov.sg/moecorpsite-cw-resources" target="_blank">Cyber Wellness education</a> | MOE’s Cyber Wellness education focuses on helping our students to be responsible digital learners. Check out additional resources from external agencies like <a href="https://go.gov.sg/medialiteracycouncil-cw-resources" target="_blank">Media Literacy Council</a> and <a href="https://go.gov.sg/nlb-sure-campaign" target="_blank"> S.U.R.E. by National Library Board</a> to support our student’s digital journey. |
+
 
 MOE Sexuality Education in Schools
 ----------------------------------
