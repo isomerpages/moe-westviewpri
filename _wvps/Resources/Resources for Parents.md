@@ -17,7 +17,7 @@ Click the picture below to access the Handbook.
 [![P1 2023 Parents' Handbook](/images/Parents%20handbook%2020223%20cover%20image.png)](/files/P1%20Parents%20Handbook%202023.pdf)
 
 ## Promoting Cyber Wellness
-|&nbsp;| Resources | Description |
+|No.| Resources | Description |
 |---|:---:|:---:|
 | i. | ![](/images/Resources%20for%20Parents/Cyberwellness%20Resources/Image%201.png)**Instagram post:<br><a href="https://go.gov.sg/instapostcwconcerns" target="_blank">What are some concerns we may have with our children's digital journey?</a>** | The cyberspace provides our students with a vast amount of information and learning opportunities.<br><br>This Instagram post on @parentingwith.moesg shares tips on how to support our students through some of the challenges they may face online. When engaging parents, you may consider using these tips to find out more about their challenges and share what can be done to address their concerns. |
 | ii. | ![](/images/Resources%20for%20Parents/Cyberwellness%20Resources/Image%202.png)**Instagram post:<br><a href="https://go.gov.sg/instapostcwsaferinternetday" target="_blank">Safer Internet Day</a>**| There may be potential dangers as our students navigate the cyberspace.<br><br>This Instagram post on @parentingwith.moesg shares tips on how to support and guide our students to stay safe online. |
