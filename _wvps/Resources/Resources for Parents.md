@@ -4,6 +4,13 @@ permalink: /wvps/resources/resources-for-parents/
 description: ""
 third_nav_title: Resources
 ---
+# Table of Contents
+1. [A Day in Life of a P1 Pupil](#a-day-in-life-of-a-p1-pupil)
+2. [P1 2023 Parents' Handbook](#p1-2023-parents-handbook)
+3. [Promoting Cyber Wellness](#promoting-cyber-wellness)
+4. [MOE Sexuality Education in Schools](#moe-sexuality-education-in-schools)
+5. [School Holiday Edition](#school-holiday-edition)
+
 A Day in Life of a P1 Pupil
 ---------------------------
 
