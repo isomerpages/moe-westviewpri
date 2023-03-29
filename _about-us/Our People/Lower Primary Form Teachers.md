@@ -22,5 +22,5 @@ third_nav_title: Our People
 |<strong>2 Brilliance</strong>|[Mr Ngho Seng Kuang](mailto:ngho_seng_kuang@moe.edu.sg)|[Mdm Tan Toon Lim](mailto:tan_toon_lim@moe.edu.sg)|
 |<strong>2 Confidence</strong>|[Mrs Tan-Tay Li Gek](mailto:tay_li_gek@moe.edu.sg)|[Mdm Siti Saleha](mailto:siti_saleha_zainal_abidin@moe.edu.sg)
 |<strong>2 Diligence</strong>|[Mr Danny Leong](mailto:danny_leong_weng_keong@moe.edu.sg)|[Mdm Cheng Siew Kim](mailto:cheng_siew_kim@moe.edu.sg)|
-|<strong>2 Empathy</strong>|[Mr Neo Zhi Cong](mailto:neo_zhi_cong@moe.edu.sg)|[Mdm Zhao Yijin](mailto:zhao_yijin@moe.edu.sg)|
+|<strong>2 Empathy</strong>|[Mr Neo Zhi Cong](mailto:neo_zhi_cong@moe.edu.sg)|[Mrs Zhao Yijin](mailto:zhao_yijin@moe.edu.sg)|
 |<strong>2 Faith</strong>|[Ms Angie Tan](mailto:tan_siqi_angie@moe.edu.sg)|[Mdm Shi Yuanna](mailto:shi_yuanna@moe.edu.sg)|
