@@ -34,7 +34,6 @@ Click the picture below to access the Handbook.
 |vi. |![](/images/Resources%20for%20Parents/Cyberwellness%20Resources/Image%206.png)<br><strong>Facebook Live:<br><a href="https://go.gov.sg/fblive-blended-learning" target="_blank">Ask Me Anything About...<br>Blending Learning</a></strong><br>[55 mins] | A Facebook Live Session with Director of Educational Technology at MOE, Mr Aaron Loh, and Programme Leader at Singapore Institute of Technology, Dr Jiow Hee Jhee, where they shared what Blended Learning would look like for our students and parents’ roles at home.<br>![](/images/Resources%20for%20Parents/Cyberwellness%20Resources/Facebook%20Live%20timestamps1.jpg)|
 | vii. |<strong><a href="https://go.gov.sg/moecorpsite-cw-resources" target="_blank">Cyber Wellness education</a></strong> | MOE’s Cyber Wellness education focuses on helping our students to be responsible digital learners. Check out additional resources from external agencies like <a href="https://go.gov.sg/medialiteracycouncil-cw-resources" target="_blank">Media Literacy Council</a> and <a href="https://go.gov.sg/nlb-sure-campaign" target="_blank"> S.U.R.E. by National Library Board</a> to support our student’s digital journey. |
 
-
 MOE Sexuality Education in Schools
 ----------------------------------
 
