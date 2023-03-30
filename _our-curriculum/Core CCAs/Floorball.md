@@ -4,9 +4,7 @@ permalink: /our-curriculum/cca-core/floorball/
 description: ""
 third_nav_title: Core CCAs
 ---
-
-
-<img style="width:80%;" alt="Floorball" src="/images/Floorball%20Junior%20Team%202022.jpeg">  
+<img src="/images/Floorball%20Junior%20Team%202022.jpeg" alt="Floorball" style="width:80%;">  
   
 
 <p style="text-align:center;">Floorball Junior Team (2022)
@@ -64,9 +62,9 @@ Achievements
 What's up in our CCA?
 ---------------------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJzG9VFKBG1VII2kI9cwIJBxFtSafUG5l9EAIvEd0y1D7hdYLJj5Kl93FLqwwsr-VCPaHwV_-olRgX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw1YWWh4a6wXv7VPBxRk-G0ZGPS4KKj0RnJGKN9UYiWtpCwDY_VqJQvmXGZosAGu3KmqVwOUbacUJ-/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_Uwc9U4iVWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_Uwc9U4iVWw" height="315" width="560"></iframe></center>
 
 CCA Model Pupil
 ---------------
