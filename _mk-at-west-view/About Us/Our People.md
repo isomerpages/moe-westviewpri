@@ -35,7 +35,7 @@ third_nav_title: About Us
 | Ms Wang Cuiping |
 | Mdm Li Shihao |
 
-<h2 style="color:midnightblue;">Kindergarten Teachers (Malay)</h2>
+<h2 style="color:midnightblue;">Kindergarten Teacher (Malay)</h2>
 
 |   |
 |---|
