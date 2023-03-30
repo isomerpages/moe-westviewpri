@@ -8,7 +8,7 @@ third_nav_title: About Us
 
 ![Kindergarten](/images/Kindergarten.jpeg)
 
-## <p style="color:midnightblue">Key Personnels</p>
+<h2 style="color:midnightblue;">Key Personnels</h2>
 
 |   |   |
 |---|---|
@@ -16,7 +16,7 @@ third_nav_title: About Us
 | **Senior Teacher** | Ms Iris Lim Feng Yun |
 | **Senior Teacher (Child Development)** | Ms Sherilyn Pua Xiumin |
 
-## <p style="color:midnightblue" >Kindergarten Teachers (English)</p>
+<h2 style="color:midnightblue;">Kindergarten Teachers (English)</h2>
 
 |   |
 |---|
@@ -26,7 +26,7 @@ third_nav_title: About Us
 | Ms Nurfara Binte Pawzi |
 | Ms G. Clarissa Sujita |
 
-## <p style="color:midnightblue" >Kindergarten Teachers (Chinese)</p>
+<h2 style="color:midnightblue;">Kindergarten Teachers (Chinese)</h2>
 
 |   |
 |---|
@@ -35,13 +35,13 @@ third_nav_title: About Us
 | Ms Wang Cuiping |
 | Mdm Li Shihao |
 
-## <p style="color:midnightblue" >Kindergarten Teacher (Malay)</p>
+<h2 style="color:midnightblue;">Kindergarten Teachers (Malay)</h2>
 
 |   |
 |---|
 | Ms Nur Jannah Fatin Bte Mohd Johari |
 
-## <p style="color:midnightblue" >Kindergarten Teachers (Tamil)</p>
+<h2 style="color:midnightblue;">Kindergarten Teachers (Tamil)</h2>
 
 |   |
 |---|
