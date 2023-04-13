@@ -86,6 +86,8 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Educ
 
 **At WEST VIEW Primary School, the following lessons from Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:**
 
+
+
 <h2 style="color:midnightblue; text-align: center">Primary 5</h2>
 
 | CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (E.g. Term 1 Week 2) |
