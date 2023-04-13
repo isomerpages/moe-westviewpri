@@ -87,7 +87,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Educ
 **At WEST VIEW Primary School, the following lessons from Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:**
 
 
-|  | ![](/images/moe%20logo.jpg)   |  |
+|  |  |  |
 | -------- | -------- | -------- |
 |      | **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**    |      |
 
