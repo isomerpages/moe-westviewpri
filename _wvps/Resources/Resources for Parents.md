@@ -110,7 +110,7 @@ Please note: <br>
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**Sexuality Education**&nbsp;lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Resources%20for%20parents/2023%20SED%20Opt%20out%20form_website.pdf)&nbsp;. A completed opt-out form is to be submitted by&nbsp;**3 February 2023**.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;**Sexuality Education**&nbsp;lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Resources%20for%20parents/2023%20opt%20out%20form_website.pdf)&nbsp;. A completed opt-out form is to be submitted by&nbsp;**3 February 2023**.
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;**6760 0178**&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
