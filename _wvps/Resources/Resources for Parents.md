@@ -86,12 +86,20 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Educ
 
 **At WEST VIEW Primary School, the following lessons from Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:**
 
+
+|  |  |  |
+| -------- | -------- | -------- |
+|      | **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**    |      |
+
+
+
+
 <h2 style="color:midnightblue; text-align: center">Primary 5</h2>
 
 | CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (E.g. Term 1 Week 2) |
 |:---:|:---:|:---:|:---:|
 | Growing Years | The Changes in Me<br>(60 Min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2 Week 6 - 10 |
-|Growing Years| Did you know?<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>. | Term 2 Week 6 - 10 |
+|Growing Years| Did you know?<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2 Week 6 - 10 |
 |Growing Years| Keeping Myself Safe<br>(60 Min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 3 Week 1 - 4 |
 
 <h2 style="color:midnightblue; text-align: center">Primary 6</h2>
@@ -103,7 +111,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Educ
 |Growing Years| Did you Know?*<br>(60 Min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong><br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 6 - 9 |
 
 **<u>Please note:</u>** <br>
-***For <u>2023</u>, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort**
+***For <u>2023</u>, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.**
 
 
 **Information for Parents**
