@@ -16,7 +16,7 @@ In West View Primary School, we aim to provide every child authentic learning ex
 
   
 
-Capture – Pupils tap on their prior knowledge to learn new science concepts and make meaningful connections between their prior knowledge and new concepts learnt. Teachers can also arouse pupils’ interest so that the pupils will be more motivated and stay engaged throughout the lesson.&nbsp;
+**Capture** – Pupils tap on their prior knowledge to learn new science concepts and make meaningful connections between their prior knowledge and new concepts learnt. Teachers can also arouse pupils’ interest so that the pupils will be more motivated and stay engaged throughout the lesson.&nbsp;
 
   
 
@@ -30,7 +30,7 @@ Capture – Pupils tap on their prior knowledge to learn new science concepts an
 
   
 
-Construct – Pupils will develop their scientific concepts, skills and inculcate attitudes through hands-on learning experiences. Teachers will adopt various questioning strategies to further deepen students’ conceptual understanding and clarify concepts and skills taught through clear explanations.&nbsp;
+**Construct** – Pupils will develop their scientific concepts, skills and inculcate attitudes through hands-on learning experiences. Teachers will adopt various questioning strategies to further deepen students’ conceptual understanding and clarify concepts and skills taught through clear explanations.&nbsp;
 
   
 
@@ -46,7 +46,7 @@ Construct – Pupils will develop their scientific concepts, skills and inculcat
 
   
 
-Consolidate – Pupils will be given opportunities to show their understanding on various platforms. Teachers will design various activities for pupils to apply their scientific concepts and skills in different contexts.
+**Consolidate** – Pupils will be given opportunities to show their understanding on various platforms. Teachers will design various activities for pupils to apply their scientific concepts and skills in different contexts.
 
   
 
