@@ -1,71 +1,143 @@
 ---
-title: Enrichment Programmes & Support
+title: Enrichment Programmes &amp; Support
 permalink: /our-curriculum/science/enrichment-programmes-n-support/
 description: ""
 third_nav_title: Science
 ---
-<p style="color:blue" align="left"><strong><u>Singapore Science Centre & Lee Kong Chian Natural History Museum (LKCNHM)</u></strong></p>
+**
 
-Pupils have enjoyed and benefited from the wide range of science enrichment programmes and resources provided by the Singapore Science Centre and Lee Kong Chian Natural History Museum. Visiting these two places has helped to complement the school’s science curriculum with authentic hands-on learning experiences for the pupils.
+To bring about the joy of learning and inquire like scientists, pupils were provided with varied learning experiences. Through these learning experiences, pupils are inspired by Science and provided with opportunities to see connection between everyday phenomena and Science.&nbsp; Pupils are seen enjoying learning Science and engage confidently in the practices of Science as they question their observations and make conclusions based on evidence seen and analysed.&nbsp;
 
   
 
-**Primary 4: Heat & Temperature**
+Primary 3: Diversity of Animals
+
+  
+
+As part of the P3 ViewanXP Learning Experience, the pupils attended a hands-on animal diversity workshop. With real animal specimens for pupils to observe and explore, the pupils had an engaging and fulfilling session. Through the workshop, the pupils learnt about specific characteristics of the major animal groups. They also developed an appreciation for animal conservation and maintenance of biodiversity. It was a fantastic lesson to bring science concepts and love of nature to life.
+
+  
+
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#1c3458;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh3.googleusercontent.com/3tJZ25sDyJbVMtiP4vJcLrifMvIKmNR5FQBNQ7Jjk-yV5vOlOqlRAT31WOVW4yVFwu1VGh5IubBIATQSWM6kgY3CQDA57224N22qutnfSKoDiRnDWPnNALQCBFpTVqEBl4x0hqbhr-_p5pBwl-We-A"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#1c3458;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:187px;"><img style="margin-left:0px;margin-top:-25.435134893483585px;" height="258.9175695594198" width="194" src="https://lh4.googleusercontent.com/4rgeWdqMOGFtK9BzebFChqyxzp7C6ohSqYECs4WgTZ-fvEq-yj75t6xA0_caHcAAsy7jqKjv0IygU2kNsMmogUugq12WBhC4TprAHKUo4u5-6i6gsXWVeZbD0oLly8M2xH1KnGDGdT6ByLyZP6XPwA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#1c3458;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh3.googleusercontent.com/aXwCverMBBr7PEHVNmoFMAR0lInzz9JXb-XsMSV89LY0QPWIcn1UNRzdt6FkMk7LzGqwn1lItcVvbQses_KMwZyvYSmrJVqpOSQaqbRi2VoZeVrS_DO7w8-DkGZAjb0NLVw_P7KUxbRE9gyCxngmNQ"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#1c3458;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh6.googleusercontent.com/Sgr7e332sNL30XlgcZhRtFmRkYgsV6MfWUxifg6GIXGWUD-pA4w2ui-wPfLbexU5IgVh2b5jDwQ61RWiyJcH7TY2wArnve2yky2VPpsvWBNSaE5x9Hnv4_VTGUyS6sOr17BVwiKitMO4DM0t8z9GmA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#1c3458;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh6.googleusercontent.com/oLgDEi6xoAoA6kbG3ZIL9HoLQWwZklE6OcJp2xRKbKoUQ8RNmQNJIhSmzrKLKPj1cdyUdd00N3dY5TMAL462yN4gKsUWmLkcYPlMqWlFb7Si-t5VbdJHphoqmvckbYjzvXGhdM7GabrYDVV2OuOsZA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#1c3458;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh3.googleusercontent.com/yC9GH194EX3ahehXOkccjXIL-DWEv7owTcF75vM41Uyz_c0l7hUwCXw96jySWsN_YdWdCeVFcQb70rQxRIHg6zW_yzXBtklTlvTgseAIw0gd45BgryrjvmAH_3sPrUu1BJBKx-mK6bZl6mKJVB-w2A"></span></span></p></td></tr></tbody></table>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Primary 4: Heat &amp; Temperature
 
   
 
 At the Singapore Science Centre, pupils are given the opportunity to carry out hands-on activities to strengthen their understanding on heat and temperature. Using concepts involving good and poor conductors of heat, heat gain and heat loss, pupils work in groups to explore and investigate challenges presented to them.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Primary%204%20Heat%20&%20Temperature.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
-</body>
+  
 
-**Primary 5: Diversity of Cells**
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh3.googleusercontent.com/UFFyR3lLPdc0-z_A7QjN5gNdOXgjnnk8Ga_W2Nvlcoqp4fhKZvV9xihmKgME_3cH6anbKyzCQYNV1P9jZQ9lFDqw4UIkpo8HR2HoH7lwx_JZK6k9sJ3ngie-goXSrGs99kCtCz_xxU3UbEW3SeKfmw"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh5.googleusercontent.com/3Ut7wmPEbxd7Pnz6yIx4hnan5SjUsEJ9mvyX1qUu-cYcsYqNhQFfvsj02VMs95FE9mL3dtOMAUev3793XuiAypvqN5ubGds4xQD-t0KX65DABNEeSmTDNSiVz0hNLMyD1UBVGacvK78uhoY7SSmxYQ"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh3.googleusercontent.com/a2sxLCm-vxE_LVAaNmXI96BLWd56lEHdqKZ-RaSyReQsBtvaIRETcU8C_z_XM7LltS3eSbWJbSs_kQIKKBkppno6bcc2RQga4qKVOvF3hDIdqDTOAzhYfWjUCTZezCJ5ZHZdnNMsQibNu-c99pMhPg"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh3.googleusercontent.com/kcij_kG7KUEk5z8XpNlF-sCqedkMSuNMCRLwWkfVQLOqwYasOPzN1-T8i4GyO1tKawo82l9E4Y1Vb5edauLKBIJ8G-Vos-5DxDRjhb_7Vxp6vLIJ2o4Y1VklxBbt5dMbxfX4EO3UPNiTqcCOzzVpcQ"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh6.googleusercontent.com/yZPoM3jgOCKyJL8uV7Cgbih_9KDeSGG77zpQJP8gBXlcW9Qpuhmpg6hekOSEjrunZmqMJEoMMTMHasAoVs-bcMQZA6C7ulz1oJdGprpxKDZ7vrnxDUXEkPlC5Rhi5NNJx3Ur7oxH-FFOKDnIIGEsrA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr></tbody></table>
+
+  
+  
+  
+  
+  
+  
+  
+
+Primary 5: Diversity of Cells
 
   
 
 At the Singapore Science Centre, pupils are engaged in activities where they view various microorganisms and cells (e.g. cheek and leaf cells) microscopically and understand the application for using the microscope.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Primary%205%20Diversity%20of%20Cells.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
-</body>
-
-**Primary 6: Adaptations of Plants and Animals**
-
   
 
-Through the learning experiences provided at LKCNHM, pupils learn to appreciate the biodiversity around them and examine real specimens in a novel situation through a hands-on session. This has allowed pupils to further broaden their knowledge on the features and adaptations of these plants and animals.
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:174px;height:232px;"><img style="margin-left:0px;margin-top:0px;" height="232" width="174" src="https://lh5.googleusercontent.com/5XiAbStgaDcH_wNkswafS7Qb4psLmbq_q8XOgek_LBeLJRdFXl0o3ObWHz0NafCZ_UnINed3TVn9DozNOvq0LFQ3fFmnCCgp2VOSqIwf9wSzV_wO-z79aUkzz9NS12ge4SRb16hcxsOT9daOi0EF7A"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh3.googleusercontent.com/8lLDf0U66Mi9YDEUyqpLPbVuyKvhSM4fKlFQoLPe4URESpLyCeoIb9yw-p0dinPwDYud6sJ-y0W3wZ_6418ND97Dv5wJsD0zizLRk4RuX3cbMYshcN_axgFQZDNZXSPABSHGl2Ea3zR63AN-8Bu8GQ"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh6.googleusercontent.com/5WWKE3TVzLRancWSgi6maVwr8mE1osS1dq9jHjl50tPlmDENPtjaPrndoCBoidgk9DYu8M9GVV40NEfHXzIKVOf0GS-j73X8176XLXiQDMQmalnjX3LEkhOx49h3XUVHxJWN5Gwl-CVc4IA5FobSlw"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh5.googleusercontent.com/VTpNQsfgeBOdGXR8JcIAqKZqHiVkS5U8HTEN9Gayxy1FrQR7ujNVyYIb9ps90FvXZvZEg_l0BSDkIGWmX_Iuap2Xhtu-q0YPu0QcbhxG3Dz6DggA3UZRYbGAjLXLi0Y9Z83pNghJyAhow8kOECbmcQ"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh6.googleusercontent.com/6H_rTDlobbP30RHTZkyDSeZYGbitluQFkrgH0tB8iN3ZtMAetYta7qpQt3Na_s-1u42m0oft5oM96oMAbrB_wMlSgJyMDhZcU4ztM1sfQepC3VMZSi9qVLZuRYK-ycbFyt2w-TRPVeCHxdbrslPdGw"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr></tbody></table>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Primary%206%20Adaptations%20of%20Plants%20and%20Animals.jpg" alt="Enrichment Programmes & Support" style="width:85%;">  
   
-</body>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
-**<u>Excellence 2000 (E2K) Science Programme</u>**
+Primary 6: Adaptations of Plants and Animals
+
+Our P6 pupils attended a Science workshop on animal adaptations. During the hands-on session, they had the opportunity to observe and handle real-life animal specimens. Our pupils were challenged to draw links between the features and functions of each animal’s adaptation which enables it to survive better in its environment. The learning experiences provided opportunities for our pupils to make connections with their daily life experiences, adding joy to the learning process.&nbsp;
 
   
 
-The E2K Science Programme is a science enrichment programme for pupils who demonstrate interest and ability in Science. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:195px;"><img style="margin-left:0px;margin-top:0px;" height="195" width="194" src="https://lh5.googleusercontent.com/vXNDnRMR-nrCssdiXfFla0NwsolMVtzwyPfx6f__s-rY7EZUcCzxzOzRbhiabU5Qlqg47GtGiXccwM7C8fiwbtfnrqZC0sGBquE5NDOQYhgUbgF1D0E_8To8XUgAeMr6iq_69jSGA9jeR6uetZfuWA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:195px;"><img style="margin-left:0px;margin-top:0px;" height="195" width="194" src="https://lh6.googleusercontent.com/ZjVxFMAUDWbZvmof0rgAAdQD0Ycad7IJH32nXPzpGUh-4w0FjD5CVgw6uSSrVVzQRHxErvCJXIUfBFqB56h0oZ8Z29IcC2uR4MunOSNmMGrFGh7OqEtXd5dRjMIGd1FvZXSc-GHxgT7GgjEcvnH6FA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh5.googleusercontent.com/qh5UiBHXTYY-g_JtQGJQbbNaZSwKS-2RclLTbubLQAhfAEKZzQOahE7UhGB-xi6zVAsP-ZI6EsuFvdq8hAPJx4qRdWEpTPdCYxVqO4WhGXDsstfxZMKofr8fRn3QWBKuImERMVxe5nn9aYmsBRj0iQ"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh4.googleusercontent.com/mFwKrdQpdd4S6pvOG32RKvcz0AbcwQZym2qG5wfh0M6RjiLBPP3uSMECmn2ynK--vlqvyJDPqssvTyNGDiTF3JWKOuHPd2F8FEfTB479-daGXmkii_9j3hqwYn_iPUgh3vkl4v9zpv2U_N5wsT3ZxQ"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr></tbody></table>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Primary 6: Post-PSLE Experience on Vermicomposting
+
+  
+
+During the Vermicomposting Programme, our P6 pupils learnt about and experienced how worms can help with the recycling of food waste. They had to muster their courage and practise dare while setting up the vermicomposting kits. The compost produced was used to fertilise the various gardens in our school.
+
+  
+
+Acting as advocators, they went on to apply their learning by engaging their P1 juniors. During their Vermicomposting Experience, the P1 pupils had the opportunity to share in the learning of their P6 peers. They were inquisitive and asked many questions. Many even cradled the worms in their hands.
+
+  
+  
+
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh5.googleusercontent.com/DuAiM-icn848IjO0DI42QYnnJEYOdWtX_UYg_cixBtSGQ5ULpEFdisZ_4_7s40L8YI4plM1SIwKK-FR4ARwzie9AzkKU7ET4dnHdocxj2VmzVQzq8-unuN4XUzHa3tVB5ufyqlKa0QcL4JUomGY2Iw"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh3.googleusercontent.com/C-V3ZLNyN5-5IPWb1CaLqSkqN8uokutStG_7IfrHlUYFVNGGtyakzNszgYUKwnTOL1PvH8MVSS5aFa9OvQvobSBBFFaYw_XTiCjMRGMu5477qUQtll4Otn9d5dVCPe0X6ZiEGpKme1BrMBWQ115g6g"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh3.googleusercontent.com/uPLXt8cwPMI3XvRqNZvL6hu1NGVo4UadpuBB_EVUHgp32NQV_AMHrNEveuiAVn7DJKqnwtuDnN9894OGAJdW5Fj5pFHyf61DmlExDsN-EfC82hdeZ9-oWspVoBUqzf097abvGQleFKee8Ai29uZmkQ"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh3.googleusercontent.com/ZNYrHxwcBbePlO-_spBK4daKpN7vnsQV9TWfg1_iljxdJwPDHo7lMhn2cXzM2HTWLgduQj6G4x3my2UKbFg04C55G8pD3EN1lCqvjhS1DB6NTziQT88MccNjDsyMifUfO9AfrcrvKvEMkzNPxL1thA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:147px;"><img style="margin-left:0px;margin-top:0px;" height="147" width="194" src="https://lh6.googleusercontent.com/haCP81IclsJgzYa7z0sXe5G4-ARog4RIjBvu2kM8tyhndWBI7sQJkR4qrNXtYD7jp2t6kviTUAR64Idy5qvChQx_TH7qOKFBldWBvHKkodUqbeeFP6b53E9lA0KVzDklC35fvwBX4_oGNzT-u5XKBA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh5.googleusercontent.com/rXKP45Q3APFqWwMzkkGJ_1lfAJ8F3b1IiiKMXx0EyBJTAweh_5vkKbwhIKDZ7iQwRHxN7JqjX36KAUISLt3oILJXZOYjYymbmG6ANHpDzZRyH9zFXvIdR-ybzjFhyIOVRsREx278HzeR1k4k6iixgw"></span></span></p></td></tr></tbody></table>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Primary 4 &amp; 5: Excellence 2000 (E2K) Science Programme
+
+  
+
+The E2K Science Programme is a science enrichment programme for pupils who demonstrate interest and ability in Science. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+  
+
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:#00ffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh6.googleusercontent.com/cdnbNQpEavH9VIs5C6Vnc_8noW6bKTVOcgqE8zophal4dz0raxh8ivbakNCF-LcBIhCkEVSYPo1AXCMwmKPSupkRXCxObo54HeX4Y4Z9NmTq3ZX57fDxtra4P6ryrZZ9njuiIZTIcQ0RrfGD0qPCvA"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:#00ffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh4.googleusercontent.com/5AQjxfv-x-cQxfiNM2i0IHbl4GXndffZU0ohpZvgOTAi2xhfF43F0TmQSKkIRAjql5t05Z5meXMgvzDugvFNglAnWTZCeX_Y9L3v7isoQ8ttxIlnuYGe2yvXbkoirz_jQqmevUkzQk6WL-eElimZ_g"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:#00ffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh4.googleusercontent.com/6FLSYMullX4D7hVW0tZX-4RwCmkqc7mJc-3s-zKnZHab8Qnk1pcXkFdc-Fjvv2LJw2nxew5cTZi30HqniRVfTiNeRIgjkSL-ZI1hQaU_L71XpGQ-Z9VUlDhwla-z8EcPBlMyLYGnMVCvbZyPodjAsw"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:#00ffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:259px;"><img style="margin-left:0px;margin-top:0px;" height="259" width="194" src="https://lh4.googleusercontent.com/wR_8_FHvjmkYCzxNvTScjd0-rUc3yB_26E5qEF2siKMvkS5I1fjimI1YedZlTWCHb2pvYrnm6jgvZeXZgHpYIgv2eeoTif8o8mXAhm-9dKEC9BSLV9zIniQ-Dx6lWf_3-SPrN8CZJa5_vG5VEEH6uw"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:#00ffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh6.googleusercontent.com/mgLEK1EmQNJjvgJS9v_nyPacKBEKSD_rilOJhemxZqW3jcXJk9I1zf4WyTPCkDuL-i8hbyvAkCK_x5g6BFxPFM2wYqHmgmVJmDRfT5b5YzmKrHn8cVYmHBEQIMel0z_VUCjZriXrm9SMOwRDIjRB1Q"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:#00ffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img style="margin-left:0px;margin-top:0px;" height="145" width="194" src="https://lh3.googleusercontent.com/L2il6XO4_y4pYAR50BrHkQ09Nk8GGFUgNNCGecRxBrIeYultmxmaUsNZz2MpeoyCLRXEsbKFgnQgtGCKiFqOq9T4uJqIkf6UOEa0oS_0ganDd3oY22rK12j7yN0DezaF8LHHmvfcvYblhoKHWYPMtw"></span></span></p></td></tr></tbody></table>
+
+  
 
   
 
@@ -73,4 +145,6 @@ More information about E2K Science in West View Primary School can be found by c
 
   
 
-[**_LINK_**](/uniquely-us/da-vinci)
+[LINK](https://westviewpri.moe.edu.sg/uniquely-us/da-vinci)
+
+**
