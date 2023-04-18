@@ -4,7 +4,6 @@ permalink: /our-curriculum/science/enrichment-programmes-n-support/
 description: ""
 third_nav_title: Science
 ---
-**
 
 To bring about the joy of learning and inquire like scientists, pupils were provided with varied learning experiences. Through these learning experiences, pupils are inspired by Science and provided with opportunities to see connection between everyday phenomena and Science.&nbsp; Pupils are seen enjoying learning Science and engage confidently in the practices of Science as they question their observations and make conclusions based on evidence seen and analysed.&nbsp;
 
@@ -146,5 +145,3 @@ More information about E2K Science in West View Primary School can be found by c
   
 
 [LINK](https://westviewpri.moe.edu.sg/uniquely-us/da-vinci)
-
-**
