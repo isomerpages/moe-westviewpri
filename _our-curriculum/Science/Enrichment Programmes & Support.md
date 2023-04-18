@@ -4,12 +4,11 @@ permalink: /our-curriculum/science/enrichment-programmes-n-support/
 description: ""
 third_nav_title: Science
 ---
-
 To bring about the joy of learning and inquire like scientists, pupils were provided with varied learning experiences. Through these learning experiences, pupils are inspired by Science and provided with opportunities to see connection between everyday phenomena and Science.&nbsp; Pupils are seen enjoying learning Science and engage confidently in the practices of Science as they question their observations and make conclusions based on evidence seen and analysed.&nbsp;
 
   
 
-Primary 3: Diversity of Animals
+**Primary 3: Diversity of Animals**
 
   
 
@@ -29,7 +28,7 @@ As part of the P3 ViewanXP Learning Experience, the pupils attended a hands-on a
 
   
 
-Primary 4: Heat &amp; Temperature
+**Primary 4: Heat &amp; Temperature**
 
   
 
@@ -48,7 +47,7 @@ At the Singapore Science Centre, pupils are given the opportunity to carry out h
   
   
 
-Primary 5: Diversity of Cells
+**Primary 5: Diversity of Cells**
 
   
 
@@ -74,7 +73,7 @@ At the Singapore Science Centre, pupils are engaged in activities where they vie
   
   
 
-Primary 6: Adaptations of Plants and Animals
+**Primary 6: Adaptations of Plants and Animals**
 
 Our P6 pupils attended a Science workshop on animal adaptations. During the hands-on session, they had the opportunity to observe and handle real-life animal specimens. Our pupils were challenged to draw links between the features and functions of each animal’s adaptation which enables it to survive better in its environment. The learning experiences provided opportunities for our pupils to make connections with their daily life experiences, adding joy to the learning process.&nbsp;
 
@@ -96,7 +95,7 @@ Our P6 pupils attended a Science workshop on animal adaptations. During the hand
   
   
 
-Primary 6: Post-PSLE Experience on Vermicomposting
+**Primary 6: Post-PSLE Experience on Vermicomposting**
 
   
 
@@ -126,7 +125,7 @@ Acting as advocators, they went on to apply their learning by engaging their P1 
   
   
 
-Primary 4 &amp; 5: Excellence 2000 (E2K) Science Programme
+**Primary 4 &amp; 5: Excellence 2000 (E2K) Science Programme**
 
   
 
