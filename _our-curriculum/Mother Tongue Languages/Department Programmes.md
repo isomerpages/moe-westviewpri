@@ -14,9 +14,9 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 	table, th, td {border: 1px solid black;}
 </style>
 <table>
-	<tbody><tr>
-		<td><img style="width: 300px" src="/images/Mother%20Tonuge/Department%20Programmes/01%20learning%20chinese%20traditional%20food%20using%20clay.png"><strong><em>Learn Chinese traditional food using clay</em></strong></td>
-		<td><img style="width: 182px" src="/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png"><strong><em>Learn about festival through craftwork</em></strong></td>
+	<tbody><tr style="text-align: center;">
+		<td><img style="height: 200px" src="/images/Mother%20Tonuge/Department%20Programmes/01%20learning%20chinese%20traditional%20food%20using%20clay.png"><strong><em>Learn Chinese traditional food using clay</em></strong></td>
+		<td><img style="height: 200px" src="/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png"><strong><em>Learn about festival through craftwork</em></strong></td>
 	</tr>
 </tbody></table>
 
