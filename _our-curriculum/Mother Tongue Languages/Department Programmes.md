@@ -42,7 +42,7 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 </style>
 <table>
 	<tbody><tr>
-		<td><img style="height: 250px;" src="/images/Mother%20Tonuge/Department%20Programmes/07%20vibrant%20block%20printing.jpg"><strong><em>Vibrant Block Printing</em></strong></td>
+		<td><img style="width: 120px;" src="/images/Mother%20Tonuge/Department%20Programmes/07%20vibrant%20block%20printing.jpg"><strong><em>Vibrant Block Printing</em></strong></td>
 		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/08%20making%20of%20paper%20plate%20rangoli.jpg"><strong><em>Making of Paper Plate Rangoli</em></strong></td>
 	</tr>
 		<tr>
