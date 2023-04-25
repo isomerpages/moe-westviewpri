@@ -51,6 +51,21 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 	</tr>
 </tbody></table>
 
+<style>
+	table {text-align: center;}
+	table, th, td {border: 1px solid black;}
+</style>
+<table>
+	<tbody><tr>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/11%20traditional%20malay%20puppetry.png"><strong><em>Traditional Malay Puppetry</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/12%20wau%20painting.png"><strong><em>Wau Painting</em></strong></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/09%20making%20of%20bandhini%20art.jpg"><strong><em>Coaster Weaving</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/10%20kite%20making.jpg"><strong><em>Gasing Colouring</em></strong></td>
+	</tr>
+</tbody></table>
+
 
 <style>  
 img {  
