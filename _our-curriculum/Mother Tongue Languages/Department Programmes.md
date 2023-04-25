@@ -10,12 +10,19 @@ Our Mother Tongue department programmes focus on the learning process through ex
 
 Pupils are exposed to a wide range of language-related and cultural experiences and activities. These activities enable them to learn and appreciate their respective Mother Tongue Language in a fun and exciting way.
 
+
+
+|![](/images/Mother%20Tonuge/Department%20Programmes/01%20learning%20chinese%20traditional%20food%20using%20clay.png)|![](/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png)| Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 <table>
 	<tbody><tr>
-		<td></td>
-		<td></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/01%20learning%20chinese%20traditional%20food%20using%20clay.png"></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png)"></td>
 	</tr>
 </tbody></table>
+
 
 <style>  
 img {  
