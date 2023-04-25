@@ -17,7 +17,7 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 <table>
 	<tbody><tr>
 		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/01%20learning%20chinese%20traditional%20food%20using%20clay.png"><strong><em>Learn Chinese traditional food using clay</em></strong></td>
-		<td><img style="width: 425px" src="/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png"><strong><em>Learn about festival through craftwork</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png"><strong><em>Learn about festival through craftwork</em></strong></td>
 	</tr>
 </tbody></table>
 
@@ -32,7 +32,7 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 	</tr>
 		<tr>
 		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/05%20chinese%20street%20dance.png"><strong><em>Chinese Street Dance</em></strong></td>
-		<td><img style="width: 195px" src="/images/Mother%20Tonuge/Department%20Programmes/06%20chinese%20painting.png"><strong><em>Chinese Painting</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/06%20chinese%20painting.png"><strong><em>Chinese Painting</em></strong></td>
 	</tr>
 </tbody></table>
 
@@ -42,7 +42,7 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 </style>
 <table>
 	<tbody><tr>
-		<td><img style="width: 120px;" src="/images/Mother%20Tonuge/Department%20Programmes/07%20vibrant%20block%20printing.jpg"><strong><em>Vibrant Block Printing</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/07%20vibrant%20block%20printing.jpg"><strong><em>Vibrant Block Printing</em></strong></td>
 		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/08%20making%20of%20paper%20plate%20rangoli.jpg"><strong><em>Making of Paper Plate Rangoli</em></strong></td>
 	</tr>
 		<tr>
