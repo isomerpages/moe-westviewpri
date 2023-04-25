@@ -57,7 +57,7 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 </style>
 <table>
 	<tbody><tr>
-		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/11%20traditional%20malay%20puppetry.png"><strong><em>Traditional Malay Puppetry</em></strong></td>
+		<td><img style="width:150px;" src="/images/Mother%20Tonuge/Department%20Programmes/11%20traditional%20malay%20puppetry.png"><strong><em>Traditional Malay Puppetry</em></strong></td>
 		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/12%20wau%20painting.png"><strong><em>Wau Painting</em></strong></td>
 	</tr>
 		<tr>
