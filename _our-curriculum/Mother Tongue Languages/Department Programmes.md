@@ -16,8 +16,8 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 </style>
 <table>
 	<tbody><tr>
-		<td><img style="height: 200px" src="/images/Mother%20Tonuge/Department%20Programmes/01%20learning%20chinese%20traditional%20food%20using%20clay.png"><strong><em>Learn Chinese traditional food using clay</em></strong></td>
-		<td><img style="height: 200px" src="/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png"><strong><em>Learn about festival through craftwork</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/01%20learning%20chinese%20traditional%20food%20using%20clay.png"><strong><em>Learn Chinese traditional food using clay</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/02%20learn%20about%20festival%20through%20craftwork.png"><strong><em>Learn about festival through craftwork</em></strong></td>
 	</tr>
 </tbody></table>
 
@@ -27,12 +27,12 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 </style>
 <table>
 	<tbody><tr>
-		<td><img style="height: 200px" src="/images/Mother%20Tonuge/Department%20Programmes/03%20making%20of%20clay%20characters%20from%20literary%20chinese%20classic%20.png"><strong><em>Making of clay characters from literary Chinese classic</em></strong></td>
-		<td><img style="height: 200px" src="/images/Mother%20Tonuge/Department%20Programmes/04%20traditional%20chinese%20fan%20painting.png"><strong><em>Traditional Chinese Fan Painting</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/03%20making%20of%20clay%20characters%20from%20literary%20chinese%20classic%20.png"><strong><em>Making of clay characters from literary Chinese classic</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/04%20traditional%20chinese%20fan%20painting.png"><strong><em>Traditional Chinese Fan Painting</em></strong></td>
 	</tr>
 		<tr>
-		<td><img style="height: 195px;" src="/images/Mother%20Tonuge/Department%20Programmes/05%20chinese%20street%20dance.png"><strong><em>Chinese Street Dance</em></strong></td>
-		<td><img style="height: 195px;" src="/images/Mother%20Tonuge/Department%20Programmes/06%20chinese%20painting.png"><strong><em>Chinese Painting</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/05%20chinese%20street%20dance.png"><strong><em>Chinese Street Dance</em></strong></td>
+		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/06%20chinese%20painting.png"><strong><em>Chinese Painting</em></strong></td>
 	</tr>
 </tbody></table>
 
