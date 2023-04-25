@@ -32,7 +32,7 @@ Pupils are exposed to a wide range of language-related and cultural experiences 
 	</tr>
 		<tr>
 		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/05%20chinese%20street%20dance.png"><strong><em>Chinese Street Dance</em></strong></td>
-		<td><img src="/images/Mother%20Tonuge/Department%20Programmes/06%20chinese%20painting.png"><strong><em>Chinese Painting</em></strong></td>
+		<td><img style="width: 195px" src="/images/Mother%20Tonuge/Department%20Programmes/06%20chinese%20painting.png"><strong><em>Chinese Painting</em></strong></td>
 	</tr>
 </tbody></table>
 
