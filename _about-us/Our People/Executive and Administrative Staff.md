@@ -10,6 +10,7 @@ third_nav_title: Our People
 |-------------------------------------------------|----------------------------|
 |<strong>Administrative Manager</strong>|<a href="mailto:Santoso_HENDRAWAN@moe.edu.sg">Mr Santoso Hendrawan</a>|
 |<strong>Operations Manager</strong>|<a href="mailto:hamzah_abas@moe.edu.sg">Mr Hamzah Abas</a>|
+|<strong>Operations Manager</strong>|Mr Keong Poh Leong|
 |<strong>Administrative Executive</strong>|<a href="mailto:tng_yew_li@moe.edu.sg">Mdm Tng Yew Li</a>|
 |<strong>Administrative Executive</strong>|<a href="mailto:lim_jielun@moe.edu.sg">Mr Lim Jielun</a>|
 |<strong>Management Support Officer</strong>|<a href="mailto:koh_sok_joo@moe.edu.sg">Mdm Koh Sok Joo</a>|
@@ -24,4 +25,4 @@ third_nav_title: Our People
 |<strong>ICT Associate</strong>|<a href="mailto:ho_wilven@moe.edu.sg">Mr Wilven Ho</a>|
 |<strong>Desktop Engineer</strong>|<a href="mailto:Imaduddin.bin.noordin@ncs.com.sg">Mr Imaduddin</a>|
 |<strong>Desktop Engineer</strong>|<a href="mailto:amirulhakim.ahmadhassanayoppan@ncs.com.sg">Mr Amirul</a>|
-|<strong>Multimedia Administration & Production Assistant</strong>|<a href="mailto:ethan_lim_chee_yang@moe.edu.sg">Mr Ethan Lim|
+|<strong>Multimedia Administration &amp; Production Assistant</strong>|<a href="mailto:ethan_lim_chee_yang@moe.edu.sg">Mr Ethan Lim|</a></strong></strong></strong></strong>
