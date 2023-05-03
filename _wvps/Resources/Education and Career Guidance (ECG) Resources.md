@@ -7,9 +7,10 @@ third_nav_title: Resources
 # PSLE scoring and S1 posting matters
 <h2 style="color:midnightblue">Parent engagement deck on PSLE scoring and S1 posting changes</h2>
 
-<a href="/files/ECG/PSLE%202022_Parent%20Engagement_Jan2022.pdf" target="_blank">Click here for the deck of slides</a>
+<a href="/files/ECG/psle%202023%20-%20parent%20engagement.pdf" target="_blank">Click here for the deck of slides</a>
 <h2 style="color:midnightblue">Video - Top Questions on PSLE Changes Answered</h2>
 MOE’s Deputy Director-General of Education addresses the top questions parents have asked about the PSLE changes.
+[]()
 
 <h3>Part 1</h3>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pp5rWUMMtIc" height="315" width="560"></iframe>
@@ -38,12 +39,12 @@ Overview of the different kinds of schools and the experiences in Secondary Scho
 Parents and their children coming together to share their reflections on success beyond PSLE grades.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2 style="color:midnightblue">JOURNEYING WITH OUR CHILDREN, SUPPORTING THEIR ASPIRATIONS</h2>
-This <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" target="_blank">handbook for parents</a> contains tips and advice on ECG and considerations at key education stages to guide their children.
+This <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" target="_blank">handbook for parents</a> contains tips and advice on ECG and considerations at key education stages to guide&nbsp;their&nbsp;children.
 
 ![](/images/Picture1.jpeg)
 																										 
 <h2 style="color:midnightblue">WE STories</h2>
-This <a href="https://online.fliphtml5.com/obrr/qkde/" target="_blank">handbook</a> highlights the strengths and distinctiveness of secondary schools, specialised and specialised independent schools in the West Zone.  
+This <a href="https://online.fliphtml5.com/obrr/qkde/" target="_blank">handbook</a>&nbsp;highlights&nbsp;the strengths and distinctiveness of secondary schools,&nbsp;specialised&nbsp;and&nbsp;specialised&nbsp;independent schools in the West Zone.  
 ![](/images/ECG/WE%20STories%202022%20cover%20page.png)
 
 _(The 2023 WE STories will be updated at a later date)_
