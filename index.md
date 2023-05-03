@@ -4,8 +4,9 @@ title: West View Primary School
 description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
-notification: "Announcements: New! Updated resources for P6 parents on Education
-  and Career Guidance. Click on \"What's On\" to find out more."
+notification: "Announcements: New! The highly anticipated FunFam SportsFest
+  organized by Active Parents is back for its 2nd edition this school holidays!
+  Click on \"What's On\" to find out more."
 sections:
   - hero:
       key_highlights:
