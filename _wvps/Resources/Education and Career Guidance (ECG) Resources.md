@@ -10,7 +10,6 @@ third_nav_title: Resources
 <a href="/files/ECG/psle%202023%20-%20parent%20engagement.pdf" target="_blank">Click here for the deck of slides</a>
 <h2 style="color:midnightblue">Video - Top Questions on PSLE Changes Answered</h2>
 MOE’s Deputy Director-General of Education addresses the top questions parents have asked about the PSLE changes.
-[]()
 
 <h3>Part 1</h3>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pp5rWUMMtIc" height="315" width="560"></iframe>
