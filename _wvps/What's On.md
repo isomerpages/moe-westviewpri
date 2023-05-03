@@ -3,7 +3,7 @@ title: What's On
 permalink: /wvps/whats-on/
 description: ""
 ---
-## FunFam Sportsfest 2023
+## FunFam SportsFest 2023
 ![](/images/Annoucements/fanfam%20sportsfest%202023.jpg)
 Get ready for some fun and active family bonding because the highly anticipated FunFam SportFest organised by Active Parents is back for its second edition this School Holidays! Pair up with your child and participate in sport activities such as Athletics, Canoe, Tennis &nbsp;and Volleyball. Work together as a team to conquer game obstacles and challenges in our brand new FunFam Adventure where you can earn your own personalised photo momento. You can also expect a variety of sports tryouts as well. Get ready to sweat, laugh, and make unforgettable memories at FunFam SportFest!
 
