@@ -44,6 +44,7 @@ This <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-p
 																										 
 <h2 style="color:midnightblue">WE STories</h2>
 This <a href="https://online.fliphtml5.com/obrr/qkde/" target="_blank">handbook</a>&nbsp;highlights&nbsp;the strengths and distinctiveness of secondary schools,&nbsp;specialised&nbsp;and&nbsp;specialised&nbsp;independent schools in the West Zone.  
+
 ![](/images/ECG/WE%20STories%202022%20cover%20page.png)
 
 _(The 2023 WE STories will be updated at a later date)_
