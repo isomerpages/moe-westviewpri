@@ -54,8 +54,4 @@ This <a href="https://go.gov.sg/westories-official" target="_blank">handbook</a>
 |*Pages 160 - 165*|Easy referencing of schools' talent areas for Direct School Admission (DSA), Applied Learning Programmes (ALP) and Learning for Life Programmes (LLP)|
 |&nbsp;|Clickable links to view schools' videos and artefacts that showcase each school's distinctiveness |
 
-
-
-![](/images/ECG/WE%20STories%202022%20cover%20page.png)
-
-_(The 2023 WE STories will be updated at a later date)_
+![A cover image of the WE Stories publication for 2023](/images/ECG/we%20stories%20publication%202023%20cover.jpg)
