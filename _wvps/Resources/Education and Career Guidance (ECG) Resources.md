@@ -43,7 +43,18 @@ This <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-p
 ![](/images/Picture1.jpeg)
 																										 
 <h2 style="color:midnightblue">WE STories</h2>
-This <a href="https://online.fliphtml5.com/obrr/qkde/" target="_blank">handbook</a>&nbsp;highlights&nbsp;the strengths and distinctiveness of secondary schools,&nbsp;specialised&nbsp;and&nbsp;specialised&nbsp;independent schools in the West Zone.  
+This <a href="https://go.gov.sg/westories-official" target="_blank">handbook</a>&nbsp;highlights&nbsp;the strengths and distinctiveness of secondary schools,&nbsp;specialised&nbsp;and&nbsp;specialised&nbsp;independent schools in the West Zone.
+
+**Key features of the publication:**
+
+
+|&nbsp;|&nbsp;|
+| -------- | -------- |
+|*Pages 4 &amp; 5*|Interactive map displaying schools in their geographical location with links to lead readers directly to the respective schools|
+|*Pages 160 - 165*|Easy referencing of schools' talent areas for Direct School Admission (DSA), Applied Learning Programmes (ALP) and Learning for Life Programmes (LLP)|
+|&nbsp;|Clickable links to view schools' videos and artefacts that showcase each school's distinctiveness |
+
+
 
 ![](/images/ECG/WE%20STories%202022%20cover%20page.png)
 
