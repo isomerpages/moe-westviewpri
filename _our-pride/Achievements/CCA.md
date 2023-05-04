@@ -13,7 +13,7 @@ third_nav_title: Achievements
 7)&nbsp;&nbsp;[Art &amp; Craft Club](/our-curriculum/cca-core/art-n-craft-club) <br>
 8)&nbsp;&nbsp;[Scouts](/our-curriculum/cca-core/scouts)
 
-### [2023](/our-pride/achievements/cca/2022/)
+### [2023](/our-pride/achievements/cca/2023/)
 
 ### [2022](/our-pride/achievements/cca/2022/)
 
