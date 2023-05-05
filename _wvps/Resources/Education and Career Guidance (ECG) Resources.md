@@ -7,7 +7,7 @@ third_nav_title: Resources
 # PSLE scoring and S1 posting matters
 <h2 style="color:midnightblue">Parent engagement deck on PSLE scoring and S1 posting changes</h2>
 
-<a href="/files/ECG/PSLE%202022_Parent%20Engagement_Jan2022.pdf" target="_blank">Click here for the deck of slides</a>
+<a href="/files/ECG/psle%202023%20-%20parent%20engagement.pdf" target="_blank">Click here for the deck of slides</a>
 <h2 style="color:midnightblue">Video - Top Questions on PSLE Changes Answered</h2>
 MOE’s Deputy Director-General of Education addresses the top questions parents have asked about the PSLE changes.
 
@@ -38,12 +38,20 @@ Overview of the different kinds of schools and the experiences in Secondary Scho
 Parents and their children coming together to share their reflections on success beyond PSLE grades.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2 style="color:midnightblue">JOURNEYING WITH OUR CHILDREN, SUPPORTING THEIR ASPIRATIONS</h2>
-This <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" target="_blank">handbook for parents</a> contains tips and advice on ECG and considerations at key education stages to guide their children.
+This <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" target="_blank">handbook for parents</a> contains tips and advice on ECG and considerations at key education stages to guide&nbsp;their&nbsp;children.
 
 ![](/images/Picture1.jpeg)
 																										 
 <h2 style="color:midnightblue">WE STories</h2>
-This <a href="https://online.fliphtml5.com/obrr/qkde/" target="_blank">handbook</a> highlights the strengths and distinctiveness of secondary schools, specialised and specialised independent schools in the West Zone.  
-![](/images/ECG/WE%20STories%202022%20cover%20page.png)
+This <a href="https://go.gov.sg/westories-official" target="_blank">handbook</a>&nbsp;highlights&nbsp;the strengths and distinctiveness of secondary schools,&nbsp;specialised&nbsp;and&nbsp;specialised&nbsp;independent schools in the West Zone.
 
-_(The 2023 WE STories will be updated at a later date)_
+**Key features of the publication:**
+
+
+|&nbsp;|&nbsp;|
+| -------- | -------- |
+|*Pages 4 &amp; 5*|Interactive map displaying schools in their geographical location with links to lead readers directly to the respective schools|
+|*Pages 160 - 165*|Easy referencing of schools' talent areas for Direct School Admission (DSA), Applied Learning Programmes (ALP) and Learning for Life Programmes (LLP)|
+|&nbsp;|Clickable links to view schools' videos and artefacts that showcase each school's distinctiveness |
+
+![A cover image of the WE Stories publication for 2023](/images/ECG/we%20stories%20publication%202023%20cover.jpg)

@@ -22,8 +22,7 @@ third_nav_title: Curriculum
 *   Numeracy
 
 *   Social and Emotional Development
-
-![Hi-Light Programme](/images/Hi-Light%20Programme.jpg)
+![Hi-light programme](/images/MK/hi-light%20programme.png)
 
 
 <h3 style="color:black" align="center">                                  Starlight Literacy Programme</h3>
@@ -34,4 +33,4 @@ third_nav_title: Curriculum
 
 *   Focuses on developing listening, speaking and early literacy skills.
 
-![Starlight Literacy Programme](/images/Starlight%20Literacy%20Programme.jpg)
+![Starlight Literacy Programme](/images/MK/starlight%20literacy%20programme.png)
