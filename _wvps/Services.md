@@ -130,7 +130,7 @@ The bus fares listed below are for daily school bus services by distance and the
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
 		
-3. Submit the completed application form and documents by the closing date via email OR to the School's General Office.
+3. Submit the completed application form together with the documents by the closing date via email OR to School's General Office. 
 * Address: West View Primary School, 31 Senja Road. S677742
 * Contact No.: 67600178
 * Email: tng_yew_li@moe.edu.sg
@@ -155,7 +155,9 @@ The bus fares listed below are for daily school bus services by distance and the
 		
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-		
+
+
+
 </td>
 </tr>
 	
