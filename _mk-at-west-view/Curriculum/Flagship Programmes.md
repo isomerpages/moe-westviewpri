@@ -37,4 +37,9 @@ third_nav_title: Curriculum
 
 <h3 style="color:black" align="center"> Weeks of Wonder (WoW) projects</h3>
 
+In a year, MK children complete 2 WoW projects in English and another 2 in their Mother Tongue Language (MTL). Children work with their friends to investigate topics that interest them. WoW projects promote:
 
+* Sense of curiosity in young children.
+* Encourage children to make sense of the world around them.
+* Confidence as children take charge of their learning and experience the joy of self-motivated learning.
+* Collaborate with one another using English language and their Mother Tongue Language.
