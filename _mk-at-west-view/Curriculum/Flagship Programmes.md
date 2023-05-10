@@ -17,11 +17,11 @@ third_nav_title: Curriculum
 
 *   Language and Literacy
 
-*   Motor Skills Development
+*   Health, Safety, and Motor Skills Development
 
 *   Numeracy
 
-*   Social and Emotional Development
+*   Values, Social and Emotional Competencies and Learning Dispositions
 ![Hi-light programme](/images/MK/hi-light%20programme.png)
 
 
@@ -34,3 +34,7 @@ third_nav_title: Curriculum
 *   Focuses on developing listening, speaking and early literacy skills.
 
 ![Starlight Literacy Programme](/images/MK/starlight%20literacy%20programme.png)
+
+<h3 style="color:black" align="center"> Weeks of Wonder (WoW) projects</h3>
+
+
