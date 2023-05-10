@@ -155,9 +155,7 @@ The bus fares listed below are for daily school bus services by distance and the
 		
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-
-
-
+		
 </td>
 </tr>
 	
