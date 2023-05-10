@@ -136,7 +136,7 @@ The bus fares listed below are for daily school bus services by distance and the
 * Email: tng_yew_li@moe.edu.sg
 * Contact Person: Mdm Tng Yew Li
 		
-**How to get there?**
+**How to get here?**
 * Nearest MRT: Bukit Panjang MRT (Downtown line DT1)
 * Bus number: Take bus no, 972 and 920 from Bukit Panjang interchange and alight in front of the school
 
