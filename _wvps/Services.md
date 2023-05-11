@@ -134,7 +134,7 @@ The bus fares listed below are for daily school bus services by distance and the
 	</table>
 	<h5>Application Procedure</h5>
 	<ol>
-		<li>Download and complete the application form. You may also request for a hardcopy from the School's General Office</li>
+		<li>Download and complete the <a href="/files/Services/app_form_for_canteen_stall.pdf">application form</a>. You may also request for a hardcopy from the School's General Office</li>
 		<li>Attach the following documents together with the application form:
 			<ul>
 			<li>Photocopy of the NRIC (front and back)</li>
