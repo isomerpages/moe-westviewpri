@@ -7,11 +7,10 @@ description: ""
 
 Kindergarten Care
 -----------------
+We offer Kindergarten Care (KCare), a care service from 7 a.m. to 7 p.m. including school holidays. It is closed on public holidays and up to 6 additional days each year.
 
-We offer Kindergarten Care (KCare), a full-day child care programme, 7 a.m. to 7 p.m.  
-  
-If you register, your child will be in KCare before and after your elected MK session, providing the convenience of a full-day service.  
-  
+If you register, your child can be in KCare before and after their MK session, providing the convenience of a full-day service within the same premises.
+
   
 
 Early Years Centre (EYC)
