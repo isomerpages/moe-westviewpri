@@ -9,9 +9,8 @@ description: ""
 
 The bus fares listed below are for daily school bus services by distance and the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.
 
-**Operator**: JK59 Transport Pte Ltd
-
-**Telephone**: 64655959
+<strong>Operator:</strong> JK59 Transport Pte Ltd
+<strong>Telephone:</strong> 64655959
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="575" style="width:431.6pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid #999999 .75pt;mso-yfti-tbllook:1184"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="83" rowspan="2" valign="bottom" style="width:62.6pt;border:solid #999999 1.0pt;
