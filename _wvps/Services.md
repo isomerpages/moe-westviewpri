@@ -118,46 +118,61 @@ The bus fares listed below are for daily school bus services by distance and the
 <tr>
 	<td>School Canteen Advertisement</td>
 	<td>
-
-|Type of Stall|Closing Date|Requirements|
-| -------- | -------- | -------- |
-| Asian Non-Halal Noodle Stall|14 Jun 2023|NIL|
-		
-**Application Procedure**
-1. Download and complete the [application form](/files/Services/app_form_for_canteen_stall.pdf). You may also request for a hardcopy from the School's General Office.
-2. Attached the following documents together with the application form:
-* Photocopy of the NRIC (front and back)
-* List of proposed menu and pricing for all items
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
-		
-3. Submit the completed application form together with the documents by the closing date via email OR to School's General Office. 
-* Address: West View Primary School, 31 Senja Road. S677742
-* Contact No.: 67600178
-* Email: tng_yew_li@moe.edu.sg
-* Contact Person: Mdm Tng Yew Li
-		
-**How to get here?**
-* Nearest MRT: Bukit Panjang MRT (Downtown line DT1)
-* Bus number: Take bus no, 972 and 920 from Bukit Panjang interchange and alight in front of the school
-
-**Interested applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
-* Able to maintain high standard of food safety and personal hygiene.
-* Must be in personal attendance at the stall during operating hours.
-* Healthy and fit to operate the stall.
-
-**Applicants should preferably fulfill the following criteria:**
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-* Possess catering experience or experience operating in a school environment.
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
-		
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-
-
-
+	<table>
+		<tbody>
+	<tr>
+		<th>Type of Stall</th>
+		<th>Closing Date</th>
+		<th>Requirements</th>
+	</tr>
+	<tr>
+		<td>Asian Non-Halal Noodle Stall</td>
+		<td>14 Jun 2023</td>
+		<td>NIL</td>
+	</tr>
+		</tbody>
+	</table>
+	<h5>Application Procedure</h5>
+	<ol>
+		<li>Download and complete the application form. You may also request for a hardcopy from the School's General Office</li>
+		<li>Attach the following documents together with the application form:
+			<ul>
+			<li>Photocopy of the NRIC (front and back)</li>
+			<li>List of proposed menu and pricing for all items</li>
+			<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.</li>
+			</ul>
+		</li>
+		<li>Submit the completed application form and documents by closing date via email <strong>OR</strong> to the School's General Office.</li>
+	</ol>
+	<ul>
+		<li>Address: West View Primary School, 31 Senja Road, S677742</li>
+		<li>Contact No.: 6760 0178</li>
+		<li>Email: <a href="mailto: tng_yew_li@moe.edu.sg">tng_yew_li@moe.edu.sg</a></li>
+		<li>Contact Person: Mdm Tng Yew Li</li>
+	</ul>
+	<h5>How to get there?</h5>
+	<ul>
+		<li>Nearest MRT: Bukit Panjang MRT (Downtown Line DT1)</li>
+		<li>Bus number: Take bus no, 972 and 920 from Bukit Panjang interchange and alight in front of the school</li>
+	</ul>
+	<h5>Interested applicants must meet the following criteria:</h5>
+	<ul>
+		<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
+		<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
+		<li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see <a target="_blank" href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">link</a>)</li>
+		<li>Able to maintain high standard of food safety and personal hygiene.</li>
+		<li>Must be in personal attendance at the stall during operating hours.</li>
+		<li>Healthy and fit to operate the stall.</li>
+		</ul>
+	<h5>Applicants should preferably fulfill the following criteria:</h5>
+	<ul>
+		<li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
+		<li>Possess catering experience or experience operating in a school environment.</li>
+		<li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
+	</ul>
+	<p>
+		<em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
+	</p>
 </td>
 </tr>
 	
