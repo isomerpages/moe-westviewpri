@@ -183,6 +183,7 @@ The bus fares listed below are for daily school bus services by distance and the
 <em>Reopening of the clinic will be informed</em></h5>
 
 Please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment.
+
 <u>**List of buddy clinics:**</u>
 <table>
 <tbody>
