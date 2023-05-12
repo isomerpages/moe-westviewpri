@@ -183,20 +183,36 @@ The bus fares listed below are for daily school bus services by distance and the
 <em>Reopening of the clinic will be informed</em></h5>
 
 Please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment.
-
 <u>**List of buddy clinics:**</u>
-|&nbsp;|&nbsp;|&nbsp;|
-|---------------------------|----------|--------------------------------------|
-| Beacon Primary School     | 91141358 | 36 Bukit Panjang Ring Road S(679944) |
-| Greenridge Primary School | 98396594 | 11 Jelapang Road S(677744)           |
-| Zhenghua Primary School   | 91161070 | 9 Fajar Road S(679002)               |
-| Mobile Dental Clinic (MDC) 25   | 91864597 |                                      |
-
+<table>
+<tbody>
+  <tr>
+    <td>Beacon Primary School</td>
+    <td>91141358</td>
+    <td>36 Bukit Panjang Ring Road S(679944)</td>
+  </tr>
+  <tr>
+    <td>Greenridge Primary School</td>
+    <td>98396594</td>
+    <td>11 Jelapang Road S(677744)</td>
+  </tr>
+  <tr>
+    <td>Zhenghua Primary School</td>
+    <td>91161070</td>
+    <td>9 Fajar Road S(679002)</td>
+  </tr>
+  <tr>
+    <td>Mobile Dental Clinic MDC 25</td>
+    <td>91864597</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 For emergencies such as dental trauma, facial/gum swellings or toothaches, please contact: HPB, School Dental Centre. 
 
-Tel: **64353779** or **64353151**
+Tel: <strong>64353779</strong> or <strong>64353151</strong>
 
-Address: **3 Second Hospital Avenue S(168937) Level 4**
+Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
 	
 <!--The codes for the dental clinic content ends here-->
 </td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/uniform.jpeg" alt="uniform.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; height: 60px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Uniform</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;">Pacific Bookstores</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;">Tel: 6559 2269</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;">Website:&nbsp;<a href="http://www.pacificbookstores.com/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">http://www.pacificbookstores.com/</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;">Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">sales@pacificbookstores.com</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;">Operating Hours: 9 a.m. to 3.30 p.m.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;">Lunch Break: 12.30 p.m. to 1.30 p.m.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><font size="1" style="margin: 0px; outline: 0px; padding: 0px;">*Operating hours may change during school holidays. Please call school to check.</font></div></div></td></tr></tbody></table>
