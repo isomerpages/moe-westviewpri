@@ -203,7 +203,7 @@ Please contact buddy clinics (to ensure dental staff is on duty) at nearby schoo
     <td>9 Fajar Road S(679002)</td>
   </tr>
   <tr>
-    <td>Mobile Dental Clinic MDC 25</td>
+    <td>Mobile Dental Clinic (MDC) 25</td>
     <td>91864597</td>
     <td></td>
   </tr>
