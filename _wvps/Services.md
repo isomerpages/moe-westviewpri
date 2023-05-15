@@ -7,7 +7,7 @@ description: ""
   <tbody>
     <tr>
       <td style="text-align:center;">
-				<img alt="" src="/images/logo.jpeg"><br>
+				<img alt="" src="/images/logo.jpeg">
 				Big Heart Student Care</td>
       <td>
       <img alt="Big Hear Student Care Poster" src="/images/West%20View%20SCC%20Info.png"><br>
@@ -81,7 +81,7 @@ description: ""
        </td>
     </tr>
     <tr>
-      <td>School Canteen Advertisement</td>
+      <td style="text-align:center;">School Canteen Advertisement</td>
       <td>
       <table> <!--Stalls table starts here-->
 		<tbody>
@@ -141,7 +141,10 @@ description: ""
 	</td>
     </tr>
     <tr>
-      <td>Book Shop</td>
+      <td style="text-align:center;">
+				<img alt="Icon of a stack of 3 books" src="/images/bookshop.png">
+				Book Shop
+			</td>
       <td>
       <h4>Pacific Bookstores</h4>
       <strong>Tel:</strong> 6559 2269<br>
