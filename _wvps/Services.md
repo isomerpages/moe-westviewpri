@@ -6,7 +6,9 @@ description: ""
 <table>
   <tbody>
     <tr>
-      <td>Big Heart Student Care</td>
+      <td style="text-align:center;">
+				<img alt="" src="/images/logo.jpeg"><br>
+				Big Heart Student Care</td>
       <td>
       <img alt="Big Hear Student Care Poster" src="/images/West%20View%20SCC%20Info.png"><br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/Do4hSWR8s4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="margin: 0px; outline: 0px; padding: 0px; width: 698px; height: 318px;"></iframe><br>
@@ -25,7 +27,10 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td>School Bus</td>
+      <td style="text-align:center">
+				<img alt="icon of the school bus" src="/images/bus.png">
+				School Bus
+			</td>
       <td>The bus fares listed below are for daily school bus services by
        distance and the maximum fares for each distance cap. 
        Actual bus fares based on other commercial considerations such as the
