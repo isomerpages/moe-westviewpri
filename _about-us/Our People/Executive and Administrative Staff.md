@@ -25,4 +25,4 @@ third_nav_title: Our People
 |<strong>ICT Associate</strong>|<a href="mailto:ho_wilven@moe.edu.sg">Mr Wilven Ho</a>|
 |<strong>Desktop Engineer</strong>|<a href="mailto:Imaduddin.bin.noordin@ncs.com.sg">Mr Imaduddin</a>|
 |<strong>Desktop Engineer</strong>|<a href="mailto:amirulhakim.ahmadhassanayoppan@ncs.com.sg">Mr Amirul</a>|
-|<strong>Multimedia Administration &amp; Production Assistant</strong>|<a href="mailto:ethan_lim_chee_yang@moe.edu.sg">Mr Ethan Lim|</a></strong></strong></strong></strong>
+|<strong>Multimedia Administration &amp; Production Assistant</strong>|<a href="mailto:ethan_lim_chee_yang@moe.edu.sg">Mr Ethan Lim</a>|</strong></strong></strong></strong>
