@@ -156,7 +156,10 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td>Dental Clinic</td>
+      <td style="text-align:center;">
+				<img alt="Icon of a tooth" src="/images/dental.jpeg">
+				Dental Clinic
+			</td>
       <td>
       <h5 style="text-align: center;">The School Dental Clinic is closed from 1st September 2022 to Mid-August 2023<br><br>
 <em>Reopening of the clinic will be informed</em></h5>
