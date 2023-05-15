@@ -197,7 +197,7 @@ Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="text-align:center;">
 				<img alt="Icon of a neck tie" src="/images/uniform.jpeg">
 				Uniform
 			</td>
