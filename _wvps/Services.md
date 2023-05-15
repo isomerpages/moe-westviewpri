@@ -8,8 +8,8 @@ description: ""
     <tr>
       <td>Big Heart Student Care</td>
       <td>
-      BHSC poster goes here<br>
-      YT video goes here<br>
+      <img alt="Big Hear Student Care Poster" src="/images/West%20View%20SCC%20Info.png"><br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Do4hSWR8s4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="margin: 0px; outline: 0px; padding: 0px; width: 698px; height: 318px;"></iframe><br>
       <strong>Visit our website for more information</strong><br>
       <a target="_blank" href="https://bigheartstudentcare.com/">https://bigheartstudentcare.com/</a><br><br>
       Contact: Ms. Fira @ 9855 2910 between 11 a.m. and 6.45 p.m. (Weekdays)<br>
