@@ -197,7 +197,10 @@ Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
       </td>
     </tr>
     <tr>
-      <td>Uniform</td>
+      <td>
+				<img alt="Icon of a neck tie" src="/images/uniform.jpeg">
+				Uniform
+			</td>
       <td>
       <h4>Pacific Bookstores</h4>
       <strong>Tel:</strong> 6559 2269<br>
