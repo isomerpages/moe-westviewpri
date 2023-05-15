@@ -129,7 +129,7 @@ description: ""
 		<li>Must be in personal attendance at the stall during operating hours.</li>
 		<li>Healthy and fit to operate the stall.</li>
 		</ul>
-	<h5>Applicants should preferably fulfill the following criteria:</h5>
+	<h4>Applicants should preferably fulfill the following criteria:</h4>
 	<ul>
 		<li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
 		<li>Possess catering experience or experience operating in a school environment.</li>
