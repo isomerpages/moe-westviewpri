@@ -138,7 +138,7 @@ description: ""
     <tr>
       <td>Book Shop</td>
       <td>
-      <h4 style="color:midnightblue;">Pacific Bookstores</h4>
+      <h4>Pacific Bookstores</h4>
       <strong>Tel:</strong> 6559 2269<br>
       <strong>Website:</strong> <a target="_blank" href="http://www.pacificbookstores.com/">http://www.pacificbookstores.com/</a><br>
       <strong>Email:</strong> <a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>
@@ -188,7 +188,7 @@ Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
     <tr>
       <td>Uniform</td>
       <td>
-      <h4 style="color:midnightblue;">Pacific Bookstores</h4>
+      <h4>Pacific Bookstores</h4>
       <strong>Tel:</strong> 6559 2269<br>
       <strong>Website:</strong> <a target="_blank" href="http://www.pacificbookstores.com/">http://www.pacificbookstores.com/</a><br>
       <strong>Email:</strong> <a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>
