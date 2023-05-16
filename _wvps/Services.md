@@ -3,6 +3,7 @@ title: Services
 permalink: /wvps/services/
 description: ""
 ---
+<div style="overflow-x:auto;">
 <table>
   <tbody>
     <tr>
@@ -199,7 +200,7 @@ Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
       </td>
     </tr>
   </tbody>
-</table>
+</table></div>
 
 
 Use of Images and Photographs
