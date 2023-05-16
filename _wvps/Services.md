@@ -3,18 +3,15 @@ title: Services
 permalink: /wvps/services/
 description: ""
 ---
-<div style="overflor-x:auto;>
-<table style=">
-  
-    
-      
-				<img src="/images/logo.jpeg" alt="">
-				Big Heart Student Care
-      
-      <img src="/images/West%20View%20SCC%20Info.png" alt="Big Hear Student Care Poster"><br>
-      <iframe style="margin: 0px; outline: 0px; padding: 0px; width: 698px; height: 318px;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Do4hSWR8s4o" height="315" width="560"></iframe><br>
+<table>
+  <tbody>
+    <tr>
+      <td>Big Heart Student Care</td>
+      <td>
+      BHSC poster goes here<br>
+      YT video goes here<br>
       <strong>Visit our website for more information</strong><br>
-      <a href="https://bigheartstudentcare.com/" target="_blank">https://bigheartstudentcare.com/</a><br><br>
+      <a target="_blank" href="https://bigheartstudentcare.com/">https://bigheartstudentcare.com/</a><br><br>
       Contact: Ms. Fira @ 9855 2910 between 11 a.m. and 6.45 p.m. (Weekdays)<br>
       Email: westview@shgstudentcare.com.sg<br>
       Operating Hours: School Dismissal Time 1.30 p.m. to 7.00 p.m. (Monday to Friday)<br>
@@ -22,17 +19,15 @@ description: ""
       <br>
       <h4>TO REGISTER YOUR INTEREST</h4>
       Interested applicants may submit your interest online via the URL online link or QR Code below by 31 October 2022, Monday.<br><br>
-      <a href="https://bigheartstudentcare.com/interest/" target="_blank">https://bigheartstudentcare.com/interest/</a><br>
+      <a target="_blank" href="https://bigheartstudentcare.com/interest/">https://bigheartstudentcare.com/interest/</a><br>
       QR codes goes here<br>
       Kindly note that both the School and the Student Care will assess the eligibility of the application and only short-listed applicants will be contacted for the official registration.
-      
-    
-    
-      
-				<img src="/images/bus.png" alt="icon of the school bus">
-				School Bus
-			
-      The bus fares listed below are for daily school bus services by
+      </td>
+    </tr>
+    <tr>
+      <td>
+      School Bus</td>
+      <td>The bus fares listed below are for daily school bus services by
        distance and the maximum fares for each distance cap. 
        Actual bus fares based on other commercial considerations such as the
        distance, route, number of students on buses and the size of school bus
@@ -79,11 +74,11 @@ description: ""
 </tbody>
 </table>
        <!--The codes for the fares table ends here-->
-       
-    
-    
-      School Canteen Advertisement
-      
+       </td>
+    </tr>
+    <tr>
+      <td>School Canteen Advertisement</td>
+      <td>
       <table> <!--Stalls table starts here-->
 		<tbody>
 	      <tr>
@@ -125,12 +120,12 @@ description: ""
 	<ul>
 		<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 		<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
-		<li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">link</a>)</li>
+		<li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see <a target="_blank" href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">link</a>)</li>
 		<li>Able to maintain high standard of food safety and personal hygiene.</li>
 		<li>Must be in personal attendance at the stall during operating hours.</li>
 		<li>Healthy and fit to operate the stall.</li>
 		</ul>
-	<h4>Applicants should preferably fulfill the following criteria:</h4>
+	<h5>Applicants should preferably fulfill the following criteria:</h5>
 	<ul>
 		<li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
 		<li>Possess catering experience or experience operating in a school environment.</li>
@@ -139,29 +134,23 @@ description: ""
 	<p>
 		<em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 	</p>
-	
-    
-    
-      
-				<img src="/images/bookshop.png" alt="Icon of a stack of 3 books">
-				Book Shop
-			
-      
-      <h4>Pacific Bookstores</h4>
+	</td>
+    </tr>
+    <tr>
+      <td>Book Shop</td>
+      <td>
+      <h4 style="color:midnightblue;">Pacific Bookstores</h4>
       <strong>Tel:</strong> 6559 2269<br>
-      <strong>Website:</strong> <a href="http://www.pacificbookstores.com/" target="_blank">http://www.pacificbookstores.com/</a><br>
+      <strong>Website:</strong> <a target="_blank" href="http://www.pacificbookstores.com/">http://www.pacificbookstores.com/</a><br>
       <strong>Email:</strong> <a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>
       <strong>Operating Hours:</strong> 8.00 a.m. to 3.00 p.m.<br>
       <strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.<br>
       <em>*Operating hours may change during school holidays. Please call our School to check</em>
-      
-    
-    
-      
-				<img src="/images/dental.jpeg" alt="Icon of a tooth">
-				Dental Clinic
-			
-      
+      </td>
+    </tr>
+    <tr>
+      <td>Dental Clinic</td>
+      <td>
       <h5 style="text-align: center;">The School Dental Clinic is closed from 1st September 2022 to Mid-August 2023<br><br>
 <em>Reopening of the clinic will be informed</em></h5>
 Please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment.
@@ -195,25 +184,23 @@ For emergencies such as dental trauma, facial/gum swellings or toothaches, pleas
 Tel: <strong>64353779</strong> or <strong>64353151</strong>
 <br><br>
 Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
-      
-    
-    
-      
-				<img src="/images/uniform.jpeg" alt="Icon of a neck tie">
-				Uniform
-			
-      
-      <h4>Pacific Bookstores</h4>
+      </td>
+    </tr>
+    <tr>
+      <td>Uniform</td>
+      <td>
+      <h4 style="color:midnightblue;">Pacific Bookstores</h4>
       <strong>Tel:</strong> 6559 2269<br>
-      <strong>Website:</strong> <a href="http://www.pacificbookstores.com/" target="_blank">http://www.pacificbookstores.com/</a><br>
+      <strong>Website:</strong> <a target="_blank" href="http://www.pacificbookstores.com/">http://www.pacificbookstores.com/</a><br>
       <strong>Email:</strong> <a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>
       <strong>Operating Hours:</strong> 8.00 a.m. to 3.00 p.m.<br>
       <strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.<br>
       <em>*Operating hours may change during school holidays. Please call our School to check</em>
-      
-    
-  
-</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 Use of Images and Photographs
 -----------------------------
