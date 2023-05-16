@@ -3,7 +3,7 @@ title: Services
 permalink: /wvps/services/
 description: ""
 ---
-<table>
+<table style="width: 95%;">
   <tbody>
     <tr>
       <td style="text-align:center;">
