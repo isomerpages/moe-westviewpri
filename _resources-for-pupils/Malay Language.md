@@ -5,6 +5,7 @@ description: ""
 ---
 Recommended Apps for learning
  ----
+ 
 | S/N | Name of App | App Icon | Description | iOS | Android | Level |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **1.** | Pinta Kata App | ![](/images/pintar%20kata.png) | • This engaging app helps to widen their vocabulary | ✓ | ✓ | Primary 1 - 6 |
@@ -21,6 +22,7 @@ Recommended Apps for learning
 
 Recommended Malay Language Reading Materials
 ---
+
 | S/N | Name | Icon | Description | Level |
 |:---:|:---:|:---:|:---:|:---:|
 | **1.** | Nabil &amp; Nailah Reader Series | ![](/images/nabil.png) | The Malay Language Learning and Promotional Community has come up with various story books that a suitable for all levels.<br><br>http://www.mllpc.sg/publications/3 | Primary 1 - 6 |
