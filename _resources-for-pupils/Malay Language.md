@@ -35,6 +35,6 @@ Stay Home Edition (Mother Tonuge)
 
 |S/N|Name|Icon|Description|iOS|Android|Level|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|**1.**|Mother Tongue Website<br>[https;//www.mtl.moe.edu.sg/](https://www.mtl.moe.edu.sg/)|[![](/images/mtl.png)](https;//www.mtl.moe.edu.sg/)<br>MTL Website|• Fun and interactive activities based on textbook passages|**✓**|**✓**|Primary 1 - 6|
+|**1.**|Mother Tongue Website<br>[https;//www.mtl.moe.edu.sg/](https://www.mtl.moe.edu.sg/)|[![](/images/mtl.png)](https;//www.mtl.moe.edu.sg/)<br>MTL Website|• Fun and interactive activities based on textbook passages|✓|✓|Primary 1 - 6|
 |**2.**|NLB Mobile App<br>[https://mobileapp.nlb.gov.sg/](https://mobileapp.nlb.gov.sg/)|[![](/images/nlb.jpeg)](https://mobileapp.nlb.gov.sg/)<br>NLB Mobile App|• With lots of Mother Tongue books to choose from, download this app to meet your learning needs!|✓|✓|Primary 1 - 6|
 |**3.**|Learning Mother Tongue Languages - Duolingo<br>[https://www.duolingo.com/](https://www.duolingo.com/)|[![](/images/duolingo.png)](https://www.duolingo.com/)<br>Duolingo App|• You can learn Chinese, Malay, Tamil and other languages with this fun and engaging app.|✓|✓|Primary 1 - 6|
