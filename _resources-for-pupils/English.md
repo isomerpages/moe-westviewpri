@@ -6,6 +6,7 @@ description: ""
 ## Reading
 
 Apart from reading stories, it is also important for us to know what is happening around us and know more about the world and how it works
+
 |&nbsp;|&nbsp;|
 |---|---|
 | Narrative/Stories | [Storyline Online](https://www.storylineonline.net/library/) (Lower and Middle Primary)<br><br>[World Book Day](https://www.worldbookday.com/)<br><br>[Scholastic \| Free Resources and Strategies](https://classroommagazines.scholastic.com/support/learnathome.html)<br><br>[NLB - eReads](https://eresources.nlb.gov.sg/ereads) (Account required)<br><br>[Bookshare \| An Accessible Online Library for people with print disabilities](https://www.bookshare.org/cms/) (pupils with special needs)<br><br>[Bringing Hogwarts to You](https://www.wizardingworld.com/collections/harry-potter-at-home)<br><br>[Comics by Gardens by the Bay](https://www.gardensbythebay.com.sg/en/stayhomewithgb/bloom/Bloom-Plantkeepers-of-the-Bay-characters.html) |
