@@ -14,7 +14,7 @@ Recommended Resources for the learning of Chinese Language
 
 
 ## 母亲节 儿童阅读推荐
-[![母亲节 儿童阅读推荐](/images/Stay%20Home%20edition/physical%20book%20recommendation%20(cpcll)%20primary%20-%20may%202023-1.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/physical%20book%20recommendation%20(cpcll)%20primary%20-%20may%202023.pdf)
+[![母亲节 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/physical%20book%20recommendation%20(cpcll)%20primary%20-%20may%202023-1.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/physical%20book%20recommendation%20(cpcll)%20primary%20-%20may%202023.pdf)
 
 听故事，识世界
 --------------------------------------------------------------
