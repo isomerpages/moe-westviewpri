@@ -43,3 +43,5 @@ In a year, MK children complete 2 WoW projects in English and another 2 in their
 * Encourage children to make sense of the world around them.
 * Confidence as children take charge of their learning and experience the joy of self-motivated learning.
 * Collaborate with one another using English language and their Mother Tongue Language.
+
+![Weeks of Wonder](/images/MK/weeks%20of%20wonder.png)
