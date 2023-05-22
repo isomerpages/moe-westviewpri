@@ -4,8 +4,6 @@ permalink: /our-curriculum/cca-core/scouts/
 description: ""
 third_nav_title: Core CCAs
 ---
-
-
 <style>  
 img {  
   display: block;  
@@ -13,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Scout%20front%20group%20photo.jpeg" alt="Scouts" style="width:80%;">  
+<img src="/images/Scout%20front%20group%20photo.jpeg" alt="Scouts" style="width:80%;">  
   
-</body>
+
 
 Brief of CCA
 ------------
@@ -25,18 +23,25 @@ The West View Cub Scouts group is the only uniformed group CCA in the school. Al
 Teachers-in-Charge
 ------------------
 
-Mdm Siti Murni (Overall-in-charge) <br>
+Mdm Zakiah Arip (Overall-in-charge) <br>
 Mr Uresh Kandasamy (Second-in-charge) <br>
 Mr Ramesh Ramiya (Advisor) <br>
 Mr Ang Eng Chuan <br>
 Ms Gurdeep Kaur <br>
-Mrs Samuel Rechal Silviya <br>
-Mdm Zakiah Arip
+Mdm Shi Yuanna <br>
+
 
 Achievements
 ------------
 
 <table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 117px;">2019<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 532px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Frank Cooper Sands Gold Award: Winner</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Silver and Bronze Award for World Scout Day</span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 248, 232); color: rgb(4, 40, 71); width: 83.25pt;">2017<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 248, 232); color: rgb(4, 40, 71); width: 383.25pt;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Frank Cooper Sands Gold Award: Winner</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Silver Award for World Scout Day</span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 83.25pt;">2016<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 383.25pt;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Frank Cooper Sands Gold Award: Winner</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;">Silver Award for World Scout Day</span></div></td></tr></tbody></table>
+
+|&nbsp;|&nbsp;|
+| -------- | -------- |
+|2019|Text|
+|2017||
+|2016||
+
 
 What’s up in our CCA?
 ---------------------
@@ -50,9 +55,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Tent%20Building%20Activity%20in%202022.jpg" alt="Scouts" style="width:80%;">  
+<img src="/images/Tent%20Building%20Activity%20in%202022.jpg" alt="Scouts" style="width:80%;">  
   
-</body><br>
+<br>
 
 <style>  
 img {  
@@ -61,9 +66,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mass%20Tin%20Outdoor%20Cooking.jpg" alt="Scouts" style="width:80%;">  
+<img src="/images/Mass%20Tin%20Outdoor%20Cooking.jpg" alt="Scouts" style="width:80%;">  
   
-</body>
+
 <p style="text-align:center;"><strong>Mass Tin Outdoor Cooking</strong></p>
 
 <style>  
@@ -73,9 +78,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Outdoor%20Nature%20Walk.jpg" alt="Scouts" style="width:80%;">  
+<img src="/images/Outdoor%20Nature%20Walk.jpg" alt="Scouts" style="width:80%;">  
   
-</body>
+
 <p style="text-align:center;"><strong>Outdoor Nature Walk</strong></p>
 
 <h3 style="color:black" align="center"><u>Certified Sixers
@@ -88,9 +93,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/First%20Aid%20Lesson%20via%20Zoom.png" alt="Scouts" style="width:80%;">  
+<img src="/images/First%20Aid%20Lesson%20via%20Zoom.png" alt="Scouts" style="width:80%;">  
   
-</body>
+
 <p style="text-align:center;"><strong>First Aid lesson via Zoom</strong></p>
 
 <style>  
@@ -100,9 +105,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/First%20Aid%20Badge%20Ready%20to%20help%20others.jpg" alt="Scouts" style="width:80%;">  
+<img src="/images/First%20Aid%20Badge%20Ready%20to%20help%20others.jpg" alt="Scouts" style="width:80%;">  
   
-</body>
+
 <p style="text-align:center;"><strong>First Aid Badge: Ready to help others!</strong></p>
 
 <h3 style="color:black" align="center"><u>North Area Word Scout Day @ Bishan Stadium
@@ -115,9 +120,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/KGHI6190.jpeg" alt="Scouts" style="width:80%;">  
+<img src="/images/KGHI6190.jpeg" alt="Scouts" style="width:80%;">  
   
-</body>
+
 <p style="text-align:center;">Silver and Bronze Medals for both game stations: Recycling Challenge and Bin the Pins</p>
 
 <h3 style="color:black" align="center"><u>Sixers Camp 2019 @ Nanyang Primary School
@@ -130,9 +135,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG_9973.jpeg" alt="Scouts" style="width:80%;">  
+<img src="/images/IMG_9973.jpeg" alt="Scouts" style="width:80%;">  
   
-</body>
+
 
 CCA Model Pupil
 ---------------
