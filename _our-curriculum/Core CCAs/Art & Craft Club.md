@@ -25,7 +25,7 @@ Achievements
 
 |Year|SYP Art Exhibition<br>(Held every alternative year)|Category|Award|
 |:--:|:--:|:--:|:--:|
-|2019|Vity Skyline<br>(corrugated board)|Cat C<br>(P5 &amp; 6)|Certificate of Recognition<br>*- Extended display at Prime Minister Office, Treasury Room*|
+|2019|City Skyline<br>(corrugated board)|Cat C<br>(P5 &amp; 6)|Certificate of Recognition<br>*- Extended display at Prime Minister Office, Treasury Room*|
 |2017|Sharing Our Cradle<br>(paper mache)|Cat A<br>(P1 &amp; 2)|Certificate of Recognition|
 |2017|Home<br>(corrugated board)|Cat B<br>(P3 &amp; 4)|Certificate of Recognition<br>*- Extended display for one year at MOE HQ*|
 |2017|Dance like the Butterflies (wire art)|Cat C<br>(P5 &amp; 6)|Certificate of Recognition|
@@ -86,14 +86,4 @@ img {
 CCA Model Pupil
 ---------------
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Arts%20and%20Crafts%20Club.png" alt="Art &amp; Craft Club" style="width:80%;">  
-  
-
-<br>
+![Art Club](/images/Core%20CCAs/arts%20and%20crafts%20club.jpg)
