@@ -24,7 +24,7 @@ The Chinese Dance CCA provides a platform for pupils to learn the foundations of
 Teachers-in-Charge
 ------------------
 
-Mdm Chua Kiat Eng(Overall-in-charge)<br>
+Mdm Chua Kiat Eng (Overall-in-charge)<br>
 Mdm Wee Shi Xiu (Second-in-charge)<br>
 Mrs Charmian New (Advisor)<br>
 Mr Ramesh Ramiya (Advisor)<br>
