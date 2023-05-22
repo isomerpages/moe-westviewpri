@@ -46,4 +46,4 @@ What's up in our CCA?
 CCA Model Pupil
 ---------------
 
-![Floorball](/images/Floorball.png)
+![Floorball](/images/Core%20CCAs/floorball.jpg)
