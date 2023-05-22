@@ -141,4 +141,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![Scouts](/images/Scouts.png)
+![Scouts](/images/Core%20CCAs/scouts.jpg)
