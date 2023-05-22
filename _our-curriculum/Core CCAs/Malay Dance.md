@@ -108,15 +108,4 @@ img {
 CCA Model Pupil
 ---------------
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<img src="/images/Malay%20Dance.png" alt="Malay Dance" style="width:90%;">
-	
-
-<br>
+![Malay Dance](/images/Core%20CCAs/malay%20dance.jpg)
