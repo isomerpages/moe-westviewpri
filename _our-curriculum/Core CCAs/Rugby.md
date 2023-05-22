@@ -59,4 +59,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![Rugby](/images/Rugby.png)
+![Rugby](/images/Core%20CCAs/rugby-.jpg)
