@@ -23,6 +23,7 @@ Mrs Tan-Tay Li Gek <br>
 
 Achievements
 ------------
+
 |&nbsp;|&nbsp;|
 |:--:|:--:|
 |2023|National School Games Basketball Championships West Zone – Top 8 (Senior Boys)|
@@ -41,4 +42,4 @@ What’s up in our CCA?
 CCA Model Pupil
 ---------------
 
-![CCA Model Pupil](/images/Basketball.png)
+![Basketball](/images/Core%20CCAs/basketball.jpg)
