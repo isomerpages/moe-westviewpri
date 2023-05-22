@@ -119,14 +119,4 @@ img {
 CCA Model Pupil
 ---------------
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Brass%20Band.png" alt="Band" style="width:80%;">  
-  
-
-<br>
+![Band](/images/Core%20CCAs/brass%20band.jpg)
