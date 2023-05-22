@@ -99,14 +99,4 @@ img {
 CCA Model Pupil
 ---------------
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Chinese%20Dance.png" alt="Chinese Dance" style="width:90%;">  
-  
-
-<br>
+![Chinese Dance](/images/Core%20CCAs/chinese%20dance.jpg)
