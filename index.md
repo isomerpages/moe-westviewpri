@@ -4,9 +4,7 @@ title: West View Primary School
 description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
-notification: "Announcements: New! The highly anticipated FunFam SportsFest
-  organized by Active Parents is back for its 2nd edition this school holidays!
-  Click on \"What's On\" to find out more."
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -51,7 +49,7 @@ sections:
       button: Read More
       url: /uniquely-us/strive-modular-cca/
       image: /images/strive.png
-      alt: "STRIVE "
+      alt: STRIVE
   - infopic:
       title: VIEWAN XP
       description: Every child is an engaged inquirer.  VIEWAN XP, our school’s

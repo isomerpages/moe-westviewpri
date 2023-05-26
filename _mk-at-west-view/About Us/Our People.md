@@ -22,7 +22,6 @@ third_nav_title: About Us
 |---|
 | Ms Habiba do/ Mustakim |
 | Ms Rachel Koh Xu Qing |
-| Ms Angela Chua Min Qi |
 | Ms Nurfara Binte Pawzi |
 | Ms G. Clarissa Sujita |
 
@@ -46,4 +45,3 @@ third_nav_title: About Us
 |   |
 |---|
 | Ms Sangeetha d/o Suparamaniam |
-| Ms Helan Arul Arockiyasamy Melvin |
