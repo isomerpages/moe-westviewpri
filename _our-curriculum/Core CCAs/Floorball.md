@@ -4,10 +4,9 @@ permalink: /our-curriculum/cca-core/floorball/
 description: ""
 third_nav_title: Core CCAs
 ---
-<img src="/images/Floorball%20Junior%20Team%202022.jpeg" alt="Floorball" style="width:80%;">  
-  
-
-<p style="text-align:center;">Floorball Junior Team (2022)
+![](/images/Core%20CCAs/floorball_senior_team_2023.PNG)
+ 
+<p style="text-align:center;">Floorball Senior Team (2023)
 </p>
 
 Brief of CCA
@@ -40,8 +39,8 @@ What's up in our CCA?
 ---------------------
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw1YWWh4a6wXv7VPBxRk-G0ZGPS4KKj0RnJGKN9UYiWtpCwDY_VqJQvmXGZosAGu3KmqVwOUbacUJ-/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
-
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_Uwc9U4iVWw" height="315" width="560"></iframe></center>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fbslib-8i9c" height="315" width="560"></iframe>
 
 CCA Model Pupil
 ---------------
