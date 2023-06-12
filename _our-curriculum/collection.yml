@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Home Based Learning.md
       - English Language/.keep
       - English Language/English Language in WVPS.md
       - English Language/What’s up in class?.md
@@ -48,3 +47,4 @@ collections:
       - CCE/WV as One.md
       - CCE/We are Leaders.md
       - PAL.md
+      - Home Based Learning.md
