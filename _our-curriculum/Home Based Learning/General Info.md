@@ -17,7 +17,7 @@ In order to prevent system access issues cause by a high volume of students logg
   <tr>
     <td>P1</td>
     <td rowspan="2">1:00 p.m.</td>
-    <td rowspan="6">Students will be provided with a full day to complete their SLS tasks and assignments.<br><br>(Deadline of completion: 11.59 p.m. of the day)</td>
+    <td rowspan="6">Students will be provided with a full day to complete their SLS tasks and assignments.<br><br>(Deadline of completion: 11:59 p.m. of the day)</td>
   </tr>
   <tr>
     <td>P2</td>
