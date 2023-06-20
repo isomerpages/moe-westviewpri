@@ -28,4 +28,4 @@ When emailing the SLS Helpdesk, students should include their full name, name of
 
 # Self-Help for SLS login issues
 
-[](/files/Home%20Based%20Learning/pupil's%20self-help%20flowchart%20for%20sls%20login%20issues.pdf)
+[Click here to view](/files/Home%20Based%20Learning/pupil's%20self-help%20flowchart%20for%20sls%20login%20issues.pdf)
