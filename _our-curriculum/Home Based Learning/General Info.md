@@ -40,7 +40,7 @@ In order to prevent system access issues cause by a high volume of students logg
 </table>
 
 
-# Instructions to access weekly plans
+# Instructions to Access the Weekly Plan
 
 <h2 style="color: midnightblue;">Getting Started</h2>
 **Adobe Acrobat Reader or an alternative PDF reader**
