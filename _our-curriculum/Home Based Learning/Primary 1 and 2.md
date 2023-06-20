@@ -7,9 +7,9 @@ third_nav_title: Home Based Learning
 Page is under construction
 
 # Primary 1
-## Non-MT Weekly Plans
-## MT Weekly Plans
+<h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+<h2 style="color:midnightblue">MT Weekly Plans</h2>
 
 # Primary 2
-## Non-MT Weekly Plans
-## MT Weekly Plans
+<h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+<h2 style="color:midnightblue">MT Weekly Plans</h2>
