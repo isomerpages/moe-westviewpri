@@ -2,11 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Home Based Learning/.keep
-      - Home Based Learning/General Info.md
-      - Home Based Learning/Primary 1 and 2.md
-      - Home Based Learning/Primary 3 to 6.md
-      - Home Based Learning/SLS Support.md
       - English Language/.keep
       - English Language/English Language in WVPS.md
       - English Language/What’s up in class?.md
@@ -52,3 +47,8 @@ collections:
       - CCE/WV as One.md
       - CCE/We are Leaders.md
       - PAL.md
+      - Home Based Learning/.keep
+      - Home Based Learning/General Info.md
+      - Home Based Learning/Primary 1 and 2.md
+      - Home Based Learning/Primary 3 to 6.md
+      - Home Based Learning/SLS Support.md
