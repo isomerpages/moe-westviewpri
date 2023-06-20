@@ -43,6 +43,7 @@ In order to prevent system access issues cause by a high volume of students logg
 # Instructions to Access the Weekly Plan
 
 <h2 style="color: midnightblue;">Getting Started</h2>
+
 **Adobe Acrobat Reader or an alternative PDF reader**
 
 Please install the software on your computer or tablet so that you can open and read the Weekly Plans which is saved in PDF format.
