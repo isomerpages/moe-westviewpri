@@ -22,7 +22,7 @@ Outside the school operating hours, students should contact the <strong><ins>SLS
 
 \*Closed on Sundays &amp; Public Holidays
 
-* Email SLS Helpdesk at helpdesk@sls.ufinity.com
+* Email SLS Helpdesk at [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com)
 
 When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
 
