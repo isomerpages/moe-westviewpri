@@ -52,12 +52,12 @@ Please install the software on your computer or tablet so that you can open and 
 
 <h2 style="color: midnightblue;">Accessing the Weekly Plan</h2>
 
-### Method 1:
+### Method 1
 Go to our school website ([https://westviewpri.moe.edu.sg](https://westviewpri.moe.edu.sg)), click "Our Curriculum" and select "Home-Based Learning".
 
 ![](/images/Home%20Based%20Learning/finding%20hbl%20page.PNG)
 
 On "Home-Based Learning" webpage, select "Weekly Plan" and click on the class your child is in. You will be able to open the Weekly Plan.
 
-### Method 2:
+### Method 2
 You will receive a PG message from your child's/ward's From Teachers with regard to the HBL arrangement. Please log in to Parent's Gateway to open the message and download the Weekly Plan attached in the message.
