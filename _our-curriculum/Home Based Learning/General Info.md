@@ -42,12 +42,14 @@ In order to prevent system access issues cause by a high volume of students logg
 
 # Instructions to access weekly plans
 
-## Getting Started
+<h2 style="color: midnightblue;">Getting Started</h2>
 **Adobe Acrobat Reader or an alternative PDF reader**
 
 Please install the software on your computer or tablet so that you can open and read the Weekly Plans which is saved in PDF format.
 *PDF icon linking to the website to download the Adobe PDF reader*
-## Access the Weekly Plan
+
+<h2 style="color: midnightblue;">Accessing the Weekly Plan</h2>
+
 ### Method 1:
 Go to our school website ([https://westviewpri.moe.edu.sg](https://westviewpri.moe.edu.sg)), click "Our Curriculum" and select "Home-Based Learning".
 
