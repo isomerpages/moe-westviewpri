@@ -24,7 +24,7 @@ Outside the school operating hours, students should contact the <strong><ins>SLS
 
 * Email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
-When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
+When emailing the SLS Helpdesk, students should include their <ins>full name</ins>, <ins>name of school</ins> and <ins>form class</ins>.
 
 # Self-Help for SLS login issues
 
