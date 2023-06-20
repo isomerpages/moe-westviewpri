@@ -16,7 +16,7 @@ During school operating hours, students should contact the <strong><ins>School-b
 
 Outside the school operating hours, students should contact the <strong><ins>SLS Helpdesk</ins></strong> for support.
 
-* Call SLS Helpdeks at <strong><ins>6702 6513</ins></strong>
+* Call SLS Helpdesk at <strong><ins>6702 6513</ins></strong>
 * Mondays - Fridays: 4:00 p.m. - 9:00 p.m.
 * Saturdays: 9:00 a.m. - 3:00 p.m.
 
