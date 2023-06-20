@@ -55,6 +55,8 @@ Please install the software on your computer or tablet so that you can open and 
 ### Method 1:
 Go to our school website ([https://westviewpri.moe.edu.sg](https://westviewpri.moe.edu.sg)), click "Our Curriculum" and select "Home-Based Learning".
 
+![](/images/Home%20Based%20Learning/finding%20hbl%20page.PNG)
+
 On "Home-Based Learning" webpage, select "Weekly Plan" and click on the class your child is in. You will be able to open the Weekly Plan.
 
 ### Method 2:
