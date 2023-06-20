@@ -47,7 +47,8 @@ In order to prevent system access issues cause by a high volume of students logg
 **Adobe Acrobat Reader or an alternative PDF reader**
 
 Please install the software on your computer or tablet so that you can open and read the Weekly Plans which is saved in PDF format.
-*PDF icon linking to the website to download the Adobe PDF reader*
+
+<img src="/images/Home%20Based%20Learning/pdf_file_icon.png" style="width: 25%;">
 
 <h2 style="color: midnightblue;">Accessing the Weekly Plan</h2>
 
