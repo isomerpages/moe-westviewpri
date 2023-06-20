@@ -6,5 +6,10 @@ third_nav_title: Home Based Learning
 ---
 Page is under construction
 
+# Primary 1
+## Non-MT Weekly Plans
+## MT Weekly Plans
+
+# Primary 2
 ## Non-MT Weekly Plans
 ## MT Weekly Plans
