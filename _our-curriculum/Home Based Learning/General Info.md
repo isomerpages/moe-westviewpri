@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Home Based Learning
 ---
 # HBL Routines
-<div style="display:flex;">
-	<img style="width:50%;" src="/images/Home%20Based%20Learning/hbl%20routine%201.png">
-	<img style="width:50%;" src="/images/Home%20Based%20Learning/hbl%20routine%202.png">
+<div style="display:flex; width:50%;">
+	<img src="/images/Home%20Based%20Learning/hbl%20routine%201.png">
+	<img src="/images/Home%20Based%20Learning/hbl%20routine%202.png">
 </div>
 
 # Pupils' Login Time for SLS
