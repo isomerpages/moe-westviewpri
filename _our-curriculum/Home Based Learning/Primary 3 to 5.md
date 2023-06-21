@@ -20,22 +20,22 @@ Page is under construction
   </tr>
   <tr>
     <td>Tue</td>
-    <td>✔</td>
+    <td>✓</td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>✓</td>
+    <td>✓</td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>✓</td>
     <td></td>
   </tr>
   <tr>
     <td>Wed</td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
     <td></td>
     <td></td>
     <td></td>
