@@ -4,6 +4,12 @@ permalink: /our-curriculum/home-based-learning/general-info/
 description: ""
 third_nav_title: Home Based Learning
 ---
+# HBL Routines
+<span style="display:flex;">
+	<img style="width:50%;" src="/images/Home%20Based%20Learning/hbl%20routine%201.png">
+	<img style="width:50%;" src="/images/Home%20Based%20Learning/hbl%20routine%202.png">
+</span>
+
 # Pupils' Login Time for SLS
 In order to prevent system access issues cause by a high volume of students logging in to SLS simultaneously, we have implemented a staggered access schedule for pupils. Students have the option to complete the offline assignment either before or after their assigned staggered access schedule
 
