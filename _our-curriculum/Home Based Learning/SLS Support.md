@@ -7,7 +7,7 @@ third_nav_title: Home Based Learning
 # SLS Helpline
 **School Operating Hours**
 
-During school operating hours, students should contact the <strong><ins>School-based Helpline</ins></strong> for SLS Queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+During school operating hours, students should contact the <strong><ins>School-based Helpline</ins></strong> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 * School-based Helpline: <strong><ins>6760 0178</ins></strong>
 * Mondays - Fridays: 8:30 a.m. - 4:00 p.m.
