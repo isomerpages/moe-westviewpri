@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Home Based Learning
 ---
 Page is under construction
-<table>
+<table style="text-align:center;">
 <tbody>
   <tr>
     <td></td>
