@@ -11,7 +11,7 @@ third_nav_title: Home Based Learning
 </div>
 
 # Pupils' Login Time for SLS
-In order to prevent system access issues cause by a high volume of students logging in to SLS simultaneously, we have implemented a staggered access schedule for pupils. Students have the option to complete the offline assignment either before or after their assigned staggered access schedule
+In order to prevent system access issues cause by a high volume of students logging in to SLS simultaneously, we have implemented a staggered access schedule for pupils. Students have the option to complete the offline assignment either before or after their assigned staggered access schedule.
 
 <table style="text-align:center; vertical-align:middle;">
 <tbody>
@@ -52,7 +52,7 @@ In order to prevent system access issues cause by a high volume of students logg
 
 **Adobe Acrobat Reader or an alternative PDF reader**
 
-Please install the software on your computer or tablet so that you can open and read the Weekly Plans which is saved in PDF format.
+Please install the software on your computer or tablet so that you can open and read the Weekly Plans which are saved in PDF format.
 
 <p><a href="https://get.adobe.com/reader/"><img src="/images/Home%20Based%20Learning/pdf_file_icon.png" style="width: 25%;"></a></p>
 
