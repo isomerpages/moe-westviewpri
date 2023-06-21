@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Home Based Learning
 ---
 Page is under construction
-<table style="text-align:center;">
+<table style="text-align:center; font-weight:bold;">
 <tbody>
   <tr>
     <td></td>
@@ -20,25 +20,25 @@ Page is under construction
   </tr>
   <tr>
     <td>Tue</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>✓</td>
+    <td>✓</td>
     <td></td>
   </tr>
   <tr>
     <td>Wed</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
     <td></td>
-    <td>✔</td>
+    <td>✓</td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>✓</td>
   </tr>
 </tbody>
 </table>
