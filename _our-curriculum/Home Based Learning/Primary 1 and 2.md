@@ -43,6 +43,8 @@ Page is under construction
 </tbody>
 </table>
 
+* EL: English Language
+* MTL: Mother Tongue Languages
 * HE: Health Education
 * SS: Social Studies
 * CCE: Character and Citizenship Education
