@@ -26,6 +26,6 @@ Outside the school operating hours, students should contact the <strong><ins>SLS
 
 When emailing the SLS Helpdesk, students should include their <ins>full name</ins>, <ins>name of school</ins> and <ins>form class</ins>.
 
-# Self-Help for SLS login issues
+# Self-Help for SLS Login Issues
 
 [Click here to view](/files/Home%20Based%20Learning/pupil's%20self-help%20flowchart%20for%20sls%20login%20issues.pdf)
