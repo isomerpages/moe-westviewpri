@@ -44,7 +44,7 @@ Page is under construction
 </table>
 
 * EL: English Language
-* MTL: Mother Tonuge Languages
+* MTL: Mother Tongue Languages
 * Sci: Science
 * HE: Health Education
 * SS: Social Studies
