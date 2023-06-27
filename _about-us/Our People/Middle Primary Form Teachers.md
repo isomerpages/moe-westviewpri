@@ -12,7 +12,7 @@ third_nav_title: Our People
 |<strong>3 Brilliance</strong>|[Mdm Leong Yahui](mailto:leong_yahui@moe.edu.sg)|[Mr Ramesh](mailto:ramesh_ramiya@moe.edu.sg)|
 |<strong>3 Confidence</strong>|[Mr Ang Eng Chuan](mailto:ang_eng_chuan@moe.edu.sg)|[Mdm Noor Azleen](mailto:noor_azleen_sarbini@moe.edu.sg)|
 |<strong>3 Diligence</strong>|[Mdm He Lu](mailto:he_lu@moe.edu.sg)|[Ms Gurdeep Kaur](mailto:gurdeep.kaur_gurnam_singh@moe.edu.sg)|
-|<strong>3 Empathy</strong>|[Mr See Kian Leong, Jeremy](mailto:see_kian_leong_Jeremy@moe.edu.sg)|[Mdm Michelle Lew](mailto:lew_yee_loo_michelle@moe.edu.sg)|
+|<strong>3 Empathy</strong>|[Mr See Kian Leong, Jeremy](mailto:see_kian_leong_Jeremy@moe.edu.sg)|[Mrs Tan-Chua Pei Tee Patty](mailto:lchua_pei_tee_patty@moe.edu.sg)|
 
 <h2 style="color:midnightblue; text-align:center;">Primary 4</h2>
 
