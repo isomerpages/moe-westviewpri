@@ -10,7 +10,7 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 |<strong>5 Aspiration</strong>|[Mr Tan Kee Jin](mailto:tan_kee_jin@moe.edu.sg)|[Mdm Chen Jing Ting](mailto:chen_jing_ting@moe.edu.sg)|
 |<strong>5 Brilliance</strong>|[Mr Chng Chyi Woei](mailto:chng_chyi_woei@moe.edu.sg)|[Ms Diana Low](mailto:low_cheng_yi_diana@moe.edu.sg)|
-|<strong>5 Confidence</strong>|[Mr Aaron Yip](mailto:yip_jun_hoe@moe.edu.sg)|[Mrs Esther Chan](mailto:lim_siew_hiang@moe.edu.sg)|
+|<strong>5 Confidence</strong>|[Mr Aaron Yip](mailto:yip_jun_hoe@moe.edu.sg)|[Ms Tan Shu Wei Alison](mailto:tan_shu_wei_alison@moe.edu.sg)|
 |<strong>5 Diligence</strong>|[Mdm Nurhijjah](mailto:nurhijjah_yahya@moe.edu.sg)|[Mr Tan Leng Khoon](mailto:tan_leng_khoon)|
 
 <h2 style="color:midnightblue; text-align:center;">Primary 6</h2>
