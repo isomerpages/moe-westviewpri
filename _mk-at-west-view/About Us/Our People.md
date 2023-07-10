@@ -6,7 +6,7 @@ third_nav_title: About Us
 ---
 ![About Us](/images/Header%202%20-%20About%20Us.png)
 
-![Kindergarten](/images/Kindergarten.jpeg)
+![](/images/About%20Us/Our%20People/mke_formal_resized.jpg)
 
 <h2 style="color:midnightblue;">Key Personnels</h2>
 
