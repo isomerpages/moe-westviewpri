@@ -51,12 +51,37 @@ Page is under construction
 
 # Primary 3
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+
+|   |   |   |
+|:---:|:---:|:---:|
+| 3A | 3B | 3C |
+| 3D | 3E | |
+
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
+
+|   |   |   |
+|:---:|:---:|:---:|
+| 3CL | 3ML1 | 3ML2 |
+| 3TL |  |  |
 
 # Primary 4
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+
+|   |   |   |
+|:---:|:---:|:---:|
+| 4A | 4B | 4C |
+| 4D | 4E | |
+
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
+
+|   |   |   |
+|:---:|:---:|:---:|
+| 4CL1 | 4CL2 | 4CL3 |
+| 4ML1 | 4ML2 | 4ML3 |
+| 4TL |  |  |
 
 # Primary 5
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+
+
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
