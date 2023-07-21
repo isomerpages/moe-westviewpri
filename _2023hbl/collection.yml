@@ -1,4 +1,5 @@
 collections:
   2023hbl:
     output: true
-    order: []
+    order:
+      - P1/.keep
