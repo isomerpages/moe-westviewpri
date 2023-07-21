@@ -83,5 +83,10 @@ Page is under construction
 # Primary 5
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
 
+|   |   |   |
+|:---:|:---:|:---:|
+| 5CL1 | 5CL2 | 5CL3 |
+| 5FCL | 5ML1 | 5ML2 |
+| 5FML | 5TL |  |
 
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
