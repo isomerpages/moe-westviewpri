@@ -51,8 +51,18 @@ Page is under construction
 
 # Primary 1
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+
+|   |   |   |
+|:---:|:---:|:---:|
+| 1A | 1B | 1C |
+| 1D | 1E | |
+
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
 
+|   |   |   |
+|:---:|:---:|:---:|
+| CL1 | CL2 | CL3 |
+| ML1 | ML2 | TL |
 # Primary 2
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
