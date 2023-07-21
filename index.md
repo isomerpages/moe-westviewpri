@@ -61,8 +61,8 @@ sections:
       alt: Viewan XP
   - infopic:
       title: CHARACTER FIRST
-      description: very child is a concerned citizen. We believe that character is the
-        foundation of all worthwhile success. From weekly Start-It-Right
+      description: Every child is a concerned citizen. We believe that character is
+        the foundation of all worthwhile success. From weekly Start-It-Right
         programmes to...
       button: Read More
       url: /uniquely-us/character-first/
