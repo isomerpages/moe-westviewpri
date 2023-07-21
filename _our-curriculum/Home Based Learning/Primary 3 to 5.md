@@ -84,13 +84,13 @@ third_nav_title: Home Based Learning
 
 |   |   |   |
 |:---:|:---:|:---:|
-| [5A] | [5B]| [5C] |
-| [5D] | | |
+| [5A](/files/Home%20Based%20Learning/P5/hbl_weekly%20plan_t3w5(25-26jul)_5a.pdf) | [5B](/files/Home%20Based%20Learning/P5/hbl_weekly%20plan_t3w5(25-26jul)_5b.pdf)| [5C](/files/Home%20Based%20Learning/P5/hbl_weekly%20plan_t3w5(25-26jul)_5c.pdf) |
+| [5D](/files/Home%20Based%20Learning/P5/hbl_weekly%20plan_t3w5(25-26jul)_5d.pdf) | | |
 
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
-| [5CL1] | [5CL2] | [5CL3] |
-| [5FCL] | [5ML1] | [5ML2] |
-| [5FML] | [5TL] |  |
+| [5CL1](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5cl1.pdf) | [5CL2](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5cl2.pdf) | [5CL3](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5cl3.pdf) |
+| [5FCL](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5fcl.pdf) | [5ML1](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5ml1.pdf) | [5ML2](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5ml2.pdf) |
+| [5FML](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5fml.pdf) | [5TL](/files/Home%20Based%20Learning/P5/hbl_mt%20weekly%20plan_t3w5%20(25-26jul)_p5tl.pdf) |  |
