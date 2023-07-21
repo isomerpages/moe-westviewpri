@@ -85,8 +85,13 @@ Page is under construction
 
 |   |   |   |
 |:---:|:---:|:---:|
+| 5A | 5B | 5C |
+| 5D | | |
+
+<h2 style="color:midnightblue">MT Weekly Plans</h2>
+
+|   |   |   |
+|:---:|:---:|:---:|
 | 5CL1 | 5CL2 | 5CL3 |
 | 5FCL | 5ML1 | 5ML2 |
 | 5FML | 5TL |  |
-
-<h2 style="color:midnightblue">MT Weekly Plans</h2>
