@@ -4,7 +4,6 @@ permalink: /our-curriculum/home-based-learning/primary-3-to-5/
 description: ""
 third_nav_title: Home Based Learning
 ---
-Page is under construction
 <table style="text-align: center; font-weight: bold;">
 <tbody>
   <tr>
