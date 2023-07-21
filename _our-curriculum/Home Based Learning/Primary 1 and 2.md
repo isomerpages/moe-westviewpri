@@ -49,14 +49,14 @@ third_nav_title: Home Based Learning
 * CCE: Character and Citizenship Education
 
 # Primary 1
-<h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+<h2 style="color:midnightblue">Class Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
 | [1A](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1a.pdf) | [1B](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1b.pdf) | [1C](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1c.pdf) |
 | [1D](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1d.pdf) | [1E](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1e.pdf) | |
 
-<h2 style="color:midnightblue">MT Weekly Plans</h2>
+<h2 style="color:midnightblue">Class Weekly Plans</h2>
 
 |&nbsp;|&nbsp;|&nbsp;|
 |:---:|:---:|:---:|
@@ -64,7 +64,7 @@ third_nav_title: Home Based Learning
 |[1ML1](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1ml1.pdf)|[1ML2](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1ml2.pdf)|[1TL](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1tl.pdf)|
 
 # Primary 2
-<h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+<h2 style="color:midnightblue">Class Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
