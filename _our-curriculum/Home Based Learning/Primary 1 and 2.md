@@ -68,13 +68,13 @@ Page is under construction
 
 |   |   |   |
 |:---:|:---:|:---:|
-| 2A | 2B | 2C |
-| 2D | 2E |2F|
+| [2A](/files/Home%20Based%20Learning/P2/hbl_weekly%20plan_t3w5(25-26jul)_2a.pdf) | [2B](/files/Home%20Based%20Learning/P2/hbl_weekly%20plan_t3w5(25-26jul)_2b.pdf) | [2C](/files/Home%20Based%20Learning/P2/hbl_weekly%20plan_t3w5(25-26jul)_2c.pdf) |
+| [2D](/files/Home%20Based%20Learning/P2/hbl_weekly%20plan_t3w5(25-26jul)_2d.pdf) | [2E](/files/Home%20Based%20Learning/P2/hbl_weekly%20plan_t3w5(25-26jul)_2e.pdf) |[2F](/files/Home%20Based%20Learning/P2/hbl_weekly%20plan_t3w5(25-26jul)_2f.pdf)|
 
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
-| 2CL1 | 2CL2 | 2CL3 |
-| 2CL4 | 2ML1 | 2ML2|
-| 2TL | | |
+| [2CL1](/files/Home%20Based%20Learning/P2/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p2cl1.pdf) | [2CL2](/files/Home%20Based%20Learning/P2/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p2cl2.pdf) | [2CL3](/files/Home%20Based%20Learning/P2/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p2cl3.pdf) |
+| [2CL4](/files/Home%20Based%20Learning/P2/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p2cl4.pdf) | [2ML1](/files/Home%20Based%20Learning/P2/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p2ml1.pdf) | [2ML2](/files/Home%20Based%20Learning/P2/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p2ml2.pdf)|
+| [2TL](/files/Home%20Based%20Learning/P2/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p2tl.pdf) | | |
