@@ -68,16 +68,16 @@ third_nav_title: Home Based Learning
 
 |   |   |   |
 |:---:|:---:|:---:|
-| [4A] | [4B] | [4C] |
-| [4D] | [4E] | |
+| [4A](/files/Home%20Based%20Learning/P4/hbl_weekly%20plan_t3w5(25-26jul)_4a.pdf) | [4B](/files/Home%20Based%20Learning/P4/hbl_weekly%20plan_t3w5(25-26jul)_4b.pdf) | [4C](/files/Home%20Based%20Learning/P4/hbl_weekly%20plan_t3w5(25-26jul)_4c.pdf) |
+| [4D](/files/Home%20Based%20Learning/P4/hbl_weekly%20plan_t3w5(25-26jul)_4d.pdf) | [4E](/files/Home%20Based%20Learning/P4/hbl_weekly%20plan_t3w5(25-26jul)_4e.pdf) | |
 
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
-| [4CL1] | [4CL2] | [4CL3] |
-| [4ML1] | [4ML2] | [4ML3] |
-| [4TL] |  |  |
+| [4CL1](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4cl1.pdf) | [4CL2](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4cl2.pdf) | [4CL3](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4cl3.pdf) |
+| [4ML1](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4ml1.pdf) | [4ML2](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4ml2.pdf) | [4ML3](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4ml3.pdf) |
+| [4TL](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4tl.pdf) |  |  |
 
 # Primary 5
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
