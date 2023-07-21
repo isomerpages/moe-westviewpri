@@ -60,7 +60,7 @@ third_nav_title: Home Based Learning
 
 |   |   |   |
 |:---:|:---:|:---:|
-| [3CL](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3_chinese.pdf) | [3ML1](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3ml2.pdf) | [3ML2](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3%20tl.pdf) |
+| [3CL](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)p3_chinese.pdf) | [3ML1](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3ml2.pdf) | [3ML2](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3%20tl.pdf) |
 | [3TL](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3%20tl.pdf) |  |  |
 
 # Primary 4
