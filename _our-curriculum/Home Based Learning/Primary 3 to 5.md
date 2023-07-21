@@ -49,7 +49,7 @@ third_nav_title: Home Based Learning
 * SS: Social Studies
 
 # Primary 3
-<h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+<h2 style="color:midnightblue">Class Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
@@ -60,11 +60,11 @@ third_nav_title: Home Based Learning
 
 |   |   |   |
 |:---:|:---:|:---:|
-| [3CL](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)p3_chinese.pdf) | [3ML1](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3ml1.pdf) | [3ML2](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3ml2.pdf) |
+| [3CL1, 3CL2, 3CL3, 3CL4](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)p3_chinese.pdf) | [3ML1](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3ml1.pdf) | [3ML2](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3ml2.pdf) |
 | [3TL](/files/Home%20Based%20Learning/P3/hbl_mt%20weekly%20plan_t3w5(25-26jul)_p3%20tl.pdf) |  |  |
 
 # Primary 4
-<h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+<h2 style="color:midnightblue">Class Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
@@ -80,7 +80,7 @@ third_nav_title: Home Based Learning
 | [4TL](/files/Home%20Based%20Learning/P4/hbl_mt%20weekly%20plan_t3w5(25-26jul)_4tl.pdf) |  |  |
 
 # Primary 5
-<h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
+<h2 style="color:midnightblue">Class Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
