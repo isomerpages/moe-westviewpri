@@ -54,15 +54,15 @@ Page is under construction
 
 |   |   |   |
 |:---:|:---:|:---:|
-| 1A | 1B | 1C |
-| 1D | 1E | |
+| [1A](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1a.pdf) | [1B](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1b.pdf) | [1C](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1c.pdf) |
+| [1D](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1d.pdf) | [1E](/files/Home%20Based%20Learning/P1/hbl_weekly%20plan_t3w5(25-26jul)_1e.pdf) | |
 
 <h2 style="color:midnightblue">MT Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
-| CL1 | CL2 | CL3 |
-| ML1 | ML2 | TL |
+| [CL1](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1cl1.pdf) | [CL2](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1cl2.pdf) | [CL3](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1cl3.pdf) |
+| [ML1](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1ml1.pdf) | [ML2](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1ml2.pdf) | [TL](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1tl.pdf) |
 # Primary 2
 <h2 style="color:midnightblue">Non-MT Weekly Plans</h2>
 
