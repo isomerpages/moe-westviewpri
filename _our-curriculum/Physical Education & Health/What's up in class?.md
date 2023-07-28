@@ -6,9 +6,9 @@ third_nav_title: Physical Education & Health
 ---
 Our PE curriculum provides a range of movement experiences to develop pupils holistically. Fundamental motor skills and core values provide a strong foundation for the learning, participation and enjoyment of a wide variety of physical activities and sports. Pupils build confidence by being more efficient, effective and versatile in their movements. This would help them develop a strong foundation in motor skills and enjoy a lifetime of active and healthy living.  
 
-  
-
 Our PE curriculum comprises 7 broad learning areas:
+
+![](/images/Physical%20Education%20and%20Health/pe_cover.jpg)
 
 Sports and Games
 ----------------
