@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Primary 3 to 5.md
       - Calendar.md
       - folder-page.md
       - example-subfolder/.keep
