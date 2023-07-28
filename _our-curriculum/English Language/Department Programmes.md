@@ -4,7 +4,9 @@ permalink: /our-curriculum/english-language/department-programmes/
 description: ""
 third_nav_title: English Language
 ---
-**Reading**
+
+
+![](/images/English/english_dept_cover.jpg)**Reading**
 
 As West Viewans explore thematic texts, they are also provided with suggestions to read other similar themed texts in various genres. Not only that, pupils are enthused to read and be curious about the world around them through a variety of programmes specially curated by the School Library Committee.
 
@@ -22,9 +24,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/P5%20Literature%20Programme.png" alt="Primary 5 Literature Programme" style="width:80%;">  
+<img src="/images/P5%20Literature%20Programme.png" alt="Primary 5 Literature Programme" style="width:80%;">  
   
-</body>
+
 <p style="text-align:center;"><em>Primary 5 pupils being attentive and participative during the sessions</em></p>
 
 ##### **Speaking Programmes**
@@ -81,7 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/14.jpeg" alt="English Department Programmes" style="width:80%;">  
+<img src="/images/14.jpeg" alt="English Department Programmes" style="width:80%;">  
   
-</body>
+
 <p style="text-align:center;"><em>Primary 5 pupils researching online to educate their juniors on the importance of water conservation</em></p>
