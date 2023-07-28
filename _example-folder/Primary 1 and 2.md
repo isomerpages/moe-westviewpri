@@ -2,7 +2,6 @@
 title: Primary 1 and 2
 permalink: /our-curriculum/home-based-learning/primary-1-and-2/
 description: ""
-third_nav_title: Home Based Learning
 ---
 <table style="text-align:center; font-weight:bold;">
 <tbody>
