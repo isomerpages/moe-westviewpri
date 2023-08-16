@@ -5,9 +5,8 @@ description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
 notification: Teachers' Day is around the corner! Wondering how to show your
-  appreciation to your teacher or a non-teaching staff this year? Write a
-  message to your teacher at https://forms.moe.edu.sg/forms/J0WWVv Your words of
-  appreciation are the best gift! This is sure to bring a smile to their faces.
+  appreciation to your teacher or a non-teaching staff this year? Go to What's
+  On for the form to write a message to your teacher!
 sections:
   - hero:
       key_highlights:
