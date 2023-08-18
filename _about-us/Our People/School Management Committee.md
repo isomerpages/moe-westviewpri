@@ -53,6 +53,6 @@ Senior Teacher (ST) Guild
 |---|---|
 |**ST/ Mathematics**|[Mrs Esther Chan-Lim Siew Hiang](mailto:lim_siew_hiang@moe.edu.sg)|
 |**ST/ CCE**|[Mdm Tan Hoon Hoon](mailto:tan_hoon_hoon_b@moe.edu.sg)|
-|**ST/ Learning Needs**|[Mdm Chua Pheck Keng](mailto:chua_pheck_keng@moe.edu.sg)|
+|**ST/ Educational Support**|[Mdm Chua Pheck Keng](mailto:chua_pheck_keng@moe.edu.sg)|
 |**ST/ Chinese Language**|[Mdm Cheng Siew Kim](mailto:cheng_siew_kim@moe.edu.sg)|
 |**ST/ Malay Language**|[Mdm Noor Azleen Binte Sarbini](mailto:noor_azleen_sarbini@moe.edu.sg)|
