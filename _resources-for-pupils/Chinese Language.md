@@ -10,7 +10,7 @@ Recommended Resources for the learning of Chinese Language
 
 假期阅读乐（2023年9月）
 ----------------
-![假期阅读乐（2023年9月）](/images/Resources%20for%20pupils/Chinese%20Language/假期阅读乐%202023年9月.jpg)
+[![假期阅读乐（2023年9月）](/images/Resources%20for%20pupils/Chinese%20Language/假期阅读乐%202023年9月.jpg)](/files/Resources%20for%20pupils/Chinese%20Langauge/book%20recommendation%20(cpcll)%20primary%20term%203%202023.pdf)
 
 
 ## 母亲节 儿童阅读推荐
@@ -18,7 +18,7 @@ Recommended Resources for the learning of Chinese Language
 
 听故事，识世界
 --------------------------------------------------------------
-[![听故事，识世界](/images/Resources%20for%20pupils/Chinese%20Language/digital%20storytelling%20poster%20(sep%202023).png)]((/files/Resources%20for%20pupils/Chinese%20Langauge/digital%20storytelling%20poster%20(sep%202023).pdf)
+[![听故事，识世界](/images/Resources%20for%20pupils/Chinese%20Language/digital%20storytelling%20poster%20(sep%202023).png)](/files/Resources%20for%20pupils/Chinese%20Langauge/digital%20storytelling%20poster%20(sep%202023).pdf)
 
 
 ICT tips for the learning of Chinese Language
