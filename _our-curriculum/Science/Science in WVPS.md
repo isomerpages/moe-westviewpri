@@ -4,8 +4,7 @@ permalink: /our-curriculum/science-in-wvps/
 description: ""
 third_nav_title: Science
 ---
-
-![Science](/images/Science.jpeg)
+![](/images/About%20Us/Our%20People/science_resized.jpg)
 
 **Vision**
 
@@ -23,7 +22,7 @@ To provide pupils with experiences which build on their interest in and stimulat
 
   
 
-**Message from HOD Science & ALP** <br>
+**Message from HOD Science &amp; ALP** <br>
 **Mdm Efizah Samat** <br>
 _"I believe that the way to learn Science is to engage the curious minds among our children in their quest for continuous learning. In this school, we provide our pupils with the experiences which stimulate their curiosity about the things around and their environment and build on their interest. As children investigate and explore, they will question and wonder, and through discovery, they learn."_  
   
@@ -41,7 +40,7 @@ _When pupils are curious and question about the things around them, they learn t
 
   
 
-The spirit of scientific inquiry is established on the following integral domains- (1) Knowledge, Understanding and Application, (2) Skills & (3) Processes and (4) Ethics and Attitudes. Our programmes are carefully designed for deep learning to take place amongst the pupils. Pupils are better able to relate and make connections to their social, personal and naturalistic environment, making learning more meaningful.
+The spirit of scientific inquiry is established on the following integral domains- (1) Knowledge, Understanding and Application, (2) Skills &amp; (3) Processes and (4) Ethics and Attitudes. Our programmes are carefully designed for deep learning to take place amongst the pupils. Pupils are better able to relate and make connections to their social, personal and naturalistic environment, making learning more meaningful.
 
 <style>  
 img {  
@@ -50,9 +49,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Scientific%20Inquiry%20@%20WVPS.jpeg" alt="Science Curriclum" style="width:65%;">  
+<img src="/images/Scientific%20Inquiry%20@%20WVPS.jpeg" alt="Science Curriclum" style="width:65%;">  
   
-</body>
+
 
 By the end of Primary 6 at WVPS, pupils should be able to: ·
 
