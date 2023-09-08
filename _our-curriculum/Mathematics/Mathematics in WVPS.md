@@ -4,8 +4,7 @@ permalink: /our-curriculum/mathematics-in-wvps/
 description: ""
 third_nav_title: Mathematics
 ---
-
-![Mathematics](/images/Mathematics.jpeg)
+![](/images/About%20Us/Our%20People/mathematics_resized.jpg)
 
 **Vision**  
 
@@ -31,7 +30,7 @@ Our teachers are dedicated to help students develop a strong foundation in mathe
 
   
 
-**Message from HOD Mathematics & EinSTein** <br>
+**Message from HOD Mathematics &amp; EinSTein** <br>
 **Mr Stanley Koh Lin Kai** <br>
 _"I believe all children will find meaning in learning Maths if they have the opportunity to apply what they have learnt. As an educator, it is of utmost importance for me to provide opportunities for children to explore, create, investigate and solve real-life Maths problem. These opportunities will inherently open up possibilities to move beyond expectations about what children can do and learn."_
 
