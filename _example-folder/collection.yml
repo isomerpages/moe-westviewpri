@@ -4,7 +4,6 @@ collections:
     order:
       - Primary 1 and 2.md
       - Primary 3 to 5.md
-      - Calendar.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
