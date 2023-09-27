@@ -16,6 +16,8 @@ Recommended Resources for the learning of Chinese Language
 ## 朋友和友情 儿童阅读推荐
 [![朋友和友情 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/physical%20book%20recommendation%20(cpcll)%20primary%20-%20oct%202023-1.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/ebook%20recommendation%20(cpcll)%20primary%20-%20oct%202023.pdf)
 
+[![朋友和友情 儿童阅读推荐 电子书](/images/Resources%20for%20pupils/Chinese%20Language/ebook%20recommendation%20(cpcll)%20primary%20-%20oct%202023-1.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/ebook%20recommendation%20(cpcll)%20primary%20-%20oct%202023.pdf)
+
 听故事，识世界
 --------------------------------------------------------------
 [![听故事，识世界](/images/Resources%20for%20pupils/Chinese%20Language/digital%20storytelling%20poster%20(sep%202023).png)](/files/Resources%20for%20pupils/Chinese%20Langauge/digital%20storytelling%20poster%20(sep%202023).pdf)
