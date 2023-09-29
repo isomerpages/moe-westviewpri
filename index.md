@@ -4,7 +4,7 @@ title: West View Primary School
 description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
-notification: Teachers' Day is around the corner! Please go to "What's On" to find out more!
+notification: ""
 sections:
   - hero:
       key_highlights:
