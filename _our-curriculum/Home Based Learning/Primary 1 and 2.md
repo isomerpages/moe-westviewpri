@@ -67,7 +67,7 @@ third_nav_title: Home Based Learning
 | [1A](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1a.pdf) | [1B](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1b.pdf) | [1C](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1c.pdf) |
 | [1D](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1d.pdf) | [1E](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1e.pdf) | |
 
-<h2 style="color:midnightblue">MT Weekly Plans</h2>[](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1cl1.pdf)
+<h2 style="color:midnightblue">MT Weekly Plans</h2>
 
 |&nbsp;|&nbsp;|&nbsp;|
 |:---:|:---:|:---:|
