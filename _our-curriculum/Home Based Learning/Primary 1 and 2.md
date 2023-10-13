@@ -8,14 +8,25 @@ third_nav_title: Home Based Learning
 <tbody>
   <tr>
     <td></td>
-    <td>EL</td>
-    <td>MTL</td>
-    <td>Math</td>
-    <td>Art</td>
-    <td>PE/HE</td>
-    <td>SS</td>
-    <td>Music</td>
-    <td>CCE</td>
+    <td>EL<br>(1h)</td>
+    <td>MTL<br>(1h)</td>
+    <td>Math<br>(1h)</td>
+    <td>Art<br>(1h)</td>
+    <td>PE/HE<br>(0.5h)</td>
+    <td>SS<br>(0.5h)</td>
+    <td>Music<br>(0.5h)</td>
+    <td>CCE<br>(0.5h)</td>
+  </tr>
+  <tr>
+    <td>Mon</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
+    <td></td>
+    <td>✓</td>
   </tr>
   <tr>
     <td>Tue</td>
@@ -28,16 +39,16 @@ third_nav_title: Home Based Learning
     <td>✓</td>
     <td></td>
   </tr>
-  <tr>
+	<tr>
     <td>Wed</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
-    <td></td>
     <td>✓</td>
     <td></td>
     <td></td>
-    <td>✓</td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
