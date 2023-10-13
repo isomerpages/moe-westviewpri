@@ -75,7 +75,7 @@ third_nav_title: Home Based Learning
 |[1ML1](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1ml1.pdf)|[1ML2](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1ml2.pdf)|[1TL](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_p1tl.pdf)|
 
 # Primary 2
-<h2 style="color:midnightblue">Class Weekly Plans</h2>[](/files/Home%20Based%20Learning/P2/hbl_t4w6(16-18%20oct)_2a.pdf)
+<h2 style="color:midnightblue">Class Weekly Plans</h2>
 
 |   |   |   |
 |:---:|:---:|:---:|
