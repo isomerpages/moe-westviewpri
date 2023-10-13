@@ -67,12 +67,12 @@ third_nav_title: Home Based Learning
 | [1A](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1a.pdf) | [1B](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1b.pdf) | [1C](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1c.pdf) |
 | [1D](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1d.pdf) | [1E](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1e.pdf) | |
 
-<h2 style="color:midnightblue">MT Weekly Plans</h2>
+<h2 style="color:midnightblue">MT Weekly Plans</h2>[](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1cl1.pdf)
 
 |&nbsp;|&nbsp;|&nbsp;|
 |:---:|:---:|:---:|
-|[1CL1](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1cl1.pdf)|[1CL2](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1cl2.pdf)|[1CL3](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1cl3.pdf)|
-|[1ML1](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1ml1.pdf)|[1ML2](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1ml2.pdf)|[1TL](/files/Home%20Based%20Learning/P1/hbl_mt%20weekly%20plan_t3w5(25-26jul)_1tl.pdf)|
+|[1CL1](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1cl1.pdf)|[1CL2](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1cl2.pdf)|[1CL3](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1cl3.pdf)|
+|[1ML1](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1ml1.pdf)|[1ML2](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_1ml2.pdf)|[1TL](/files/Home%20Based%20Learning/P1/hbl_t4w6(16-18%20oct)_p1tl.pdf)|
 
 # Primary 2
 <h2 style="color:midnightblue">Class Weekly Plans</h2>
