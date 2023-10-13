@@ -4,8 +4,7 @@ permalink: /our-curriculum/cce-in-wvps/
 description: ""
 third_nav_title: CCE
 ---
-
-![CCE](/images/CCE.jpeg)
+![CCE](/images/About%20Us/Our%20People/cce_resized.jpg)
 
 **Vision**
 
@@ -24,9 +23,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/CCE%20Vision%20Chart.jpeg" alt="CCE" style="width:85%;">  
+<img src="/images/CCE%20Vision%20Chart.jpeg" alt="CCE" style="width:85%;">  
   
-</body>
+
 
 **Mission**
 
@@ -55,9 +54,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/West%20View%20CCE%20Curriulum%20.jpeg" alt="CCE" style="width:85%;">  
+<img src="/images/West%20View%20CCE%20Curriulum%20.jpeg" alt="CCE" style="width:85%;">  
   
-</body>
+
 
 <u>Experience + Reflection</u>
 
