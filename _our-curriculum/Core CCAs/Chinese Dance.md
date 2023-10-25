@@ -104,4 +104,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![Chinese Dance](/images/Core%20CCAs/chinese%20dance.jpg)
+![chinese dance](/images/Core%20CCAs/chinese%20dance.png)
