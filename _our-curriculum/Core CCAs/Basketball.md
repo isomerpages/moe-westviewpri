@@ -44,4 +44,4 @@ What’s up in our CCA?
 CCA Model Pupil
 ---------------
 
-![Basketball](/images/Core%20CCAs/basketball.jpg)
+![basketball](/images/Core%20CCAs/basketball.png)
