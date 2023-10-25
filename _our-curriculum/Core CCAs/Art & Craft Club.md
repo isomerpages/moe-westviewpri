@@ -86,4 +86,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![Art Club](/images/Core%20CCAs/arts%20and%20crafts%20club.jpg)
+![arts and crafts club](/images/Core%20CCAs/arts%20and%20crafts%20club.png)
