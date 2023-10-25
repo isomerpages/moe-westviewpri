@@ -10,7 +10,7 @@ Recommended Resources for the learning of Chinese Language
 
 假期阅读乐（2023年11月）
 ----------------
-[![](/files/Resources%20for%20pupils/Chinese%20Langauge/book%20recommendation%20term%204%202023.pdf)](/images/Resources%20for%20pupils/Chinese%20Language/book%20recommendation%20term%204%202023-1.png)
+[![朋友和友情 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/book%20recommendation%20term%204%202023-1.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/book%20recommendation%20term%204%202023.pdf)
 
 ## 朋友和友情 儿童阅读推荐
 [![朋友和友情 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/physical%20book%20recommendation%20(cpcll)%20primary%20-%20oct%202023-1.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/ebook%20recommendation%20(cpcll)%20primary%20-%20oct%202023.pdf)
