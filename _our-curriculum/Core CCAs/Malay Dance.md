@@ -108,4 +108,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![Malay Dance](/images/Core%20CCAs/malay%20dance.jpg)
+![malay dance](/images/Core%20CCAs/malay%20dance.png)
