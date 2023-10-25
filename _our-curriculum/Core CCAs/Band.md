@@ -119,4 +119,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![Band](/images/Core%20CCAs/brass%20band.jpg)
+![band](/images/Core%20CCAs/brass%20band.png)
