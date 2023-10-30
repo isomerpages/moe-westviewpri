@@ -52,11 +52,9 @@ img {
 </style>  
 <img src="/images/Rugby.jpg" alt="Rugby" style="width:80%;">  
   
-
-
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2Vyl18CJ4fM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 CCA Model Pupil
 ---------------
 
-![Rugby](/images/Core%20CCAs/rugby-.jpg)
+![rugby](/images/Core%20CCAs/rugby_.png)
