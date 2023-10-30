@@ -4,7 +4,10 @@ title: West View Primary School
 description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
-notification: ""
+notification: Nominate West View Teachers for the Caring Teacher Award 2024,
+  President’s Award for Teachers 2024 and Outstanding Youth in Education Award
+  2024 now! You may refer to the SLS assignment assigned to your child/wards for
+  more details in writing the nominations. Click on 'What's On" for the posters
 sections:
   - hero:
       key_highlights:
