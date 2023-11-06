@@ -1,0 +1,16 @@
+collections:
+  mk-at-west-view:
+    output: true
+    order:
+      - About Us/.keep
+      - About Us/About Us.md
+      - About Us/Our People.md
+      - About Us/Our Mission, Vision & Beliefs.md
+      - Curriculum/.keep
+      - Curriculum/Curriculum.md
+      - Curriculum/Flagship Programmes.md
+      - Gallery/2023.md
+      - Gallery/2022.md
+      - Gallery/2021.md
+      - Gallery/.keep
+      - Partners.md

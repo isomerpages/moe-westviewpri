@@ -1,0 +1,14 @@
+logo: /images/RWD_logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Uniquely Us
+    collection: uniquely-us
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Pride
+    collection: our-pride
+  - title: Our Partners
+    collection: our-partners
+  - title: MK@West View
+    collection: mk-at-west-view

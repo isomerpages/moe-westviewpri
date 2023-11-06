@@ -1,0 +1,13 @@
+collections:
+  resources-for-pupils:
+    output: true
+    order:
+      - English.md
+      - Science.md
+      - Chinese Language.md
+      - Malay Language.md
+      - Tamil Language.md
+      - Physical & Health Education.md
+      - Well Being.md
+      - Art.md
+      - Music.md

@@ -1,0 +1,15 @@
+collections:
+  wvps:
+    output: true
+    order:
+      - What's On.md
+      - Quick Links.md
+      - Services.md
+      - Resources/Education and Career Guidance (ECG) Resources.md
+      - Resources/.keep
+      - Resources/Resources.md
+      - Resources/Resources for Pupils.md
+      - Resources/Resources for Parents.md
+      - Privacy Statement.md
+      - Terms of Use.md
+      - Facebook.md

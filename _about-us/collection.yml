@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our School/Principal's Message.md
+      - Our School/School History.md
+      - Our School/School Ethos.md
+      - Our School/School Facilities.md
+      - Our School/School Hours.md
+      - Our School/School Rules.md
+      - Our School/.keep
+      - Our People/School Management Committee.md
+      - Our People/Lower Primary Form Teachers.md
+      - Our People/Middle Primary Form Teachers.md
+      - Our People/Upper Primary Form Teachers.md
+      - Our People/Allied Educators.md
+      - Our People/Executive and Administrative Staff.md
+      - Our People/.keep
