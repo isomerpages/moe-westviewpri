@@ -11,7 +11,7 @@ variant: markdown
 3. [Promoting Cyber Wellness](#promoting-cyber-wellness)
 4. [MOE Sexuality Education in Schools](#moe-sexuality-education-in-schools)
 5. [School Holiday Edition](#school-holiday-edition)
-6. [Joint Year-End School Holidays Advisory](#join-year-end-school-holiday-advisory)
+6. [Joint Year-End School Holidays Advisory](#join-year-end-school-holidays-advisory)
 
 A Day in Life of a P1 Pupil
 ---------------------------
