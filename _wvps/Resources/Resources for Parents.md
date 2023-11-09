@@ -129,4 +129,5 @@ School Holiday Edition
 
 Joint Year-End School Holidays Advisory
 ---
-[Joint Year-End School Holidays Advisory](/files/Resources%20for%20parents/attachment%203%20-%20joint%20school_primary%20infographic.pdf)
+
+[![Joint Year-End School Holidays Advisory](/images/Resources%20for%20Parents/attachment%203%20-%20joint%20school_primary%20infographic-1.png)](/files/Resources%20for%20parents/attachment%203%20-%20joint%20school_primary%20infographic.pdf)
