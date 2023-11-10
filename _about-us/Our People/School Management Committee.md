@@ -20,7 +20,7 @@ Head of Department (HOD)
 
 |&nbsp;|&nbsp;|
 |---|---|
-|<strong>School Staff Developer HOD ICT (Covering)</strong>|<a href="mailto:yow_ai_hui@moe.edu.sg">Mdm Yow Ai Hui</a>|
+|<strong>School Staff Developer &amp; HOD ICT (Covering)</strong>|<a href="mailto:yow_ai_hui@moe.edu.sg">Mdm Yow Ai Hui</a>|
 |<strong>HOD English Language &amp; School Library</strong>|<a href="mailto:matthew_chua_cheng_qian@moe.edu.sg">Mr Matthew Chua</a>|
 |<strong>HOD Mathematics &amp; EinSTein</strong>|<a href="mailto:koh_lin_kai@moe.edu.sg">Mr Stanley Koh Lin Kai</a>|
 |<strong>HOD Science &amp; ALP</strong>|<a href="mailto:efizah_samat@moe.edu.sg">Mdm Efizah Samat</a>|

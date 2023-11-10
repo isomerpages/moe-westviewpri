@@ -3,6 +3,7 @@ title: Resources for Parents
 permalink: /wvps/resources/resources-for-parents/
 description: ""
 third_nav_title: Resources
+variant: markdown
 ---
 # Table of Contents
 1. [A Day in Life of a P1 Pupil](#a-day-in-life-of-a-p1-pupil)
@@ -10,6 +11,7 @@ third_nav_title: Resources
 3. [Promoting Cyber Wellness](#promoting-cyber-wellness)
 4. [MOE Sexuality Education in Schools](#moe-sexuality-education-in-schools)
 5. [School Holiday Edition](#school-holiday-edition)
+6. [Joint Year-End School Holidays Advisory](#joint-year-end-school-holidays-advisory)
 
 A Day in Life of a P1 Pupil
 ---------------------------
@@ -124,3 +126,8 @@ School Holiday Edition
 ----------------------
 
 [Resource Kit - School Holiday Edition.pdf](/files/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf)
+
+Joint Year-End School Holidays Advisory
+---
+
+[![Joint Year-End School Holidays Advisory](/images/Resources%20for%20Parents/attachment%203%20-%20joint%20school_primary%20infographic-1.png)](/files/Resources%20for%20parents/attachment%203%20-%20joint%20school_primary%20infographic.pdf)
