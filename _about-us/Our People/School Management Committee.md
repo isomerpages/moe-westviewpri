@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![](/images/About%20Us/Our%20People/smc_formal_resized.jpg)
 
@@ -26,6 +27,7 @@ Head of Department (HOD)
 |<strong>HOD Science &amp; ALP</strong>|<a href="mailto:efizah_samat@moe.edu.sg">Mdm Efizah Samat</a>|
 |<strong>HOD Mother Tongue Languages &amp; Innovation</strong>|<a href="mailto:lew_yee_loo_michelle@moe.edu.sg">Mdm Lew Yee Loo Michelle</a>|
 |<strong>HOD Physical Education &amp; Co-Curricular Activities</strong>|<a href="mailto:tan_leng_khoon@moe.edu.sg">Mr Tan Leng Khoon</a>|
+|<strong>HOD Character &amp; Citizenship Education</strong>|<a href="mailto:tan_geok_ching@schools.gov.sg">Ms Tan Geok Ching, Joyce</a>
 |<strong>HOD Aesthetics &amp; LLP</strong>|<a href="mailto:lee_lufang_charmian@moe.edu.sg">Mrs Charmian New</a>|
 |<strong>Year Head for Lower Primary</strong>|<a href="mailto:soo_bee_li@moe.edu.sg">Ms Soo Bee Li</a>|
 |<strong>Year Head for Middle Primary</strong>|<a href="mailto:chan_yee_tuang@moe.edu.sg">Mrs Karin Tan-Chan Yee Tuang</a>|
