@@ -10,6 +10,8 @@ Welcome to Star Awards 2023! “Honouring Strengths, Unlocking Possibilities” 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cossQYs9YzA?si=6LvLYmscQJdn9eXf" height="315" width="560"></iframe>
 
+(This video will be available for viewing until 26th November)
+
 
 
 Nominations for 2024 Awards
