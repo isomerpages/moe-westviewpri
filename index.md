@@ -4,7 +4,7 @@ title: West View Primary School
 description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
-notification: Please join us in watching STAR Awards 2023. Click on "What's on" for the video
+notification: ""
 sections:
   - hero:
       key_highlights:
