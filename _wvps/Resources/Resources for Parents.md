@@ -16,7 +16,7 @@ variant: markdown
 A Day in Life of a P1 Pupil
 ---------------------------
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qw_52pQvEYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9xIlSU8WTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 P1 2023 Parents' Handbook
 -------------------------
