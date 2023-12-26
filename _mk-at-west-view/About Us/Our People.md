@@ -3,6 +3,7 @@ title: Our People
 permalink: /mk-at-west-view/about-us/our-people/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ![About Us](/images/Header%202%20-%20About%20Us.png)
 
@@ -30,7 +31,6 @@ third_nav_title: About Us
 |---|
 | Mdm Gao Rongfang |
 | Ms Aixinjueluo Taoqi |
-| Ms Wang Cuiping |
 | Mdm Li Shihao |
 
 <h2 style="color:midnightblue;">Kindergarten Teacher (Malay)</h2>
@@ -43,5 +43,4 @@ third_nav_title: About Us
 
 |   |
 |---|
-| Ms Sangeetha d/o Suparamaniam |
 |Ms Sujatha Kandiban|
