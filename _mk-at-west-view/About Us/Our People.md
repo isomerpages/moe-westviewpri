@@ -24,6 +24,7 @@ variant: markdown
 | Ms Habiba do/ Mustakim |
 | Ms Nurfara Binte Pawzi |
 | Ms G. Clarissa Sujita |
+| Mdm Ho Qiao Hui Karen |
 
 <h2 style="color:midnightblue;">Kindergarten Teachers (Chinese)</h2>
 
