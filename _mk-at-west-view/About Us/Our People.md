@@ -39,7 +39,7 @@ variant: markdown
 |---|
 | Ms Nur Jannah Fatin Bte Mohd Johari |
 
-<h2 style="color:midnightblue;">Kindergarten Teachers (Tamil)</h2>
+<h2 style="color:midnightblue;">Kindergarten Teacher (Tamil)</h2>
 
 |   |
 |---|
