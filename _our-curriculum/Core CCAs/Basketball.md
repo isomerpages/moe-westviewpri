@@ -3,6 +3,7 @@ title: Basketball
 permalink: /our-curriculum/cca-core/basketball/
 description: ""
 third_nav_title: Core CCAs
+variant: markdown
 ---
 ![Basketball](/images/Basketball.jpg)
 
@@ -15,11 +16,11 @@ Teachers-in-Charge
 ------------------
 
 Mr Tan Kee Jin (Overall-in-charge) <br>
-Mr Neo Zhi Cong (Second-in-charge) <br>
-Mr Ramesh Ramiya (Advisor) <br>
+Mdm Chan Wai Ling (Second-in-charge) <br>
 Mr Danny Leong <br>
 Mr Ngho Seng Kuang <br>
 Mrs Tan-Tay Li Gek <br>
+Ms Fathin
 
 Achievements
 ------------
