@@ -3,6 +3,7 @@ title: Our People
 permalink: /mk-at-west-view/about-us/our-people/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ![About Us](/images/Header%202%20-%20About%20Us.png)
 
@@ -23,6 +24,7 @@ third_nav_title: About Us
 | Ms Habiba do/ Mustakim |
 | Ms Nurfara Binte Pawzi |
 | Ms G. Clarissa Sujita |
+| Mdm Ho Qiao Hui Karen |
 
 <h2 style="color:midnightblue;">Kindergarten Teachers (Chinese)</h2>
 
@@ -30,7 +32,6 @@ third_nav_title: About Us
 |---|
 | Mdm Gao Rongfang |
 | Ms Aixinjueluo Taoqi |
-| Ms Wang Cuiping |
 | Mdm Li Shihao |
 
 <h2 style="color:midnightblue;">Kindergarten Teacher (Malay)</h2>
@@ -39,9 +40,8 @@ third_nav_title: About Us
 |---|
 | Ms Nur Jannah Fatin Bte Mohd Johari |
 
-<h2 style="color:midnightblue;">Kindergarten Teachers (Tamil)</h2>
+<h2 style="color:midnightblue;">Kindergarten Teacher (Tamil)</h2>
 
 |   |
 |---|
-| Ms Sangeetha d/o Suparamaniam |
 |Ms Sujatha Kandiban|
