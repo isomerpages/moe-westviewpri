@@ -3,6 +3,7 @@ title: Floorball
 permalink: /our-curriculum/cca-core/floorball/
 description: ""
 third_nav_title: Core CCAs
+variant: markdown
 ---
 ![](/images/Core%20CCAs/floorball_senior_team_2023.PNG)
  
@@ -12,18 +13,18 @@ third_nav_title: Core CCAs
 Brief of CCA
 ------------
 
-Floorball CCA provides our girls with the opportunity to learn floorball techniques and values such as resilience, teamwork, determination and sportsmanship. These values would enable them to face challenges in the future. The girls constantly remind one another to remain committed to training. Teamwork is constantly emphasised during training and competitions. It is never one’s responsibility for the performance of the team because everyone plays a part.
+Floorball CCA provides our girls with the opportunity to learn floorball techniques and values such as resilience, teamwork, determination and sportsmanship. These values would enable them to face challenges in the future. The girls constantly remind one another to be committed to training. Teamwork is emphasised during training and competitions. It is never one’s responsibility for the performance of the team because everyone plays a part.
 
 Teachers-in-Charge
 ------------------
 
-Mdm Chan Wai Ling (Overall-in-charge)<br>
-Mdm Nurhijjah Yahya (Second-in-charge)<br>
-Mr Ramesh Ramiya (Advisor)<br>
+Mdm Nurhijjah Yahya (Overall-in-charge)<br>
+Mdm Majidah Ramli (Second-in-charge)<br>
+Mr Tan Leng Khoon (Advisor)<br>
 Ms Diana Low<br>
 Ms Cai Xingyi<br>
 Mdm Liu Ying<br>
-Mdm Majidah Ramli<br>
+Ms Nur Fadhilah<br>
 
 Achievements
 ------------
