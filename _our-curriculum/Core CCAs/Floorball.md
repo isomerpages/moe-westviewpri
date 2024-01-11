@@ -31,7 +31,7 @@ Achievements
 
 |&nbsp;|&nbsp;|
 |:---:|:---:|
-|2023|National School Games Floorball Championships (Senior Girls Division) – Tier 2|
+|2023|National School Games Floorball Championships (Senior Girls Division) – Tier 1 - 2nd [Group 1GB]|
 |2022|National School Games Floorball Championships (Junior Division): Tier 2 – 5th|
 |2019|2nd place in the National Primary School Floorball Championships (Senior Division)|
 |2018|Top 8 in the National Primary School Floorball Championships (Senior Division)|
