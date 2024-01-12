@@ -48,23 +48,15 @@ Achievements
 
 What’s up in our CCA?
 ---------------------
-
-![Band practice sessions](/images/Band%20practice%20sessions.jpg)
-
+![](/images/Core%20CCAs/Band_/image1.jpeg)
 <center><strong>Band Practice Session</strong></center>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/20200121_102050.jpeg" alt="Band" style="width:80%;">  
   
+![](/images/Core%20CCAs/Band_/image2.jpeg)<br>
+![](/images/Core%20CCAs/Band_/image3.jpeg)
+<center><strong>Concert Performance during National Day</strong>
 
-<p style="text-align:center;"> <strong>Attracting interest from potential new members during CCA recruitment</strong></p>
-
+![](/images/Core%20CCAs/Band_/image4.jpeg)
+<center><strong>Attracting interest from potential new members during CCA recruitment</strong><br>
 
 <style>  
 img {  
@@ -120,4 +112,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![band](/images/Core%20CCAs/brass%20band.png)
+![band](/images/Core%20CCAs/brass%20band.png)</center></center>
