@@ -46,10 +46,12 @@ What’s up in our CCA?
 ![](/images/Core%20CCAs/Arts%20and%20Crafts/11.jpg)
 
 
-<h4 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
+<h4 style="color:black" align="center"><u>Visiting the CHAPTERS 2.0 Exhibition in Greenridge Secondary School and the National Museum of Singapore</u>
 </h4>
 
-<p style="text-align:center;">Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.</p>
+<center>Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.</center>
+
+<center>The other school’s docents brought our pupils around and explained some of the works. Later, this served as a source of inspiration when they worked on their Kao Biore Eco-Art-themed work.</center>
 
 <style>  
 img {  
@@ -58,7 +60,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Art%20&amp;%20Craft%20Club_1.jpg" alt="Art &amp; Craft Club" style="width:90%;">  
+<img src="/images/Art%20&amp;%20Craft%20Club_1.jpg" alt="Art &amp; Craft Club" style="width:90%;"> 
+<img src="/images/Displaying%20Reflectiveness%20at%20the%20CHAPTERS%202%20Exhibition%20in%20Greenridge%20Secondary%20School%20.jpeg" alt="Art &amp; Craft Club" style="width:90%;">  
   
 
 <br>
@@ -75,23 +78,6 @@ img {
 }  
 </style>  
 <img src="/images/Art%20&amp;%20Craft%20Club_2.jpg" alt="Art &amp; Craft Club" style="width:90%;">  
-  
-
-<br>
-
-<h4 style="color:black" align="center"><u>Displaying Reflectiveness at the CHAPTERS 2.0 Exhibition in Greenridge Secondary School</u></h4>
-
-<p style="text-align:center;">The other school’s docents brought our pupils around and explained some of the works. Later, this served as a source of inspiration when they worked on their Kao Biore Eco-Art-themed work.</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Displaying%20Reflectiveness%20at%20the%20CHAPTERS%202%20Exhibition%20in%20Greenridge%20Secondary%20School%20.jpeg" alt="Art &amp; Craft Club" style="width:90%;">  
-  
 
 <br>
 
