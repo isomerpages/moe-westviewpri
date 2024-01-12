@@ -24,6 +24,8 @@ Achievements
 
 |Year|SYP Art Exhibition<br>(Held every alternative year)|Category|Award|
 |:--:|:--:|:--:|:--:|
+|2023|Looking Towards the Future (mixed-media)|Cat C<br>(P5 &amp; 6)|Certificate of Recognition|
+|2021|Bring the World Home<br><br>Everything is Just a Tap Away|Cat C<br>(P5 &amp; 6)<br><br>Cat B<br>(P3 &amp; 4)|Certificate of Recognition<br><br>Certificate of Recognition|
 |2019|City Skyline<br>(corrugated board)|Cat C<br>(P5 &amp; 6)|Certificate of Recognition<br>*- Extended display at Prime Minister Office, Treasury Room*|
 |2017|Sharing Our Cradle<br>(paper mache)|Cat A<br>(P1 &amp; 2)|Certificate of Recognition|
 |2017|Home<br>(corrugated board)|Cat B<br>(P3 &amp; 4)|Certificate of Recognition<br>*- Extended display for one year at MOE HQ*|
