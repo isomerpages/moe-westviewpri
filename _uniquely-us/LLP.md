@@ -31,8 +31,7 @@ Arts and Life is a special project where staff of West View Primary School inspi
 
 ![](/images/Uniquely%20Us/LLP/image6.png)
 
-Link to 2023 Arts and life playlist:<br>
-https://www.youtube.com/playlist?list=PL_kYG_eIYG4Q8GP9YLuTO9RejCLwwvaHz
+[Link to 2023 Arts and Life playlist](https://www.youtube.com/playlist?list=PL_kYG_eIYG4Q8GP9YLuTO9RejCLwwvaHz)
 
 <center>Link to previous episodes</center>
 
