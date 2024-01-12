@@ -39,8 +39,7 @@ Arts and Life is a special project where staff of West View Primary School inspi
 |:--------:|:--------:|
 |[2022](https://youtube.com/playlist?list=PLwZqEOsDzxO_ZvWKiY0lR0-4qsPOsIoQG)|[2021](https://www.youtube.com/playlist?list=PLwZqEOsDzxO9qwQluE1L1430TAlVfnBrO)|
 
-<br>
-
+![](/images/Uniquely%20Us/LLP/Flourish.png)
 
 <p style="color:red" align="left">A platform for pupils to be heard and encouraged - Student’s Voice</p>
 
