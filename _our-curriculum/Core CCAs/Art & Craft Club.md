@@ -34,6 +34,7 @@ Achievements
 
 What’s up in our CCA?
 ---------------------
+<center>Our pupils strive to create their work in a manner consistant with their artistic vision. Along the way, they have fun and meaningful interactions with one another.</center>
 
 <h4 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
 </h4>
