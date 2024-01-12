@@ -41,6 +41,20 @@ Arts and Life is a special project where staff of West View Primary School inspi
 
 ![](/images/Uniquely%20Us/LLP/Flourish.png)
 
+<p style="color:red" align="left">Exposing pupils to the Arts through STRIVE and Learning Journeys</p>
+
+Pupils have the opportunity to immerse themselves in diverse dance and music experiences, including K-pop dance, ethnic dance, hip-hop dance and songwriting classes. This provides them with a holistic experience
+
+![](/images/Uniquely%20Us/LLP/image7.png)
+
+During Learning Journeys, pupils gain aesthetic experiences and appreciation for the Arts through exposure to live performances.
+
+|&nbsp;|&nbsp;|
+| :--------: | :--------: |
+|![](/images/Uniquely%20Us/LLP/image8.png)|![](/images/Uniquely%20Us/LLP/image9.png)|
+
+<center>Learning Journey to watch Frozen - The Musical on 18 February 2023<center>
+
 <p style="color:red" align="left">A platform for pupils to be heard and encouraged - Student’s Voice</p>
 
 Student’s Voice is an avenue where pupils are encouraged to speak up. Pupils also use this area to write notes of encouragement and affirmations.
@@ -81,4 +95,4 @@ What is ACE the Arts?
 
 <p style="color:blue" align="center">(Video filmed pre-Covid-19)</p>
 
-![ACE the Arts](/images/Picture8.png)
+![ACE the Arts](/images/Picture8.png)</center></center>
