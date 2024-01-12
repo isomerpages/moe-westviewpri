@@ -62,23 +62,7 @@ img {
 </style>  
 <img src="/images/Art%20&amp;%20Craft%20Club_1.jpg" alt="Art &amp; Craft Club" style="width:90%;"> 
 <img src="/images/Displaying%20Reflectiveness%20at%20the%20CHAPTERS%202%20Exhibition%20in%20Greenridge%20Secondary%20School%20.jpeg" alt="Art &amp; Craft Club" style="width:90%;">  
-  
-
-<br>
-
-<h4 style="color:black" align="center"><u>Demonstrating Perseverance</u></h4>
-
-<p style="text-align:center;">Our pupils strived to create their work in a manner consistent with their artistic vision. Along the way, they had fun and meaningful interactions with one another.</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Art%20&amp;%20Craft%20Club_2.jpg" alt="Art &amp; Craft Club" style="width:90%;">  
-
+ 
 <br>
 
 CCA Model Pupil
