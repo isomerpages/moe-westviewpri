@@ -15,11 +15,9 @@ The Art Club provides pupils with a common interest in art to come together to c
 Teachers-in-charge
 ------------------
 
-Mrs Raja-Loke SF (Overall-in-charge) <br>
-Mrs Lam Chai Hwa (Second-in-charge) <br>
+Mrs Raja-Loke Shu Fen (Overall-in-charge) <br>
+Ms Gail Ng (Second-in-charge) <br>
 Mrs Charmian New (Advisor) <br>
-Mr Ramesh Ramiya (Advisor) <br>
-Mdm Normanisha
 
 Achievements
 ------------
