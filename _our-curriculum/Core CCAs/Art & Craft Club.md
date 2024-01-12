@@ -36,6 +36,16 @@ What’s up in our CCA?
 ---------------------
 <center>Our pupils strive to create their work in a manner consistant with their artistic vision. Along the way, they have fun and meaningful interactions with one another.</center>
 
+|&nbsp;|&nbsp;|
+|:--------:|:--------:|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/3.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/4.jpeg)|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/5.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/6.jpeg)|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/7.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/8.jpeg)|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/9.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/10.jpg)|
+
+![](/images/Core%20CCAs/Arts%20and%20Crafts/11.jpg)
+
+
 <h4 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
 </h4>
 
