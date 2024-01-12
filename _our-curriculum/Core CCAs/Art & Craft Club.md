@@ -3,9 +3,10 @@ title: Art & Craft Club
 permalink: /our-curriculum/cca-core/art-n-craft-club/
 description: ""
 third_nav_title: Core CCAs
+variant: markdown
 ---
-![Art &amp; Craft Club](/images/Main%20photo%20website.jpeg)
-
+![](/images/Core%20CCAs/Arts%20and%20Crafts/1.jpg)
+![](/images/Core%20CCAs/Arts%20and%20Crafts/2.jpeg)
 Brief of CCA
 ------------
 
@@ -86,4 +87,4 @@ img {
 CCA Model Pupil
 ---------------
 
-![arts and crafts club](/images/Core%20CCAs/arts%20and%20crafts%20club.png)
+![](/images/Core%20CCAs/Arts%20and%20Crafts/arts%20and%20crafts%20club.png)
