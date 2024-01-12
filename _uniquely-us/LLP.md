@@ -36,7 +36,7 @@ https://www.youtube.com/playlist?list=PL_kYG_eIYG4Q8GP9YLuTO9RejCLwwvaHz
 
 <center>Link to previous episodes</center>
 
-|&nbsp;|&nbsp;
+|&nbsp;|&nbsp;|
 |:--------:|:--------:|
 |[2022](https://youtube.com/playlist?list=PLwZqEOsDzxO_ZvWKiY0lR0-4qsPOsIoQG)|[2021](https://www.youtube.com/playlist?list=PLwZqEOsDzxO9qwQluE1L1430TAlVfnBrO)|
 
