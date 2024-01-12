@@ -3,6 +3,7 @@ title: Band
 permalink: /our-curriculum/cca-core/band/
 description: ""
 third_nav_title: Core CCAs
+variant: markdown
 ---
 Brief of CCA
 ------------
@@ -50,7 +51,7 @@ What’s up in our CCA?
 
 ![Band practice sessions](/images/Band%20practice%20sessions.jpg)
 
-<p style="text-align:center;"> <strong>Band practice sessions</strong></p>
+<center><strong>Band Practice Session</strong></center>
 
 <style>  
 img {  
