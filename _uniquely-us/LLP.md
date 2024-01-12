@@ -55,6 +55,9 @@ During Learning Journeys, pupils gain aesthetic experiences and appreciation for
 
 <center>Learning Journey to watch Frozen - The Musical on 18 February 2023<center>
 
+![](/images/Uniquely%20Us/LLP/image10.jpeg)
+
+*Upcoming Learning Journey: Roald Dahl's Matilda The Musical - Term 2, 2024*
 <p style="color:red" align="left">A platform for pupils to be heard and encouraged - Student’s Voice</p>
 
 Student’s Voice is an avenue where pupils are encouraged to speak up. Pupils also use this area to write notes of encouragement and affirmations.
@@ -76,8 +79,6 @@ img {
   
   
 <p align="center">Learning Journey to watch Aladdin – The Musical</p>
-
-##### Upcoming: Learning Journey to watch Frozen – The Musical
 
 <p style="color:red" align="left">Competitions and activities to inculcate the love for language in a multicultural society</p>
 
