@@ -3,9 +3,10 @@ title: Art & Craft Club
 permalink: /our-curriculum/cca-core/art-n-craft-club/
 description: ""
 third_nav_title: Core CCAs
+variant: markdown
 ---
-![Art &amp; Craft Club](/images/Main%20photo%20website.jpeg)
-
+![](/images/Core%20CCAs/Arts%20and%20Crafts/1.jpg)
+![](/images/Core%20CCAs/Arts%20and%20Crafts/2.jpeg)
 Brief of CCA
 ------------
 
@@ -14,17 +15,17 @@ The Art Club provides pupils with a common interest in art to come together to c
 Teachers-in-charge
 ------------------
 
-Mrs Raja-Loke SF (Overall-in-charge) <br>
-Mrs Lam Chai Hwa (Second-in-charge) <br>
+Mrs Raja-Loke Shu Fen (Overall-in-charge) <br>
+Ms Gail Ng (Second-in-charge) <br>
 Mrs Charmian New (Advisor) <br>
-Mr Ramesh Ramiya (Advisor) <br>
-Mdm Normanisha
 
 Achievements
 ------------
 
 |Year|SYP Art Exhibition<br>(Held every alternative year)|Category|Award|
 |:--:|:--:|:--:|:--:|
+|2023|Looking Towards the Future (mixed-media)|Cat C<br>(P5 &amp; 6)|Certificate of Recognition|
+|2021|Bring the World Home<br><br>Everything is Just a Tap Away|Cat C<br>(P5 &amp; 6)<br><br>Cat B<br>(P3 &amp; 4)|Certificate of Recognition<br><br>Certificate of Recognition|
 |2019|City Skyline<br>(corrugated board)|Cat C<br>(P5 &amp; 6)|Certificate of Recognition<br>*- Extended display at Prime Minister Office, Treasury Room*|
 |2017|Sharing Our Cradle<br>(paper mache)|Cat A<br>(P1 &amp; 2)|Certificate of Recognition|
 |2017|Home<br>(corrugated board)|Cat B<br>(P3 &amp; 4)|Certificate of Recognition<br>*- Extended display for one year at MOE HQ*|
@@ -33,11 +34,24 @@ Achievements
 
 What’s up in our CCA?
 ---------------------
+<center>Our pupils strive to create their work in a manner consistant with their artistic vision. Along the way, they have fun and meaningful interactions with one another.</center>
 
-<h4 style="color:black" align="center"><u>Showing Inquisitiveness at the National Museum of Singapore</u>
+|&nbsp;|&nbsp;|
+|:--------:|:--------:|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/3.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/4.jpeg)|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/5.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/6.jpeg)|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/7.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/8.jpeg)|
+|![](/images/Core%20CCAs/Arts%20and%20Crafts/9.jpeg)|![](/images/Core%20CCAs/Arts%20and%20Crafts/10.jpg)|
+
+![](/images/Core%20CCAs/Arts%20and%20Crafts/11.jpg)
+
+
+<h4 style="color:black" align="center"><u>Visiting the CHAPTERS 2.0 Exhibition in Greenridge Secondary School and the National Museum of Singapore</u>
 </h4>
 
-<p style="text-align:center;">Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.</p>
+<center>Although only the Category C (Upper Primary) pupils’ work was selected for display at the museum for SYF 2019, they were all keen to observe what the other schools had come up with.</center>
+
+<center>The other school’s docents brought our pupils around and explained some of the works. Later, this served as a source of inspiration when they worked on their Kao Biore Eco-Art-themed work.</center>
 
 <style>  
 img {  
@@ -46,44 +60,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Art%20&amp;%20Craft%20Club_1.jpg" alt="Art &amp; Craft Club" style="width:90%;">  
-  
-
-<br>
-
-<h4 style="color:black" align="center"><u>Demonstrating Perseverance</u></h4>
-
-<p style="text-align:center;">Our pupils strived to create their work in a manner consistent with their artistic vision. Along the way, they had fun and meaningful interactions with one another.</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Art%20&amp;%20Craft%20Club_2.jpg" alt="Art &amp; Craft Club" style="width:90%;">  
-  
-
-<br>
-
-<h4 style="color:black" align="center"><u>Displaying Reflectiveness at the CHAPTERS 2.0 Exhibition in Greenridge Secondary School</u></h4>
-
-<p style="text-align:center;">The other school’s docents brought our pupils around and explained some of the works. Later, this served as a source of inspiration when they worked on their Kao Biore Eco-Art-themed work.</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
+<img src="/images/Art%20&amp;%20Craft%20Club_1.jpg" alt="Art &amp; Craft Club" style="width:90%;"> 
 <img src="/images/Displaying%20Reflectiveness%20at%20the%20CHAPTERS%202%20Exhibition%20in%20Greenridge%20Secondary%20School%20.jpeg" alt="Art &amp; Craft Club" style="width:90%;">  
-  
-
+ 
 <br>
 
 CCA Model Pupil
 ---------------
 
-![arts and crafts club](/images/Core%20CCAs/arts%20and%20crafts%20club.png)
+![](/images/Core%20CCAs/Arts%20and%20Crafts/arts%20and%20crafts%20club.png)
