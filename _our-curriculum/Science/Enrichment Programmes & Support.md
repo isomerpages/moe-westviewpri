@@ -39,15 +39,34 @@ At the Singapore Science Centre, pupils are engaged in activities where they vie
 
 Our P6 pupils attended a Science workshop on animal adaptations. During the hands-on session, they had the opportunity to observe and handle real-life animal specimens. Our pupils were challenged to draw links between the features and functions of each animal’s adaptation which enables it to survive better in its environment. The learning experiences provided opportunities for our pupils to make connections with their daily life experiences, adding joy to the learning process.
 
+|&nbsp;|&nbsp;|&nbsp;|
+| :--------: | :--------: | :--------: |
+|![](/images/Science/P6_AoPA_1.jpeg)|![](/images/Science/P6_AoPA_2.jpeg)|![](/images/Science/P6_AoPA_3.jpeg)|
+|![](/images/Science/P6_AoPA_4.jpeg)|![](/images/Science/P6_AoPA_5.jpeg)|![](/images/Science/P6_AoPA_6.jpeg)|
+
 **Primary 6: Post-PSLE Experience on Vermicomposting**
 
 During the Vermicomposting Programme, our P6 pupils learnt about and experienced how worms can help with the recycling of food waste. They had to muster their courage and practise dare while setting up the vermicomposting kits. The compost produced was used to fertilise the various gardens in our school.
 
 Acting as advocators, they went on to apply their learning by engaging their P1 juniors. During their Vermicomposting Experience, the P1 pupils had the opportunity to share in the learning of their P6 peers. They were inquisitive and asked many questions. Many even cradled the worms in their hands.
 
+|&nbsp;|&nbsp;|&nbsp;|
+| :--------: | :--------: | :--------: |
+|![](/images/Science/P6_Vermi_1.jpeg)|![](/images/Science/P6_Vermi_2.jpeg)|![](/images/Science/P6_Vermi_3.jpeg)|
+
+|&nbsp;|&nbsp;|
+| :--------: | :--------: |
+|![](/images/Science/P6_Vermi_4.jpeg)|![](/images/Science/P6_Vermi_5.jpeg)|
+
 **Primary 4 &amp; 5: Excellence 2000 (E2K) Science Programme**
 
 The E2K Science Programme is a science enrichment programme for pupils who demonstrate interest and ability in Science. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+|&nbsp;|&nbsp;|&nbsp;|
+| :--------: | :--------: | :--------: |
+|![](/images/Science/P4_5_E2K_1.jpeg)|![](/images/Science/P4_5_E2K_2.jpeg)|![](/images/Science/P4_5_E2K_3.jpeg)|
+|![](/images/Science/P4_5_E2K_4.jpeg)|![](/images/Science/P4_5_E2K_5.jpeg)|![](/images/Science/P4_5_E2K_6.jpeg)|
+|![](/images/Science/P4_5_E2K_7.jpeg)|![](/images/Science/P4_5_E2K_8.jpeg)|![](/images/Science/P4_5_E2K_9.jpeg)|
 
 More information about E2K Science in West View Primary School can be found by clicking on the link below:
 
