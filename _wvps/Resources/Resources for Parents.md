@@ -138,7 +138,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) [](https://www.m
     <td>Term 2 Week 1-5</td>
   </tr>
   <tr>
-    <td>Did You Know?<br>(60 min)</td>
+    <td>Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
     <td style="text-align:left;">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
     <td>Term 4 Week 6-9</td>
   </tr>
