@@ -2,31 +2,6 @@
 title: DA VINCI
 permalink: /uniquely-us/da-vinci/
 description: ""
+variant: tiptap
 ---
-Philosophy
-------------
-
-The DA VINCI Programme in West View Primary School aims to nurture critical thinking in our West Viewans. Every child is special, with unique combinations of talents and abilities. We recognise these differences and seek to provide pupils with varied opportunities to maximise their potential to the fullest.
-![](/images/DA%20VINCI/image4-min.png)
-
-<h2 style="color:midnightblue">Desired Student Outcomes</h2>
-
-* Discover their interests and strengths through exploration and experimentation
-* Stretch their imagination to solve authentic problems,
-* Make meaningful connections and apply their learning in new contexts.
-* Curious and bold in exploration
-* Committed, adaptable and resilient in learning,
-Self-directed learners who can work independently or collaboratively
-![](/images/DA%20VINCI/image1-min.png)
-![](/images/DA%20VINCI/image7-min.png)
-
-<h2 style="color:midnightblue">Da Vinci Programme</h2>
-Our DA VINCI Programme focus on providing opportunities to stretch high ability learners. These include E2K Math, E2K Science, Culture Inculcation (MT), Internationalisation etc; which offer high level problems and projects that allow students to work independently and think creatively. Selected students also have the opportunity to participate in various competitions to foster a love of learning and explore their interests.
-
-![](/images/DA%20VINCI/image2-min.png)
-![](/images/DA%20VINCI/image3-min.png)
-![](/images/DA%20VINCI/image8-min.png)
-![](/images/DA%20VINCI/image6-min.png)
-![](/images/DA%20VINCI/image9-min.png)
-![](/images/DA%20VINCI/image5-min.png)
-![](/images/DA%20VINCI/image10-min.png)
+<h1>DA VINCI</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/image10-min.png"></div><p>DA VINCI is a talent development programme which follows Dr. Treffinger's Levels of Service (LoS) approach designed to help students develop their potential to the fullest. A<strong> </strong>wide variety of differentiated enrichment opportunities will support different segments of our West Viewans to</p><ul data-tight="true" class="tight"><li><p>connect with their interests, lives and worlds, to discover their passions and interests, find what they learn intriguing, real, purposeful and useful;</p></li><li><p>encourage investigative and inquiry-based learning;</p></li><li><p>develop Passionate Learners, Confident Leaders, helping them to use their talents to create a better and more equitable world.</p></li></ul><table><tbody><tr><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Intro_1.png"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Intro_2.png"></div></th></tr></tbody></table><h2>DA VINCI Capstone Project</h2><p>DA VINCI Capstone Project witnessed the remarkable showcase of young minds tackling the carbon footprint challenge.</p><p>Based on the design challenge given, pupils went through the design thinking process to focus on which sustainable goal they want to work on. The pupils went to Senja hawker centre to conduct the interviews to define a problem and point of view statement.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Capstone_1.png"></div><p>From inspiring ideas like smart robot composters to heartfelt solutions for our seniors, the West View Innovators of Tomorrow presented their ideas to MP representing the Zhenghua division of Holland–Bukit Timah GRC, Mr Edward Chia.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Capstone_2.png"></div><h2>DA VINCI  Internationalisation with Perth College </h2><p>30 of our DA VINCI students learned together with 30 other friends from Australia, Perth College and had 4 different zoom sessions over 4 different days.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_1.png"></div><p>Our P5 DA VINCI students took on a virtual learning journey to Singapore Gardens by the Bay on sustainability efforts in Singapore.  In the following session, they virtually visited Literature Centre in Perth and learnt strategies in writing good narrative essays from an author, Amanda Betts. The students also had a virtual visit to the Herdsman Lake in Perth to learn about wetland oasis in the heart of Perth. They learnt about the indigenous history of the area, the wildlife that lives here, and the importance of sustainability for this precious ecosystem.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_2.png"></div><p>In the last virtual exchange session, selected pupils from our school and Perth College shared their school’s sustainability efforts in promoting awareness on the importance of saving the environment. Our pupils shared the school’s Black Soldier Fly project in managing food waste as well as selected DA VINCI Capstone projects on reducing carbon footprints. They were engaged in interactive conversations through the Q&amp;A sessions demonstrating their inquisitiveness and desire to learn.</p><h2>DA VINCI Internationalisation with Thai-Singapore International School</h2><p>West View hosted 40 Primary 3 to Primary 5 pupils from Thai-Singapore International School. They observed our lessons and had the opportunity to mingle with our P4 and P5 pupils through activities that emphasised on teamwork. We hope to continue to host schools from other countries so that our pupils can develop cultural competence and be future global citizens and remain connected to the region and the world.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_3.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_4.png"></div><p>West View Primary School believe that every child is special, with unique combinations of talents and abilities. We recognise these differences and seek to provide students with varied opportunities to maximise their potential to the fullest, at the same time to develop our students in the development of critical and inventive thinking (CIT) and 21st century competencies (21CC).</p><p></p>
