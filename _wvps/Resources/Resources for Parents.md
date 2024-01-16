@@ -75,7 +75,7 @@ a. Science
 
 b.	Character and Citizenship Education (CCE)
 
-**At WEST VIEW Primary School, the following lessons from Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:**
+**At West View Primary School, the following lessons from Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:**
 
 **2024 SEXUALITY EDUCATION LESSONS IN CCE 2021** 
 
