@@ -2,6 +2,7 @@ collections:
   gallery-life-at-wv:
     output: true
     order:
+      - 2024/.keep
       - 2023/2023 Term 4.md
       - 2023/2023 Term 3.md
       - 2023/2023 Term 2.md
