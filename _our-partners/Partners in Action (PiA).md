@@ -2,6 +2,7 @@
 title: Partners in Action (PiA)
 permalink: /our-partners/partners-in-action-pia/
 description: ""
+variant: markdown
 ---
 **Partners-in-Action (PiA)**
 
@@ -29,4 +30,4 @@ Do join the PiA and play a part in our West Viewans’ learning and development!
 
 Click [here](https://form.gov.sg/627892fb04fa7d0012364883) to register and we will be in touch with you!
 
-Click here to access our PiA Handbook (COMING SOON!)
+Click [here](/files/PiA_Handbook_2024_compressed.pdf)  to access our PiA Handbook
