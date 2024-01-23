@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 # MK Open House
-
+![](/images/What's%20On/2024_MK_Open_House_Poster.jpeg)
 
 Nominations for 2024 Awards
 ----
