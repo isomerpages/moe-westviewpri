@@ -121,7 +121,32 @@ variant: tiptap
             Language.</p>
     </li>
     </ul>
-    <div class="isomer-image-wrapper">
-        <img style="width: 100%" height="auto" width="100%" alt="Weeks of Wonder" src="/images/MK/weeks%20of%20wonder.png">
-    </div>
+    <table>
+        <tbody>
+            <tr>
+                <th rowspan="1" colspan="1">
+                    <div class="isomer-image-wrapper">
+                        <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MK/WOW_3.jpeg">
+                    </div>
+                </th>
+                <th rowspan="1" colspan="1">
+                    <div class="isomer-image-wrapper">
+                        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WOW_2.jpeg">
+                    </div>
+                </th>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">
+                    <div class="isomer-image-wrapper">
+                        <img style="width: 58%;" height="auto" width="100%" alt="" src="/images/MK/WOW_4.jpg">
+                    </div>
+                </td>
+                <td rowspan="1" colspan="1">
+                    <div class="isomer-image-wrapper">
+                        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WOW_1.jpg">
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
     <p></p>
