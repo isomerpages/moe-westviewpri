@@ -4,6 +4,9 @@ permalink: /wvps/whats-on/
 description: ""
 variant: markdown
 ---
+# MK Open House
+![](/images/What's%20On/2024_MK_Open_House_Poster.jpeg)
+
 Nominations for 2024 Awards
 ----
 <h2 style="color:midnightblue;">Caring Teacher Award 2024</h2>
