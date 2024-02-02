@@ -13,10 +13,9 @@ Recommended Resources for the learning of Chinese Language
 ----------------
 [![朋友和友情 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/book%20recommendation%20term%204%202023-1.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/book%20recommendation%20term%204%202023.pdf)
 
-## 一月开学 儿童阅读推荐
-[![一月开学 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/Physical_Book_Jan_2024.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/Physical_Book_Jan_2024.pdf)
+## 儿童阅读推荐 （二月）
+[![二月 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/Ebook_Feb_2024.jpg)](/files/Resources%20for%20pupils/Chinese%20Langauge/Ebook_Feb_2024.pdf)
 
-[![一月开学 儿童阅读推荐 电子书](/images/Resources%20for%20pupils/Chinese%20Language/ebook_Jan_2024.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/ebook_Jan_2024.pdf)
 
 听故事，识世界
 --------------------------------------------------------------
