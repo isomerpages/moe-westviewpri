@@ -8,4 +8,5 @@ variant: markdown
 
 |&nbsp;|&nbsp;|&nbsp;|
 | :--------: | :--------: | :--------: |
+||**[2024](/our-pride/gallery-life-at-wv/2024/)**||
 |**[2023](/our-pride/gallery-life-at-wv/2023/)**| **[2022](/our-pride/gallery-life-at-wv/2022/)**|**[2021](/our-pride/gallery-life-at-wv/2021/)**|
