@@ -4,8 +4,7 @@ title: West View Primary School
 description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
-notification: "MOE Kindergarten Open House will be held on 3 February 2024.
-  Click on \"What's On\" for details. "
+notification: ""
 sections:
   - hero:
       key_highlights:
