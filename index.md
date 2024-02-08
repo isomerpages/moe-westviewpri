@@ -4,7 +4,8 @@ title: West View Primary School
 description: West View Primary School
 image: /images/RWD_logo.png
 permalink: /
-notification: ""
+notification: 2024 nominations for English, Malay and Tamil teachers are now
+  open! Click on "What's On" for details
 sections:
   - hero:
       key_highlights:
