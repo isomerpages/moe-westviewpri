@@ -4,7 +4,6 @@ permalink: /uniquely-us/llp/
 description: ""
 variant: markdown
 ---
-
 Learning for Life Programme: ACE the Arts
 =========================================
 ![](/images/Uniquely%20Us/LLP/For_cover_page___LLP.jpg)
@@ -75,7 +74,6 @@ Competitions showcasing Performing Arts in Mother Tongue languages celebrate cul
 ![](/images/Uniquely%20Us/LLP/image13.png)
 
 Compilation of videos from past competition
-<div><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YrSdIPS-JSA?si=pdKlllFQO5uVCCi0" height="315" width="560"></iframe></div>
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Njjekf_LcZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/bkQJy13LdEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
