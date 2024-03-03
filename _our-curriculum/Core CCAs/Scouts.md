@@ -3,6 +3,7 @@ title: Scouts
 permalink: /our-curriculum/cca-core/scouts/
 description: ""
 third_nav_title: Core CCAs
+variant: markdown
 ---
 <style>  
 img {  
@@ -23,12 +24,12 @@ The West View Cub Scouts group is the only uniformed group CCA in the school. Al
 Teachers-in-Charge
 ------------------
 
-Mdm Zakiah Arip (Overall-in-charge) <br>
+Mdm Normanisha (Overall-in-charge) <br>
 Mr Uresh Kandasamy (Second-in-charge) <br>
-Mr Ramesh Ramiya (Advisor) <br>
+Mr Tan Leng Khoon (Advisor) <br>
+Nurhazlinda (NT) <br>
+Ms Gurdeep <br>
 Mr Ang Eng Chuan <br>
-Ms Gurdeep Kaur <br>
-Mdm Shi Yuanna <br>
 
 
 Achievements
