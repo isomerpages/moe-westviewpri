@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /our-curriculum/cca-core/chinese-dance/
 description: ""
 third_nav_title: Core CCAs
+variant: markdown
 ---
 <style>  
 img {  
@@ -27,10 +28,8 @@ Teachers-in-Charge
 Mdm Chua Kiat Eng (Overall-in-charge)<br>
 Mdm Wee Shi Xiu (Second-in-charge)<br>
 Mrs Charmian New (Advisor)<br>
-Mr Ramesh Ramiya (Advisor)<br>
-Mdm Lim Seow Yin<br>
+Mdm Hussain Thasveena<br>
 Mdm Yana Yaacob<br>
-Mdm Hussain Thasveena
 
 Achievements
 ------------
