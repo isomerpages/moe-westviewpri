@@ -28,13 +28,12 @@ Teachers-in-Charge
 ------------------
 
 Mdm Leong Yahui (Overall-in-charge)<br>
-Mdm He Lu (Second-in-charge)<br>
+Ms Deviga (Second-in-charge)<br>
 Mrs Charmian New (Advisor)<br>
-Mr Ramesh Ramiya (Advisor)<br>
-Mdm Agnes Ang<br>
-Ms Clara Chia<br>
-Ms Deviga<br>
-Mdm Zhao Yijin
+Mdm Zhao Yijin<br>
+Mdm Zakiah<br>
+Ms Michelle Khoo<br>
+Ms Clara Chia
 
 Achievements
 ------------
