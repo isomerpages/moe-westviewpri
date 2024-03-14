@@ -5,4 +5,66 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="1"><p>&nbsp;</p></th><th rowspan="1" colspan="1"><p>&nbsp;</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>School Counsellor</strong></p></td><td rowspan="1" colspan="1"><p><a href="mailto:png_zhi_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Png Zhi Chong Andy</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Senior Special Educational Needs Officer</strong></p></td><td rowspan="1" colspan="1"><p><a href="mailto:sheena_mohan_lal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheena D/O Mohan Lal</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Lead SEN Officer</strong></p></td><td rowspan="1" colspan="1"><p>Ms Liew Si Min</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Special Educational Needs Officer</strong></p></td><td rowspan="1" colspan="1"><p><a href="mailto:lai_en_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lai En En</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Teaching &amp; Learning</strong></p></td><td rowspan="1" colspan="1"><p><a href="mailto:samuel_tr_silviya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Samuel Rechal Silviya</a></p></td></tr></tbody></table><p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:png_zhi_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Png Zhi Chong Andy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Special Educational Needs Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sheena_mohan_lal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheena D/O Mohan Lal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lead SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_si_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liew Si Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Educational Needs Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lai_en_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lai En En</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching &amp; Learning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samuel_tr_silviya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Samuel Rechal Silviya</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

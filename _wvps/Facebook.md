@@ -2,5 +2,6 @@
 title: Facebook
 permalink: /wvps/facebook/
 description: ""
+variant: markdown
 ---
-Click [here](https://westviewpri.moe.edu.sg/wvps/facebook) to access WVPS Facebook page!
+Click [here](https://www.facebook.com/westviewpri) to access WVPS Facebook page!
