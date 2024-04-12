@@ -2,7 +2,55 @@
 title: Services
 permalink: /wvps/services/
 description: ""
+variant: markdown
 ---
+School Canteen Advertisement
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Halal (Western or Korean or Japanese or Vegetarian Indian stall) | 15 MAY 2024     | NIL    |
+
+
+**Application Procedure**
+
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+
+[Application Form](/files/Services/Application_Form.pdf)
+
+2. Attached the following documents together with the application form:
+* Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+
+* Address: West View Primary School. 31 Senja Road. S677742
+* Contact No: 6760 0178
+* Email: tng_yew_li@moe.edu.sg
+* Contact Person: Mdm Tng Yew Li
+
+**How to get there?**
+* Nearest MRT: Bukit Panjang MRT (Downtown line DT1) 
+* Bus number: Take bus no, 972 and  920 from Bukit Panjang interchange and alight in front of the school
+
+**Interest applicants must meet the following criteria:**
+* Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Able to provide good service and quality food with prices determined in consultation with the school.
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to maintain high standard of food safety and personal hygiene.
+* Must be in personal attendance at the stall during operating hours.
+* Healthy and fit to operate the stall.
+
+
+**Applicants should preferably fulfil the following criteria:**
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Possess catering experience or experience operating in a school environment.
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+
+
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+
+
 |&nbsp;|&nbsp;|
 |:----------:|----------|
 |![Big heart student care logo](/images/logo.jpeg)Big Heart Student Care|![Information of Big Heart Student Care centre](/images/West%20View%20SCC%20Info.png)<br>[![Big Heart Student Care video](https://img.youtube.com/vi/Do4hSWR8s4o/0.jpg)](https://www.youtube.com/watch?v=Do4hSWR8s4o)<br>**Visit our website below for more information**<br>[https://bigheartstudentcare.com/](https://bigheartstudentcare.com/)<br><br>**Contact:** 9855 2910 between 11 a.m. and 6.45 p.m. (weekdays)<br>**Email:** westview@shgstudentcare.com.sg<br>**Operating Hours:** School Dismissal Time 1.30 p.m. to 7.00 p.m. (Monday to Friday)<br>School holidays 7.30 a.m. to 7.00 p.m. (Monday to Friday)<br>Closed on Saturday, Sunday, public holidays and 5.5 Centre closure days<br><br>**TO REGISTER YOUR INTEREST**<br>Interested applicants may submit your interest online via the URL online link or QR code below.<br><br>[https://bigheart.cyberland.sg/interest.php](https://bigheart.cyberland.sg/interest.php)<br>![](/images/Services/registration%20qr%20code.png)Kindly note that both the School and the Student Care will assess the eligibility of the application and only short-listed applicants will be contacted for the official registration.|
