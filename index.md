@@ -35,27 +35,26 @@ sections:
   - infopic:
       title: LEARNING FOR LIFE PROGRAMME
       subtitle: (ACE the Arts)
-      description: Every child is an artiste. A.C.E the Arts seeks to provide every
-        child with the opportunity to discover and develop their talents. Pupils
-        learn how to...
+      description: Every child a talented pupil. West Viewans appreciate and create,
+        exploring their interests and talents, to become passionate learners and
+        confident leaders.
       button: Read More
       url: /uniquely-us/llp/
       image: /images/LLP.png
       alt: Learning for Life Programme
   - infopic:
       title: STRIVE
-      description: Every child is a talented pupil. STRIVE@West View, our school-based
-        Modular CCA, exposes our pupils to a broad range of experiences in the
-        various...
+      description: Every child a talented pupil. STRIVE@West View exposes our pupils
+        to a broad range of experiences to allow pupils to explore and pursue
+        their interests.
       button: Read More
       url: /uniquely-us/strive-modular-cca/
       image: /images/strive.png
       alt: STRIVE
   - infopic:
       title: VIEWAN XP
-      description: Every child is an engaged inquirer.  VIEWAN XP, our school’s
-        enriched curriculum beyond the regular, seeks to provide platforms and
-        create varied...
+      description: Every child an engaged inquirer. VIEWAN XP enriches our curriculum,
+        equipping pupils with 21CC skills to be future-ready learners.
       button: Read More
       url: /uniquely-us/viewan-xp/
       image: /images/viewan.png
@@ -71,18 +70,18 @@ sections:
       alt: Character First
   - infopic:
       title: DA VINCI
-      description: Every child is special, with unique combinations of talents,
-        interest and abilities. DA VINCI, a programme to stretch the high
-        progressing learners, seeks to...
+      description: Every child is unique. DA VINCI programme develops 21st Century
+        Competencies skills in our pupils and offers diverse opportunities to
+        maximise their potential.
       button: Read More
       url: /uniquely-us/da-vinci/
       image: /images/davinci.png
       alt: DA VINCI
   - infopic:
       title: EinSTein
-      description: Every child is a genius. In Einstein programme, we aim to support
-        our low progress learners, as we believe that they are unique and
-        endowed with different...
+      description: Every child a genius. In Einstein programme, we support low
+        progress learners, believing in their unique gifts. Let's inspire them
+        with Einstein's perseverance.
       button: Read More
       url: /uniquely-us/einstein/
       image: /images/einstein.png
