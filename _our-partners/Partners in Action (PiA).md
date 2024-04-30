@@ -28,6 +28,6 @@ PiA members assist in school events, organize programmes and events to engage pu
 
 Do join the PiA and play a part in our West Viewans’ learning and development! You will gain the enriching school life experience while helping to shape their learning in school. All parents are welcome to join!&nbsp;
 
-Click [here](https://form.gov.sg/627892fb04fa7d0012364883) to register and we will be in touch with you!
+Click [here](https://form.gov.sg/658bbb1cb8598f001236c6143) to register and we will be in touch with you!
 
 Click [here](/files/2024_PiA_Handbook_Updated_compressed.pdf) to access our PiA Handbook
