@@ -3,8 +3,40 @@ title: CCA
 permalink: /our-pride/achievements/cca/
 description: ""
 third_nav_title: Achievements
-variant: markdown
+variant: tiptap
 ---
-|&nbsp;|&nbsp;|&nbsp;|
-| :--------: | :--------: | :--------: |
-|**[2023](/our-pride/achievements/cca/2023/)**| **[2022](/our-pride/achievements/cca/2022/)**|**[2021](/our-pride/achievements/cca/2021/)**|
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/our-pride/achievements/cca/2023/" rel="noopener noreferrer nofollow" target="_blank">2023</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/our-pride/achievements/cca/2022/" rel="noopener noreferrer nofollow" target="_blank">2022</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/our-pride/achievements/cca/2021/" rel="noopener noreferrer nofollow" target="_blank">2021</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
