@@ -51,7 +51,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yow Ai Hui</p>
+<p><a href="yow_ai_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yow Ai Hui</a>
+</p>
 </td>
 </tr>
 <tr>
