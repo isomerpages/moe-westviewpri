@@ -141,6 +141,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Lay Choo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anwar Bin Sukimin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ICT Associate</strong>
 </p>
 </td>
@@ -175,7 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ethan_lim_chee_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ethan Lim</a>
+<p><a href="mailto:mohammad_hariz_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Hariz Bin Ali</a>
 </p>
 </td>
 </tr>
