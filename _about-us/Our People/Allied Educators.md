@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -21,8 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:png_zhi_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Png Zhi Chong Andy</a>
-</p>
+<p>Ms Lim Hui Audrey</p>
 </td>
 </tr>
 <tr>
@@ -51,8 +54,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lai_en_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lai En En</a>
-</p>
+<p>Ms Koh Xiao Ting Anne</p>
+<p>Ms Priyadharshini D/O Krishnan</p>
 </td>
 </tr>
 <tr>
