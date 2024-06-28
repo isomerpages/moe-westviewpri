@@ -9,7 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/smc_formal_resized.jpg">
 </div>
 <h2>School Leaders</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,7 +53,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Head of Department (HOD)</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -172,7 +180,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Subject Head (SH) / Level Head (LH)</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -244,16 +256,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ National Education &amp; Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_wee_kiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Wee Kiong Gary</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/ Student Leadership Development (Acting)</strong>
 </p>
 </td>
@@ -265,7 +267,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Senior Teacher (ST) Guild</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
