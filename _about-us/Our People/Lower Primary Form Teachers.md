@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h2>Primary 1</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -93,7 +98,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 2</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -143,7 +153,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siqi_angie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Angie Tan</u></a>
+<p><a href="mailto:tey_sew_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Christine Tey</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,6 +185,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="efizah_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Efizah Samat</a>
+</p>
 <p><a href="mailto:cheng_siew_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Cheng Siew Kim</u></a>
 </p>
 </td>
