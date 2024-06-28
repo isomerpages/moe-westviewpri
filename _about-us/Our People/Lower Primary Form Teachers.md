@@ -185,7 +185,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Efizah</p>
+<p><a href="efizah_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Efizah Samat</a>
+</p>
 <p><a href="mailto:cheng_siew_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Cheng Siew Kim</u></a>
 </p>
 </td>
