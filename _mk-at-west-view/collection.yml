@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - Waitlist.md
       - MK Orientation.md
       - About Us/.keep
       - About Us/About Us.md
