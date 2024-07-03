@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - Partnership with Parents.md
       - Waitlist.md
       - MK Orientation.md
       - About Us/.keep
