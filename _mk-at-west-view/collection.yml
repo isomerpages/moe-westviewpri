@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - MK Orientation.md
-      - Waitlist.md
-      - Partnership with Parents.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our People.md
@@ -18,3 +16,5 @@ collections:
       - Gallery/2022.md
       - Gallery/2021.md
       - Partners.md
+      - Waitlist.md
+      - Partnership with Parents.md
