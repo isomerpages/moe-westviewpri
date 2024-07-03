@@ -2,9 +2,9 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Partnership with Parents.md
-      - Waitlist.md
       - MK Orientation.md
+      - Waitlist.md
+      - Partnership with Parents.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our People.md
@@ -12,9 +12,9 @@ collections:
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/Flagship Programmes.md
+      - Gallery/.keep
       - Gallery/2024.md
       - Gallery/2023.md
       - Gallery/2022.md
       - Gallery/2021.md
-      - Gallery/.keep
       - Partners.md
