@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">2024</a>
+<p><a href="https://westviewpri.moe.edu.sg/2024/" rel="noopener noreferrer nofollow" target="_blank">2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
