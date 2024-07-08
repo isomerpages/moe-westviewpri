@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </th>
@@ -24,6 +28,10 @@ variant: tiptap
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">2024</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/our-pride/achievements/cca/2023/" rel="noopener noreferrer nofollow" target="_blank">2023</a></strong>
 </p>
