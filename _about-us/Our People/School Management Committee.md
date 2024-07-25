@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer &amp; HOD ICT (Acting)</strong>
+<p><strong>School Staff Developer &amp; HOD ICT (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD/English Language (Acting)</strong>
+<p><strong>HOD/English Language (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ Student Leadership Development (Acting)</strong>
+<p><strong>SH/ Student Leadership Development (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
