@@ -79,6 +79,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD/English Language (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_soon_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Tan Soon Hui</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD Mathematics &amp; EinSTein</strong>
 </p>
 </td>
@@ -231,16 +241,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_jing_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Jing Ting</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LH/ English Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_soon_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Tan Soon Hui</a>
 </p>
 </td>
 </tr>
