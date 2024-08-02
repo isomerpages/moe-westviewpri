@@ -79,6 +79,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD/English Language (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_soon_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Tan Soon Hui</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD Mathematics &amp; EinSTein</strong>
 </p>
 </td>
@@ -236,16 +246,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH/ English Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_soon_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Tan Soon Hui</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/ Data &amp; Information Management</strong>
 </p>
 </td>
@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ Student Leadership Development (Acting)</strong>
+<p><strong>SH/ Student Leadership Development (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
