@@ -47,15 +47,15 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL1</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL2</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL4</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL4</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,11 +70,11 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML1</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML2</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +92,7 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3TL.pdf" rel="noopener noreferrer nofollow" target="_blank">3TL</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3TL.pdf" rel="noopener noreferrer nofollow" target="_blank">3TL</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,19 +154,19 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL1</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL2</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL3</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL3</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL4</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL4</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,11 +181,11 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML1</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML2</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +206,7 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4TL.pdf" rel="noopener noreferrer nofollow" target="_blank">4TL</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__4TL.pdf" rel="noopener noreferrer nofollow" target="_blank">4TL</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,7 +230,7 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="5">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__14_Aug__4_NTIL_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NTIL CCE</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__14_Aug__4_NTIL_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NTIL CCE</a></strong>
 </p>
 </td>
 </tr>
