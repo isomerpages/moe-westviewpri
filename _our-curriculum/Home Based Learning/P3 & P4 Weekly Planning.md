@@ -16,7 +16,7 @@ third_nav_title: Home Based Learning
 <tbody>
 <tr>
 <th rowspan="8" colspan="1">
-<p>P3</p>
+<h2>P3</h2>
 </th>
 <th rowspan="1" colspan="4">
 <p>Classes</p>
@@ -119,7 +119,7 @@ third_nav_title: Home Based Learning
 <tbody>
 <tr>
 <th rowspan="10" colspan="1">
-<p>P4</p>
+<h2>P4</h2>
 </th>
 <th rowspan="1" colspan="5">
 <p>Classes</p>
