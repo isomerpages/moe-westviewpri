@@ -79,15 +79,15 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">5ML1</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">5ML1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">5ML2</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">5ML2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5FML.pdf" rel="noopener noreferrer nofollow" target="_blank">5FML</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5FML.pdf" rel="noopener noreferrer nofollow" target="_blank">5FML</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +105,7 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5TL.pdf" rel="noopener noreferrer nofollow" target="_blank">5TL</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5TL.pdf" rel="noopener noreferrer nofollow" target="_blank">5TL</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +132,7 @@ third_nav_title: Home Based Learning
 <p></p>
 </th>
 <td rowspan="1" colspan="5">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_Aug__5_NTIL_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">5 NTIL CCE</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_Aug__5_NTIL_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">5 NTIL CCE</a></strong>
 </p>
 </td>
 </tr>
