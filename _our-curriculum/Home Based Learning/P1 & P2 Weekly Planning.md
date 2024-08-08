@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Home Based Learning
 ---
-<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -17,7 +16,7 @@ third_nav_title: Home Based Learning
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="7" colspan="1">
+<th rowspan="8" colspan="1">
 <p>P1</p>
 </th>
 <th rowspan="1" colspan="5">
@@ -48,16 +47,13 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>C1</strong>
-</p>
+<p>1C1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>C2</strong>
-</p>
+<p>1C2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>C3</strong>
-</p>
+<p>1C3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -74,12 +70,10 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ML1</strong>
-</p>
+<p>1ML1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ML2</strong>
-</p>
+<p>1ML2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -98,11 +92,8 @@ third_nav_title: Home Based Learning
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1TL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -119,20 +110,77 @@ third_nav_title: Home Based Learning
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="8" colspan="1">
+<p>P2</p>
+</th>
+<th rowspan="1" colspan="5">
+<p>Classes</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2A</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2B</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2C</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2D</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2E</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
 <p>Chinese Language</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>Malay Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ML1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ML2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,6 +191,18 @@ third_nav_title: Home Based Learning
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="5">
+<p><strong>Tamil Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
