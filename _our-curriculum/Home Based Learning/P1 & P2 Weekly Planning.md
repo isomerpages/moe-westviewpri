@@ -152,13 +152,13 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C1</p>
+<p>2C1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C2</p>
+<p>2C2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C3</p>
+<p>2C3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -175,10 +175,10 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ML1</p>
+<p>2ML1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ML2</p>
+<p>2ML2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -198,7 +198,7 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TL</p>
+<p>2TL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
