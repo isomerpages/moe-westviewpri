@@ -80,11 +80,13 @@ before or after your assigned access time.</p>
 <p>Please install the software on your computer or tablet so that you can
 open and read the Weekly Plans which are saved in PDF format.</p>
 <p></p>
-<h2>Accessing the Weekly Plan</h2>
+<h2>Accessing the Weekly Plan<br></h2>
 <p>Method 1
+<br>
 <br>
 <br>On "Home-Based Learning" webpage, select "Weekly Plan" and click on the
 class your child is in. You will be able to open the Weekly Plan.
+<br>
 <br>
 <br>Method 2</p>
 <p>
