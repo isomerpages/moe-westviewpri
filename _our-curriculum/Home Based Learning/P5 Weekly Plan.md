@@ -52,19 +52,19 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL1</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL2</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL3</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">5CL3</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5FCL.pdf" rel="noopener noreferrer nofollow" target="_blank">5FCL</a>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__5FCL.pdf" rel="noopener noreferrer nofollow" target="_blank">5FCL</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
