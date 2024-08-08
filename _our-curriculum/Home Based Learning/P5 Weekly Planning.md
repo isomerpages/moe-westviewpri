@@ -16,7 +16,7 @@ third_nav_title: Home Based Learning
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="8" colspan="1">
+<th rowspan="9" colspan="1">
 <p>P5</p>
 </th>
 <th rowspan="1" colspan="5">
@@ -119,6 +119,12 @@ third_nav_title: Home Based Learning
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>CCE</strong>
+</p>
 </td>
 </tr>
 </tbody>
