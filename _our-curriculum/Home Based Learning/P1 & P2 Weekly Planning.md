@@ -121,4 +121,120 @@ third_nav_title: Home Based Learning
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="8" colspan="1">
+<h2>P2</h2>
+</th>
+<th rowspan="1" colspan="5">
+<p>Classes</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__2A.pdf" rel="noopener noreferrer nofollow" target="_blank">2A</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__2B.pdf" rel="noopener noreferrer nofollow" target="_blank">2B</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__2C.pdf" rel="noopener noreferrer nofollow" target="_blank">2C</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__2D.pdf" rel="noopener noreferrer nofollow" target="_blank">2D</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__2E.pdf" rel="noopener noreferrer nofollow" target="_blank">2E</a>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>Chinese Language</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__2CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">2CL1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__1CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">2CL2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__2CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">2CL3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>Malay Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__2ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">2ML1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__2ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">2ML2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>Tamil Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__2TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2TL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
