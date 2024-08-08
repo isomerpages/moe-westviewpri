@@ -81,8 +81,16 @@ before or after your assigned access time.</p>
 open and read the Weekly Plans which are saved in PDF format.</p>
 <p></p>
 <h2>Accessing the Weekly Plan</h2>
-<p>On "Home-Based Learning" webpage, select "Weekly Plan" and click on the
-class your child is in. You will be able to open the Weekly Plan.</p>
-<p>You will receive a PG message from your child's/ward's From Teachers with
-regard to the HBL arrangement. Please log in to Parent's Gateway to open
-the message and and download the Weekly Plan attached in the message.</p>
+<p>Method 1
+<br>
+<br>On "Home-Based Learning" webpage, select "Weekly Plan" and click on the
+class your child is in. You will be able to open the Weekly Plan.
+<br>
+<br>Method 2</p>
+<p>
+<br>You will receive a PG message regarding the HBL arrangement. Please log
+in to Parent’s Gateway to read the message and click the hyperlink to access
+the weekly plans.
+<br>
+</p>
+<p></p>
