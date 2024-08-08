@@ -86,8 +86,8 @@ open and read the Weekly Plans which are saved in PDF format.</p>
 class your child is in. You will be able to open the Weekly Plan.</p>
 <p></p>
 <h4>Method 2</h4>
-<p>You will receive a PG message regarding the HBL arrangement. Please log
-in to Parent’s Gateway to read the message and click the hyperlink to access
-the weekly plans.
+<p>Before the start of HBL, you will receive a PG message regarding the HBL
+arrangement. Please log in to Parent’s Gateway to read the message and
+click the hyperlink to access the weekly plans.
 <br>
 </p>
