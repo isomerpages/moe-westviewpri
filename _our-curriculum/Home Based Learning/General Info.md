@@ -82,8 +82,9 @@ open and read the Weekly Plans which are saved in PDF format.</p>
 <p></p>
 <h2>Accessing the Weekly Plan<br></h2>
 <h4>Method 1</h4>
-<p>On "Home-Based Learning" webpage, select "Weekly Plan" and click on the
-class your child is in. You will be able to open the Weekly Plan.</p>
+<p>On "Home-Based Learning" webpage, select "Weekly Plan" according to your
+level. Click on your form class and mother tongue class to access the weekly
+plans.</p>
 <p></p>
 <h4>Method 2</h4>
 <p>Before the start of HBL, you will receive a PG message regarding the HBL
