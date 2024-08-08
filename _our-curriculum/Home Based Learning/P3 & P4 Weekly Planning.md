@@ -24,16 +24,20 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3A</p>
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__3A.pdf" rel="noopener noreferrer nofollow" target="_blank">3A</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>3B</p>
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__3B.pdf" rel="noopener noreferrer nofollow" target="_blank">3B</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>3C</p>
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__3C.pdf" rel="noopener noreferrer nofollow" target="_blank">3C</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>3D</p>
+<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__3D.pdf" rel="noopener noreferrer nofollow" target="_blank">3D</a>
+</p>
 </th>
 </tr>
 <tr>
@@ -43,13 +47,13 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3C1</p>
+<p>3CL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C2</p>
+<p>3CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C4</p>
+<p>3CL4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
