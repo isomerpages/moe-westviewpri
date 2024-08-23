@@ -155,13 +155,8 @@ the interactive activities.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>•&nbsp;<u>Recycling plastics &amp; papers</u>
-<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
