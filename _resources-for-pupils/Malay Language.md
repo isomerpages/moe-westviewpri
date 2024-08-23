@@ -546,36 +546,6 @@ and around the world.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Website
-<br><a href="https://www.mtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https;//www.mtl.moe.edu.sg/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl.png">
-</div>
-<p>
-<br>MTL Website</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Fun and interactive activities based on textbook passages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✓</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✓</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>NLB Mobile App
 <br><a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://mobileapp.nlb.gov.sg/</a>
 <br>
@@ -606,7 +576,7 @@ meet your learning needs!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3.</strong>
+<p><strong>2.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
