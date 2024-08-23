@@ -510,15 +510,9 @@ of plants and fungi.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/lifestyle/people-and-places/the-a-to-z-of-plants-and-greenery" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/lifestyle/people-and-places/the-a-to-z-of-plants-and-greenery</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms</u></a></em>
 </p>
