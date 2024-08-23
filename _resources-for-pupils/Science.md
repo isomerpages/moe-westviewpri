@@ -1513,8 +1513,7 @@ cells - plant and animal cells.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="http://www.biology4kids.com/files/cell_main.html" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.biology4kids.com/files/cell_main.html</u></a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
