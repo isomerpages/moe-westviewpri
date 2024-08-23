@@ -1582,7 +1582,7 @@ cells - plant and animal cells.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1613,12 +1613,6 @@ cells - plant and animal cells.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.youtube.com/watch?v=Uf76pThNXZc" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=Uf76pThNXZc</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.sciencekids.co.nz/quizzes/electricity.htmlM/td%3E" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/quizzes/electricity.htmlM</u></a></em>
 </p>
 </td>
 </tr>
