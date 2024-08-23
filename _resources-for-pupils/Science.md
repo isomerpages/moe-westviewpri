@@ -2,286 +2,2231 @@
 title: Science
 permalink: /wvps/resources/resources-for-pupils/science/
 description: ""
+variant: tiptap
 ---
-Learning resources for Primary 1 &amp; 2
-------------------------------------
-
-##### **Theme: Interactions**
-
-**Man’s impact on the environment**
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Global warming and its effects</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 277px; height: 155px;" class="ive_eobj_center" alt="Global Warming1.jpg" src="/images/Global%20Warming1.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 227px; height: 155px;" class="ive_eobj_center" alt="Global Warming2.jpg" src="/images/Global%20Warming2.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Discover why the Earth is getting hotter day by day and how you can play your part to save the Earth through many fun-filled interactive activities!</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="4"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Resources:</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://climatekids.nasa.gov/menu/play/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://climatekids.nasa.gov/menu/play/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=PqxMzKLYrZ4"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=PqxMzKLYrZ4</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://theconversation.com/curious-kids-how-is-global-warming-heating-up-the-earth-117543"><i style="margin: 0px; outline: 0px; padding: 0px;">https://theconversation.com/curious-kids-how-is-global-warming-heating-up-the-earth-117543</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://kidsagainstclimatechange.co/start-learning/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kidsagainstclimatechange.co/start-learning/</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Recycling food waste &amp; food composting</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 275px; height: 145px;" class="ive_eobj_center" alt="Food Waste1.png" width="100%" src="/images/Food%20Waste1.png"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 340px; height: 145px;" class="ive_eobj_center" alt="Food Waste2.jpg" src="/images/Food%20Waste2.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Find out how you can play your part to reduce and recycle food waste through the interactive activities.</font></span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="4"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.recyclenow.com/recycling-knowledge/how-is-it-recycled/food-waste"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.recyclenow.com/recycling-knowledge/how-is-it-recycled/food-waste</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.turtlediary.com/game/recycling-waste.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.turtlediary.com/game/recycling-waste.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=V8miLevRI_o"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=V8miLevRI_o</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Recycling plastics &amp; papers</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 277px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 235px; height: 155px;" class="ive_eobj_center" alt="Recycling1.jpg" src="/images/Recycling1.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 211px; height: 155px;" class="ive_eobj_center" alt="Recycling2.jpg" src="/images/Recycling2.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Explore the amazing world of recycling for kids with our range of fun experiments, free games, crazy facts, cool projects, interesting videos, quizzes and more!</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="5"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/recycling.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/recycling.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=OasbYWF4_S8"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=OasbYWF4_S8</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.abcya.com/games/recycling_game"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.abcya.com/games/recycling_game</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/</i></a></td></tr></tbody></table>
-
-##### **Theme: Diversity**
-
-**Animal Diversity**
-
-  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Find out the different types of animals and their interesting facts.</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img src="/images/BioDiversity1.jpeg" alt="BioDiversity1.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 266px; height: 196px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img src="/images/BioDiversity2.jpeg" alt="BioDiversity2.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 262px; height: 196px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Interactive activities for you to try and find out more about the animals you love!</font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><font color="#ff0000" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Take a virtual tour through the exhibitions and engage in interactive activities.</font></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="6" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="http://bit.ly/3byIMmX" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">bit.ly/3byIMmX</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.sciencekids.co.nz/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://kids.nationalgeographic.com/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.nationalgeographic.com/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.highlightskids.com/games" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.highlightskids.com/games</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://classroommagazines.scholastic.com/support/learnathome/grades-prek-k.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://classroommagazines.scholastic.com/support/learnathome/grades-prek-k.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://neal.fun/deep-sea/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://neal.fun/deep-sea/</i></a></td></tr></tbody></table>
-
-  
-
-**Animal Conservation**
-
-  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Find out which animals are endangered and how you can play a part in saving them.</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/Adaptations.png" alt="Adaptations.png" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Fun, interactive activities for you to explore the different endangered animals and how you can play a part in saving these animals!</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 277px;"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.wartgames.com/themes/animals/endangered.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.wartgames.com/themes/animals/endangered.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="http://www.gamesforchange.org/studentchallenge/la/endangered-species/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">http://www.gamesforchange.org/studentchallenge/la/endangered-species/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.worldwildlife.org/pages/animal-trivia-games" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.worldwildlife.org/pages/animal-trivia-games</i></a></td></tr></tbody></table>
-
-Learning resources for Primary 3 &amp; 4
-------------------------------------
-
-##### **Theme: Diversity**
-
-**Diversity of living and non-living things**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Characteristics of living things</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 249px;" class="ive_eobj_center" alt="Livingthings1.jpg" src="/images/Livingthings1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">These websites lead you to games that allow you to identify living or non-living things. You will also be asked to recall the characteristics of living things.</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 277px;" rowspan="5"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.turacogames.com/games/living-non-living/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.turacogames.com/games/living-non-living/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.bbc.co.uk/bitesize/topics/z6882hv"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.bbc.co.uk/bitesize/topics/z6882hv</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.brainpop.com/science/diversityoflife/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.brainpop.com/science/diversityoflife/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/gamesactivities/plantanimaldif.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/gamesactivities/plantanimaldif.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://easyscienceforkids.com/all-about-new-zealand/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://easyscienceforkids.com/all-about-new-zealand/</i></a></td></tr></tbody></table>
-
-  
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zbqb{color:#EC1F26;font-style:italic;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-nrix" colspan="2"><span style="text-decoration:underline">• Groups of animals</span><br></th>
-  </tr>
-</thead>
+<h2>Learning resources for Primary 1 &amp; 2</h2>
+<h5><strong>Theme: Interactions</strong></h5>
+<p><strong>Man’s impact on the environment</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-baqh" colspan="2"><img src="/images/ClassificationofAnimals1.jpeg" alt="ClassificationofAnimals1.jpg" width="387" height="353"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" colspan="2">These websites show you the different animal groups and their unique characteristics.</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" rowspan="2">Resources:</td>
-    <td class="tg-zbqb"><a href="https://kids.nationalgeographic.com/animals/">https://kids.nationalgeographic.com/animals/</a></td>
-  </tr>
-  <tr>
-    <td class="tg-zbqb"><a href="https://kids.sandiegozoo.org/index.php/animals">https://kids.sandiegozoo.org/index.php/animals</a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Global warming and its effects</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 277px; height: 155px;" height="auto" width="100%" alt="Global Warming1.jpg" src="/images/Global%20Warming1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 227px; height: 155px;" height="auto" width="100%" alt="Global Warming2.jpg" src="/images/Global%20Warming2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Discover why the Earth is getting hotter day by day and how you can play
+your part to save the Earth through many fun-filled interactive activities!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Resources:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://climatekids.nasa.gov/menu/play/" rel="noopener noreferrer nofollow" target="_blank"><u>https://climatekids.nasa.gov/menu/play/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=PqxMzKLYrZ4" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=PqxMzKLYrZ4</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://theconversation.com/curious-kids-how-is-global-warming-heating-up-the-earth-117543" rel="noopener noreferrer nofollow" target="_blank"><u>https://theconversation.com/curious-kids-how-is-global-warming-heating-up-the-earth-117543</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kidsagainstclimatechange.co/start-learning/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kidsagainstclimatechange.co/start-learning/</u></a></em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Plant and fungi</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 196px;" class="ive_eobj_center" alt="Fungi1.jpg" src="/images/Fungi1.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 196px;" class="ive_eobj_center" alt="Fungi2.jpg" src="/images/Fungi2.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">These websites provide us with some information about the different types of plants and fungi.</font></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="2"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/lifestyle/people-and-places/the-a-to-z-of-plants-and-greenery"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/lifestyle/people-and-places/the-a-to-z-of-plants-and-greenery</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms</i></a></td></tr></tbody></table>
-
-**Diversity of materials**
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Properties of materials</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/Propertiesofmaterials1.png" alt="Propertiesofmaterials1.png" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">These resources get you to learn about the properties of materials as you experiment with a variety of objects.</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 277px;"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.sciencekids.co.nz/gamesactivities/materialproperties.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/gamesactivities/materialproperties.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.twinkl.com.sg/resource/t-t-25533-natural-or-man-made-materials-sorting-activity-powerpoint" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.twinkl.com.sg/resource/t-t-25533-natural-or-man-made-materials-sorting-activity-powerpoint</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.educationquizzes.com/ks2/science/properties-of-materials/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.educationquizzes.com/ks2/science/properties-of-materials/</i></a></td></tr></tbody></table>
-
-  
-##### **Theme: Systems**
-
-**Human System**
-
-  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Parts of the digestive system</u><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/Digestive.jpeg" alt="Digestive.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 374px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Match the labels to the correct parts of the digestive system.</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 277px;"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.softschools.com/science/human_body/digestive_system/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.softschools.com/science/human_body/digestive_system/</i></a></td></tr></tbody></table>
-
-**Plant System**
-
-  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Parts and function of a plant</font></u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/FunctionofPlant.jpeg" width="100%" alt="FunctionofPlant.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 232px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">This science game helps pupils to revisit their knowledge on parts of a plant and their functions.</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 277px;"><font color="" style="margin: 0px; outline: 0px; padding: 0px;">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><a href="https://www.turacogames.com/games/parts-of-plants-science-game-for-kids/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.turacogames.com/games/parts-of-plants-science-game-for-kids/</i></a></td></tr></tbody></table>
-
-##### **<u>Theme: Interactions</u>**
-
-**Interactions with magnets**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Magnetic materials &amp; Attraction and Repulsion</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center;" class="ive_eobj_center" alt="Magnetic1.png" src="/images/Magnetic1.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Learn more about magnets and magnetism (attraction and repulsion)</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="3"><font style="margin: 0px; outline: 0px; padding: 0px;" color="">Resources:</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=yXCeuSiTOug"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=yXCeuSiTOug</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.softschools.com/quizzes/science/magnetism/quiz767.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.softschools.com/quizzes/science/magnetism/quiz767.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.coolkidfacts.com/magnetism-facts-for-kids/">https://www.coolkidfacts.com/magnetism-facts-for-kids/</a></td></tr></tbody></table>
-
-  
-
-##### **Theme: Cycles**
-
-**Cycles in plants and animals**
-
-  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Life cycles of plants and animals</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img src="/images/Lifecycle1.jpeg" alt="Lifecycle1.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 300px; height: 255px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 300px;"><img src="/images/Lifecycle2.jpeg" alt="Lifecycle2.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 255px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Explore these websites to find out more about the life cycles of plants and animals.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="9" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.dkfindout.com/us/animals-and-nature/amphibians/life-cycle-frog/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.dkfindout.com/us/animals-and-nature/amphibians/life-cycle-frog/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.pbslearningmedia.org/resource/nat36-int-butterflylifecycle/butterfly-life-cycle/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.pbslearningmedia.org/resource/nat36-int-butterflylifecycle/butterfly-life-cycle/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.westernpest.com/blog/cockroach-life-cycle/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.westernpest.com/blog/cockroach-life-cycle/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://pklifescience.com/article/547/1/important-birds" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://pklifescience.com/article/547/1/important-birds</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://mealwormcare.org/life-cycle/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://mealwormcare.org/life-cycle/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.epa.gov/mosquitocontrol/mosquito-life-cycle" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.epa.gov/mosquitocontrol/mosquito-life-cycle</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://stemkids.goodbarber.app/science/c/0/i/34006547/life-cycle-grasshopper" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://stemkids.goodbarber.app/science/c/0/i/34006547/life-cycle-grasshopper</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.smore.com/sb06q-life-cycle-of-a-flowering-plant" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.smore.com/sb06q-life-cycle-of-a-flowering-plant</i></a></td></tr></tbody></table>
-
-  
-
-**Cycles in matter and water**
-
-  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Properties of matter</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/StatesofMatter1.jpeg" alt="StatesofMatter1.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 646px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Explore these websites to find out more about matter and their different states.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?reload=9&amp;v=ELchwUIlWa8" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.youtube.com/watch?reload=9&amp;v=ELchwUIlWa8</a></i></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=npv74D2MO6Q" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.youtube.com/watch?v=npv74D2MO6Q<span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"></span></a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.dkfindout.com/us/science/solids-liquids-and-gases/what-is-matter/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.dkfindout.com/us/science/solids-liquids-and-gases/what-is-matter/</i></a></td></tr></tbody></table>
-
-##### **Theme: Energy**
-
-**Introduction to Energy**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">What is energy?</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="TypesofEnergy1.png" src="/images/TypesofEnergy1.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Watch this video to find out what energy is.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=Q0LBegPWzrg"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=Q0LBegPWzrg</i></a></td></tr></tbody></table>
-
-  
-
-**Heat energy and temperature**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Heat and temperature</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Heat1.jpg" src="/images/Heat1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore these websites to find out more about heat and temperature.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="5">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.dkfindout.com/us/science/heat/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.dkfindout.com/us/science/heat/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://k8schoollessons.com/conductors-and-insulators/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://k8schoollessons.com/conductors-and-insulators/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.coolkidfacts.com/heat/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.coolkidfacts.com/heat/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=9JuKqkZVgTU"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=9JuKqkZVgTU</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://kids.nationalgeographic.com/explore/space/sun/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.nationalgeographic.com/explore/space/sun/</i></a></td></tr></tbody></table>
-
-**Light Energy**
-
-  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">What is light energy?</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/Light1.jpeg" width="100%" alt="Light1.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 313px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Explore these websites to find out more about light energy</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.dkfindout.com/us/science/light/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.dkfindout.com/us/science/light/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://kids.nationalgeographic.com/explore/space/sun/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.nationalgeographic.com/explore/space/sun/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://kids.nationalgeographic.com/explore/space/light-pollution/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.nationalgeographic.com/explore/space/light-pollution/</i></a></td></tr></tbody></table>
-
- <br> 
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Formation, shapes and sizes of shadows</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/Shadows1.gif" alt="Shadows1.gif" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 213px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Explore these websites to find out more about how shadows are formed.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="5" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=lOIGOT88Aqc" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.youtube.com/watch?v=lOIGOT88Aqc</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.edumedia-sciences.com/en/node/72-the-shadows" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.edumedia-sciences.com/en/node/72-the-shadows</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.dkfindout.com/us/space/solar-system/eclipse-moon/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.dkfindout.com/us/space/solar-system/eclipse-moon/</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Different shapes and sizes of shadows (application)</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img src="/images/Shadows2.jpeg" alt="Shadows2.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Watch these videos to see how others have used shadows for different purposes.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.youtube.com/watch?v=QwsmsiwrCPk" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=QwsmsiwrCPk</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.pbslearningmedia.org/resource/buac18-k2-sci-ess-shadowtracing/shadow-tracing/#.XqzpcSkzaCo" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.pbslearningmedia.org/resource/buac18-k2-sci-ess-shadowtracing/shadow-tracing/#.XqzpcSkzaCo<span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"></span></i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.youtube.com/watch?v=1SN1BOpLZAs" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=1SN1BOpLZAs</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a href="https://www.youtube.com/watch?v=SeSexM-wVzA" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.youtube.com/watch?v=SeSexM-wVzA</a></td></tr></tbody></table>
-
-Learning resources for Primary 5 &amp; 6
-------------------------------------
-
-##### **Theme: Cycles**
-
-**Cycles in plants and animals**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Plants reproduction</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 375px;" class="ive_eobj_center" alt="Reproduction1.jpg" src="/images/Reproduction1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Watch these videos to find out:</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">- how flowering plants reproduce.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">- how important animals are to the pollination of plants.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">- how seeds germinate into seedlings.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="8">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=4XflSajcImQ"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=4XflSajcImQ</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=LiczM-w3V-U"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=LiczM-w3V-U</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=rmL_XTrPOMw"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=rmL_XTrPOMw</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=ro8Z9qIlWjM"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=ro8Z9qIlWjM</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=djPVgip_bdU"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=djPVgip_bdU</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=2ycl2E9r-_o"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=2ycl2E9r-_o</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=CYuNY21dY3E"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=CYuNY21dY3E</i></a></td></tr></tbody></table>
-
-  
-
-**Cycles in matter and water**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Properties of water</u><br style="margin: 0px; outline: 0px; padding: 0px;">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Importance of water as a resource</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 528px;" class="ive_eobj_center" alt="Watercycle1.jpg" src="/images/Watercycle1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Watch these videos to explore the unique properties of water that makes it so important for all living things. In addition, appreciate the importance of water as a resource and its journey since the formation of earth.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="5">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=HVT3Y3_gHGg">https://www.youtube.com/watch?v=HVT3Y3_gHGg</a></i></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=Ie0iFaL6Nqw">https://www.youtube.com/watch?v=Ie0iFaL6Nqw</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/sciencefacts/water.html">https://www.sciencekids.co.nz/sciencefacts/water.html</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=xgS9uXb3o8I">https://www.youtube.com/watch?v=xgS9uXb3o8I</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=s0bS-SBAgJI">https://www.youtube.com/watch?v=s0bS-SBAgJI</a></i></td></tr></tbody></table>
-
-  
-
-##### **Theme: Systems**
-
-**Human system**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; text-align: center;">Human reproductive system</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 281px;" class="ive_eobj_center" alt="reproductivesystem1.jpg" src="/images/reproductivesystem1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Watch this video to view the process of human reproduction.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=sUkrsCyHTlM"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=sUkrsCyHTlM</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Human circulatory and respiratory systems</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 341px; height: 255px;" class="ive_eobj_center" alt="respiratory1.jpg" src="/images/respiratory1.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 343px; height: 255px;" class="ive_eobj_center" alt="respiratory2.jpg" src="/images/respiratory2.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore how our body systems and organs work seamlessly together to help us carry out daily functions.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="7">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.innerbody.com/image/endoov.html">https://www.innerbody.com/image/endoov.html</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.healthline.com/human-body-maps">https://www.healthline.com/human-body-maps</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=i5aXwiC3wWc&amp;t=109s">https://www.youtube.com/watch?v=i5aXwiC3wWc&amp;t=109s</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/videos/humanbody/respiratorysystem.html">https://www.sciencekids.co.nz/videos/humanbody/respiratorysystem.html</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=AHQGNb0zBgg">https://www.youtube.com/watch?v=AHQGNb0zBgg</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/videos/humanbody/circulatorysystem.html">https://www.sciencekids.co.nz/videos/humanbody/circulatorysystem.html</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/quizzes/humanbody.html">https://www.sciencekids.co.nz/quizzes/humanbody.html</a></i></td></tr></tbody></table>
-
-  
-**Plant System**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; text-align: center;">Plant transport system</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Planttransport1.jpg" src="/images/Planttransport1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore the different parts of the plant and how they work together to help the plant carry out life processes.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="9">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.scienceforkidsclub.com/plant-structure.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.scienceforkidsclub.com/plant-structure.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/sciencefacts/plants.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/sciencefacts/plants.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/pictures/plants.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/pictures/plants.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/quizzes/plant.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/quizzes/plant.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=h9oDTMXM7M8">https://www.youtube.com/watch?v=h9oDTMXM7M8</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.ducksters.com/science/biology/plants.php">https://www.ducksters.com/science/biology/plants.php</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.ducksters.com/games/crossword_puzzle/plants.php"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.ducksters.com/games/crossword_puzzle/plants.php</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.ducksters.com/games/word_search/plants.php"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.ducksters.com/games/word_search/plants.php</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=p3St51F4kE8"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=p3St51F4kE8</i></a></td></tr></tbody></table>
-
-  
-**Cell System**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Parts and functions of cells</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 291px;" class="ive_eobj_center" alt="cells.gif" src="/images/cells.gif"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore the evolution of cells and how they divided into two types of cells - plant and animal cells.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="5">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="http://www.biology4kids.com/files/cell_main.html">http://www.biology4kids.com/files/cell_main.html</a></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/videos/biology/bacteria.html">https://www.sciencekids.co.nz/videos/biology/bacteria.html</a></i></div><i style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">(Bacteria cells)</i></div></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=9UvlqAVCoqY">https://www.youtube.com/watch?v=9UvlqAVCoqY</a></i></div><i style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">(Plant cells)</i></div></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=cj8dDTHGJBY">https://www.youtube.com/watch?v=cj8dDTHGJBY</a></i></div><i style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">(Animal cells)</i></div></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><i style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.ducksters.com/science/the_cell.php">https://www.ducksters.com/science/the_cell.php</a></i></td></tr></tbody></table>
-
-  
-**Electrical System**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Electrical circuits</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Electrical1.png" src="/images/Electrical1.png"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Electrical2.png" src="/images/Electrical2.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Explore these websites to know more about electricity!</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="6">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://kids.britannica.com/students/article/electric-circuit/599858"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.britannica.com/students/article/electric-circuit/599858</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/videos/howto/lemonbattery.html">https://www.sciencekids.co.nz/videos/howto/lemonbattery.html</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/sciencefacts/electricity.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/sciencefacts/electricity.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/gamesactivities/electricitycircuits.html">https://www.<i style="margin: 0px; outline: 0px; padding: 0px;">sciencekids</i>.co.nz/gamesactivities/electricitycircuits.html</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=Uf76pThNXZc"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=Uf76pThNXZc</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.sciencekids.co.nz/quizzes/electricity.htmlM/td%3E"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.sciencekids.co.nz/quizzes/electricity.htmlM</i></a></td></tr></tbody></table>
-
-  
-##### **Theme: Energy**
-
-**Energy forms and uses**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Introduction to different types of energy</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="differentenergy1.jpg" src="/images/differentenergy1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore the different types of energy that can be found in our everyday lives.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.youtube.com/watch?v=63t0Y2ACoh4"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=63t0Y2ACoh4</i></a></td></tr></tbody></table>
-
-  
-
-**Energy Conversion**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Let's explore energy</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 375px;" class="ive_eobj_center" alt="ScienceEnergy1.jpg" src="/images/ScienceEnergy1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore on your own on these websites on energy.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="2">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.ck12.org/physics/energy-conversion/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.ck12.org/physics/energy-conversion/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://sciencewiz.com/portals/energy/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://sciencewiz.com/portals/energy/</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;">Energy in the World</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="TypesofEnergy1.png" src="/images/TypesofEnergy1%20(1).png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore concepts of energy at different levels of difficulties</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.brainpop.com/science/energy/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.brainpop.com/science/energy/</i></a></div></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<span style="margin: 0px; outline: 0px; padding: 0px; text-decoration-line: underline; text-align: center; background-color: initial;">Energy forms and conversion</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 499px; height: 280px;" class="ive_eobj_center" alt="EnergyForms1.jpg" src="/images/EnergyForms1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Interactive simulation on energy conversion with real life application [Click on Systems].</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: left;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html</i></a></div></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<u style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Energy Conversion</u><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 499px; height: 251px;" class="ive_eobj_center" alt="EnergyConversion1.gif" src="/images/EnergyConversion1.gif"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Interactive games on energy conversion.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="3">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ=="><i style="margin: 0px; outline: 0px; padding: 0px;">https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ==</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10="><i style="margin: 0px; outline: 0px; padding: 0px;">https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10=</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ=="><i style="margin: 0px; outline: 0px; padding: 0px;">https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ==</i></a></td></tr></tbody></table>
-
-  
-
-#### **Theme: Interactions**
-
-**Interactions of forces**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: left; width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px;">Let’s explore forces</u></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 374px;" class="ive_eobj_center" alt="Motion1.png" width="100%" src="/images/Motion1.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Explore on your own on these websites on forces.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="2">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://sciencewiz.com/portals/energy/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://sciencewiz.com/portals/energy/</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px;">Forces in the world</u></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 280px;" class="ive_eobj_center" alt="Gravitational Force1.png" src="/images/Gravitational%20Force1.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Explore concepts of forces at different levels of difficulties.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.brainpop.com/science/motionsforcesandtime/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.brainpop.com/science/motionsforcesandtime/</i></a></td></tr></tbody></table>
-
-<br> 
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px;">Types of forces</u></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="TypesofForces1.jpg" src="/images/TypesofForces1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">Interactive simulations/games on force.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="2">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="http://interactivesites.weebly.com/physics-and-motion.html"><i style="margin: 0px; outline: 0px; padding: 0px;">http://interactivesites.weebly.com/physics-and-motion.html</i></a></td></tr></tbody></table>
-
-  
-
-**Interactions within the environment**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px;">Types of habitats</u></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 283px;" class="ive_eobj_center" alt="Habitats1.jpg" src="/images/Habitats1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Explore these websites to find out more about habitats in the world.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="3">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://kids.nationalgeographic.com/explore/nature/habitats/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://kids.nationalgeographic.com/explore/nature/habitats/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.nationalgeographic.com/environment/earth-habitats/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.nationalgeographic.com/environment/earth-habitats/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.worldwildlife.org/habitats"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.worldwildlife.org/habitats</i></a></td></tr></tbody></table>
-
- <br> 
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px;">Interdependency between the animals</u></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Interdependency1.jpg" src="/images/Interdependency1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Animal Planet: Learn about the survival of the fittest in the animal world</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">My Animal Buddy (Singapore Zoo): Explore fun behind the scene facts about the animals</span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="2">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.animalplanet.com/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.animalplanet.com/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://mab.wrs.com.sg/login.html"><i style="margin: 0px; outline: 0px; padding: 0px;">https://mab.wrs.com.sg/login.html</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px;">Food chains and food web</u></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 250px;" class="ive_eobj_center" alt="Food Chains1.jpg" src="/images/Food%20Chains1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Interactive games on food chains and food web.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="2">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="http://interactivesites.weebly.com/food-chains.html"><i style="margin: 0px; outline: 0px; padding: 0px;">http://interactivesites.weebly.com/food-chains.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.bbc.co.uk/bitesize/topics/zbnnb9q/articles/z93vdxs"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.bbc.co.uk/bitesize/topics/zbnnb9q/articles/z93vdxs</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•&nbsp;<span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><u style="margin: 0px; outline: 0px; padding: 0px;">Adaptation of animals and plants</u></span><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 249px;" class="ive_eobj_center" alt="Wildlife Conservation1.jpg" src="/images/Wildlife%20Conservation1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">View these websites to explore more on interesting adaptation of animals and plants</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="5">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="http://www.bbc.com/earth/story/20151201-seven-animals-with-astonishing-hunting-techniques"><i style="margin: 0px; outline: 0px; padding: 0px;">http://www.bbc.com/earth/story/20151201-seven-animals-with-astonishing-hunting-techniques</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.generationgenius.com/animal-and-plant-adaptations-video-lesson-for-kids/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.generationgenius.com/animal-and-plant-adaptations-video-lesson-for-kids/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="http://studyjams.scholastic.com/studyjams/jams/science/animals/animal-adaptations.htm"><i style="margin: 0px; outline: 0px; padding: 0px;">http://studyjams.scholastic.com/studyjams/jams/science/animals/animal-adaptations.htm</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="http://interactivesites.weebly.com/animal-adaptations.html"><i style="margin: 0px; outline: 0px; padding: 0px;">http://interactivesites.weebly.com/animal-adaptations.html</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.legendsoflearning.com/learning-objectives/adaptation/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.legendsoflearning.com/learning-objectives/adaptation/</i></a></td></tr></tbody></table>
-
-<br>  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 880px;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">•<span>&nbsp;</span><u style="margin: 0px; outline: 0px; padding: 0px;">Man’s impact on the environment</u></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 280px;" class="ive_eobj_center" alt="Greenhouse1.jpg" width="100%" src="/images/Greenhouse1.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">What are some of the impacts on the environment caused by humans? Explore these websites to find out more.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="5">Resources:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.bbc.co.uk/bitesize/topics/zp22pv4/articles/z2md82p"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.bbc.co.uk/bitesize/topics/zp22pv4/articles/z2md82p</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.pbslearningmedia.org/collection/elementary-school-resources/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.pbslearningmedia.org/collection/elementary-school-resources/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.legendsoflearning.com/learning-objectives/increasing-and-decreasing-human-impacts-on-earth-systems/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.legendsoflearning.com/learning-objectives/increasing-and-decreasing-human-impacts-on-earth-systems/</i></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.legendsoflearning.com/learning-objectives/human-impacts-on-earth-systems/"><i style="margin: 0px; outline: 0px; padding: 0px;">https://www.legendsoflearning.com/learning-objectives/human-impacts-on-earth-systems/</i></a></td></tr></tbody></table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Recycling food waste &amp; food composting</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 275px; height: 145px;" height="auto" width="100%" alt="Food Waste1.png" src="/images/Food%20Waste1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 340px; height: 145px;" height="auto" width="100%" alt="Food Waste2.jpg" src="/images/Food%20Waste2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Find out how you can play your part to reduce and recycle food waste through
+the interactive activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.recyclenow.com/recycling-knowledge/how-is-it-recycled/food-waste" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.recyclenow.com/recycling-knowledge/how-is-it-recycled/food-waste</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.turtlediary.com/game/recycling-waste.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.turtlediary.com/game/recycling-waste.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=V8miLevRI_o" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=V8miLevRI_o</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Recycling plastics &amp; papers</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 235px; height: 155px;" height="auto" width="100%" alt="Recycling1.jpg" src="/images/Recycling1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 211px; height: 155px;" height="auto" width="100%" alt="Recycling2.jpg" src="/images/Recycling2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore the amazing world of recycling for kids with our range of fun
+experiments, free games, crazy facts, cool projects, interesting videos,
+quizzes and more!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/recycling.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/recycling.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=OasbYWF4_S8" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=OasbYWF4_S8</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.abcya.com/games/recycling_game" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.abcya.com/games/recycling_game</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/games/action-and-adventure/recycle-roundup-new/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Theme: Diversity</strong></h5>
+<p><strong>Animal Diversity</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Find out the different types of animals and their interesting facts.</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 266px; height: 196px;" height="auto" width="100%" alt="BioDiversity1.jpg" src="/images/BioDiversity1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 262px; height: 196px;" height="auto" width="100%" alt="BioDiversity2.jpg" src="/images/BioDiversity2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Interactive activities for you to try and find out more about the animals
+you love!</p>
+<p>
+<br>
+</p>
+<p>Take a virtual tour through the exhibitions and engage in interactive
+activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://bit.ly/3byIMmX" rel="noopener noreferrer nofollow" target="_blank"><u>bit.ly/3byIMmX</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.highlightskids.com/games" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.highlightskids.com/games</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://classroommagazines.scholastic.com/support/learnathome/grades-prek-k.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://classroommagazines.scholastic.com/support/learnathome/grades-prek-k.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://neal.fun/deep-sea/" rel="noopener noreferrer nofollow" target="_blank"><u>https://neal.fun/deep-sea/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Animal Conservation</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Find out which animals are endangered and how you can play a part in saving them.</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Adaptations.png" src="/images/Adaptations.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Fun, interactive activities for you to explore the different endangered
+animals and how you can play a part in saving these animals!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.wartgames.com/themes/animals/endangered.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wartgames.com/themes/animals/endangered.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://www.gamesforchange.org/studentchallenge/la/endangered-species/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.gamesforchange.org/studentchallenge/la/endangered-species/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.worldwildlife.org/pages/animal-trivia-games" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.worldwildlife.org/pages/animal-trivia-games</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Learning resources for Primary 3 &amp; 4</h2>
+<h5><strong>Theme: Diversity</strong></h5>
+<p><strong>Diversity of living and non-living things</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Characteristics of living things</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 249px;" height="auto" width="100%" alt="Livingthings1.jpg" src="/images/Livingthings1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>These websites lead you to games that allow you to identify living or
+non-living things. You will also be asked to recall the characteristics
+of living things.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.turacogames.com/games/living-non-living/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.turacogames.com/games/living-non-living/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.bbc.co.uk/bitesize/topics/z6882hv" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.bbc.co.uk/bitesize/topics/z6882hv</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.brainpop.com/science/diversityoflife/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.brainpop.com/science/diversityoflife/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/gamesactivities/plantanimaldif.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/gamesactivities/plantanimaldif.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://easyscienceforkids.com/all-about-new-zealand/" rel="noopener noreferrer nofollow" target="_blank"><u>https://easyscienceforkids.com/all-about-new-zealand/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><u>• Groups of animals</u>
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="353" width="387" alt="ClassificationofAnimals1.jpg" src="/images/ClassificationofAnimals1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>These websites show you the different animal groups and their unique characteristics.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://kids.nationalgeographic.com/animals/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com/animals/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://kids.sandiegozoo.org/index.php/animals" rel="noopener noreferrer nofollow" target="_blank">https://kids.sandiegozoo.org/index.php/animals</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Plant and fungi</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 196px;" height="auto" width="100%" alt="Fungi1.jpg" src="/images/Fungi1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 196px;" height="auto" width="100%" alt="Fungi2.jpg" src="/images/Fungi2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>These websites provide us with some information about the different types
+of plants and fungi.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/lifestyle/people-and-places/the-a-to-z-of-plants-and-greenery" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/lifestyle/people-and-places/the-a-to-z-of-plants-and-greenery</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Diversity of materials</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Properties of materials</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Propertiesofmaterials1.png" src="/images/Propertiesofmaterials1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>These resources get you to learn about the properties of materials as
+you experiment with a variety of objects.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/gamesactivities/materialproperties.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/gamesactivities/materialproperties.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.twinkl.com.sg/resource/t-t-25533-natural-or-man-made-materials-sorting-activity-powerpoint" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.twinkl.com.sg/resource/t-t-25533-natural-or-man-made-materials-sorting-activity-powerpoint</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.educationquizzes.com/ks2/science/properties-of-materials/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.educationquizzes.com/ks2/science/properties-of-materials/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Theme: Systems</strong></h5>
+<p><strong>Human System</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Parts of the digestive system</u>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 374px;" height="auto" width="100%" alt="Digestive.jpg" src="/images/Digestive.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Match the labels to the correct parts of the digestive system.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.softschools.com/science/human_body/digestive_system/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.softschools.com/science/human_body/digestive_system/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Plant System</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Parts and function of a plant</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 232px;" height="auto" width="100%" alt="FunctionofPlant.jpg" src="/images/FunctionofPlant.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>This science game helps pupils to revisit their knowledge on parts of
+a plant and their functions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.turacogames.com/games/parts-of-plants-science-game-for-kids/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.turacogames.com/games/parts-of-plants-science-game-for-kids/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong><u>Theme: Interactions</u></strong></h5>
+<p><strong>Interactions with magnets</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Magnetic materials &amp; Attraction and Repulsion</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center;" height="auto" width="100%" alt="Magnetic1.png" src="/images/Magnetic1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Learn more about magnets and magnetism (attraction and repulsion)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=yXCeuSiTOug" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=yXCeuSiTOug</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.softschools.com/quizzes/science/magnetism/quiz767.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.softschools.com/quizzes/science/magnetism/quiz767.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.coolkidfacts.com/magnetism-facts-for-kids/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.coolkidfacts.com/magnetism-facts-for-kids/</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Theme: Cycles</strong></h5>
+<p><strong>Cycles in plants and animals</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Life cycles of plants and animals</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 300px; height: 255px;" height="auto" width="100%" alt="Lifecycle1.jpg" src="/images/Lifecycle1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 255px;" height="auto" width="100%" alt="Lifecycle2.jpg" src="/images/Lifecycle2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore these websites to find out more about the life cycles of plants
+and animals.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.dkfindout.com/us/animals-and-nature/amphibians/life-cycle-frog/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/animals-and-nature/amphibians/life-cycle-frog/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.pbslearningmedia.org/resource/nat36-int-butterflylifecycle/butterfly-life-cycle/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/resource/nat36-int-butterflylifecycle/butterfly-life-cycle/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.westernpest.com/blog/cockroach-life-cycle/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.westernpest.com/blog/cockroach-life-cycle/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://pklifescience.com/article/547/1/important-birds" rel="noopener noreferrer nofollow" target="_blank"><u>https://pklifescience.com/article/547/1/important-birds</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://mealwormcare.org/life-cycle/" rel="noopener noreferrer nofollow" target="_blank"><u>https://mealwormcare.org/life-cycle/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.epa.gov/mosquitocontrol/mosquito-life-cycle" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.epa.gov/mosquitocontrol/mosquito-life-cycle</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.smore.com/sb06q-life-cycle-of-a-flowering-plant" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smore.com/sb06q-life-cycle-of-a-flowering-plant</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cycles in matter and water</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Properties of matter</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 646px;" height="auto" width="100%" alt="StatesofMatter1.jpg" src="/images/StatesofMatter1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore these websites to find out more about matter and their different
+states.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?reload=9&amp;v=ELchwUIlWa8" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?reload=9&amp;v=ELchwUIlWa8</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=npv74D2MO6Q" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=npv74D2MO6Q</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.dkfindout.com/us/science/solids-liquids-and-gases/what-is-matter/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/science/solids-liquids-and-gases/what-is-matter/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Theme: Energy</strong></h5>
+<p><strong>Introduction to Energy</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>What is energy?</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TypesofEnergy1.png" src="/images/TypesofEnergy1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Watch this video to find out what energy is.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=Q0LBegPWzrg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=Q0LBegPWzrg</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Heat energy and temperature</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Heat and temperature</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Heat1.jpg" src="/images/Heat1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore these websites to find out more about heat and temperature.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.dkfindout.com/us/science/heat/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/science/heat/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://k8schoollessons.com/conductors-and-insulators/" rel="noopener noreferrer nofollow" target="_blank"><u>https://k8schoollessons.com/conductors-and-insulators/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.coolkidfacts.com/heat/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.coolkidfacts.com/heat/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=9JuKqkZVgTU" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=9JuKqkZVgTU</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.nationalgeographic.com/explore/space/sun/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/space/sun/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Light Energy</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>What is light energy?</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 313px;" height="auto" width="100%" alt="Light1.jpg" src="/images/Light1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore these websites to find out more about light energy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.dkfindout.com/us/science/light/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/science/light/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.nationalgeographic.com/explore/space/sun/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/space/sun/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.nationalgeographic.com/explore/space/light-pollution/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/space/light-pollution/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Formation, shapes and sizes of shadows</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 213px;" height="auto" width="100%" alt="Shadows1.gif" src="/images/Shadows1.gif">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore these websites to find out more about how shadows are formed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=lOIGOT88Aqc" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=lOIGOT88Aqc</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.edumedia-sciences.com/en/node/72-the-shadows" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.edumedia-sciences.com/en/node/72-the-shadows</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.dkfindout.com/us/space/solar-system/eclipse-moon/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/space/solar-system/eclipse-moon/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Different shapes and sizes of shadows (application)</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Shadows2.jpg" src="/images/Shadows2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Watch these videos to see how others have used shadows for different purposes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=QwsmsiwrCPk" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=QwsmsiwrCPk</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.pbslearningmedia.org/resource/buac18-k2-sci-ess-shadowtracing/shadow-tracing/#.XqzpcSkzaCo" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/resource/buac18-k2-sci-ess-shadowtracing/shadow-tracing/#.XqzpcSkzaCo</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=1SN1BOpLZAs" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=1SN1BOpLZAs</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=SeSexM-wVzA" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=SeSexM-wVzA</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Learning resources for Primary 5 &amp; 6</h2>
+<h5><strong>Theme: Cycles</strong></h5>
+<p><strong>Cycles in plants and animals</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Plants reproduction</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 375px;" height="auto" width="100%" alt="Reproduction1.jpg" src="/images/Reproduction1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Watch these videos to find out:</p>
+<p>
+<br>
+</p>
+<p>- how flowering plants reproduce.</p>
+<p>
+<br>
+</p>
+<p>- how important animals are to the pollination of plants.</p>
+<p>
+<br>
+</p>
+<p>- how seeds germinate into seedlings.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=4XflSajcImQ" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=4XflSajcImQ</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=LiczM-w3V-U" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=LiczM-w3V-U</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=rmL_XTrPOMw" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=rmL_XTrPOMw</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=ro8Z9qIlWjM" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=ro8Z9qIlWjM</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=djPVgip_bdU" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=djPVgip_bdU</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=2ycl2E9r-_o" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=2ycl2E9r-_o</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=CYuNY21dY3E" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=CYuNY21dY3E</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cycles in matter and water</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Properties of water</u>
+<br>•&nbsp;<u>Importance of water as a resource</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 528px;" height="auto" width="100%" alt="Watercycle1.jpg" src="/images/Watercycle1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Watch these videos to explore the unique properties of water that makes
+it so important for all living things. In addition, appreciate the importance
+of water as a resource and its journey since the formation of earth.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=HVT3Y3_gHGg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=HVT3Y3_gHGg</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=Ie0iFaL6Nqw" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=Ie0iFaL6Nqw</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/sciencefacts/water.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/sciencefacts/water.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=xgS9uXb3o8I" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=xgS9uXb3o8I</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=s0bS-SBAgJI" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=s0bS-SBAgJI</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Theme: Systems</strong></h5>
+<p><strong>Human system</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Human reproductive system</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 281px;" height="auto" width="100%" alt="reproductivesystem1.jpg" src="/images/reproductivesystem1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Watch this video to view the process of human reproduction.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=sUkrsCyHTlM" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=sUkrsCyHTlM</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Human circulatory and respiratory systems</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 341px; height: 255px;" height="auto" width="100%" alt="respiratory1.jpg" src="/images/respiratory1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 343px; height: 255px;" height="auto" width="100%" alt="respiratory2.jpg" src="/images/respiratory2.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore how our body systems and organs work seamlessly together to help
+us carry out daily functions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.innerbody.com/image/endoov.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.innerbody.com/image/endoov.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.healthline.com/human-body-maps" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.healthline.com/human-body-maps</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=i5aXwiC3wWc&amp;t=109s" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=i5aXwiC3wWc&amp;t=109s</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/videos/humanbody/respiratorysystem.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/videos/humanbody/respiratorysystem.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=AHQGNb0zBgg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=AHQGNb0zBgg</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/videos/humanbody/circulatorysystem.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/videos/humanbody/circulatorysystem.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/quizzes/humanbody.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/quizzes/humanbody.html</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Plant System</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Plant transport system</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Planttransport1.jpg" src="/images/Planttransport1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore the different parts of the plant and how they work together to
+help the plant carry out life processes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.scienceforkidsclub.com/plant-structure.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.scienceforkidsclub.com/plant-structure.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/sciencefacts/plants.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/sciencefacts/plants.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/pictures/plants.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/pictures/plants.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/quizzes/plant.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/quizzes/plant.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=h9oDTMXM7M8" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=h9oDTMXM7M8</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ducksters.com/science/biology/plants.php" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ducksters.com/science/biology/plants.php</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.ducksters.com/games/crossword_puzzle/plants.php" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ducksters.com/games/crossword_puzzle/plants.php</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.ducksters.com/games/word_search/plants.php" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ducksters.com/games/word_search/plants.php</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=p3St51F4kE8" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=p3St51F4kE8</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cell System</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Parts and functions of cells</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 291px;" height="auto" width="100%" alt="cells.gif" src="/images/cells.gif">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore the evolution of cells and how they divided into two types of
+cells - plant and animal cells.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://www.biology4kids.com/files/cell_main.html" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.biology4kids.com/files/cell_main.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/videos/biology/bacteria.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/videos/biology/bacteria.html</u></a></em>
+</p>
+<p><em>(Bacteria cells)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=9UvlqAVCoqY" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=9UvlqAVCoqY</u></a></em>
+</p>
+<p><em>(Plant cells)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=cj8dDTHGJBY" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=cj8dDTHGJBY</u></a></em>
+</p>
+<p><em>(Animal cells)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.ducksters.com/science/the_cell.php" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ducksters.com/science/the_cell.php</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Electrical System</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Electrical circuits</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Electrical1.png" src="/images/Electrical1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Electrical2.png" src="/images/Electrical2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore these websites to know more about electricity!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.britannica.com/students/article/electric-circuit/599858" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.britannica.com/students/article/electric-circuit/599858</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sciencekids.co.nz/videos/howto/lemonbattery.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/videos/howto/lemonbattery.html</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/sciencefacts/electricity.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/sciencefacts/electricity.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sciencekids.co.nz/gamesactivities/electricitycircuits.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.</u></a><em><a href="https://www.sciencekids.co.nz/gamesactivities/electricitycircuits.html" rel="noopener noreferrer nofollow" target="_blank"><u>sciencekids</u></a></em>
+<a href="https://www.sciencekids.co.nz/gamesactivities/electricitycircuits.html" rel="noopener noreferrer nofollow" target="_blank"><u>.co.nz/gamesactivities/electricitycircuits.html</u>
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=Uf76pThNXZc" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=Uf76pThNXZc</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.sciencekids.co.nz/quizzes/electricity.htmlM/td%3E" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/quizzes/electricity.htmlM</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Theme: Energy</strong></h5>
+<p><strong>Energy forms and uses</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Introduction to different types of energy</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="differentenergy1.jpg" src="/images/differentenergy1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore the different types of energy that can be found in our everyday
+lives.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.youtube.com/watch?v=63t0Y2ACoh4" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=63t0Y2ACoh4</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Energy Conversion</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Let's explore energy</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 375px;" height="auto" width="100%" alt="ScienceEnergy1.jpg" src="/images/ScienceEnergy1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore on your own on these websites on energy.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.ck12.org/physics/energy-conversion/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ck12.org/physics/energy-conversion/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://sciencewiz.com/portals/energy/" rel="noopener noreferrer nofollow" target="_blank"><u>https://sciencewiz.com/portals/energy/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Energy in the World</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TypesofEnergy1.png" src="/images/TypesofEnergy1%20(1).png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore concepts of energy at different levels of difficulties</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.brainpop.com/science/energy/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.brainpop.com/science/energy/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;Energy forms and conversion
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 499px; height: 280px;" height="auto" width="100%" alt="EnergyForms1.jpg" src="/images/EnergyForms1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Interactive simulation on energy conversion with real life application
+[Click on Systems].</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Energy Conversion</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 499px; height: 251px;" height="auto" width="100%" alt="EnergyConversion1.gif" src="/images/EnergyConversion1.gif">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Interactive games on energy conversion.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ==" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ==</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10=" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10=</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ==" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ==</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Theme: Interactions</strong></h4>
+<p><strong>Interactions of forces</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Let’s explore forces</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 374px;" height="auto" width="100%" alt="Motion1.png" src="/images/Motion1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore on your own on these websites on forces.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://sciencewiz.com/portals/energy/" rel="noopener noreferrer nofollow" target="_blank"><u>https://sciencewiz.com/portals/energy/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Forces in the world</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 280px;" height="auto" width="100%" alt="Gravitational Force1.png" src="/images/Gravitational%20Force1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore concepts of forces at different levels of difficulties.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.brainpop.com/science/motionsforcesandtime/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.brainpop.com/science/motionsforcesandtime/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Types of forces</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TypesofForces1.jpg" src="/images/TypesofForces1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Interactive simulations/games on force.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://interactivesites.weebly.com/physics-and-motion.html" rel="noopener noreferrer nofollow" target="_blank"><u>http://interactivesites.weebly.com/physics-and-motion.html</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Interactions within the environment</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Types of habitats</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 283px;" height="auto" width="100%" alt="Habitats1.jpg" src="/images/Habitats1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Explore these websites to find out more about habitats in the world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://kids.nationalgeographic.com/explore/nature/habitats/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/nature/habitats/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.nationalgeographic.com/environment/earth-habitats/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nationalgeographic.com/environment/earth-habitats/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.worldwildlife.org/habitats" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.worldwildlife.org/habitats</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Interdependency between the animals</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Interdependency1.jpg" src="/images/Interdependency1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Animal Planet: Learn about the survival of the fittest in the animal world</p>
+<p>My Animal Buddy (Singapore Zoo): Explore fun behind the scene facts about
+the animals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.animalplanet.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.animalplanet.com/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://mab.wrs.com.sg/login.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://mab.wrs.com.sg/login.html</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Food chains and food web</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 250px;" height="auto" width="100%" alt="Food Chains1.jpg" src="/images/Food%20Chains1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Interactive games on food chains and food web.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://interactivesites.weebly.com/food-chains.html" rel="noopener noreferrer nofollow" target="_blank"><u>http://interactivesites.weebly.com/food-chains.html</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Adaptation of animals and plants</u>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 249px;" height="auto" width="100%" alt="Wildlife Conservation1.jpg" src="/images/Wildlife%20Conservation1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>View these websites to explore more on interesting adaptation of animals
+and plants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://www.bbc.com/earth/story/20151201-seven-animals-with-astonishing-hunting-techniques" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bbc.com/earth/story/20151201-seven-animals-with-astonishing-hunting-techniques</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.generationgenius.com/animal-and-plant-adaptations-video-lesson-for-kids/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.generationgenius.com/animal-and-plant-adaptations-video-lesson-for-kids/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://studyjams.scholastic.com/studyjams/jams/science/animals/animal-adaptations.htm" rel="noopener noreferrer nofollow" target="_blank"><u>http://studyjams.scholastic.com/studyjams/jams/science/animals/animal-adaptations.htm</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="http://interactivesites.weebly.com/animal-adaptations.html" rel="noopener noreferrer nofollow" target="_blank"><u>http://interactivesites.weebly.com/animal-adaptations.html</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.legendsoflearning.com/learning-objectives/adaptation/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.legendsoflearning.com/learning-objectives/adaptation/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>•&nbsp;<u>Man’s impact on the environment</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 280px;" height="auto" width="100%" alt="Greenhouse1.jpg" src="/images/Greenhouse1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>What are some of the impacts on the environment caused by humans? Explore
+these websites to find out more.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Resources:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.pbslearningmedia.org/collection/elementary-school-resources/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/collection/elementary-school-resources/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.legendsoflearning.com/learning-objectives/increasing-and-decreasing-human-impacts-on-earth-systems/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.legendsoflearning.com/learning-objectives/increasing-and-decreasing-human-impacts-on-earth-systems/</u></a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.legendsoflearning.com/learning-objectives/human-impacts-on-earth-systems/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.legendsoflearning.com/learning-objectives/human-impacts-on-earth-systems/</u></a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
