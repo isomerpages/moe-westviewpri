@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - About Us/Our People.md
-      - About Us/Our School.md
       - About Us/.keep
+      - About Us/Our School.md
+      - About Us/Our People.md
       - Our School/Principal's Message.md
       - Our School/School History.md
       - Our School/School Ethos.md
