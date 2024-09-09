@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: About Us
 ---
+<h4>Principal's Message</h4>
 <div class="isomer-image-wrapper">
 <img style="width:50%;" height="auto" width="100%" alt="Principal's Message" src="/images/school.jpeg">
 </div>
