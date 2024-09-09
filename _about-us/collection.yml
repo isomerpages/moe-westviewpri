@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us.md
-      - About Us/About us.md
       - About Us/.keep
       - About Us/Our School.md
       - About Us/Our People.md
