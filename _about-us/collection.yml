@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About Us.md
       - About Us/.keep
       - About Us/Our School.md
       - About Us/Our People.md
