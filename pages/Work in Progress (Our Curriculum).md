@@ -4,7 +4,7 @@ permalink: /work-in-progress-curriculum/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h1>Our Curriculum</h1>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.westviewpri.moe.edu.sg/our-curriculum/english-language-in-wvps/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English Language" src="/images/English/Eng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Language</div><div class="isomer-card-link">Click here for me</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
