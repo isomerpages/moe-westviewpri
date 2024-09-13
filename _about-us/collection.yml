@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Our Ethos.md
       - Our Philosophy.md
