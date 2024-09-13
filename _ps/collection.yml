@@ -2,6 +2,7 @@ collections:
   ps:
     output: true
     order:
+      - Uniquely Us/.keep
       - About Us/School Rules.md
       - About Us/School Hours.md
       - About Us/Learning Environment.md
