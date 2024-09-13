@@ -1,4 +1,5 @@
 collections:
   mk:
     output: true
-    order: []
+    order:
+      - About Us/.keep
