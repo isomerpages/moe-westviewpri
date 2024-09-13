@@ -2,4 +2,5 @@ collections:
   uniquely-us:
     output: true
     order:
+      - Student Well Being.md
       - Total Curriculum/.keep
