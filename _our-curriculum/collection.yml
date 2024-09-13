@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
-      - English Language/Others.md
-      - English Language/Key Level Programmes.md
-      - English Language/Emphasize Framework.md
-      - English Language/Values and Missions.md
       - English Language/.keep
+      - English Language/Values and Missions.md
+      - English Language/Emphasize Framework.md
+      - English Language/Key Level Programmes.md
+      - English Language/Others.md
       - Mathematics/.keep
       - Mother Tongue Languages/.keep
       - Science/.keep
