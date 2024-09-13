@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - Our Philosophy.md
       - Our Ethos.md
       - Our People.md
       - Learning Environment.md
