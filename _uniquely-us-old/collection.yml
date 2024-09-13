@@ -1,5 +1,5 @@
 collections:
-  uniquely-us:
+  uniquely-us-old:
     output: true
     order:
       - ALP.md
