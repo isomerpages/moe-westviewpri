@@ -2,6 +2,7 @@ collections:
   ps:
     output: true
     order:
+      - Our Curriculum.md
       - Uniquely Us/.keep
       - Uniquely Us/Applied Learning Programme (ALP).md
       - Uniquely Us/Learning for Life Programme (LLP).md
