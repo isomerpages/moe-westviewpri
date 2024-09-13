@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules.md
-      - School Hours.md
-      - Learning Environment.md
-      - Our People.md
-      - Our Ethos.md
       - Our Philosophy.md
+      - Our Ethos.md
+      - Our People.md
+      - Learning Environment.md
+      - School Hours.md
+      - School Rules.md
