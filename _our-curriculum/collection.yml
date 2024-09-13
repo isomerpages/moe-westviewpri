@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Physical Education & Health/.keep
       - English Language/.keep
       - English Language/Values and Missions.md
       - English Language/Emphasize Framework.md
@@ -11,3 +10,4 @@ collections:
       - Mathematics/.keep
       - Mother Tongue Languages/.keep
       - Science/.keep
+      - Physical Education & Health/.keep
