@@ -2,6 +2,7 @@ collections:
   ps:
     output: true
     order:
+      - Our Pride/.keep
       - Our Curriculum/.keep
       - About Us/.keep
       - About Us/School Rules.md
