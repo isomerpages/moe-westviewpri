@@ -2,6 +2,7 @@ collections:
   uniquely-us:
     output: true
     order:
+      - Gallery (Life@WV).md
       - Total Curriculum/Learning for Life Programme (LLP).md
       - Total Curriculum/Applied Learning Programme (ALP).md
       - Total Curriculum/.keep
