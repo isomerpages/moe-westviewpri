@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science/.keep
       - Mathematics/.keep
       - English Language/.keep
