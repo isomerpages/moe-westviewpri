@@ -2,6 +2,7 @@ collections:
   ps:
     output: true
     order:
+      - About Us/Learning Environment.md
       - About Us/Our People.md
       - About Us/Our Ethos.md
       - About Us/Our Philosophy.md
