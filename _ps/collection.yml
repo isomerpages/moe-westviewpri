@@ -2,8 +2,6 @@ collections:
   ps:
     output: true
     order:
-      - Our Pride/.keep
-      - Our Curriculum/.keep
       - About Us/.keep
       - About Us/School Rules.md
       - About Us/School Hours.md
@@ -17,3 +15,5 @@ collections:
       - Uniquely Us/Character First.md
       - Uniquely Us/Student Well Being.md
       - Uniquely Us/Gallery (Life@WV).md
+      - Our Curriculum/.keep
+      - Our Pride/.keep
