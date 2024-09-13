@@ -2,6 +2,6 @@ collections:
   mk:
     output: true
     order:
-      - Gallery/.keep
-      - Centre Head Message/.keep
       - About Us/.keep
+      - Centre Head Message/.keep
+      - Gallery/.keep
