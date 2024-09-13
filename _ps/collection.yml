@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  ps:
     output: true
     order:
       - Our Philosophy.md
