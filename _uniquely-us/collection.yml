@@ -2,5 +2,6 @@ collections:
   uniquely-us:
     output: true
     order:
+      - Gallery.md
       - Student Well Being.md
       - Total Curriculum/.keep
