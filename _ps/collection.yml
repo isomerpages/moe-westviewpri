@@ -2,6 +2,7 @@ collections:
   ps:
     output: true
     order:
+      - Uniquely Us/Character First.md
       - Uniquely Us/.keep
       - Uniquely Us/Applied Learning Programme (ALP).md
       - Uniquely Us/Learning for Life Programme (LLP).md
