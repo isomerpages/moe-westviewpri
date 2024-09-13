@@ -1,5 +1,5 @@
 collections:
-  our-curriculum:
+  our-curriculum-old:
     output: true
     order:
       - English Language/.keep
