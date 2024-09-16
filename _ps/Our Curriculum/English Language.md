@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Curriculum
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://westviewpri.moe.edu.sg/ps/our-curriculum/english-language/work-in-progress-curriculum/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/English/Eng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Language</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://westviewpri.moe.edu.sg/ps/english/work-in-progress-curriculum/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/English/Eng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Language</div><div class="isomer-card-link">Click here</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
