@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/Our Ethos.md
+      - About Us/School Ethos.md
       - About Us/Values & Missions.md
       - About Us/Student Outcomes.md
       - About Us/Our Staff.md
