@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Waitlist/.keep
-      - About Us/Our Staff.md
-      - About Us/Student Outcomes.md
-      - About Us/Values & Missions.md
-      - About Us/Our Ethos.md
       - About Us/.keep
+      - About Us/Our Ethos.md
+      - About Us/Values & Missions.md
+      - About Us/Student Outcomes.md
+      - About Us/Our Staff.md
       - Centre Head Message/.keep
       - Gallery/.keep
