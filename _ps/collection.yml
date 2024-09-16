@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/School Rules.md
-      - About Us/School Hours.md
-      - About Us/Learning Environment.md
-      - About Us/Our People.md
       - About Us/Our Ethos.md
       - About Us/Our Philosophy.md
+      - About Us/Our People.md
+      - About Us/Learning Environment.md
+      - About Us/School Hours.md
+      - About Us/School Rules.md
       - Uniquely Us/.keep
       - Uniquely Us/Applied Learning Programme (ALP).md
       - Uniquely Us/Learning for Life Programme (LLP).md
