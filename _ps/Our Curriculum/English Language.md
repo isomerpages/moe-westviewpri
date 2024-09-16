@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Our Curriculum
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Eng.jpg">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Values &amp; Missions</strong>
