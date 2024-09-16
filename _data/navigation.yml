@@ -2,6 +2,8 @@ logo: /images/RWD_logo.png
 links:
   - title: PS
     collection: ps
+  - title: MK
+    collection: mk
   - title: Uniquely Us Old
     collection: uniquely-us-old
   - title: Our Curriculum Old
@@ -11,4 +13,4 @@ links:
   - title: Our Partners
     collection: our-partners
   - title: MK@West View
-    collection: mk
+    collection: mk-at-west-view
