@@ -2,7 +2,6 @@ collections:
   mk:
     output: true
     order:
-      - Waitlist/.keep
       - About Us/.keep
       - About Us/Our Ethos.md
       - About Us/Values & Missions.md
@@ -10,3 +9,4 @@ collections:
       - About Us/Our Staff.md
       - Centre Head Message/.keep
       - Gallery/.keep
+      - Waitlist/.keep
