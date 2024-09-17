@@ -2,6 +2,7 @@ collections:
   mk:
     output: true
     order:
+      - Waitlist.md
       - About Us/.keep
       - About Us/School Ethos.md
       - About Us/Values & Missions.md
