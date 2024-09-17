@@ -2,7 +2,6 @@ collections:
   mk:
     output: true
     order:
-      - Waitlist.md
       - About Us/.keep
       - About Us/School Ethos.md
       - About Us/Values & Missions.md
@@ -14,3 +13,4 @@ collections:
       - Gallery/2023.md
       - Gallery/2022.md
       - Gallery/2021.md
+      - Waitlist.md
