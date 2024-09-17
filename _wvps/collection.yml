@@ -2,9 +2,9 @@ collections:
   wvps:
     output: true
     order:
-      - History/West View MK.md
-      - History/West View Primary.md
       - History/.keep
+      - History/West View Primary.md
+      - History/West View MK.md
       - What's On.md
       - History.md
       - Testimontials.md
