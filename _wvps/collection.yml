@@ -2,6 +2,7 @@ collections:
   wvps:
     output: true
     order:
+      - History/West View MK.md
       - History/Primary School.md
       - History/.keep
       - What's On.md
