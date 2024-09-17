@@ -4,8 +4,7 @@ permalink: /testimontials/
 variant: tiptap
 description: ""
 ---
-<h2>Testimonials</h2>
-<h4>From our Alumnus</h4>
+<h2>From our Alumnus</h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/S4p85GnwVdw"></iframe>
 </div>
