@@ -2,7 +2,7 @@ collections:
   wvps:
     output: true
     order:
-      - Our Partners.md
-      - Testimontials.md
-      - History.md
       - What's On.md
+      - History.md
+      - Testimontials.md
+      - Our Partners.md
