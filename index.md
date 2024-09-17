@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: What's On
           description: ""
-          url: /wvps/whats-on/
+          url: /what-s-on-announcements/
         - title: History
           description: ""
           url: /primary-school-history/
