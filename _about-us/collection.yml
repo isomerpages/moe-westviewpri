@@ -1,5 +1,5 @@
 collections:
-  about-us-old:
+  about-us:
     output: true
     order:
       - Our School/School Ethos.md
