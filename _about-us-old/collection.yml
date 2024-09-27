@@ -2,7 +2,6 @@ collections:
   about-us-old:
     output: true
     order:
-      - Our Partners/.keep
       - Our School/School Ethos.md
       - Our School/.keep
       - Our School/Principal's Message.md
