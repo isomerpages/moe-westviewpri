@@ -1,12 +1,10 @@
 logo: /images/RWD_logo.png
 links:
-  - title: PS
-    collection: ps
-  - title: MK
-    collection: mk
-  - title: Uniquely Us Old
+  - title: About Us
+    collection: about-us
+  - title: Uniquely Us
     collection: uniquely-us-old
-  - title: Our Curriculum Old
+  - title: Our Curriculum
     collection: our-curriculum-old
   - title: Our Pride
     collection: our-pride
