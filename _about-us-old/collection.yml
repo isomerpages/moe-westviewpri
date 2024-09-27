@@ -2,14 +2,6 @@ collections:
   about-us-old:
     output: true
     order:
-      - Uniquely Us/.keep
-      - Uniquely Us/Applied Learning Programme (ALP).md
-      - Uniquely Us/Learning for Life Programme (LLP).md
-      - Uniquely Us/Character First.md
-      - Uniquely Us/VIEWAN XP.md
-      - Uniquely Us/DA VINCI.md
-      - Uniquely Us/EinSTein.md
-      - Uniquely Us/STRIVE (Modular CCA).md
       - Our Curriculum/.keep
       - Our Pride/.keep
       - Our Partners/.keep
