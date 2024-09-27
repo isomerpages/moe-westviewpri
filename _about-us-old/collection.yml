@@ -2,9 +2,6 @@ collections:
   about-us-old:
     output: true
     order:
-      - About Us/.keep
-      - About Us/Our School.md
-      - About Us/Our People.md
       - Uniquely Us/.keep
       - Uniquely Us/Applied Learning Programme (ALP).md
       - Uniquely Us/Learning for Life Programme (LLP).md
