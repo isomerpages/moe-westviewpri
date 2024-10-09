@@ -29,7 +29,7 @@ third_nav_title: Home Based Learning
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__1B.pdf" rel="noopener noreferrer nofollow" target="_blank">1B</a></strong>
+<p><strong><a href="/files/Home Based Learning/HBL_Weekly_Plan_T4W6__14_16_Oct__1B.pdf" rel="noopener noreferrer nofollow" target="_blank">1B</a></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
