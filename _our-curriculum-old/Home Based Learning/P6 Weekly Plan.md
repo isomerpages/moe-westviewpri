@@ -23,7 +23,7 @@ third_nav_title: Home Based Learning
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><a href="/files/HBL_Weekly_Plan_T4W6__14_16_Oct__P6.pdf" rel="noopener nofollow" target="_blank">6A, B, C &amp; D</a></strong>
+<p><a href="/files/HBL_Weekly_Plan_T4W6__14_16_Oct__P6.pdf" rel="noopener nofollow" target="_blank">6A, 6B, 6C, 6D</a>
 </p>
 </th>
 <th rowspan="1" colspan="4">
