@@ -493,23 +493,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports Skills</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://circle.myactivesg.com/skills" rel="noopener noreferrer nofollow" target="_blank"><u>Sports Skills from Active SG</u></a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Health Tips</p>
 </td>
 <td rowspan="1" colspan="1">

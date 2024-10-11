@@ -1,0 +1,23 @@
+collections:
+  ps:
+    output: true
+    order:
+      - About Us/.keep
+      - About Us/School Ethos.md
+      - About Us/Our People.md
+      - About Us/Learning Environment.md
+      - About Us/School Hours.md
+      - About Us/School Rules.md
+      - Uniquely Us/.keep
+      - Uniquely Us/Applied Learning Programme (ALP).md
+      - Uniquely Us/Learning for Life Programme (LLP).md
+      - Uniquely Us/Character First.md
+      - Uniquely Us/Student Well Being.md
+      - Uniquely Us/Gallery (Life@WV).md
+      - Our Curriculum/.keep
+      - Our Curriculum/English Language.md
+      - Our Curriculum/Mathematics.md
+      - Our Curriculum/Mother Tongue Languages.md
+      - Our Pride/.keep
+      - Our Pride/Achievements.md
+      - Our Pride/WOW!.md

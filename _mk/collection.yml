@@ -1,0 +1,16 @@
+collections:
+  mk:
+    output: true
+    order:
+      - About Us/.keep
+      - About Us/School Ethos.md
+      - About Us/Values & Missions.md
+      - About Us/Student Outcomes.md
+      - About Us/Our Staff.md
+      - Centre Head Message.md
+      - Gallery/.keep
+      - Gallery/2024.md
+      - Gallery/2023.md
+      - Gallery/2022.md
+      - Gallery/2021.md
+      - Waitlist.md
