@@ -19,7 +19,7 @@ sections:
           url: /wvps/services/
         - title: Resources
           description: ""
-          url: /wvps/services/
+          url: /wvps/resources/
       background: /images/Banner2.gif
   - infopic:
       title: APPLIED LEARNING PROGRAMME
