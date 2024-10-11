@@ -5,3 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Home Based Learning
 ---
+<p><strong><a href="/files/HBL_Weekly_Plan_T4W6__14_16_Oct__P6.pdf" rel="noopener nofollow" target="_blank">P6</a></strong>
+</p>
