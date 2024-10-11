@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: What's On
           description: ""
-          url: /what-s-on-announcements/
+          url: /wvps/whats-on/
         - title: Quick Links
           description: ""
           url: /wvps/quick-links/
