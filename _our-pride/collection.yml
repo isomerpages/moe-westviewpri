@@ -2,7 +2,6 @@ collections:
   our-pride:
     output: true
     order:
-      - 2022.md
       - Gallery Life at WV/2021.md
       - Gallery Life at WV/.keep
       - Achievements/CCA.md
