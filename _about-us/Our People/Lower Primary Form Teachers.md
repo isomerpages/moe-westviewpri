@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lufang_charmian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Charmian New</u></a>
+<p><a href="mailto:lee_lufang_charmian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Charmian Lee</u></a>
 </p>
 </td>
 </tr>
