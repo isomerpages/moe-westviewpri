@@ -35,6 +35,9 @@ mindset.</p>
 create and present meaningful projects. This experience will integrate
 the skills learned throughout the DA VINCI Programme and provide them with
 an opportunity to showcase their growth.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_3.png">
+</div>
 <p>As part of our<strong> DA VINCI</strong>, students have the opportunity
 to engage in cross-cultural exchanges with partner schools. They will participate
 in cross-cultural activities, gain new insights, and build friendships
@@ -48,6 +51,9 @@ Kong’s education system, encouraging cultural exchange, and fostering internat
 friendships. The partner schools offer programmes related to both sustainability
 and technology, which would provide valuable exposure and an excellent
 platform for showcasing to our students and teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_4.png">
+</div>
 <p><strong>School Visits by Singapore International School, Vietnam, and Xi’an Gao Xin No.1 Primary School, China</strong>
 </p>
 <p>Our students have the chance to host and interact with students from these
@@ -62,9 +68,9 @@ presentation of cultures and festivals from both schools, singing and dance
 performances as well as fashion parade by pupils from Vietnam. P5 cultural
 buddies also interacted with their buddies from Vietnam during recess and
 formed friendship bonds with lasting memories.</p>
-<p>&nbsp;&nbsp;</p>
-<p><u>&nbsp;</u>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_5.png">
+</div>
 <p><u>Internationalisation Programme with </u><strong><u>Xi’an Gao Xin No.1 Primary School</u></strong>
 </p>
 <p>Our visitors from China interacted with our P5 cultural buddies in the
@@ -73,7 +79,9 @@ purchase and try out food from the school canteen. The group also participated
 in the Commemoration of Racial Harmony Day (RHD) as part of our assembly
 programme, which included a presentation on the objectives of RHD, a harmony
 parade, and singing.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_6.png">
+</div>
 <p><u>&nbsp;</u>
 </p>
 <p>&nbsp;</p>
