@@ -4,9 +4,7 @@ permalink: /our-pride/wow-publication/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW_2024.png">
-</div>
+<a class="isomer-image-wrapper" href="WOW_Publication_2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW_2024.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WoW 2023" src="/images/WoW_2023_cover.png">
 </div>
