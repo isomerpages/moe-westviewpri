@@ -2,16 +2,24 @@
 title: WOW! Publication
 permalink: /our-pride/wow-publication/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<div style="display:flex;">
-	<a href="/files/WOW__Publication_2023__Interactive_.pdf"><img alt="WoW 2023" src="/images/WoW_2023_cover.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW_2024.png">
 </div>
-<div style="display:flex;">
-	<a href="/files/WOW%20Publication_Final%20draft.pdf"><img alt="WoW 2022" style="width:83%" src="/images/WOW_2022.png"></a>
-	<a href="/files/WOW%20Publication%202021.pdf"><img alt="WoW 2021" src="/images/WOW%20Publication%202021.jpeg"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WoW 2023" src="/images/WoW_2023_cover.png">
 </div>
-<div style="display:flex;">
-	<a href="/files/WOW%20Publication%202020.pdf"><img alt="WoW 2020" src="/images/WhatsApp%20Image%202021-11-02.jpeg"></a>
-	<a href="/files/WOW%20Publication%202019.pdf"><img alt="WoW 2019" src="/images/WhatsApp%20Image%202021-11-02%20at.jpeg"></a>
+<div class="isomer-image-wrapper">
+<img style="width:83%" height="auto" width="100%" alt="WoW 2022" src="/images/WOW_2022.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WoW 2021" src="/images/WOW%20Publication%202021.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WoW 2020" src="/images/WhatsApp%20Image%202021-11-02.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WoW 2019" src="/images/WhatsApp%20Image%202021-11-02%20at.jpeg">
+</div>
+<p></p>

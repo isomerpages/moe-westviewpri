@@ -4,4 +4,84 @@ permalink: /uniquely-us/da-vinci/
 description: ""
 variant: tiptap
 ---
-<h1>DA VINCI</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/image10-min.png"></div><p>DA VINCI is a talent development programme which follows Dr. Treffinger's Levels of Service (LoS) approach designed to help students develop their potential to the fullest. A<strong> </strong>wide variety of differentiated enrichment opportunities will support different segments of our West Viewans to</p><ul data-tight="true" class="tight"><li><p>connect with their interests, lives and worlds, to discover their passions and interests, find what they learn intriguing, real, purposeful and useful;</p></li><li><p>encourage investigative and inquiry-based learning;</p></li><li><p>develop Passionate Learners, Confident Leaders, helping them to use their talents to create a better and more equitable world.</p></li></ul><table><tbody><tr><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Intro_1.png"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Intro_2.png"></div></th></tr></tbody></table><h2>DA VINCI Capstone Project</h2><p>DA VINCI Capstone Project witnessed the remarkable showcase of young minds tackling the carbon footprint challenge.</p><p>As Innovator and Explorer, pupils discover new ways of doing things in authentic situations through Science, Technology, Engineering and Mathematics disciplines.</p><p>Through robotics and coding, P4 and P5 pupils think critically and explore different ways to address authentic issues on energy consumption and wastage. They participate in Sembcorp Greenwave Project to apply their knowledge and skills in Science and Technology to put into action their care for the environment.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Creative Problem Solving.jpg"></div><p>Based on the design challenge given, pupils went through the design thinking process to focus on which sustainable goal they want to work on. The pupils went to Senja hawker centre to conduct the interviews to define a problem and point of view statement.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Capstone_1.png"></div><p>From inspiring ideas like smart robot composters to heartfelt solutions for our seniors, the West View Innovators of Tomorrow presented their ideas to MP representing the Zhenghua division of Holland–Bukit Timah GRC, Mr Edward Chia.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Capstone_2.png"></div><h2>DA VINCI Internationalisation with Perth College</h2><p>30 of our DA VINCI students learned together with 30 other friends from Australia, Perth College and had 4 different zoom sessions over 4 different days.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_1.png"></div><p>Our P5 DA VINCI students took on a virtual learning journey to Singapore Gardens by the Bay on sustainability efforts in Singapore. In the following session, they virtually visited Literature Centre in Perth and learnt strategies in writing good narrative essays from an author, Amanda Betts. The students also had a virtual visit to the Herdsman Lake in Perth to learn about wetland oasis in the heart of Perth. They learnt about the indigenous history of the area, the wildlife that lives here, and the importance of sustainability for this precious ecosystem.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_2.png"></div><p>In the last virtual exchange session, selected pupils from our school and Perth College shared their school’s sustainability efforts in promoting awareness on the importance of saving the environment. Our pupils shared the school’s Black Soldier Fly project in managing food waste as well as selected DA VINCI Capstone projects on reducing carbon footprints. They were engaged in interactive conversations through the Q&amp;A sessions demonstrating their inquisitiveness and desire to learn.</p><table><tbody><tr><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/image5.jpg"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/image10.jpg"></div></th></tr></tbody></table><p>The Primary 4 and Primary 5 pupils had the opportunity to experience a firsthand view of how environmental issues were addressed in Australian schools through our school’s internationalisation programme via Zoom sessions with pupils from Australia.</p><p>Our pupils gained a broader perspective on environmental conservational efforts by witnessing how pupils in Australia tackled sustainability challenges.</p><p>These experiences fostered a sense of global awareness and appreciation for cultural diversity among the pupils. Interacting with pupils from different backgrounds while learning about environmental studies can encourage collaboration, empathy, and the exchange of ideas, which are all crucial skills in today's interconnected world.</p><table><tbody><tr><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/image4.jpg"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/image2.jpg"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/image1.jpg"></div></th></tr></tbody></table><p>Encouraging a global mindset and an understanding of environmental issues from various perspectives will empower them to become more informed and proactive global citizens.</p><h2>DA VINCI Internationalisation with Thai-Singapore International School</h2><p>West View hosted 40 Primary 3 to Primary 5 pupils from Thai-Singapore International School. They observed our lessons and had the opportunity to mingle with our P4 and P5 pupils through activities that emphasised on teamwork. We hope to continue to host schools from other countries so that our pupils can develop cultural competence and be future global citizens and remain connected to the region and the world.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_3.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA VINCI/Internationalisation_4.png"></div><p>West View Primary School believe that every child is special, with unique combinations of talents and abilities. We recognise these differences and seek to provide students with varied opportunities to maximise their potential to the fullest, at the same time to develop our students in the development of critical and inventive thinking (CIT) and 21st century competencies (21CC).</p><p></p>
+<h1><strong>DA VINCI</strong></h1>
+<p>The DA VINCI at West View Primary School seeks to nurture every child’s
+potential, acknowledging that each student possesses unique combinations
+of talents and abilities. Through a thoughtfully structured curriculum,
+the programme provides students with varied opportunities to maximize their
+strengths and reach their fullest potential, and is designed to develop
+critical thinking, creativity, and effective communication skills.</p>
+<p>&nbsp;The DA VINCI consists of three key programme:</p>
+<p><strong>BRAIN Programme</strong>
+</p>
+<p>Focused on developing effective communication and presentation skills,
+this component will empower students to express their ideas clearly and
+confidently, preparing them for future opportunities to showcase their
+learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV.png">
+</div>
+<p><strong>E2K Math Programme</strong>
+</p>
+<p>Through engaging activities, students will strengthen their critical thinking
+and problem-solving abilities, tackling real-world challenges with an innovative
+mindset.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_2.png">
+</div>
+<p><strong>Capstone Project</strong>  <strong>using Design Thinking</strong>
+</p>
+<p>Capstone Project will allow students to apply design thinking as they
+create and present meaningful projects. This experience will integrate
+the skills learned throughout the DA VINCI Programme and provide them with
+an opportunity to showcase their growth.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_3.png">
+</div>
+<p>As part of our<strong> DA VINCI</strong>, students have the opportunity
+to engage in cross-cultural exchanges with partner schools. They will participate
+in cross-cultural activities, gain new insights, and build friendships
+with students from partner schools. We are confident that this experience
+will broaden their horizons and deepen their learning journey.</p>
+<p><strong>Internationalisation Programme</strong> includes:</p>
+<p><strong>Overseas Immersion Programme with Hong Kong Schools: Tai Po Old Market Public School (Plover Cove) and Lee Chi Tat Memorial School</strong>
+</p>
+<p>This overseas exchange offered students firsthand experience with Hong
+Kong’s education system, encouraging cultural exchange, and fostering international
+friendships. The partner schools offer programmes related to both sustainability
+and technology, which would provide valuable exposure and an excellent
+platform for showcasing to our students and teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_4.png">
+</div>
+<p><strong>School Visits by Singapore International School, Vietnam, and Xi’an Gao Xin No.1 Primary School, China</strong>
+</p>
+<p>Our students have the chance to host and interact with students from these
+esteemed schools, developing global perspectives and understanding through
+shared activities.</p>
+<p><u>Internationalisation Programme with </u><strong><u>Singapore International School Vietnam</u></strong>
+</p>
+<p>P5 students and students from Singapore International School Vietnam were
+immersed in an array of engaging learning experiences that involves an
+exchange of cross-cultural performances from both schools. These include
+presentation of cultures and festivals from both schools, singing and dance
+performances as well as fashion parade by pupils from Vietnam. P5 cultural
+buddies also interacted with their buddies from Vietnam during recess and
+formed friendship bonds with lasting memories.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_5.png">
+</div>
+<p><u>Internationalisation Programme with </u><strong><u>Xi’an Gao Xin No.1 Primary School</u></strong>
+</p>
+<p>Our visitors from China interacted with our P5 cultural buddies in the
+canteen. It was a wonderful experience for the visitors as they got to
+purchase and try out food from the school canteen. The group also participated
+in the Commemoration of Racial Harmony Day (RHD) as part of our assembly
+programme, which included a presentation on the objectives of RHD, a harmony
+parade, and singing.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_6.png">
+</div>
+<p><u>&nbsp;</u>
+</p>
+<p>&nbsp;</p>
