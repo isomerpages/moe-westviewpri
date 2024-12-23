@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Core CCAs
 ---
-<h1>Environmental Science Club (New CCA)</h1>
+<h1>Environmental Science Club</h1>
 <h2>Brief of CCA</h2>
 <p>The Environmental Science Club is a new vibrant community made up of teachers
 and pupils who are dedicated to exploring, learning and acting on environmental
