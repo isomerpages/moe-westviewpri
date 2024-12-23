@@ -6,19 +6,22 @@ third_nav_title: Core CCAs
 variant: tiptap
 ---
 <h2><br>Brief of CCA</h2>
-<p>The Chinese Dance CCA provides a platform for pupils to learn the foundations
-of classical Chinese Dance, as well as appreciate the rich and varied culture
-of this art form. Opportunities are given to pupils to showcase their talents
-at performances within and outside of school. Through the experiences of
-learning together and performing, pupils inculcate the values of perseverance
-and striving for excellence.</p>
+<p>The International Dance Club offers students the opportunity to explore
+and celebrate diverse dance styles from around the world. Through engaging
+in various dance forms such as ballet, hip-hop and traditional cultural
+dances, students learn about different cultures while developing their
+creativity, coordination, and teamwork skills. The program encourages self-expression
+and physical fitness, fostering confidence and collaboration among participants.
+Regular practice sessions, performances, and cultural exchanges allow students
+to showcase their talents and deepen their appreciation for global dance
+traditions.</p>
 <h2>Teachers-in-Charge</h2>
-<p>Mdm Suriani (OIC)</p>
-<p>Mdm Zhao Yijin (2IC)</p>
-<p>Ms Siti Fasihah Binte Subto (FAJT) (Term 1) / Ms Fathin (Term 2 onwards)
-<br>Mdm Thasveena (Semester 1 only)</p>
-<p>Ms Tan Mabel (NT)</p>
-<p>Yeo Shok Kiang (FAJT)</p>
+<p>Mdm Suriani (OIC)
+<br>Mdm Zhao Yijin (2IC)
+<br>Ms Siti Fasihah Binte Subto (FAJT) (Term 1) / Ms Fathin (Term 2 onwards)
+<br>Mdm Thasveena (Semester 1 only)
+<br>Ms Tan Mabel (NT)
+<br>Yeo Shok Kiang (FAJT)</p>
 <h2>Achievements</h2>
 <table style="minWidth: 50px">
 <colgroup>
