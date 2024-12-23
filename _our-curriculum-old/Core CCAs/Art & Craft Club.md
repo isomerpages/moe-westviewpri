@@ -253,6 +253,6 @@ work.</p>
 </p>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core%20CCAs/Arts%20and%20Crafts/arts%20and%20crafts%20club.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art___Crafts.jpg">
 </div>
 <p></p>
