@@ -20,7 +20,7 @@ traditions.</p>
 <br>Mdm Zhao Yijin (2IC)
 <br>Ms Siti Fasihah Binte Subto (FAJT) (Term 1) / Ms Fathin (Term 2 onwards)
 <br>Mdm Thasveena (Semester 1 only)
-<br>Ms Tan Mabel (NT)
+<br>Ms Tan Mabel
 <br>Yeo Shok Kiang (FAJT)</p>
 <h2>Achievements</h2>
 <table style="minWidth: 50px">
