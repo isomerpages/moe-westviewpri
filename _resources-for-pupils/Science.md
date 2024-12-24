@@ -740,7 +740,7 @@ and animals.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -775,12 +775,6 @@ and animals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.epa.gov/mosquitocontrol/mosquito-life-cycle" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.epa.gov/mosquitocontrol/mosquito-life-cycle</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito</u></a></em>
 </p>
 </td>
 </tr>
@@ -2161,8 +2155,7 @@ these websites to find out more.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25</u></a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
