@@ -683,17 +683,11 @@ a plant and their functions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.youtube.com/watch?v=yXCeuSiTOug" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=yXCeuSiTOug</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.softschools.com/quizzes/science/magnetism/quiz767.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.softschools.com/quizzes/science/magnetism/quiz767.html</u></a></em>
 </p>
 </td>
 </tr>
