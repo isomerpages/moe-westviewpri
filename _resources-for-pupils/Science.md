@@ -2151,17 +2151,11 @@ these websites to find out more.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.pbslearningmedia.org/collection/elementary-school-resources/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/collection/elementary-school-resources/</u></a></em>
-</p>
 </td>
 </tr>
 <tr>
