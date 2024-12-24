@@ -29,6 +29,7 @@ projects, they strive to make a difference for the planet and future generations
 <p><strong>Look out for updates here!</strong>
 </p>
 <h2>CCA Model Pupil</h2>
-<p><strong>Look out for updates here!</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Sci_club.jpg">
+</div>
 <p></p>
