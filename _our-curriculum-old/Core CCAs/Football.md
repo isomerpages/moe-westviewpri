@@ -14,23 +14,12 @@ integrity and responsibility. The training sessions and future competitions
 provide opportunities for the boys to practise these values so that they
 may take with them through life.</p>
 <h2>Teachers-in-Charge</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Elaine Lim Hui Min (Overall-in-charge)</p>
-</li>
-<li>
-<p>Mr Chng Chyi Woei (Second-in-charge)</p>
-</li>
-<li>
-<p>Mr Tan Leng Khoon (Advisor)</p>
-</li>
-<li>
-<p>Mr Jeremy See</p>
-</li>
-<li>
-<p>Mr Aaron Yip</p>
-</li>
-</ul>
+<p>Mr Chng Chyi Woei (IC)
+<br>Mr Jeremy See (2IC)
+<br>Mr Yip Jun Hoe Aaron
+<br>Mr Ideris (FAJT)
+<br>Mr Daniel Lim Kim Soon
+<br>Mr Kishan Mohan</p>
 <h2>Achievements</h2>
 <p><strong>Look out for updates here!</strong>
 </p>
