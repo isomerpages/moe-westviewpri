@@ -20,7 +20,7 @@ projects, they strive to make a difference for the planet and future generations
 <h2>Teachers-in-Charge</h2>
 <p>Mdm Loke Shu Fen (PAM) (IC)
 <br>Ms Gail Ng Shok Hwa (2IC)
-<br>Yap Siew Cheng Shirlena
+<br>Ms Yap Siew Cheng Shirlena
 <br>Miss Meyyappan Priyavadana</p>
 <h2>Achievements</h2>
 <p><strong>Look out for updates here!</strong>
