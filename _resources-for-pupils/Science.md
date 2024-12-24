@@ -585,11 +585,6 @@ you experiment with a variety of objects.</p>
 <p>•&nbsp;<u>Parts of the digestive system</u>
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -602,15 +597,6 @@ you experiment with a variety of objects.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Match the labels to the correct parts of the digestive system.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.softschools.com/science/human_body/digestive_system/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.softschools.com/science/human_body/digestive_system/</u></a></em>
-</p>
 </td>
 </tr>
 </tbody>
