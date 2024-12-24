@@ -24,8 +24,8 @@ in performance and also allows students to showcase their talents.</p>
 <br>Mdm Zakiah (2IC)
 <br>Ms Clara Chia
 <br>Ms Michelle Khoo
-<br>Mdm Pang Tee Buay Cynthia
-<br>Ms Ong Kai Wei</p>
+<br>Pang Tee Buay Cynthia (FAJT)
+<br>Ong Kai Wei</p>
 <h2>Achievements</h2>
 <table style="minWidth: 50px">
 <colgroup>
