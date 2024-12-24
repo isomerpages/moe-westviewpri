@@ -585,11 +585,6 @@ you experiment with a variety of objects.</p>
 <p>•&nbsp;<u>Parts of the digestive system</u>
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -602,15 +597,6 @@ you experiment with a variety of objects.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Match the labels to the correct parts of the digestive system.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.softschools.com/science/human_body/digestive_system/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.softschools.com/science/human_body/digestive_system/</u></a></em>
-</p>
 </td>
 </tr>
 </tbody>
@@ -683,17 +669,11 @@ a plant and their functions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.youtube.com/watch?v=yXCeuSiTOug" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=yXCeuSiTOug</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.softschools.com/quizzes/science/magnetism/quiz767.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.softschools.com/quizzes/science/magnetism/quiz767.html</u></a></em>
 </p>
 </td>
 </tr>
@@ -740,7 +720,7 @@ and animals.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -775,12 +755,6 @@ and animals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.epa.gov/mosquitocontrol/mosquito-life-cycle" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.epa.gov/mosquitocontrol/mosquito-life-cycle</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding/aedes-mosquito</u></a></em>
 </p>
 </td>
 </tr>
@@ -1426,8 +1400,7 @@ help the plant carry out life processes.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.scienceforkidsclub.com/plant-structure.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.scienceforkidsclub.com/plant-structure.html</u></a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1803,32 +1776,6 @@ lives.</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Interactive games on energy conversion.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ==" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ==</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10=" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10=</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ==" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ==</u></a></em>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Theme: Interactions</strong></h4>
@@ -2183,18 +2130,11 @@ these websites to find out more.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nationalgeographic.org/topics/resource-library-human-impacts-environment/?q=&amp;page=1&amp;per_page=25</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.pbslearningmedia.org/collection/elementary-school-resources/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/collection/elementary-school-resources/</u></a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
