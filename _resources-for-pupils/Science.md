@@ -1420,8 +1420,7 @@ help the plant carry out life processes.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.scienceforkidsclub.com/plant-structure.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.scienceforkidsclub.com/plant-structure.html</u></a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
