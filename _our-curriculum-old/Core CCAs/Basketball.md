@@ -3,46 +3,95 @@ title: Basketball
 permalink: /our-curriculum/cca-core/basketball/
 description: ""
 third_nav_title: Core CCAs
-variant: markdown
+variant: tiptap
 ---
-![Basketball](/images/Basketball.jpg)
-
-Brief of CCA
-------------
-
-Basketball is more than a game for pupils to have fun. By playing basketball, pupils develop character and values such as teamwork, sportsmanship, leadership and commitment through the training sessions and competitions. Pupils build resilience as they learn to be gracious sportsmen regardless of the outcome of the match.
-
-Teachers-in-Charge
-------------------
-
-Mr Tan Kee Jin (Overall-in-charge) <br>
-Mdm Chan Wai Ling (Second-in-charge) <br>
-Mr Danny Leong <br>
-Mr Ngho Seng Kuang <br>
-Mrs Tan-Tay Li Gek <br>
-Ms Fathin
-
-Achievements
-------------
-
-|&nbsp;|&nbsp;|
-|:--:|:--:|
-|2023|National School Games Basketball Championships West Zone – Top 8 (Senior Boys)|
-|2022|National School Games Basketball Championships (Junior Boy Division): Tier 2 - Champion|
-|2020|National School Games Basketball Championships West Zone - Top 8 (Senior)|
-|2019|National School Games Basketball Championships West Zone – Top 8 (Senior)|
-|2017|National School Games Basketball Championships West Zone – Top 6 (Junior)|
-
-What’s up in our CCA?
----------------------
-
-![Basketball](/images/Photo%203.jpeg)
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_PMPen3vv5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MS6-EH16ejg" height="315" width="560"></iframe></center>
-
-CCA Model Pupil
----------------
-
-![basketball](/images/Core%20CCAs/basketball.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball" src="/images/Basketball.jpg">
+</div>
+<h2>Brief of CCA</h2>
+<p>Basketball is more than a game for pupils to have fun. By playing basketball,
+pupils develop character and values such as teamwork, sportsmanship, leadership
+and commitment through the training sessions and competitions. Pupils build
+resilience as they learn to be gracious sportsmen regardless of the outcome
+of the match.</p>
+<h2>Teachers-in-Charge</h2>
+<p>Mr Tan Kee Jin (IC)
+<br>Mdm Chan Wai Ling (2IC)
+<br>Mrs Tan-Tay Li Gek
+<br>Mrs Tan Lilian (FAJT)
+<br>Mr Ngo Seng Kwang
+<br>Mr Danny Leong</p>
+<h2>Achievements</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Basketball Championships West Zone – Top 8 (Senior
+Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Basketball Championships (Junior Boy Division):
+Tier 2 - Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Basketball Championships West Zone - Top 8 (Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Basketball Championships West Zone – Top 8 (Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Basketball Championships West Zone – Top 6 (Junior)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>What’s up in our CCA?</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball" src="/images/Photo%203.jpeg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_PMPen3vv5k"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MS6-EH16ejg"></iframe>
+</div>
+<h2>CCA Model Pupil</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="basketball" src="/images/Core%20CCAs/basketball.png">
+</div>
+<p></p>
