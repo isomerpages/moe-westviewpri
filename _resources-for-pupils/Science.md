@@ -1803,32 +1803,6 @@ lives.</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Interactive games on energy conversion.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ==" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTUxXQ==</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10=" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTIxM10=</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ==" rel="noopener noreferrer nofollow" target="_blank"><u>https://games.legendsoflearning.com/games/WyJnYW1lcyIsMTQ3XQ==</u></a></em>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Theme: Interactions</strong></h4>
