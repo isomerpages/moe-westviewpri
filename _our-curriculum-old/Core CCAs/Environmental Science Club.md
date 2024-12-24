@@ -18,14 +18,10 @@ projects, they strive to make a difference for the planet and future generations
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Environmental_Science_club_image_1.jpg">
 </div>
 <h2>Teachers-in-Charge</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Agnes Ang (Overall IC)</p>
-</li>
-<li>
-<p>Mr A R Balamurugan</p>
-</li>
-</ul>
+<p>Mdm Loke Shu Fen (PAM) (IC)
+<br>Ms Gail Ng Shok Hwa (2IC)
+<br>Yap Siew Cheng Shirlena
+<br>Miss Meyyappan Priyavadana</p>
 <h2>Achievements</h2>
 <p><strong>Look out for updates here!</strong>
 </p>
