@@ -92,6 +92,6 @@ Tier 2 - Champion</p>
 </div>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="basketball" src="/images/Core%20CCAs/basketball.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballl.jpg">
 </div>
 <p></p>
