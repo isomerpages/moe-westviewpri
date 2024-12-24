@@ -102,6 +102,9 @@ traditions.</p>
 </p>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="chinese dance" src="/images/Core%20CCAs/chinese%20dance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Dance_2.jpg">
 </div>
 <p></p>
