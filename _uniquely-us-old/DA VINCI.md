@@ -11,27 +11,24 @@ of talents and abilities. Through a thoughtfully structured curriculum,
 the programme provides students with varied opportunities to maximize their
 strengths and reach their fullest potential, and is designed to develop
 critical thinking, creativity, and effective communication skills.</p>
-<p>&nbsp;The DA VINCI consists of three key programme:</p>
-<p><strong>BRAIN Programme</strong>
-</p>
-<p>Focused on developing effective communication and presentation skills,
+<p>The DA VINCI consists of three key programme:</p>
+<p><strong>BRAIN Programme </strong>
+<br>Focused on developing effective communication and presentation skills,
 this component will empower students to express their ideas clearly and
 confidently, preparing them for future opportunities to showcase their
 learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV.png">
 </div>
-<p><strong>E2K Math Programme</strong>
-</p>
-<p>Through engaging activities, students will strengthen their critical thinking
+<p><strong>E2K Math Programme </strong>
+<br>Through engaging activities, students will strengthen their critical thinking
 and problem-solving abilities, tackling real-world challenges with an innovative
 mindset.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_2.png">
 </div>
-<p><strong>Capstone Project</strong>  <strong>using Design Thinking</strong>
-</p>
-<p>Capstone Project will allow students to apply design thinking as they
+<p><strong>Capstone Project</strong>  <strong>using Design Thinking </strong>
+<br>Capstone Project will allow students to apply design thinking as they
 create and present meaningful projects. This experience will integrate
 the skills learned throughout the DA VINCI Programme and provide them with
 an opportunity to showcase their growth.</p>
@@ -82,6 +79,4 @@ parade, and singing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_6.png">
 </div>
-<p><u>&nbsp;</u>
-</p>
 <p>&nbsp;</p>
