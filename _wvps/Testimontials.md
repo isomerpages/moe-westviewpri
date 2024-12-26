@@ -14,8 +14,9 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N7-zwZ6JCvo"></iframe>
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -34,6 +35,10 @@ description: ""
 <p><strong>Review</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Source</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,6 +53,9 @@ description: ""
 with Fans, warm welcome from Security, assistants, teachers, principal
 on 11th Feb event</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,6 +68,9 @@ on 11th Feb event</p>
 <p>MK @ West View is very friendly and good teachers and staff, my kids love
 to going to school.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,6 +82,9 @@ to going to school.</p>
 <td rowspan="1" colspan="1">
 <p>very good school with nice teachers and learning environment.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,6 +95,9 @@ to going to school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Big field, kind teachers and encouraging environment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FB</p>
 </td>
 </tr>
 <tr>
@@ -98,6 +115,9 @@ guidance. Walking distance to Senja LRT and few bus stops to Bukit Panjang
 MRT DT1 Hillion Mall Bukit Panjang Plaza. Friendly cosy comfy welcoming
 ambience for groups students expats locals visitors and families.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -109,6 +129,9 @@ ambience for groups students expats locals visitors and families.</p>
 <td rowspan="1" colspan="1">
 <p>Best school ever! The teachers there are very kind and caring. Will miss
 this school.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
 </td>
 </tr>
 <tr>
@@ -123,6 +146,9 @@ this school.</p>
 of sports during recess, e.g. volleyball , badminton, soccer etc. West
 View is a very good school! Love it!!</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -134,6 +160,9 @@ View is a very good school! Love it!!</p>
 <td rowspan="1" colspan="1">
 <p>My children are very blessed and fortunate to be part of West View. They
 look forward to going to school and enjoying the fun activities there!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FB</p>
 </td>
 </tr>
 <tr>
@@ -147,6 +176,9 @@ look forward to going to school and enjoying the fun activities there!</p>
 <p>My son is blessed to be studying here at West View Primary School. We
 are forever grateful.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>FB</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -158,6 +190,9 @@ are forever grateful.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>I had a great experience in this school.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
 </td>
 </tr>
 <tr>
@@ -171,6 +206,9 @@ are forever grateful.</p>
 <td rowspan="1" colspan="1">
 <p>West view primary school is the best!</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Google</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -183,6 +221,9 @@ are forever grateful.</p>
 <p>Both my children studied here. Fantastic school...Will always remember
 the very effcient staff and especially the Principal who brought about
 a 360 degree positive change - Mr Eddie Foo. Thank you.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FB</p>
 </td>
 </tr>
 </tbody>
