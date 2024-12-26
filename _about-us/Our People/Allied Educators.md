@@ -31,16 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Special Educational Needs Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sheena_mohan_lal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheena D/O Mohan Lal</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Lead SEN Officer</strong>
 </p>
 </td>
