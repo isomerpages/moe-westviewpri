@@ -15,15 +15,17 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>OG 1 &amp; OG 2</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><a href="s_deviga@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Deviga</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="zhao_yijin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Zhao Yijin</u></a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
