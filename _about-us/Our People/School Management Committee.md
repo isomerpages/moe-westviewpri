@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Mathematics (Covering)</strong>
+<p><strong>HOD Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,7 +216,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH/Mathematics (Covering)</strong>
+<p><strong>LH/ Mathematics (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH/Chinese Language (Covering)</strong>
+<p><strong>LH/ Chinese Language (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
