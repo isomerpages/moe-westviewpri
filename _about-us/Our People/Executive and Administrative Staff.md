@@ -34,6 +34,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Administrative Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Khoo Poh Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 </p>
 </td>
@@ -59,16 +68,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tng_yew_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tng Yew Li</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jielun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Jielun</a>
 </p>
 </td>
 </tr>
