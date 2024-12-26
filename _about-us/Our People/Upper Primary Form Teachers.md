@@ -113,11 +113,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kee_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tan Kee Jin</u></a>
+<p><a href="mailto:ang_chai_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lam-Ang Chai Hwa</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:majidah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Majidah Ramli</u></a>
+<p><a href="mailto:chua_pheck_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lim-Chua Pheck Keng</u></a>
 </p>
 </td>
 </tr>
@@ -127,11 +127,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_cheng_yi_diana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Diana Low</u></a>
+<p><a href="mailto:lim_siew_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Diana Low</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_chyi_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Chng Chyi Woei</u></a>
+<p><a href="normanisha_sarmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Normanisha</u></a>
 </p>
 </td>
 </tr>
@@ -141,11 +141,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yip_jun_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Aaron Yip</u></a>
+<p><a href="loke_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Raja-Loke Shu Fen</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_siew_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Esther Chan</a>
+<p><a href="ho_yeow_lin_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Esther Chan</a>
 </p>
 </td>
 </tr>
@@ -155,11 +155,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gurdeep_kaur_gurnam_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Gurdeep Kaur</u></a>
+<p><a href="mailto:see_kian_leong_Jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr See Kian Leong, Jeremy</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhijjah_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nurhijjah</u></a>
+<p><a href="mailto:liu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Liu Ying</u></a>
 </p>
 </td>
 </tr>
