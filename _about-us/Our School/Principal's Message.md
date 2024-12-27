@@ -3,32 +3,40 @@ title: Principal's Message
 permalink: /about-us/our-school/principals-message/
 description: ""
 third_nav_title: Our School
-variant: markdown
+variant: tiptap
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/school.jpeg" alt="Principal's Message" style="width:50%;">  
-  
-
-
-**A warm welcome to West View Primary School!**  
-
-As we embark on a new school year, I am filled with gratitude for our West View Family. Our shared vision of developing every pupil into passionate learners and confident leaders continues to be the heartbeat of our school. Throughout the upcoming year, we are excited to provide vibrant programs and enriching learning experiences that will shape your child’s journey in education.
-
-In 2024, our school is set to unfold a tapestry of opportunities for growth, exploration, and discovery. From our enriched VIEWAN XP curriculum to exciting STRIVE modular and core co-curricular activities, we are dedicated to cultivating an environment where each pupil can honour their strengths and unlock new possibilities. To our new Primary 1 parents, a warm welcome! You will find that we are committed to making the school a safe and happy place for all pupils.
-
-At West View Primary School, we believe in fostering a vibrant learning community where our staff and pupils continually strive for excellence. Our success is deeply rooted in the strong partnership we
-share with parents. As we navigate the challenges and triumphs of the year, we look forward to working alongside you to bring out the best in your child. 
-
-Thank you for your unwavering support, and here's to another year of vibrant learning experiences!
-
-  <img src="/images/DSC08852-2.jpeg" alt="School Principal" style="width:30%;">  
-
-
-**Mr Eugene Lee** <br>
-Principal
+<div class="isomer-image-wrapper">
+<img style="width:50%;" height="auto" width="100%" alt="Principal's Message" src="/images/school.jpeg">
+</div>
+<p></p>
+<p><strong>A warm welcome to West View Primary School!</strong>
+</p>
+<p>Happy New Year and a heartfelt welcome to 2025! To our Primary 2 to Primary
+6 pupils and parents, it is wonderful to have you back with us. To our
+new Primary 1 pupils, we are thrilled to welcome you to the West View family.
+Starting primary school is a special milestone, and we look forward to
+journey alongside you as your child starts their journey with us.</p>
+<p>This year, we are proud to share our refreshed vision, mission, and values
+that reflect who we are and what we stand for as a school:</p>
+<p>Vision: Every West Viewan a Passionate Learner and Confident Leader</p>
+<p>Mission: To make school inviting and learning inspiring for our learners
+to grow holistically</p>
+<p>Values: Everyone’s a TALENT: Trustworthy, Active in Learning, Empathetic,
+eNterprising, and Tenacious</p>
+<p>Our TALENT values represent the heartbeat of everything we do. They remind
+us that every child is unique, with their own talents waiting to be discovered
+and nurtured. As we focus on growing their character, curiosity, and resilience,
+we hope to inspire your child to embrace challenges, take initiative, and
+strive for excellence—all while learning to care for others and contribute
+meaningfully to the world around them.</p>
+<p>Building strong bonds between home and school is key to helping every
+child flourish. As we align with the Ministry of Education’s recent guidelines
+on home-school partnership, we remain committed to open communication and
+mutual respect in our partnership with you. Let us continue to show respectful
+communication, positive role-modelling and real connections with our children
+to help them learn and grow.</p>
+<p>Thank you for choosing to be part of the West View journey. Together,
+we will make school inviting and learning inspiring for your child. Let’s
+make this year a meaningful and memorable one!</p>
+<p><strong>Mr Eugene Lee</strong> 
+<br>Principal</p>
