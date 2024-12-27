@@ -16,7 +16,7 @@ sections:
           url: /about-us/our-school/school-history/
         - title: Testimonials
           description: ""
-          url: ""
+          url: /testimontials/
         - title: Our Partners
           description: ""
           url: /our-partners/sac/
