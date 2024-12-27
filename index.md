@@ -19,7 +19,7 @@ sections:
           url: ""
         - title: Our Partners
           description: ""
-          url: /our-partners/
+          url: /our-partners/sac/
       background: /images/Banner2.gif
   - infopic:
       title: APPLIED LEARNING PROGRAMME
