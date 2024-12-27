@@ -11,15 +11,15 @@ sections:
         - title: What's On
           description: ""
           url: /wvps/whats-on/
-        - title: Quick Links
+        - title: Our History
           description: ""
-          url: /wvps/quick-links/
-        - title: Services
+          url: /about-us/our-school/school-history/
+        - title: Testimonials
           description: ""
-          url: /wvps/services/
-        - title: Resources
+          url: ""
+        - title: Our Partners
           description: ""
-          url: /wvps/resources/
+          url: /our-partners/
       background: /images/Banner2.gif
   - infopic:
       title: APPLIED LEARNING PROGRAMME
