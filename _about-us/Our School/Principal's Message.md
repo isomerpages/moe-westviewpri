@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r6AWuGv5sW0?si=Gks_ToiL1EDRUept"></iframe>
+<iframe height="415" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r6AWuGv5sW0?si=Gks_ToiL1EDRUept"></iframe>
 </div>
 <p><strong>A warm welcome to West View Primary School!</strong>
 </p>
