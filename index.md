@@ -20,7 +20,7 @@ sections:
         - title: Our Partners
           description: ""
           url: /our-partners/sac/
-      background: /images/Banner2.gif
+      background: /images/WVPS_banner2.png
   - infopic:
       title: Principal's Message
       id: infopic
