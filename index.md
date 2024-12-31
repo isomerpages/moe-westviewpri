@@ -20,7 +20,7 @@ sections:
         - title: Our Partners
           description: ""
           url: /our-partners/sac/
-      background: /images/WVPS_banner3.png
+      background: /images/WVPS_banner4.png
   - infopic:
       title: Principal's Message
       id: infopic
@@ -29,7 +29,7 @@ sections:
         memorable year ahead!
       button: Read the Full Message
       url: /about-us/our-school/principals-message/
-      image: /images/P_new_photo.jpg
+      image: /images/WhatsApp_Image_2024_10_18_at_12_17_17_PM.jpg
       alt: Image alt text
   - infopic:
       title: West View Primary School
