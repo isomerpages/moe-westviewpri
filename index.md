@@ -33,7 +33,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: West View Primary School
-      subtitle: Add an image and text
       id: infopic
       description: Find out more about details about our Primary School below!
       button: Read more
@@ -42,7 +41,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: MK @ WVPS
-      subtitle: Add an image and text
       id: infopic
       description: Find out more about details about our Primary School below!
       button: Read more
