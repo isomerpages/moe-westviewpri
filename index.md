@@ -28,7 +28,7 @@ sections:
         journey alongside you as your child starts their journey with us.
       button: Read the Full Message
       url: /about-us/our-school/principals-message/
-      image: /images/download.jpg
+      image: /images/P_new_photo.jpg
   - infopic:
       title: West View Primary School
       subtitle: Add an image and text
