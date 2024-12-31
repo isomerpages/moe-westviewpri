@@ -29,6 +29,7 @@ sections:
       button: Read the Full Message
       url: /about-us/our-school/principals-message/
       image: /images/P_new_photo.jpg
+      alt: Image alt text
   - infopic:
       title: West View Primary School
       subtitle: Add an image and text
