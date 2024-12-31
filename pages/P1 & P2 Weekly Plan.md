@@ -3,7 +3,6 @@ title: P1 & P2 Weekly Plan
 permalink: /p1-p2-weekly-planning/
 variant: tiptap
 description: ""
-third_nav_title: Home Based Learning
 ---
 <table style="minWidth: 150px">
 <colgroup>
