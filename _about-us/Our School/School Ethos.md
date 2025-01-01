@@ -30,9 +30,24 @@ holistically</p>
 <p>School Philosophy</p>
 <p>Every West Viewan, A Talented Pupil</p>
 <h2>School Motto</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/AH.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/AH.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>When we AIM HIGH and work towards our goals, we overcome the challenges
 we face to reach greater heights.</p>
 <h2>School Crest</h2>
