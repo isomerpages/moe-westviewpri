@@ -37,7 +37,7 @@ holistically</p>
 we face to reach greater heights.</p>
 <h2>School Crest</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logo.png">
 </div>
 <p>The school crest depicts three closely growing flowering plants enclosed
 in a pentagon.</p>
