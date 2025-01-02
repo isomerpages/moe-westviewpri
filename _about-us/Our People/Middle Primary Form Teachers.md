@@ -78,7 +78,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mdm Hussain Thasveena" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tan Coon Wei</u></a>
+<p><a href="hussain_thasveena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Hussain Thasveena</u></a>
 </p>
 </td>
 </tr>
@@ -129,7 +129,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_hoon_hoon_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Toon Lim</a>
+<p><a href="tan_hoon_hoon_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hoon Hoon</a>
 </p>
 </td>
 </tr>
