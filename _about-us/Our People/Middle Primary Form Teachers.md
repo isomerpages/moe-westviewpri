@@ -60,11 +60,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chai_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lam-Ang Chai Hwa</u></a>
-</p>
+<p>Mr John Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_wai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chan Wai Ling</u></a>
+<p><a href="mailto:chen_jing_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chen Jing Ting</u></a>
 </p>
 </td>
 </tr>
