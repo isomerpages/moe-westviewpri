@@ -169,10 +169,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ma_r_balamurugan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr A R Balamurugan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wee_shi_xiu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Wee Shi Xiu</a>
+</p>
 </td>
 </tr>
 </tbody>
