@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><a href="s_deviga@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Deviga</u></a>
+<p><a href="s_deviga@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Deviga</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
