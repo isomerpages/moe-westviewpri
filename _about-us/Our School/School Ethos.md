@@ -7,19 +7,9 @@ variant: tiptap
 ---
 <h2>Vision</h2>
 <p>Every West Viewan a Passionate Learner and Confident Leader</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Passionate learners enjoy learning, embrace challenges and take ownership
-of their learning</p>
-</li>
-<li>
-<p>Confident leaders have the heart to serve and the courage to make a positive
-change to themselves and others</p>
-</li>
-</ul>
 <h2>Mission</h2>
 <p>To make school inviting and learning inspiring for our learners to grow
-holistically</p>
+holistically.</p>
 <h2>Values</h2>
 <p>Everyone’s a <strong>TALENT</strong>:</p>
 <p><strong>T</strong>rustworthy</p>
@@ -27,8 +17,6 @@ holistically</p>
 <p><strong>E</strong>mpathetic</p>
 <p>e<strong>N</strong>terprising</p>
 <p><strong>T</strong>enacious</p>
-<h2>School Philosophy</h2>
-<p>Every West Viewan, A Talented Pupil</p>
 <h2>School Motto</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/AH.jpg">
