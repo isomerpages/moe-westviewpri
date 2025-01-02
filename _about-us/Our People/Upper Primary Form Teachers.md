@@ -127,11 +127,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_siew_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Esther Chan</u></a>
+<p><a href="mailto:lim_siew_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Esther Chan</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="normanisha_sarmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Normanisha</u></a>
+<p><a href="mailto:normanisha_sarmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Normanisha</u></a>
 </p>
 </td>
 </tr>
@@ -141,11 +141,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="loke_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Raja-Loke Shu Fen</u></a>
+<p><a href="mailto:loke_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Raja-Loke Shu Fen</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ho_yeow_lin_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Peter Ho</a>
+<p><a href="mailto:ho_yeow_lin_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Peter Ho</a>
 </p>
 </td>
 </tr>
