@@ -60,7 +60,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John Ang</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Mr John Ang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_jing_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chen Jing Ting</u></a>
