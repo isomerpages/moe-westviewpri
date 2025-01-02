@@ -27,7 +27,7 @@ holistically</p>
 <p><strong>E</strong>mpathetic</p>
 <p>e<strong>N</strong>terprising</p>
 <p><strong>T</strong>enacious</p>
-<p>School Philosophy</p>
+<h2>School Philosophy</h2>
 <p>Every West Viewan, A Talented Pupil</p>
 <h2>School Motto</h2>
 <div class="isomer-image-wrapper">
