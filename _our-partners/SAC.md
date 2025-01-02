@@ -32,7 +32,7 @@ to provide a holistic education for our pupils.</p>
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Associate Professor Jennier Huang</p>
+<p>Associate Professor Jennifer Huang</p>
 </td>
 </tr>
 <tr>
