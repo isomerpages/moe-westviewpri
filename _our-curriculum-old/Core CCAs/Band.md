@@ -92,8 +92,6 @@ in performance and also allows students to showcase their talents.</p>
 </div>
 <p><strong>Seniors leading discussion with the juniors during Band Bonding Day</strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
 </div>
