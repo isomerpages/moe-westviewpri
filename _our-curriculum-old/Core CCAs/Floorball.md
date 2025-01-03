@@ -5,10 +5,11 @@ description: ""
 third_nav_title: Core CCAs
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core%20CCAs/floorball_senior_team_2023.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_Senior_Team__2024_.jpg">
 </div>
-<p>Floorball Senior Team (2023)</p>
+<p>Floorball Senior Team (2024)</p>
 <h2>Brief of CCA</h2>
 <p>Floorball CCA provides our girls with the opportunity to learn floorball
 techniques and values such as resilience, teamwork, determination and sportsmanship.
@@ -37,6 +38,23 @@ for the performance of the team because everyone plays a part.</p>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games Floorball Championships (Senior Girls): League 3
+- 1st&nbsp;</p>
+</li>
+<li>
+<p>National School Games Floorball Championships (Junior Division): Tier
+1 Group 2 - 2nd</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -77,7 +95,7 @@ Division)</p>
 </table>
 <h2>What's up in our CCA?</h2>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw1YWWh4a6wXv7VPBxRk-G0ZGPS4KKj0RnJGKN9UYiWtpCwDY_VqJQvmXGZosAGu3KmqVwOUbacUJ-/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlczc9gKOcEP_FpDWWGQFqzA-I21DhUMOyw0ljw_7IIxkB4cSH41Fvu266zdhUUPAGri349zFg_igl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>
 <br>

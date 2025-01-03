@@ -73,13 +73,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ong_kian_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Kian Hock</a>
+<p><a href="mailto:ong_kian_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Kian Hock</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD/English Language</strong>
+<p><strong>HOD English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +153,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_hazreen_subadar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hazreen Bte Subadar</a>
+<p><a href="mailto:nur_hazreen_subadar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hazreen Bte Subadar</a>
 </p>
 </td>
 </tr>
@@ -220,7 +220,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cai_xingyi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cai Xingyi</a>
+<p><a href="mailto:cai_xingyi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cai Xingyi</a>
 </p>
 </td>
 </tr>
@@ -230,7 +230,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Chan_wai_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Wai Ling</a>
+<p><a href="mailto:Chan_wai_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Wai Ling</a>
 </p>
 </td>
 </tr>

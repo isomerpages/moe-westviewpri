@@ -3,85 +3,382 @@ title: School Ethos
 permalink: /about-us/our-school/school-ethos/
 description: ""
 third_nav_title: Our School
+variant: tiptap
 ---
-Vision
-------
-
-Passionate Learners, Confident Leaders
-
-Mission
--------
-
-A vibrant school where we strive to do our best.
-
-Values - ICARE
---------------
-
-<table class="iveo_table ive_eobj_center ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 850.891px; height: 307px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 57px;"><font size="6" color="#ff0000" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">I</b></font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 209px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Integrity to Uphold</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 584px;">It is a call to our pupils to be honest and uphold strong moral uprightness</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 248, 232); color: rgb(4, 40, 71); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><font size="6" color="#ff0000" style="margin: 0px; outline: 0px; padding: 0px;">C</font></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 248, 232); color: rgb(4, 40, 71); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Care<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">Commitment to Learning</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 248, 232); color: rgb(4, 40, 71); width: 60px;">It expects our pupils to respect and value the people around them<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">It requires our pupils to understand the importance of learning and gaining knowledge for personal growth</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><font size="6" color="#ff0000" style="margin: 0px; outline: 0px; padding: 0px;">A</font></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Aspiration to achieve</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71); width: 60px;">It inspires our pupils to have a clear vision of what they want to achieve and strive hard to reach their goals</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 248, 232); color: rgb(4, 40, 71);"><b style="margin: 0px; outline: 0px; padding: 0px;"><font size="6" color="#ff0000" style="margin: 0px; outline: 0px; padding: 0px;">R</font></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 248, 232); color: rgb(4, 40, 71);"><b style="margin: 0px; outline: 0px; padding: 0px;">Responsibility, our growth</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 248, 232); color: rgb(4, 40, 71);">It reminds our pupils to embrace personal responsibility to become good in their endeavour&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(227, 238, 255); color: rgb(4, 40, 71);"><b style="margin: 0px; outline: 0px; padding: 0px;"><font size="6" color="#ff0000" style="margin: 0px; outline: 0px; padding: 0px;">E</font></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71);"><b style="margin: 0px; outline: 0px; padding: 0px;">Excellence, our pursuit</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(227, 238, 255); color: rgb(4, 40, 71);">It compels our pupils to always give their best and never settle for mediocrity&nbsp;</td></tr></tbody></table>
-
-School Philosophy
------------------
-
-<img src="/images/School%20Philosophy.jpeg" style="width:30%">
-
-School Motto
-------------
-
-<img src="/images/School%20Motto.jpeg" style="width:25%">
-
-When we AIM HIGH and work towards our goals, we overcome the challenges we face to reach greater heights.
-
-Learning Dispositions - PRIDE
------------------------------
-
-<img src="/images/PRIDE.jpeg" style="width:100%">
-
-School Crest
-------------
-
-<img src="/images/School%20Crest%20&amp;%20Song.jpeg" style="width:30%">
-
-The school logo depicts three closely growing flowering plants enclosed in a pentagon. The light blue background signifies the purity and innocence of children while the grey signifies the experience and maturity the children will gain while in West View Primary School.
-
-  
-
-The five sides of the pentagon symbolise the continuous development of the children morally, cognitively, physically, socially and aesthetically.
-
-  
-
-The flowering plants forming the letters 'W' and 'V' represent the zest, exuberance and growth that pupils experience while in West View Primary School and the closeness of the plants indicate the friendship and trust among pupils, teachers and the school community.
-
-School Song
------------
-
-**<u>Lyrics</u>**  
-West View Primary School where we belong  
-We grow and learn to be strong  
-West View Primary, the school we hold so dear  
-Forward we march to face the future with joy and cheer  
-  
-Aim high we will  
-Strive hard we shall  
-With wisdom we progress  
-Striving to do our best  
-  
-Aim high we will  
-Strive hard we shall  
-With wisdom we progress  
-Striving to do our best  
-  
-Pursue knowledge; cultivate values  
-Build bonds; make friends and grow strong  
-Confident we'll be, at West View Primary  
-To face the future  
-With what you have given me  
-  
-Aim high we will  
-Strive hard we shall  
-With wisdom we progress  
-Striving to do our best  
-  
-Aim high we will  
-Strive hard we shall  
-With wisdom we progress  
-Striving to do our best (x2)
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<h2>School Vision</h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Malay</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Vision</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>学校愿景</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Visi Sekolah</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;தொலைநோக்கு&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every West Viewan a Passionate Learner and Confident Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>维新学子--热爱学习，自信卓越</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Setiap pelajar West View penuntut yang bersemangat dan pemimpin yang berkeyakinan.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ஒவ்வொரு வெஸ்ட் வீயூ மாணவன் ஆர்வமுடன் கற்பதோடு தன்னபிக்கையோடு வழிநடத்தும்
+தலைவனாவான்.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Passionate learners enjoy learning, embrace challenges and take ownership
+of their learning&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pelajar yang bersemangat suka menimba ilmu, berani menghadapi cabaran
+dan bertanggungjawab terhadap pembelajaran.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ஆர்வத்துடன் கற்கும் மாணவன் பாடங்களை விரும்பிக் கற்பதோடு, அதில் எழும் சவால்களை
+மேற்கொண்டு, தனது கற்றலில் பொறுப்பெற்றுக்கொள்கிறான்.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Confident leaders have the heart to serve and the courage to make a positive
+change to themselves and others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>自信的领袖拥有服务他人的热忱，以及有勇气对自己和他人做出积极的改变。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pemimpin yang berkeyakinan berkhidmat secara ikhlas &amp; berani membuat
+perubahan positif terhadap diri sendiri dan orang lain.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>தன்னம்பிக்கையுள்ள தலைவர்கள் தனக்கும் பிறருக்கும் ஆக்கப்பூர்வமான மாற்றத்தை
+ஏற்படுத்தும் மனப்பான்மை கொண்டவர்களாக இருக்க வேண்டும்.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<h2>School Mission</h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Mission</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>学校使命</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Misi Sekolah</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>குறிக்கோள்&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>To make school inviting and learning inspiring for our learners to grow
+holistically</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>营造一个温馨且激发学习热情的校园，促进维新学子全面发展</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Menjadikan sekolah tempat yang menarik dan pembelajaran yang memberikan
+inspirasi kepada pelajar untuk berkembang secara holistik.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>மனங்கவரும் பள்ளியை உருவாக்கி கற்றலை ஊக்கமளிக்கும் வகையில் மாணவர்களை முழுமையாக
+வளர்ச்சி அடைய செய்தல்</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<h2>School Values</h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Values</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>学校价值观</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nilai-Nilai Sekolah</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>பள்ளி விழுமியங்கள்&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Everyone's a TALENT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>维新学子皆可成才</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Setiap pelajar BERBAKAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>மாணவர்கள் அனைவரும் திறமைசாலிகள்&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trustworthy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>值得信赖</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boleh dipercayai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>நம்பகத்தன்மை&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Active in Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>积极学习</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aktif dalam pembelajaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ஈடுபாடுடன் கற்றல்&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Empathetic&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>富有同理心</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Menunjukkan empati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>பரிவு காட்டுதல்&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Enterprising&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>勇于进取</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Berdaya usaha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>துணிவு&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tenacious</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>坚持不懈</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cekal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>உறுதி&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Aspiration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>我们的愿景</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aspirasi Kami</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>நமது இலக்கு&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>To be a school of choice in our community</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>成为社区的首选学校</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Menjadi sekolah pilihan dalam komuniti kami</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>சமூகத்தில் விரும்பத்தக்க பள்ளியாகத்&nbsp; திகழ்தல்&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>School Motto</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/AH.jpg">
+</div>
+<p>When we AIM HIGH and work towards our goals, we overcome the challenges
+we face to reach greater heights.</p>
+<h2>School Crest</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logo.png">
+</div>
+<p>The school crest depicts three closely growing flowering plants enclosed
+in a pentagon.</p>
+<p>The light blue background signifies the purity and innocence of children
+while the black frame implies the discipline and self-directedness our
+children will grow and develop over the years in in West View Primary School.</p>
+<p>The five sides of the pentagon symbolise the continuous development of
+the children morally, cognitively, physically, socially and aesthetically.</p>
+<p>The flowering plants forming the letters ‘W’ and ‘V’ represent the zest,
+exuberance and growth that pupils experience while in West View Primary
+School and the closeness of the plants indicates the friendship and trust
+among pupils, teachers and the school community.</p>
+<h2>School Song</h2>
+<p><strong><u>Lyrics</u></strong>
+<br>West View Primary School where we belong
+<br>We grow and learn to be strong
+<br>West View Primary, the school we hold so dear
+<br>Forward we march to face the future with joy and cheer</p>
+<p>Aim high we will
+<br>Strive hard we shall
+<br>With wisdom we progress
+<br>Striving to do our best</p>
+<p>Aim high we will
+<br>Strive hard we shall
+<br>With wisdom we progress
+<br>Striving to do our best</p>
+<p>Pursue knowledge; cultivate values
+<br>Build bonds; make friends and grow strong
+<br>Confident we’ll be, at West View Primary
+<br>To face the future
+<br>With what you have given me</p>
+<p>Aim high we will
+<br>Strive hard we shall
+<br>With wisdom we progress
+<br>Striving to do our best</p>
+<p>Aim high we will
+<br>Strive hard we shall
+<br>With wisdom we progress
+<br>Striving to do our best (x2)</p>
+<p>&nbsp;</p>
