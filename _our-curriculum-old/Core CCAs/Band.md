@@ -82,51 +82,36 @@ in performance and also allows students to showcase their talents.</p>
 </table>
 <h2>What’s up in our CCA?</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core%20CCAs/Band_/image1.jpeg">
-</div>
-<p><strong>Band Practice Session</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core%20CCAs/Band_/image2.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core%20CCAs/Band_/image3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Concert Performance during National Day" src="/images/Picture4.jpg">
 </div>
 <p><strong>Concert Performance during National Day</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core%20CCAs/Band_/image4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Seniors leading discussion with the juniors during Band Bonding Day" src="/images/Picture5.jpg">
+</div>
+<p><strong>Seniors leading discussion with the juniors during Band Bonding Day</strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
 </div>
 <p><strong>Attracting interest from potential new members during CCA recruitment</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core%20CCAs/Band_/image5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+<p><strong>During</strong>  <strong>Band Practice Session</strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
 <p><strong>Performance at Get Active! Singapore Heartland Festival 2023</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Band" src="/images/IMG_20190312_163450_062.jpeg">
-</div>
-<p><strong>Seniors leading discussion with the juniors during Band Bonding day</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Band" src="/images/IMG_9884.jpeg">
-</div>
-<p><strong>Performing for Star Awards 2019</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Band" src="/images/IMG-20191108-WA0049_auto_x2_colored_toned.jpeg">
-</div>
-<p><strong>After performing at Asia Square, 8 November 2019</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Band" src="/images/IMG-20191108-WA0042_auto_x2_colored_toned.jpeg">
-</div>
-<p><strong>Performing at Asia Square, 8 November 2019</strong>
 </p>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
