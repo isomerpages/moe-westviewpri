@@ -31,6 +31,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="4">
+<h4>School Vision</h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <h4>School Vision</h4>
 </td>
@@ -94,31 +99,32 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="4">
+<p></p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<h4><strong>School Mission</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>School Mission</h4>
+<p><strong>School Mission</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>学校使命</h4>
+<p><strong>学校使命</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Misi Sekolah</h4>
+<p><strong>Misi Sekolah</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>குறிக்கோள்&nbsp;</h4>
+<p><strong>குறிக்கோள்&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,31 +145,32 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="4">
+<p></p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<h4><strong>School Values</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>School Values</h4>
+<p><strong>School Values</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>学校价值观</h4>
+<p><strong>学校价值观</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Nilai-Nilai Sekolah</h4>
+<p><strong>Nilai-Nilai Sekolah</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>பள்ளி விழுமியங்கள்&nbsp;</h4>
+<p><strong>பள்ளி விழுமியங்கள்&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
