@@ -5,9 +5,26 @@ description: ""
 third_nav_title: Core CCAs
 variant: tiptap
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Basketball" src="/images/Basketball.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Junior_Basketball_team_2024.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Senior_Basketball_team_2024.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h2>Brief of CCA</h2>
 <p>Basketball is more than a game for pupils to have fun. By playing basketball,
 pupils develop character and values such as teamwork, sportsmanship, leadership
@@ -35,6 +52,23 @@ of the match.</p>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games Basketball Championships (Senior Boy Division):
+League 1 National Top 8</p>
+</li>
+<li>
+<p>National School Games Basketball Championships (Junior Boy Division):
+Tier 2 Champion</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
