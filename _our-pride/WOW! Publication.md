@@ -11,7 +11,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://acrobat.adobe.com/id/urn:aaid:sc:ap:ab30d7f3-ae61-4e29-907a-9825924d919b"><img style="width: 88%;" height="auto" width="100%" alt="" src="/images/WOW_2024.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1lK1XgelmvnzlPhi4RaZELPkUhqELYvWu/view?usp=sharing"><img style="width: 88%;" height="auto" width="100%" alt="" src="/images/WOW_2024.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1qVvZEPT82EtC-x_tN16Ema0vCZobse2b/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="WoW 2023" src="/images/WoW_2023_cover.png"></a>
 </th>
