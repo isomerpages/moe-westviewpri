@@ -17,7 +17,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://acrobat.adobe.com/id/urn:aaid:sc:ap:8007f65a-2599-4f30-9030-1d19fb68b73a"><img style="width: 82%;" height="auto" width="100%" alt="WoW 2022" src="/images/WOW_2022.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/118KrF9Y2IipB-ztiCK6iFZdaTozr7Cp1/view?usp=sharing"><img style="width: 82%;" height="auto" width="100%" alt="WoW 2022" src="/images/WOW_2022.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/13GpN0hxp_Uc_uZg6VKzpCkYMNHNZn9Vy/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="WoW 2021" src="/images/WOW%20Publication%202021.jpeg"></a>
 </td>
