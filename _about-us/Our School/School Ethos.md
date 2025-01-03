@@ -32,21 +32,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<h4>School Vision</h4>
+<h4><strong>School Vision</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>School Vision</h4>
+<p><strong>School Vision</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>学校愿景</h4>
+<p><strong>学校愿景</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Visi Sekolah</h4>
+<p><strong>Visi Sekolah</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>&nbsp;தொலைநோக்கு&nbsp;</h4>
+<p><strong>&nbsp;தொலைநோக்கு&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
