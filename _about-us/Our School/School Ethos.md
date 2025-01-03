@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<h4><strong>School Vision</strong></h4>
+<h2>School Vision</h2>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<h4><strong>School Mission</strong></h4>
+<h2>School Mission</h2>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<h4><strong>School Values</strong></h4>
+<h2>School Values</h2>
 </td>
 </tr>
 <tr>
