@@ -41,6 +41,23 @@ for the performance of the team because everyone plays a part.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games Floorball Championships (Senior Girls): League 3
+- 1st&nbsp;</p>
+</li>
+<li>
+<p>National School Games Floorball Championships (Junior Division): Tier
+1 Group 2 - 2nd</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
