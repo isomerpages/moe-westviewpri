@@ -23,7 +23,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="wow publication for 2020"><img style="width: 86%;" height="auto" width="100%" alt="WoW 2020" src="/images/WhatsApp%20Image%202021-11-02.jpeg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/12v8S48OxJIr3vIEMbH9dQ42HX-pZmbhm/view?usp=sharing"><img style="width: 86%;" height="auto" width="100%" alt="WoW 2020" src="/images/WhatsApp%20Image%202021-11-02.jpeg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:a62b268c-1653-431b-a076-420dad408eb0"><img style="width: 100%;" height="auto" width="100%" alt="WoW 2019" src="/images/WhatsApp%20Image%202021-11-02%20at.jpeg"></a>
