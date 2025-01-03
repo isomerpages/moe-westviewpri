@@ -14,6 +14,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="4">
+<h4><strong>School Vision</strong></h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -28,11 +33,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Tamil</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<h4><strong>School Vision</strong></h4>
 </td>
 </tr>
 <tr>
