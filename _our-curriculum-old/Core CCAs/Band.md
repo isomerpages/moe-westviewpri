@@ -7,18 +7,15 @@ variant: tiptap
 ---
 <h2>Brief of CCA</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brief of CCA" src="/images/Band%20CCA%202022%202.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_2024.jpg">
 </div>
 <p>West View Primary School Brass Band is an avenue for pupils to explore
 and build on their interest in music. The band provides a variety of platforms
 within and outside of school which help to boost the students’ confidence
 in performance and also allows students to showcase their talents.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Band" src="/images/Band%20CCA%202022%201.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_2024_2.jpg">
 </div>
-<p>
-<br>
-</p>
 <h2>Teachers-in-Charge</h2>
 <p>Ms Deviga (IC)
 <br>Mdm Zakiah (2IC)
@@ -40,6 +37,14 @@ in performance and also allows students to showcase their talents.</p>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
