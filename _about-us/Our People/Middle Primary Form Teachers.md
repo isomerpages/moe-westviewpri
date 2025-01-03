@@ -153,7 +153,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_kim_soon_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Kim Soon Daniel</a>
+<p><a href="mailto:lim_kim_soon_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Kim Soon Daniel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
