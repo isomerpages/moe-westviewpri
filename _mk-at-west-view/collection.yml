@@ -2,7 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Register for MK @ Westview Now.md
+      - MK Openhouse.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our People.md
