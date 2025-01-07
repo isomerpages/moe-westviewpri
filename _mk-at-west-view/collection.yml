@@ -2,7 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - MK Openhouse.md
+      - MK Open House.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our People.md
