@@ -42,6 +42,22 @@ doctors, checking on the health of our leafy greens and ensuring our high-tech
 hydroponics and aquaponics systems are in tip-top shape. It’s all about
 hands-on fun, learning, and making our gardens bloom with life!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110606.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110635.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110701.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110715.png">
+</div>
+<p></p>
 <p><u>Farmer’s Market</u>
 </p>
 <p>From farm to table, our CCA members turn their harvest into a buzzworthy
@@ -50,6 +66,20 @@ from the Blooming Gardens, they proudly share the fruits (and greens!)
 of their labour with the school community. It’s not just about sharing
 the produce – it’s about spreading the joy of gardening, sustainable living,
 and a healthy lifestyle.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110727.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110747.png">
+</div>
+<p>Fresh Kang Kong and Spinach</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110810.png">
+</div>
+<p>Fresh Cherry Tomatoes</p>
 <p></p>
 <p><u>Upcycling</u>
 </p>
@@ -61,6 +91,10 @@ recycled bottles, their projects are as practical as they are planet-friendly.
 It’s all about turning “trash” into treasures while learning the value
 of reducing waste. Who knew saving the Earth could be this much fun?</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110826.png">
+</div>
+<p></p>
 <p><u>Learning Journeys</u>
 </p>
 <p>Adventure meets advocacy for our CCA members! They embarked on exciting
@@ -70,6 +104,19 @@ there—they rolled up their sleeves for a litter-picking mission at the
 nearby Pang Sua Pond, making it cleaner and greener for everyone to enjoy.
 Every trip is an eco-adventure, where they learn, act, and make a real
 difference in our community!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110842.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110853.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110928.png">
+</div>
+<p></p>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Sci_club.jpg">
