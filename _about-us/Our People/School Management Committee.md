@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
+<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/smc_formal_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/SMC_Formal.jpg">
 </div>
 <h2>School Leaders</h2>
 <table style="minWidth: 50px">

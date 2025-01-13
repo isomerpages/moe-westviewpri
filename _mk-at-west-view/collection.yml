@@ -2,7 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - MK Orientation.md
+      - MK Open House.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our People.md
@@ -16,5 +16,3 @@ collections:
       - Gallery/2022.md
       - Gallery/2021.md
       - Partners.md
-      - Waitlist.md
-      - Partnership with Parents.md

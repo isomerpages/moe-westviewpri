@@ -40,11 +40,11 @@ sections:
       image: /images/Experiential_Learning4___Copy.jpg
       alt: Image alt text
   - infopic:
-      title: MK @ WVPS
+      title: MK @ WV
       id: infopic
-      description: Find out more about details about our Primary School below!
+      description: Find out more details about our MOE Kindergarten below!
       button: Read more
-      url: /mk-at-west-view/about-us/
+      url: /mk-at-west-view/mkopenhouse/
       image: /images/IMG_9082.jpg
       alt: Image alt text
 ---
