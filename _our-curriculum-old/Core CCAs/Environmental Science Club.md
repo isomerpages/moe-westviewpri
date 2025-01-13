@@ -33,7 +33,7 @@ one step at a time!</p>
 <p><strong>Look out for updates here!</strong>
 </p>
 <h2>What's up in our CCA?</h2>
-<p><u>Blooming Gardens @ WVPS</u>
+<p><strong><u>Blooming Gardens @ WVPS</u></strong>
 </p>
 <p>Our young eco-heroes roll up their sleeves and dive into the exciting
 world of gardening at West View Primary School’s Blooming Gardens! Besides
@@ -58,7 +58,7 @@ hands-on fun, learning, and making our gardens bloom with life!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110715.png">
 </div>
 <p></p>
-<p><u>Farmer’s Market</u>
+<p><strong><u>Farmer’s Market</u></strong>
 </p>
 <p>From farm to table, our CCA members turn their harvest into a buzzworthy
 event at our very own Farmer’s Market! Armed with freshly picked veggies
@@ -95,7 +95,7 @@ of reducing waste. Who knew saving the Earth could be this much fun?</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110826.png">
 </div>
 <p></p>
-<p><u>Learning Journeys</u>
+<p><strong><u>Learning Journeys</u></strong>
 </p>
 <p>Adventure meets advocacy for our CCA members! They embarked on exciting
 learning journeys to uncover the secrets of sustainability, gaining hands-on
