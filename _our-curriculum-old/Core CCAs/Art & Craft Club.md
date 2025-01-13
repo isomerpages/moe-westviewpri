@@ -11,9 +11,8 @@ to create art. Activities are designed to allow pupils to further expand
 their artistic knowledge and ability through exposure of art events, critique
 and art-making.</p>
 <h2>Teachers-in-charge</h2>
-<p>Mrs Raja-Loke Shu Fen (Overall-in-charge)
-<br>Ms Gail Ng (Second-in-charge)
-<br>Mrs Charmian New (Advisor)
+<p>Mdm Loke Shu Fen (PAM) (IC)
+<br>Ms Gail Ng Shok Hwa (2IC)
 <br>Ms Yap Siew Cheng Shirlena
 <br>Ms Meyyappan Priyavadana</p>
 <h2><br>Achievements</h2>
