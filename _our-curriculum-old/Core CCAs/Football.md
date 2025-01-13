@@ -6,7 +6,7 @@ third_nav_title: Core CCAs
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Placeholder_football_CCA_image.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Football_Picture.png">
 </div>
 <h2>Brief of CCA</h2>
 <p>Our Football CCA provides our boys with an avenue to build resilience,
