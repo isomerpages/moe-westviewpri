@@ -22,9 +22,6 @@ young environmentalists will grow into future-ready leaders who care for
 our planet.</p>
 <p>Join us as we make West View Primary School greener and more sustainable,
 one step at a time!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Environmental_Science_club_image_1.jpg">
-</div>
 <h2>Teachers-in-Charge</h2>
 <p>Mr A R Balamurugan (IC)</p>
 <p>Ms Thilagaletchumi (2IC)</p>
@@ -40,7 +37,7 @@ world of gardening at West View Primary School’s Blooming Gardens! Besides
 growing and harvesting their own fresh veggies, they also become plant
 doctors, checking on the health of our leafy greens and ensuring our high-tech
 hydroponics and aquaponics systems are in tip-top shape. It’s all about
-hands-on fun, learning, and making our gardens bloom with life!</p>
+hands-on fun, learning, and making our gardens bloom with life! 🌱🍅</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110606.png">
@@ -65,8 +62,7 @@ event at our very own Farmer’s Market! Armed with freshly picked veggies
 from the Blooming Gardens, they proudly share the fruits (and greens!)
 of their labour with the school community. It’s not just about sharing
 the produce – it’s about spreading the joy of gardening, sustainable living,
-and a healthy lifestyle.</p>
-<p></p>
+and a healthy lifestyle. 🥬🍅🌟</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110727.png">
 </div>
@@ -89,7 +85,7 @@ everyday items into something extraordinary. From crafting colorful fabric
 coaster mats out of old clothes to designing self-watering planters using
 recycled bottles, their projects are as practical as they are planet-friendly.
 It’s all about turning “trash” into treasures while learning the value
-of reducing waste. Who knew saving the Earth could be this much fun?</p>
+of reducing waste. Who knew saving the Earth could be this much fun? ♻️✨</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110826.png">
@@ -103,8 +99,7 @@ insights into how we can care for our planet. But the action didn’t stop
 there—they rolled up their sleeves for a litter-picking mission at the
 nearby Pang Sua Pond, making it cleaner and greener for everyone to enjoy.
 Every trip is an eco-adventure, where they learn, act, and make a real
-difference in our community!</p>
-<p></p>
+difference in our community! 🌍🛤️✨</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Environmental Science Club/Screenshot_2025_01_13_110842.png">
 </div>
