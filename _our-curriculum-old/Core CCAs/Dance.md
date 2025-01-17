@@ -6,13 +6,13 @@ third_nav_title: Core CCAs
 variant: tiptap
 ---
 <h2><br>Brief of CCA</h2>
-<p>The International Dance Club offers students the opportunity to explore
-and celebrate diverse dance styles from around the world. Through engaging
-in various dance forms such as ballet, hip-hop and traditional cultural
-dances, students learn about different cultures while developing their
-creativity, coordination, and teamwork skills. The program encourages self-expression
-and physical fitness, fostering confidence and collaboration among participants.
-Regular practice sessions, performances, and cultural exchanges allow students
+<p>The Dance Club offers students the opportunity to explore and celebrate
+diverse dance styles from around the world. Through engaging in various
+dance forms such as ballet, hip-hop and traditional cultural dances, students
+learn about different cultures while developing their creativity, coordination,
+and teamwork skills. The program encourages self-expression and physical
+fitness, fostering confidence and collaboration among participants. Regular
+practice sessions, performances, and cultural exchanges allow students
 to showcase their talents and deepen their appreciation for global dance
 traditions.</p>
 <h2>Teachers-in-Charge</h2>
