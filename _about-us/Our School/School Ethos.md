@@ -5,23 +5,19 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <h2>School Vision</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Chinese&nbsp;</strong>
 </p>
@@ -37,10 +33,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Vision</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>学校愿景</strong>
 </p>
 </td>
@@ -55,9 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every West Viewan a Passionate Learner and Confident Leader</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>维新学子--热爱学习，自信卓越</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,10 +58,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Passionate learners enjoy learning, embrace challenges and take ownership
-of their learning&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
 </td>
@@ -87,10 +72,6 @@ dan bertanggungjawab terhadap pembelajaran.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Confident leaders have the heart to serve and the courage to make a positive
-change to themselves and others</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>自信的领袖拥有服务他人的热忱，以及有勇气对自己和他人做出积极的改变。</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,21 +84,17 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p></p>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <h2>School Mission</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Mission</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>学校使命</strong>
 </p>
@@ -132,10 +109,12 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>To make school inviting and learning inspiring for our learners to grow
 holistically</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>营造一个温馨且激发学习热情的校园，促进维新学子全面发展</p>
 </td>
@@ -149,21 +128,17 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p></p>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <h2>School Values</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Values</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>学校价值观</strong>
 </p>
@@ -178,9 +153,6 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Everyone's a TALENT</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>维新学子皆可成才</p>
 </td>
@@ -201,14 +173,8 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Trustworthy</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>值得信赖</p>
 </td>
@@ -221,9 +187,6 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Active in Learning</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>积极学习</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,9 +197,6 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Empathetic&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>富有同理心</p>
 </td>
@@ -249,9 +209,6 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enterprising&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>勇于进取</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -262,9 +219,6 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Tenacious</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>坚持不懈</p>
 </td>
@@ -285,14 +239,8 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Our Aspiration</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>我们的愿景</p>
 </td>
@@ -305,9 +253,6 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>To be a school of choice in our community</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>成为社区的首选学校</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,9 +263,6 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
