@@ -133,29 +133,23 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="5">
+<p>To make school inviting and learning inspiring for our learners to grow
+holistically</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p><strong>学校使命</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Misi Sekolah</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>குறிக்கோள்&nbsp;</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p>To make school inviting and learning inspiring for our learners to grow
-holistically</p>
 </td>
 </tr>
 <tr>
