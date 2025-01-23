@@ -128,10 +128,7 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <h2>School Mission</h2>
 </td>
 </tr>
@@ -156,25 +153,16 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <p>To make school inviting and learning inspiring for our learners to grow
 holistically</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>营造一个温馨且激发学习热情的校园，促进维新学子全面发展</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Menjadikan sekolah tempat yang menarik dan pembelajaran yang memberikan
 inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
