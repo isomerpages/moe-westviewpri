@@ -11,6 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/mke_formal_resized.jpg">
 </div>
+<h2></h2>
 <h2>Key Personnels</h2>
 <table style="minWidth: 50px">
 <colgroup>
