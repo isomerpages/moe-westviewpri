@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - MK Open House.md
-      - About Us/Centrehead Message.md
       - About Us/.keep
       - About Us/About Us.md
-      - About Us/Our People.md
       - About Us/Our Mission, Vision & Beliefs.md
+      - About Us/Centrehead Message.md
+      - About Us/Our People.md
       - Our People.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
