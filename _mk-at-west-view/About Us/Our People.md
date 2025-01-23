@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Kindergarten Teacher (Malay)</h2>
+<h2>Kindergarten Educators (Malay Language)</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -145,12 +145,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Jannah Fatin Bte Mohd Johari</p>
+<p>Mdm Nur Jannah Fatin Bte Mohd Johari (MTL team coordinator)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Haziqah Binte Zamhari</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>Kindergarten Teacher (Tamil)</h2>
+<h2>Kindergarten Educators (Tamil Language)</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
