@@ -1,5 +1,5 @@
 collections:
-  wvps-old:
+  wvps:
     output: true
     order:
       - What's On.md
