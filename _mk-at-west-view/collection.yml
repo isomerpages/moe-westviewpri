@@ -2,10 +2,10 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Administration Matters/Financial Assistance.md
-      - Administration Matters/Uniform Expenses.md
-      - Administration Matters/K Care Monthly Fee.md
       - Administration Matters/.keep
+      - Administration Matters/K Care Monthly Fee.md
+      - Administration Matters/Uniform Expenses.md
+      - Administration Matters/Financial Assistance.md
       - MK Open House.md
       - About Us/.keep
       - About Us/About Us.md
