@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - Administration Matters/MK Month Fees.md
       - Administration Matters/.keep
       - Administration Matters.md
       - MK Open House.md
