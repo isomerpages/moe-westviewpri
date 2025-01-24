@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - MK Open House.md
+      - About Us/MK Environment.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Centrehead Message.md
