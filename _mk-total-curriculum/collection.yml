@@ -1,7 +1,0 @@
-collections:
-  mk-total-curriculum:
-    output: true
-    order:
-      - MK Environment/.keep
-      - MK Curriculum/.keep
-      - School Hours/.keep
