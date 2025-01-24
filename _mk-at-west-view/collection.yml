@@ -2,7 +2,6 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Contact Us.md
       - Administration Matters/.keep
       - Administration Matters/K Care Monthly Fee.md
       - Administration Matters/Uniform Expenses.md
@@ -15,14 +14,15 @@ collections:
       - About Us/Our People.md
       - About Us/Flagship Programme.md
       - About Us/MK Total Curriculum.md
-      - MK Total Curriculum/MK Environment.md
       - MK Total Curriculum/.keep
+      - MK Total Curriculum/MK Environment.md
       - MK Total Curriculum/Hours.md
       - MK Total Curriculum/MK Curriculum.md
+      - Gallery/.keep
       - Gallery/2024.md
       - Gallery/2025.md
-      - Gallery/.keep
       - Gallery/2023.md
       - Gallery/2022.md
       - Gallery/2021.md
       - Partners.md
+      - Contact Us.md
