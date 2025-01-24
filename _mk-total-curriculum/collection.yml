@@ -2,4 +2,5 @@ collections:
   mk-total-curriculum:
     output: true
     order:
+      - MK Curriculum/.keep
       - School Hours/.keep
