@@ -5,3 +5,43 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gallery" src="/images/Header%204%20Gallery.png">
+</div>
+<h3>1. Children in Action (Term 1)</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSG1Fs7JyRNBTPcFM0D4nsiT3dWLIqHYybkecupM96vdcNlyywdA2k-tVBBQkz0rASDLGtACaWw7iho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h3>2. Chinese New Year Celebration</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlzws-kaCeEKtf8jmyWNKB6aUEK9RPo78CigH6an1GljxoAgaxQrTzhT4KI5KP2PpHgN7veT1gpawD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h3>3. Hari Raya Celebration</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOHZOi-UGqyxZATisOyXCQLP8GAHJQQogWXU7Igfcwb9KQLBMGNgjdtAxHb8XrYF97pOTtCHKhOL7l/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>4. Children in Action (Term 2)</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8SxbQ4NvxO6krfxhXtYEUnwnRQNAGTqxVQNzZVUYc4_DeFcy2WT7Q-Zb2TXxdZIcE4MC8W-C5A42n/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>5. Racial Harmony Day Celebration</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQBdeMHc1G0x30X2X8pcE1ekMlLxO4-MFJx_Bh9g0KaxDTj6x-pGZ-IubSwkWiWHQGb-WmdHV47TsA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h3>6. National Day Celebration</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuzsZDhjqliGrG3s1MDeSNqizfJJArOUJIwf353nOKcbvvKA6xRnQwC_LMBPcC2C78tIbxWmlGw4r4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h3>7. Children in Action (Term 3)</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSreKLK-Iq36RfcATMF4Dt_RnccoevDRaAnFoYrieJ3Ao7ERzMnO19P6zP2tqCNmXRH0nvAynTGsZ97/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h3>8. Teacher's Day Celebration</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfp34C0d0hqR3s8hncKueSf2UopIJyJ8_RhvrEDCbYLI57KoT2cfZ_EGorWio5IOBxuXVoS1ZYcpqK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h3>9. Children's Day Celebration</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTj3MJahqhxxu4eCGFwcHPCOMR2tnbhY8rbGhiZyiKEKXj0mI4tLv1tjvXGTXEfHxWqyF-Exc1t_Qqt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
