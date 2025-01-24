@@ -36,5 +36,4 @@ third_nav_title: About Us
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LockyOmaNB0"></iframe>
 </div>
 <h2>MK Environment</h2>
-<p><strong>For more information, please visit the&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.</strong>
-</p>
+<p></p>
