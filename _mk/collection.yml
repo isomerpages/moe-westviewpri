@@ -2,6 +2,7 @@ collections:
   mk:
     output: true
     order:
+      - MK Curriculum/School Hours.md
       - MK Curriculum/.keep
       - About Us/.keep
       - About Us/School Ethos.md
