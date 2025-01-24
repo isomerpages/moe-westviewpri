@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - Contact Us.md
       - Administration Matters/.keep
       - Administration Matters/K Care Monthly Fee.md
       - Administration Matters/Uniform Expenses.md
