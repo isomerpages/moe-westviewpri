@@ -54,13 +54,4 @@ programmes - the HI-Light programme and the Starlight Literacy programme,
 your child will engage in authentic learning experiences.</p>
 </li>
 </ul>
-<h2>Our Operating Hours</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>8 a.m. - 5 p.m. (MK@West View)</p>
-</li>
-<li>
-<p>7 a.m. - 7 p.m. (KCare@West View)</p>
-</li>
-</ul>
 <p></p>
