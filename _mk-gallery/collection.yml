@@ -1,0 +1,4 @@
+collections:
+  mk-gallery:
+    output: true
+    order: []
