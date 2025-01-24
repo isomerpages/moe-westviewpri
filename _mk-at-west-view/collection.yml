@@ -2,9 +2,6 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Administration Matters/KCare Monthly Fees.md
-      - Administration Matters/MK Fees & Financial Assistance.md
-      - Administration Matters/.keep
       - MK Open House.md
       - About Us/.keep
       - About Us/About Us.md
@@ -19,5 +16,8 @@ collections:
       - Gallery/2023.md
       - Gallery/2022.md
       - Gallery/2021.md
+      - Administration Matters/.keep
+      - Administration Matters/KCare Monthly Fees.md
+      - Administration Matters/MK Fees & Financial Assistance.md
       - Partners.md
       - Contact Us.md
