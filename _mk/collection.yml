@@ -2,7 +2,7 @@ collections:
   mk:
     output: true
     order:
-      - MK Curriculum/Hours.md
+      - MK Curriculum/School Hours.md
       - MK Curriculum/MK Curriculum.md
       - MK Curriculum/MK Environment.md
       - MK Curriculum/.keep
