@@ -1,0 +1,16 @@
+collections:
+  our-curriculum-2:
+    output: true
+    order:
+      - English Language/.keep
+      - English Language/Values and Missions.md
+      - English Language/Emphasize Framework.md
+      - English Language/Key Level Programmes.md
+      - English Language/Others.md
+      - Mathematics/Key Level Programmes.md
+      - Mathematics/Emphasize Framework.md
+      - Mathematics/Values and Missions.md
+      - Mathematics/.keep
+      - Mother Tongue Languages/.keep
+      - Science/.keep
+      - Physical Education & Health/.keep

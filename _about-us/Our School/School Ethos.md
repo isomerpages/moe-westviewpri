@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -14,6 +15,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="4">
 <h2>School Vision</h2>
 </td>
@@ -27,6 +31,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Malay</strong>
 </p>
 </td>
@@ -37,12 +44,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Vision</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>学校愿景</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Visi Sekolah</strong>
@@ -55,10 +64,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every West Viewan a Passionate Learner and Confident Leader</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>维新学子--热爱学习，自信卓越</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Setiap pelajar West View penuntut yang bersemangat dan pemimpin yang berkeyakinan.</p>
@@ -70,11 +82,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Passionate learners enjoy learning, embrace challenges and take ownership
-of their learning&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pelajar yang bersemangat suka menimba ilmu, berani menghadapi cabaran
@@ -87,11 +101,13 @@ dan bertanggungjawab terhadap pembelajaran.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Confident leaders have the heart to serve and the courage to make a positive
-change to themselves and others</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>自信的领袖拥有服务他人的热忱，以及有勇气对自己和他人做出积极的改变。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pemimpin yang berkeyakinan berkhidmat secara ikhlas &amp; berani membuat
@@ -103,26 +119,31 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="4">
 <p></p>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <h2>School Mission</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Mission</strong>
-</p>
+<td rowspan="1" colspan="5">
+<p>To make school inviting and learning inspiring for our learners to grow
+holistically</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p><strong>学校使命</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Misi Sekolah</strong>
 </p>
 </td>
@@ -132,14 +153,10 @@ perubahan positif terhadap diri sendiri dan orang lain.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>To make school inviting and learning inspiring for our learners to grow
-holistically</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>营造一个温馨且激发学习热情的校园，促进维新学子全面发展</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Menjadikan sekolah tempat yang menarik dan pembelajaran yang memberikan
 inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
@@ -149,60 +166,19 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <p></p>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <h2>School Values</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Values</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>学校价值观</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Nilai-Nilai Sekolah</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>பள்ளி விழுமியங்கள்&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
 <p>Everyone's a TALENT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>维新学子皆可成才</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Setiap pelajar BERBAKAT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>மாணவர்கள் அனைவரும் திறமைசாலிகள்&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -210,125 +186,119 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 <p>Trustworthy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>值得信赖</p>
+<p>Active in Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boleh dipercayai</p>
+<p>Empathetic&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>நம்பகத்தன்மை&nbsp;</p>
+<p>Enterprising</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tenacious</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Active in Learning</p>
+<p>值得信赖</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>积极学习</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aktif dalam pembelajaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ஈடுபாடுடன் கற்றல்&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Empathetic&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>富有同理心</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Menunjukkan empati</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>பரிவு காட்டுதல்&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Enterprising&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>勇于进取</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Berdaya usaha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>துணிவு&nbsp;</p>
+<p>坚持不懈</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tenacious</p>
+<p>Boleh dipercayai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>坚持不懈</p>
+<p>Aktif dalam pembelajaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Menunjukkan empati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Setiap pelajar BERBAKAT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cekal</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>உறுதி&nbsp;</p>
+<p>நம்பகத்தன்மை&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;ஈடுபாடுடன் கற்றல்&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>பரிவு காட்டுதல்&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;துணிவு</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;உறுதி</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our Aspiration</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>我们的愿景</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aspirasi Kami</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>நமது இலக்கு&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="5">
+<h2>Our Aspiration</h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
 <p>To be a school of choice in our community</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>成为社区的首选学校</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>我们的愿景</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Aspirasi Kami</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>நமது இலக்கு</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>成为社区的首选学校</p>
+</td>
+<td rowspan="1" colspan="2">
 <p>Menjadi sekolah pilihan dalam komuniti kami</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>சமூகத்தில் விரும்பத்தக்க பள்ளியாகத்&nbsp; திகழ்தல்&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>

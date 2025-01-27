@@ -1,0 +1,5 @@
+collections:
+  uniquely-us-2:
+    output: true
+    order:
+      - Total Curriculum/.keep

@@ -1,0 +1,12 @@
+collections:
+  wvps-new:
+    output: true
+    order:
+      - What's On.md
+      - History/.keep
+      - History/West View Primary.md
+      - History/West View MK.md
+      - Testimontials.md
+      - Our Partners/.keep
+      - Our Partners/School Advisory Committee (SAC).md
+      - Our Partners/Partners in Action (PiA).md

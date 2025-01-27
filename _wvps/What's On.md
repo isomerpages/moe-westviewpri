@@ -1,8 +1,8 @@
 ---
 title: What's On
-permalink: /what-s-on-announcements/
-variant: tiptap
+permalink: /wvps/whats-on/
 description: ""
+variant: tiptap
 ---
-<h2>Announcements</h2>
-<p></p>
+<h2>Education and Career Guidance Resources</h2>
+<p>For details, please click on this <a href="/wvps/resources/education-and-career-guidance-resources/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>

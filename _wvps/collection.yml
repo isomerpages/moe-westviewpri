@@ -3,10 +3,13 @@ collections:
     output: true
     order:
       - What's On.md
-      - History/.keep
-      - History/West View Primary.md
-      - History/West View MK.md
-      - Testimontials.md
-      - Our Partners/.keep
-      - Our Partners/School Advisory Committee (SAC).md
-      - Our Partners/Partners in Action (PiA).md
+      - Quick Links.md
+      - Services.md
+      - Resources/Education and Career Guidance (ECG) Resources.md
+      - Resources/.keep
+      - Resources/Resources.md
+      - Resources/Resources for Pupils.md
+      - Resources/Resources for Parents.md
+      - Privacy Statement.md
+      - Terms of Use.md
+      - Facebook.md

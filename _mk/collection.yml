@@ -2,12 +2,18 @@ collections:
   mk:
     output: true
     order:
+      - MK Curriculum/School Hours.md
+      - MK Curriculum/MK Curriculum.md
+      - MK Curriculum/MK Environment.md
+      - MK Curriculum/.keep
       - About Us/.keep
       - About Us/School Ethos.md
       - About Us/Values & Missions.md
       - About Us/Student Outcomes.md
       - About Us/Our Staff.md
       - Centre Head Message.md
+      - Gallery/2023 Term 4.md
+      - Gallery/2024 backup.md
       - Gallery/.keep
       - Gallery/2024.md
       - Gallery/2023.md
