@@ -284,9 +284,9 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At West View Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At West View Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
@@ -460,10 +460,10 @@ Education programmes by MOE-approved external providers.</p>
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
 start of the year and is also downloadable <a href="/files/2025_SEd_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by <strong>2 February 2024</strong>.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at <strong>6760 0178</strong> for discussion or to seek clarification about
-the school’s Sexuality Education programme.</p>
+form is to be submitted by <strong>14 February 2025</strong>.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents can contact the school
+at <strong>6760 0178</strong> or your child’s form teachers for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
 <h2>School Holiday Edition</h2>
 <p><a href="/files/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Resource Kit - School Holiday Edition.pdf</a>
 </p>
