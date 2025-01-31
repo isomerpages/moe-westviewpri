@@ -9,7 +9,7 @@ third_nav_title: About Us
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Curriculum" src="/images/Header%203%20-%20Curriculum.png">
 </div>
-<p>To support our vision “A Strong Start for Every Child”, <a href="http://G.R.O.W.ing" rel="noopener noreferrer nofollow" target="_blank">G.R.O.W.ing</a> U.P.
+<p>To support our vision “A Strong Start for Every Child”, G.R.O.W.ing U.P.
 is designed to promote holistic development of our children with a focus
 on inculcating values and developing social and emotional competencies
 in them. As the early years is a critical period of children’s growth and
