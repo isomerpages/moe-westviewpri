@@ -6,7 +6,7 @@ description: ""
 third_nav_title: About Us
 ---
 <p><strong>Message from Centre Head/ MK</strong> 
-<br><strong>Ms Shereen Low</strong>
+<br><strong>Mdm Shereen Low</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
