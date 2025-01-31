@@ -1,5 +1,5 @@
 ---
-title: Centrehead Message
+title: Centre Head Message
 permalink: /centrehead-message/
 variant: tiptap
 description: ""
