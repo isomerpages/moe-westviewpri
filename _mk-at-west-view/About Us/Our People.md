@@ -8,10 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About Us" src="/images/Header%202%20-%20About%20Us.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/mke_formal_resized.jpg">
-</div>
 <h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Teachers_finish.jpg">
+</div>
 <h2>Key Personnels</h2>
 <table style="minWidth: 50px">
 <colgroup>
