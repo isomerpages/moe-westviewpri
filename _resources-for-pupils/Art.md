@@ -48,8 +48,6 @@ variant: tiptap
 </p>
 <p><a href="https://iheartcraftythings.com/diy-funny-face-flip-book.html" rel="noopener noreferrer nofollow" target="_blank">Funny Face Flipbook</a>
 </p>
-<p><a href="http://www.housingaforest.com/rainbow-bubble-snakes/" rel="noopener noreferrer nofollow" target="_blank">Make your own Rainbow</a>
-</p>
 <p><a href="https://www.youtube.com/watch?v=gHOp22_Sjqg" rel="noopener noreferrer nofollow" target="_blank">DIY Squishy (Stress Ball)</a>
 </p>
 <p><a href="https://babbledabbledo.com/diy-spin-art-art-spinners-from-steam-play-learn/" rel="noopener noreferrer nofollow" target="_blank">Art spinners</a>
