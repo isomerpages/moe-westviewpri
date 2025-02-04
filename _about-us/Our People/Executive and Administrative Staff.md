@@ -28,17 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Santoso_HENDRAWAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Santoso Hendrawan</a>
+<p><a href="mailto:Khoo_poh_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Khoo Poh Ling</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Khoo Poh Ling</p>
 </td>
 </tr>
 <tr>
