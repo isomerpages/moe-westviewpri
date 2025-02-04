@@ -62,19 +62,6 @@ dan bertanggungjawab terhadap pembelajaran.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>自信的领袖拥有服务他人的热忱，以及有勇气对自己和他人做出积极的改变。</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pemimpin yang berkeyakinan berkhidmat secara ikhlas &amp; berani membuat
-perubahan positif terhadap diri sendiri dan orang lain.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>தன்னம்பிக்கையுள்ள தலைவர்கள் தனக்கும் பிறருக்கும் ஆக்கப்பூர்வமான மாற்றத்தை
-ஏற்படுத்தும் மனப்பான்மை கொண்டவர்களாக இருக்க வேண்டும்.&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p></p>
 <p></p>
@@ -179,13 +166,8 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
