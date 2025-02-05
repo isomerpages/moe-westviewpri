@@ -5,72 +5,40 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
-<table style="minWidth: 125px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <h2>School Vision</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Malay</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tamil</strong>
-</p>
+<td rowspan="1" colspan="3">
+<p>Every West Viewan a Passionate Student and Confident Leader.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>学校愿景</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Visi Sekolah</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;தொலைநோக்கு&nbsp;</strong>
+<p><strong>&nbsp;தொலைநோக்கு</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>维新学子--热爱学习，自信卓越</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Setiap pelajar West View penuntut yang bersemangat dan pemimpin yang berkeyakinan.</p>
@@ -82,13 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pelajar yang bersemangat suka menimba ilmu, berani menghadapi cabaran
@@ -100,50 +62,28 @@ dan bertanggungjawab terhadap pembelajaran.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>自信的领袖拥有服务他人的热忱，以及有勇气对自己和他人做出积极的改变。</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pemimpin yang berkeyakinan berkhidmat secara ikhlas &amp; berani membuat
-perubahan positif terhadap diri sendiri dan orang lain.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>தன்னம்பிக்கையுள்ள தலைவர்கள் தனக்கும் பிறருக்கும் ஆக்கப்பூர்வமான மாற்றத்தை
-ஏற்படுத்தும் மனப்பான்மை கொண்டவர்களாக இருக்க வேண்டும்.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p></p>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <h2>School Mission</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <p>To make school inviting and learning inspiring for our learners to grow
 holistically</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>学校使命</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Misi Sekolah</strong>
 </p>
 </td>
@@ -153,10 +93,10 @@ holistically</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>营造一个温馨且激发学习热情的校园，促进维新学子全面发展</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Menjadikan sekolah tempat yang menarik dan pembelajaran yang memberikan
 inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
@@ -166,30 +106,24 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <p></p>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <h2>School Values</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <p>Everyone's a TALENT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trustworthy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Active in Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Empathetic&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enterprising</p>
@@ -200,13 +134,7 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>值得信赖</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>积极学习</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>富有同理心</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>勇于进取</p>
@@ -217,13 +145,7 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boleh dipercayai</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Aktif dalam pembelajaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Menunjukkan empati</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Setiap pelajar BERBAKAT</p>
@@ -234,13 +156,7 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>நம்பகத்தன்மை&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>&nbsp;ஈடுபாடுடன் கற்றல்&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>பரிவு காட்டுதல்&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;துணிவு</p>
@@ -250,38 +166,27 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <h2>Our Aspiration</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <p>To be a school of choice in our community</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>我们的愿景</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Aspirasi Kami</strong>
 </p>
 </td>
@@ -291,10 +196,10 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>成为社区的首选学校</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Menjadi sekolah pilihan dalam komuniti kami</p>
 </td>
 <td rowspan="1" colspan="1">

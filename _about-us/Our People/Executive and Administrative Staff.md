@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/eas_formal_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS_Formal.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -28,17 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Santoso_HENDRAWAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Santoso Hendrawan</a>
+<p><a href="mailto:Khoo_poh_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Khoo Poh Ling</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Khoo Poh Ling</p>
 </td>
 </tr>
 <tr>
@@ -196,6 +187,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
