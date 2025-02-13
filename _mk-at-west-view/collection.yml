@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - MK Open House.md
+      - About Us/MK Waitlist 2025.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our Mission, Vision & Beliefs.md
