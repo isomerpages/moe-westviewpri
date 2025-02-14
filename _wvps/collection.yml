@@ -2,12 +2,12 @@ collections:
   wvps:
     output: true
     order:
-      - Resources.md
       - What's On.md
       - Quick Links.md
       - Services.md
-      - Resources/Education and Career Guidance (ECG) Resources.md
+      - Resources.md
       - Resources/.keep
+      - Resources/Education and Career Guidance (ECG) Resources.md
       - Resources/Resources for Pupils.md
       - Resources/Resources for Parents.md
       - Privacy Statement.md
