@@ -2,7 +2,6 @@ collections:
   wvps-new:
     output: true
     order:
-      - Resources.md
       - What's On.md
       - History/.keep
       - History/West View Primary.md
