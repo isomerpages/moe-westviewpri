@@ -2,7 +2,6 @@
 title: Education and Career Guidance (ECG) Resources
 permalink: /wvps/resources/education-and-career-guidance-resources/
 description: ""
-third_nav_title: Resources
 ---
 # PSLE scoring and S1 posting matters
 <h2 style="color:midnightblue">Parent engagement deck on PSLE scoring and S1 posting changes</h2>

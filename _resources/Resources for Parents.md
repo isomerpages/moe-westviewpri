@@ -2,7 +2,6 @@
 title: Resources for Parents
 permalink: /wvps/resources/resources-for-parents/
 description: ""
-third_nav_title: Resources
 variant: tiptap
 ---
 <h1>Table of Contents</h1>
