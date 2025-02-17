@@ -16,7 +16,7 @@ of active and healthy living.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Physical%20Education%20and%20Health/pe_cover.jpg">
 </div>
-<p>(1)&nbsp; Physical Activities, such as</p>
+<h2>(1)&nbsp; Physical Activities, such as</h2>
 <h2>Sports and Games</h2>
 <p>Pupils experience a range of game play such as territorial-invasion, net-barrier,
 striking-fielding, and other games. These experiences enhance pupils’ developing
@@ -85,7 +85,7 @@ facilitate the development of care, cooperation, responsibility and resilience.<
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LXgZ-uF6OOI"></iframe>
 </div>
-<h2>Athletics</h2>
+<h2>Athletics (P4 onwards)</h2>
 <p>Pupils engage in running, jumping and throwing activities through multiple
 learning contexts. Through the challenges, pupils learn to be determined,
 resilient, develop their potential and improve their personal best.</p>
@@ -98,6 +98,14 @@ resilient, develop their potential and improve their personal best.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rehN8NS98Nc"></iframe>
 </div>
+<h2>Swimming</h2>
+<p>Pupils experience water play activities that enhance their water movement
+competence. They also learn to manage water safety for water-based activities.
+Our Swimming Learning Area is conducted as part of our STRIVE@WVPS Programme
+and extend beyond during school hours.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRZ9RuXLBWOiP18ubej4CVvHR06B3R1V8-XbURfzMtylrkjoliGY4AIDYoaRgyIyiZ3TPp9-3bFLLq/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h2>Outdoor Education</h2>
 <p>Pupils develop appropriate outdoor skills through physical activities
 while cultivating an attitude of care and appreciation for the environment,
@@ -106,14 +114,6 @@ All these important skills are really put to great use in our annual P5
 Outdoor Adventure Camp!</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSI3PAf2E0Vg8ASKD7eivsw5urTqNltzwB8ELbhPBbh0gHX-aqS2Xr1wb4Q96EtN1XOinBQaey9RVNx/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h2>Swimming</h2>
-<p>Pupils experience water play activities that enhance their water movement
-competence. They also learn to manage water safety for water-based activities.
-Our Swimming Learning Area is conducted as part of our STRIVE@WVPS Programme
-during school hours.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRZ9RuXLBWOiP18ubej4CVvHR06B3R1V8-XbURfzMtylrkjoliGY4AIDYoaRgyIyiZ3TPp9-3bFLLq/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h2>Physical Health and Fitness</h2>
 <p>Physical Health and Fitness stimulates pupils’ interest in physical activity
