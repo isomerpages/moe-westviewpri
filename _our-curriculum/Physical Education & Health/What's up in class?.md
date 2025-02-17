@@ -106,19 +106,19 @@ and extend beyond during school hours.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRZ9RuXLBWOiP18ubej4CVvHR06B3R1V8-XbURfzMtylrkjoliGY4AIDYoaRgyIyiZ3TPp9-3bFLLq/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h2>Outdoor Education</h2>
+<h2>(2) Outdoor Education</h2>
 <p>Pupils develop appropriate outdoor skills through physical activities
 while cultivating an attitude of care and appreciation for the environment,
 and thoughtful consideration of the risks and safety of self and others.
-All these important skills are really put to great use in our annual P5
-Outdoor Adventure Camp!</p>
+All these important skills are really put to great use in our annual P4
+Neighbourhood Learning Journey and P5 Outdoor Adventure Camp.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSI3PAf2E0Vg8ASKD7eivsw5urTqNltzwB8ELbhPBbh0gHX-aqS2Xr1wb4Q96EtN1XOinBQaey9RVNx/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h2>Physical Health and Fitness</h2>
+<h2>(3) Physical Health and Fitness</h2>
 <p>Physical Health and Fitness stimulates pupils’ interest in physical activity
-as meaningful connections between health concepts. Practical applications
-are made through experiential learning.</p>
+as meaningful connections between health and safety concepts. Practical
+applications are made through experiential learning.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRc4V2ZEH9dDv07kVmreE9SRK3rFJWDaE4YHeX0eo58SDfTZj9p61PVjmbC5bZF_Dc74-aY9xYlhLq6/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
