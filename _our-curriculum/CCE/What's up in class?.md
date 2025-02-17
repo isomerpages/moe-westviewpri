@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h2>CCE Curriculum </h2>
+<h2>CCE Curriculum</h2>
 <p><strong>Form Teacher Guidance Period (FTGP) Lessons</strong>
 </p>
 <p>CCE (FTGP) lessons are taught by all Form Teachers. There is emphasis
