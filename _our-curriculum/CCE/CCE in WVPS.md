@@ -20,23 +20,21 @@ the courage to make a positive change to themselves and others.&nbsp;</p>
 <p>To inculcate values, build social emotional competencies and develop character
 and citizenship dispositions that enables WestViewan to grow holistically
 and learn for life.</p>
-<p><strong>West View CCE Curriulum</strong>
+<p>
+<br><strong>Message from HOD</strong>
 </p>
-<p><u>Adaptation of Stephen Covey’s 7 Habits</u>
+<p>Building Character, Social-Emotional Competencies, and 21CC at West View
+Primary</p>
+<p>At West View, we believe that education extends beyond academics. We are
+committed to nurturing well-rounded individuals equipped not only with
+knowledge but also with good character, essential social-emotional competencies,
+and the 21st-century skills needed to thrive in an ever-changing world.</p>
+<p>
+<br><strong>Curriculum Framework &amp; Description</strong>
 </p>
-<p>As West Viewans become confident leaders, they learn and practise these
-7 habits regularly. These habits are also emphasised on in various lessons
-and during the weekly Start-It-Right programme, West View’s weekly pre-assembly
-sessions.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%;" height="auto" width="100%" alt="CCE" src="/images/West%20View%20CCE%20Curriulum%20.jpeg">
-</div>
-<p><u>Experience + Reflection</u>
+<p><strong>CCE in West View</strong>
 </p>
-<p>West Viewans are encouraged to reflect on the rich experience they have.
-According to Kolb’s Learning Cycle, when pupils think about what they have
-experienced, they create meaning of it. This interpretation that the pupils
-have can then be transferred to other aspects of their lives.</p>
-<p>With this process, West Viewans do not just focus on what they are doing.
-Instead, they reflect on what they can learn from the activities or programmes
-so that the learning can be applied in future.</p>
+<p>Through our curriculum and key programmes, we aim to nurture good character,
+develop social-emotional competencies, and equip our pupils with 21CC,
+we are preparing them to be confident leaders, responsible citizens, and
+lifelong learners who are ready to make a positive impact on the world.</p>
