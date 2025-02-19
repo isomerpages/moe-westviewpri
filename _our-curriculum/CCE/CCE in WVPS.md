@@ -3,67 +3,38 @@ title: CCE in WVPS
 permalink: /our-curriculum/cce-in-wvps/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-![CCE](/images/About%20Us/Our%20People/cce_resized.jpg)
-
-**Vision**
-
-  
-
-_An Empathetic Pupil, A Confident Leader, An Active Contributor to the Community_
-
-  
-
-Through the different opportunities presented to the pupils, the identity we aspire for them to have is to be a confident leader, first to themselves then to others. As the pupils learn to be confident leaders, they will see the importance to have empathy towards others. With confidence and a sense of empathy towards others, West Viewans will then be active contributors to various communities.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/CCE%20Vision%20Chart.jpeg" alt="CCE" style="width:85%;">  
-  
-
-
-**Mission**
-
-  
-
-To inculcate values and a sense of ownership in West Viewans and provide them with the opportunities to display the values they learn
-
-  
-
-  
-
-**West View CCE Curriulum**
-
-  
-
-<u>Adaptation of Stephen Covey’s 7 Habits</u>
-
-  
-
-As West Viewans become confident leaders, they learn and practise these 7 habits regularly. These habits are also emphasised on in various lessons and during the weekly Start-It-Right programme, West View’s weekly pre-assembly sessions.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/West%20View%20CCE%20Curriulum%20.jpeg" alt="CCE" style="width:85%;">  
-  
-
-
-<u>Experience + Reflection</u>
-
-  
-
-West Viewans are encouraged to reflect on the rich experience they have. According to Kolb’s Learning Cycle, when pupils think about what they have experienced, they create meaning of it. This interpretation that the pupils have can then be transferred to other aspects of their lives.
-
-  
-
-With this process, West Viewans do not just focus on what they are doing. Instead, they reflect on what they can learn from the activities or programmes so that the learning can be applied in future.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE" src="/images/About%20Us/Our%20People/cce_resized.jpg">
+</div>
+<p><strong>Vision</strong>
+</p>
+<p>A WestViewan is a confident leader, who is socially responsible and possesses
+the courage to make a positive change to themselves and others.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width:85%;" height="auto" width="100%" alt="CCE" src="/images/CCE%20Vision%20Chart.jpeg">
+</div>
+<p><strong>Mission</strong>
+</p>
+<p>To inculcate values, build social emotional competencies and develop character
+and citizenship dispositions that enables WestViewan to grow holistically
+and learn for life.</p>
+<p>
+<br><strong>Message from HOD</strong>
+</p>
+<p>Building Character, Social-Emotional Competencies, and 21CC at West View
+Primary</p>
+<p>At West View, we believe that education extends beyond academics. We are
+committed to nurturing well-rounded individuals equipped not only with
+knowledge but also with good character, essential social-emotional competencies,
+and the 21st-century skills needed to thrive in an ever-changing world.</p>
+<p>
+<br><strong>Curriculum Framework &amp; Description</strong>
+</p>
+<p><strong>CCE in West View</strong>
+</p>
+<p>Through our curriculum and key programmes, we aim to nurture good character,
+develop social-emotional competencies, and equip our pupils with 21CC,
+we are preparing them to be confident leaders, responsible citizens, and
+lifelong learners who are ready to make a positive impact on the world.</p>
