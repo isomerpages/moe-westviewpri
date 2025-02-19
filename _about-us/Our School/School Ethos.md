@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="5">
-<p>Every West Viewan a Passionate Learner and Confident Leader.</p>
+<p>Every West Viewan a Passionate Learner and Confident Leader</p>
 </td>
 </tr>
 <tr>
