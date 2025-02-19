@@ -15,33 +15,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <h2>School Vision</h2>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <p>Every West Viewan a Passionate Learner and Confident Leader.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>学校愿景</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Visi Sekolah</strong>
 </p>
 </td>
@@ -51,16 +39,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>维新学子--热爱学习，自信卓越</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Setiap pelajar West View penuntut yang bersemangat dan pemimpin yang berkeyakinan.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,16 +51,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Pelajar yang bersemangat suka menimba ilmu, berani menghadapi cabaran
 dan bertanggungjawab terhadap pembelajaran.</p>
 </td>
@@ -88,10 +64,7 @@ dan bertanggungjawab terhadap pembelajaran.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="5">
 <p></p>
 <p></p>
 </td>
