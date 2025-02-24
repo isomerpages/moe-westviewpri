@@ -106,7 +106,7 @@ proficiencies in vocal expression, and spatial awareness and stage presence.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng15.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/eng15.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,5 +118,72 @@ proficiencies in vocal expression, and spatial awareness and stage presence.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Primary 3 Public Speaking Programme</strong>
+</p>
+<p>Building on the speaking skills the pupils have learnt in Primary 1 and
+2, the Primary 3 pupils will go on to be equipped with skills that would
+enable them to be an effective communicator. Through many speaking activities,
+our pupils develop and hone their skills in vocal expression and engaging
+the audience orally with the aid of ICT tools.</p>
+<p><strong>Primary 3 pupils building the confidence to speak in front of an audience</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng17.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture18.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture19.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng20.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng21.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng22.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Primary 4 Public Speaking Programme</strong>
+</p>
+<p>Equipped with public speaking skills, the Primary 4 pupils are challenged
+to learn how to present themselves like a newscaster. They are exposed
+to different events happening around the world throughout the sessions.
+Through the various collaborative activities, they keep themselves abreast
+of the current affairs and learn about having clear pronunciation and diction
+during presentation.</p>
+<p><strong>Primary 4 pupils applying the techniques/communication skills learnt and presenting their news articles in front of an audience.</strong>
+</p>
 <p></p>
