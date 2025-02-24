@@ -30,6 +30,7 @@ Games, Performing and Visual Arts, ICT and Life Skills. These fun-filled
 experiences include archery, ethnic dance, inline skating, public speaking
 and coding. All pupils from Primary Three to Six participate in STRIVE@WVPS
 during curriculum hours.</p>
+<h4>Key Programmes</h4>
 <p>Below are some activities offered by our STRIVE@WVPS:</p>
 <h2>Visual &amp; Performing Arts</h2>
 <table style="minWidth: 50px">
