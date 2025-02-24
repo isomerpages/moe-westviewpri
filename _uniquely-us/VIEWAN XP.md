@@ -7,9 +7,10 @@ variant: tiptap
 <p><strong><u>VIEWAN XP (Experience)</u></strong>
 </p>
 <p>Beyond mastering the subject content, we believe that pupils must be equipped
-in the subject discipline with the necessary skills, dispositions and competencies
-to face the future. As they learn best from experience, we strive to enrich
-their learning through our school-based curriculum,&nbsp;<strong><em>VIEWAN&nbsp;XP Design Thinking </em></strong>curriculum.</p>
+in the subject discipline with the necessary skills, dispositions and E21CC
+competencies to face the future. As they learn best from experience, we
+strive to enrich their learning through our school-based redesigned&nbsp;<strong><em>VIEWAN&nbsp;XP Design Thinking </em></strong>curriculum<em>.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VIEWAN XP" src="/images/Pic_1a.jpeg">
 </div>
