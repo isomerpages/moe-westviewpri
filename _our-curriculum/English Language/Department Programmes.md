@@ -16,7 +16,7 @@ story and putting together a performance for an audience, our pupils develop
 proficiencies in vocal expression, and spatial awareness and stage presence.</p>
 <p><strong>Lower primary pupils building their oracy skills through Speech and Drama</strong>
 </p>
-<p><strong>Primary 1 </strong>
+<p><strong>Primary 1</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -79,23 +79,41 @@ proficiencies in vocal expression, and spatial awareness and stage presence.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng11.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng12.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng13.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng14.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng15.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng16.jpg">
+</div>
 </td>
 </tr>
 </tbody>
