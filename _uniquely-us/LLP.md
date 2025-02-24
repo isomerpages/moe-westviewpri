@@ -131,9 +131,18 @@ promote learning for life.</p>
 </div>
 <p><strong>Show Choir</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP8.jpg">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Qkz4vdet2E?si=GwJQzWwk1Sj5VuNb"></iframe>
 </div>
-<p></p>
+<p><strong>Birthday Celebrations @ West View</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp21.png">
+</div>
+<p>In West View Primary School, our school birthday celebrations are a hit!
+Together, we sing the birthday song in different languages, filling the
+air with joy and appreciation for every West Viewan. The heartwarming tradition
+of celebrating one another with gifts and songs unites us and creates lasting
+memories.</p>
 <p></p>
 <p></p>
