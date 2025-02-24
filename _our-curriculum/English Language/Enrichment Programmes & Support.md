@@ -72,6 +72,6 @@ to improve comprehension, social skills, and confidence. Through these
 activities, the programme nurtures creativity, critical thinking, and a
 lifelong love of reading.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/P4%20BRAIN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng33.png">
 </div>
 <p></p>
