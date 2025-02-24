@@ -235,6 +235,29 @@ to be effective but also convincing speakers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng27.jpg">
 </div>
-<p></p>
-<p></p>
+<p><strong>Writing</strong>
+</p>
+<p>Prewriting uses a variety of methods and techniques meant to help writers
+generate ideas in response to a prompt and it activates their schema. By
+using one or more of these processes, these experiences provide the context
+and content for the pupils to think and talk about.</p>
+<p><strong>Our Primary 1 pupils having their shared experience before doing their class writing</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng28.png">
+</div>
+<p><strong><em>Our Middle Primary pupils coming up with solutions based on an authentic situation in their groups</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng29.jpg">
+</div>
+<p><strong><em>Our Upper Primary pupils brainstorming ideas for their prewriting discussion</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng30.jpg">
+</div>
+<p>In West View, pupils will not only learn narrative writing but also other
+text types like information and procedural texts. During this writing process,
+they will also be given opportunities to learn and hone their collaborative
+and ICT skills; skills that are much required for the 21st century.</p>
 <p></p>
