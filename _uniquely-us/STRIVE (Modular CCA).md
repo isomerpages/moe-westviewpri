@@ -72,34 +72,12 @@ during curriculum hours.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Swimsafer</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRIVE/swimsafer.jpeg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p>Tag Rugby</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRIVE/tag rugby.jpeg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Inline Skating</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRIVE/inline skating.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Speed Stacking</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRIVE/speed stacking.jpeg">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -118,15 +96,12 @@ during curriculum hours.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Kinball</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRIVE/kinball.jpeg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -139,18 +114,11 @@ during curriculum hours.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>ICT Baseline</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRIVE/ict baseline.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Motivational and Study Skills</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRIVE/motivational and study skills.jpeg">
 </div>
 </th>
 </tr>
