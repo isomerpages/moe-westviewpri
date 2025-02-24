@@ -40,5 +40,80 @@ an appreciation for environmental stewardship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci3.png">
 </div>
+<p><strong>(2) Young Scientist Badge Scheme (YSBS)</strong>
+</p>
+<p>First launched in 1982, Young Scientist Badge Scheme (YSBS) is a programme
+designed to inspire interest in and encourage the exploration of Science,
+Technology, Engineering and Mathematics (STEM) disciplines among Primary
+school students. The scheme complements formal science curriculum in schools
+by providing opportunities for students to engage in STEM learning beyond
+the classroom.</p>
+<p>The Young Scientist Badge Scheme was designed for primary school pupils
+to stimulate interest in science activities among pupils, enable pupils
+to carry out self-directed activities in various disciplines of science
+as well as provide opportunities for pupils to develop critical and inventive
+thinking skills.</p>
+<p>In 2025, Primary 3 to Primary 6 pupils embark on their self-directed journey
+of discovery using the Young Botanist Card. This will also be aligned to
+the Blooming Gardens Programme @ WVPS that we are embarking this year which
+will further enhance our pupils’ learning experience as Young Scientist.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci5.png">
+</div>
+<p><strong>(3)&nbsp;E2K Science integration in regular Science curriculum lessons</strong>
+</p>
+<p>At West View Primary School, we believe in nurturing every student to
+their full potential. This year, we piloted the integration of Excellence
+2000 (E2K) Science program into our regular Science curriculum lessons
+for our Primary 4 high-ability learners.</p>
+<p>With the E2K Science Program, we stretch and challenge our high-ability
+learners through inquiry-based, hands-on experiences that ignite curiosity
+and foster a deeper understanding of scientific concepts. Under the guidance
+of our E2K Science-trained teachers, students participate in learning experiences
+designed to nurture a love for science by allowing them to ask questions,
+design experiments, and develop their own hypotheses. Moving forward, the
+department have put in place structured plans to continue the integration
+of E2K Science pedagogies into our Primary 5 Science curriculum. By integrating
+the E2K Science pedagogies into our curriculum, we reaffirm our dedication
+to differentiated learning and the belief that every student can experience
+success when given the right opportunities.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci6.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci7.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci8.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci9_png.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
