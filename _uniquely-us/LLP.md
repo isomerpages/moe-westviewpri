@@ -69,8 +69,71 @@ food for teachers. We are young Masterchefs!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP10.png">
 </div>
-<p></p>
+<p><strong>Aesthetics Week</strong>
+</p>
+<p>Aesthetics Week was an explosion of creativity! From mesmerising online
+beatboxing, karaoke with classmates to vibrant sidewalk chalk drawings;
+every moment was a masterpiece. The immersive music experience transported
+the pupils to another dimension, while tote bag-colouring added a personal
+touch to the swag, but the highlight was the stunning Wearable Art Parade!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP11.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP12.jpg">
+</div>
+<p>For the Wearable Art Parade, pupils used recyclable materials to design
+and create their own fashion pieces. They made something valuable for themselves
+and others.</p>
+<p>Arts is definitely an expression of one’s creativity! Pupils displayed
+their creative talents and drew on the courtyard floor using colourful
+chalks. What a wonderful experience indeed!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP13.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP14.png">
+</div>
+<p><strong>ACES of West View</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP15.jpg">
+</div>
+<p>From playing the musical instruments to singing and gymnastics, we rejoice
+with our pupils as they explore and develop their interests and passions.
+The school community watched in awe as our very own talented West Viewans
+performed. Pupils also shared the importance of displaying TALENT Values
+and following their aspirations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP16.png">
+</div>
+<p><strong>STRIVE Programmes</strong>
+</p>
+<p>Pupils have the opportunity to immerse themselves in diverse dance and
+music experiences, including K-pop dance, ethnic dance, hip hop, beatboxing
+and songwriting classes. This provides them with holistic experiences that
+promote learning for life.</p>
+<p><strong>Ethnic Dances</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP18.jpg">
+</div>
+<p><strong>K-Pop</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP19.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP20.jpg">
+</div>
+<p><strong>Show Choir</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP8.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
