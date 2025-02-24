@@ -5,4 +5,40 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<p><strong>Inquiry-based Learning of Science @ WVPS</strong></p><p>The Primary Science Curriculum seeks to nurture pupils as an inquirer by leveraging on their interest and stimulating their curiosity about themselves and their environment. The main goal is for pupils to have a strong foundation in Science for life, learning, citizenry, and work.&nbsp;</p><p>In West View Primary School, we aim to provide every child authentic learning experiences in learning of Science through the three “IN”s - Inspire, Inquire and Innovate. Teachers are the leaders of inquiry in Science learning. They play an important role as facilitators for inquiry learning to take place. Teachers will plan and engage pupils in meaningful learning experiences through the 3C (Capture - Construct - Consolidate) Pedagogical Framework.&nbsp;&nbsp;</p><p><strong>Capture</strong> – Pupils tap on their prior knowledge to learn new science concepts and make meaningful connections between their prior knowledge and new concepts learnt. Teachers can also arouse pupils’ interest so that the pupils will be more motivated and stay engaged throughout the lesson.</p><table><tbody><tr><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_1.jpeg"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_2.jpeg"></div></th></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_3.jpeg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_4.jpeg"></div></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_5.jpeg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_6.jpeg"></div></td></tr></tbody></table><p><strong>Construct</strong> – Pupils will develop their scientific concepts, skills and inculcate attitudes through hands-on learning experiences. Teachers will adopt various questioning strategies to further deepen students’ conceptual understanding and clarify concepts and skills taught through clear explanations.</p><table><tbody><tr><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_1.jpeg"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_2.jpeg"></div></th></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_3.jpeg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_4.jpeg"></div></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_5.jpeg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_6.jpeg"></div></td></tr></tbody></table><p><strong>Consolidate</strong> – Pupils will be given opportunities to show their understanding on various platforms. Teachers will design various activities for pupils to apply the scientific concepts and skills in different contexts.</p><table><tbody><tr><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_1.jpeg"></div></th><th rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_2.jpeg"></div></th></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_3.jpeg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_4.jpeg"></div></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_5.jpeg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_6.jpeg"></div></td></tr></tbody></table><p></p>
+<p><strong>Enhanced 21st Century Competencies (E21CC) Development</strong>
+</p>
+<p><strong>(1) Blooming Gardens Programme @ WVPS</strong>
+</p>
+<p>Blooming Gardens is an enriching learning space where Science concepts
+come to life. Featuring soil-based planters, hydroponics, aquaponics, and
+solar panel systems, it encourages collaborative skills and deepens critical
+thinking skills among students by providing opportunities to observe plant
+growth, understanding sustainable farming methods in an authentic setting
+and making connections to real-world sustainability efforts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci1.png">
+</div>
+<p>Aligned with the Science curriculum, students were provided with opportunities
+to visit the Blooming Gardens primarily for learning, observation and transplanting
+activities. &nbsp;As they examine different planting systems, they develop
+critical thinking skills as they question their observations by understanding
+the growth of flowering plants and observing their life cycle, making connections
+to real-life experiences. Through hands-on experiences, they develop adaptive
+thinking by exploring various ways to transplant germinated seedlings between
+aquaponics and soil-based planters, as well as harvesting, adjusting their
+techniques based on plant needs and environmental conditions. While the
+Blooming Gardens serves as a platform for structured learning, it also
+sparks curiosity and inventive thinking, inspiring students to consider
+innovative ways to grow food sustainably.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci2.png">
+</div>
+<p>Blooming Gardens cultivates not just plants, but also a mindset of inquiry
+and responsibility among the students toward a greener future. &nbsp;By
+reflecting on the role of urban farming and renewable energy, they nurture
+an appreciation for environmental stewardship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci3.png">
+</div>
+<p></p>
+<p></p>
