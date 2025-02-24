@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p><strong>Vision</strong> 
 <br>Every West Viewan is a talented pupil waiting to be discovered and developed.</p>
-<p><strong>Mission</strong> 
+<p><strong>Mission</strong>
 </p>
 <p><strong>ACES of West View</strong> means that every pupil will be able
 to:</p>
@@ -24,9 +24,8 @@ learner/confident person)
 <br>(communication, collaboration and information skills)
 <br><strong>S</strong>erve the school and community (concerned citizen)</p>
 <p></p>
-<p><strong>Message from HOD, Ms Charmian Lee</strong> 
+<p><strong>Message from HOD, Ms Charmian Lee</strong>
 </p>
 <p><em>“Every child is unique with talents waiting to be discovered and developed. Opportunities are provided through Aesthetics and CCAs for pupils to discover and develop their talents. Through the learning process, pupils develop tenacity and are equipped with life skills and values; becoming passionate learners and confident leaders. With encouragement and support, every child is capable of producing his/her very own masterpiece."</em>
 </p>
-<p></p>
 <p></p>
