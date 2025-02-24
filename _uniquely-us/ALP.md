@@ -145,45 +145,46 @@ the Green Warriors instills lifelong eco-friendly habits and strengthens
 the school’s commitment to sustainability. Through their efforts, Green
 Warriors help cultivate a cleaner, greener, and more responsible school
 community.</p>
-<p>DA VINCI Capstone Design Thinking projects (P4 &amp; P5): Design Challenge-
-Environmental Sustainability Themes</p>
-<p>The Capstone Project provides opportunities for students to apply design
-thinking as an approach to create and present meaningful projects. It brings
-together the skills they have learnt in the DA VINCI Programme and allows
-students to showcase their innovative mindset, deepening their critical,
-adaptive and inventive thinking skills.</p>
-<p>Students will also take part in cross-cultural exchanges with partner
-schools, joining activities, gaining new insights, and making friends.
+<p><strong>DA VINCI Capstone Design Thinking projects (P4 &amp; P5): Design Challenge- Environmental Sustainability Themes</strong>
+</p>
+<p>The <strong>Capstone Project</strong> provides opportunities for students
+to apply <strong>design thinking</strong> as an approach to create and present
+meaningful projects. It brings together the skills they have learnt in
+the <strong>DA VINCI Programme</strong> and allows students to showcase their
+innovative mindset, deepening their critical, adaptive and inventive thinking
+skills.</p>
+<p>Students will also take part in <strong>cross-cultural exchanges</strong> with
+partner schools, joining activities, gaining new insights, and making friends.
 This experience helps them learn about different cultures, broaden their
 perspectives, and deepen their learning journey.</p>
 <p>Click <a href="https://www.westviewpri.moe.edu.sg/uniquely-us/da-vinci/" rel="noopener nofollow" target="_blank">here</a> to
 read more about our DA VINCI Capstone Design Thinking projects (P4 &amp;
 P5).</p>
-<h2>Awards &amp; Recognition</h2>
-<p><strong><u>The School Green Award (Yellow Flame)</u></strong>
+<h4>Awards &amp; Recognition</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>School Green Awards 2024</strong>
 </p>
+</li>
+</ol>
+<p>West View Primary School is proud to be awarded the Yellow Flame Award
+at the School Green Awards (SGA) 2024, a recognition of our unwavering
+commitment to sustainability and environmental stewardship. This award
+acknowledges the school’s continuous efforts in eco-friendly initiatives,
+waste reduction, energy conservation, and green education programmes that
+empower students to take an active role in protecting the environment.</p>
+<p>At WVPS, sustainability is embedded in our school culture through initiatives
+such as food composting, urban farming, recycling programmes, and environmental
+outreach projects. These efforts provide students with hands-on learning
+experiences that instill lifelong eco-conscious habits and a sense of responsibility
+towards the planet.</p>
+<p>Receiving the Yellow Flame Award is a testament to the dedication of our
+students, staff, and community partners in creating a greener and more
+sustainable school environment. We will continue to inspire and nurture
+young eco-stewards who will make a positive impact to the environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Uniquely Us/ALP/image7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp4_png.jpg">
 </div>
-<p>The School Green Award, launched by the Singapore Environment Council,&nbsp;
-is a prestigious recognition that celebrates and acknowledges outstanding
-achievements in environmental sustainability and green initiatives within
-educational institutions. This award aims to encourage schools to adopt
-and promote eco-friendly practices, fostering a culture of environmental
-responsibility among students, staff, and the broader school community.</p>
-<p>In recognition of our outstanding efforts and community outreach in fostering
-environmental sustainability, the school was awarded the Yellow Flame award.
-This award celebrates the school's commitment to creating a positive impact
-on the environment and engaging the community in sustainable practices
-through the partnership with various stakeholders, including North West
-Community Development Council, National Parks Board and Zhenghua Grassroots.
-Our signature programme, the Black Soldier Fly, has also been lauded by
-residents and other educational institutions in its use to reduce food
-waste.</p>
-<p>West View’s sustainability initiatives have already made a substantial
-impact, not only within school but also in inspiring positive change in
-the community. Looking forward, the school remains committed to expanding
-its sustainability efforts and fostering even greater community engagement.</p>
 <p><strong><u>MOE Innergy Award (Bronze Award)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -213,3 +214,46 @@ of insects in waste management.</p>
 envisions further integration of innovative and environmentally conscious
 practices into its curriculum, creating a lasting impact on students and
 the community.</p>
+<p>West View Primary School is proud to be awarded the Yellow Flame Award
+at the School Green Awards (SGA) 2024, a recognition of our unwavering
+commitment to sustainability and environmental stewardship. This award
+acknowledges the school’s continuous efforts in eco-friendly initiatives,
+waste reduction, energy conservation, and green education programmes that
+empower students to take an active role in protecting the environment.</p>
+<p>At WVPS, sustainability is embedded in our school culture through initiatives
+such as food composting, urban farming, recycling programmes, and environmental
+outreach projects. These efforts provide students with hands-on learning
+experiences that instill lifelong eco-conscious habits and a sense of responsibility
+towards the planet.</p>
+<p>Receiving the Yellow Flame Award is a testament to the dedication of our
+students, staff, and community partners in creating a greener and more
+sustainable school environment. We will continue to inspire and nurture
+young eco-stewards who will make a positive impact to the environment.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Green Living Awards 2024</strong>
+</p>
+</li>
+</ol>
+<p>West View Primary School is honoured to receive the Silver Award at the
+Green Living Awards 2024, recognising our dedication to sustainability
+both within our school and in the broader community. This award highlights
+our commitment to nurturing environmentally responsible students and making
+a meaningful impact beyond the classroom.</p>
+<p>Through initiatives like food composting, urban farming, and waste reduction
+efforts, our students actively contribute to a greener school environment.
+Additionally, our participation in the Northwest CDC programmes, such as
+Reduce@Northwest, Waterways Clean-up@ Northwest and Recycle@Northwest,
+has allowed us to extend our sustainability efforts to the wider community,
+collaborating with Bukit Panjang residents and grassroot organisations
+to promote eco-friendly practices such as recycling and reducing carbon
+footprints.</p>
+<p>This recognition is a testament to the collective efforts of our students,
+staff, and community partners in driving sustainable change. As we continue
+on our green journey, we remain committed to fostering a culture of environmental
+stewardship and empowering students to be changemakers for a sustainable
+future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp5.png">
+</div>
+<p></p>
