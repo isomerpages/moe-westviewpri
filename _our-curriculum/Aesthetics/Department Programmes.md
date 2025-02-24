@@ -95,4 +95,3 @@ emphasizing that no job was less important than another.</p>
 art, this annual learning experience for all Primary 4 pupils ensures that
 every child is given at least one authentic experience of looking at a
 painting in a museum in the school-based art curriculum.</p>
-<p></p>
