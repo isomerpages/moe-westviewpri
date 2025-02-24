@@ -260,4 +260,3 @@ and content for the pupils to think and talk about.</p>
 text types like information and procedural texts. During this writing process,
 they will also be given opportunities to learn and hone their collaborative
 and ICT skills; skills that are much required for the 21st century.</p>
-<p></p>
