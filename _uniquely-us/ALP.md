@@ -121,7 +121,8 @@ learning approaches while sharing best practices.</p>
 <p>Through this programme, our students gained global perspectives, enhancing
 their appreciation for different cultures and how technology can be used
 to enhance sustainability efforts in school.</p>
-<p>Click here to read more about our Internationalisation Programme.</p>
+<p>Click <a href="https://www.westviewpri.moe.edu.sg/uniquely-us/da-vinci/" rel="noopener nofollow" target="_blank">here</a> to
+read more about our Internationalisation Programme.</p>
 <p><strong>The Green Warriors</strong>
 </p>
 <p>The <strong>Green Warrior</strong> is a student-led initiative aimed at
@@ -155,8 +156,9 @@ adaptive and inventive thinking skills.</p>
 schools, joining activities, gaining new insights, and making friends.
 This experience helps them learn about different cultures, broaden their
 perspectives, and deepen their learning journey.</p>
-<p>Click here to read more about our DA VINCI Capstone Design Thinking projects
-(P4 &amp; P5).</p>
+<p>Click <a href="https://www.westviewpri.moe.edu.sg/uniquely-us/da-vinci/" rel="noopener nofollow" target="_blank">here</a> to
+read more about our DA VINCI Capstone Design Thinking projects (P4 &amp;
+P5).</p>
 <h2>Awards &amp; Recognition</h2>
 <p><strong><u>The School Green Award (Yellow Flame)</u></strong>
 </p>
