@@ -17,3 +17,14 @@ a healthy lifestyle</p>
 <br><strong>Mr Tan Leng Khoon</strong> 
 <br><em>“I firmly believe that well-structured Physical Education (PE) and Co-curriculum are essential in helping students cultivate a diverse range of soft skills and core values. These qualities are pivotal for their success in life. I envision the students of West View Primary as active, health-conscious individuals, who not only embrace a healthy lifestyle but are also passionate about their pursuits and confident in their ability to lead and inspire others.”</em>
 </p>
+<p><strong>Curriculum Framework &amp; Description<br></strong>Our PE curriculum
+offers a diverse range of movement experiences designed to nurture the
+holistic development of our students. By focusing on fundamental motor
+skills and core values, we lay a solid foundation for learning, active
+participation, and the enjoyment of various physical activities and sports.
+As pupils refine their movements, they gain confidence in their abilities,
+becoming more efficient, effective, and versatile. This progression not
+only strengthens their motor skills but also encourages a lifelong commitment
+to active, healthy living.</p>
+<p></p>
+<p></p>
