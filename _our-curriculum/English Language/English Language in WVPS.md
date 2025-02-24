@@ -25,12 +25,13 @@ confident and competent users of English Language in speech and writing.</p>
 </p>
 <p><em>I am committed to build on a culture of continuous learning and improvement in the school so that teachers can be empowered to fulfil the potential of every child in WVPS."</em>
 </p>
-<p><strong>English Curriculum</strong>
+<p><strong>Curriculum Framework &amp; Description</strong>
 </p>
-<p>English is the common language that facilitates bonding among the different
-ethnic and cultural groups. On the global platform, English allows Singaporeans
-to tap into a knowledge-based economy where English is the main&nbsp;<em>lingua franca</em>&nbsp;of
-the Internet, of science and technology, and of world trade.</p>
+<p>English Language (EL) is the common language that facilitates bonding
+among the different ethnic and cultural groups. On the global platform,
+English Language allows Singaporeans to tap into a knowledge-based economy
+where it is the main lingua franca of the Internet, of science and technology,
+and of world trade.</p>
 <p>The development of multiple competencies will enable our young to capitalise
 on the rich opportunities of the digital age, while maintaining a strong
 foundation in the language. It will allow our students to engage meaningfully
@@ -39,7 +40,14 @@ out of Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:250px;margin-left:15px;" height="auto" width="100%" src="/images/EL.jpeg">
 </div>
-<p>The following diagram presents the key features of the&nbsp;<em>EL Syllabus</em>&nbsp;undergirded
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The above diagram presents the key features of the&nbsp;<em>EL Syllabus</em>&nbsp;undergirded
 by the principles of EL teaching and learning (CLLIPS) and EL teaching
 processes (ACOLADE). Drawing on the model of effective teaching in the
 Singapore Teaching Practice, a pedagogical emphasis on Multiliteracies,
@@ -47,3 +55,8 @@ Metacognition, and Inquiry through Dialogue in the EL classroom ensures
 effective and affective language use for all EL learners. The approach
 to language teaching and learning ensures a firm and rich foundation for
 all.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
