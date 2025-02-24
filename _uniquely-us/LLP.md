@@ -69,6 +69,10 @@ food for teachers. We are young Masterchefs!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP10.png">
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R33ksZqYRAU?si=WhBFLRbjPfB05MFk"></iframe>
+</div>
 <p><strong>Aesthetics Week</strong>
 </p>
 <p>Aesthetics Week was an explosion of creativity! From mesmerising online
