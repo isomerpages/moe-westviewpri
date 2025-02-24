@@ -186,4 +186,55 @@ of the current affairs and learn about having clear pronunciation and diction
 during presentation.</p>
 <p><strong>Primary 4 pupils applying the techniques/communication skills learnt and presenting their news articles in front of an audience.</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng23.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng24.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng25.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng26.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>Primary 5 Persuasive Speaking Programme</em></strong>
+</p>
+<p>After going through different experiences that teach and strengthen the
+fundamentals of speaking, our Primary 5 pupils will learn the art of persuasive
+speaking. Through this programme, they will learn the importance of the
+impact of words and coupled with the correct delivery, they convey different
+purpose, meaning and emotions. From this experience, pupils learn not only
+to be effective but also convincing speakers.</p>
+<p><strong><em>Primary 5 pupils persuading their peers on given topics</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eng27.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
