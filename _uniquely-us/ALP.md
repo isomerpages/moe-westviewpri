@@ -93,7 +93,9 @@ towards sustainability and eco-stewardship.</p>
 <p><em>Mr. Edward Chia &amp; Mr. Eugene Lee inaugurating our Blooming Gardens! 🌿🌎</em>
 </p>
 <p>Let's have a look at Blooming Gardens!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/84NPousBNVs?si=8e-XMT7eC6o-K33c"></iframe>
+</div>
 <h2>Awards &amp; Recognition</h2>
 <p><strong><u>The School Green Award (Yellow Flame)</u></strong>
 </p>
