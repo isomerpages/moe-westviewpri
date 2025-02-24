@@ -35,6 +35,9 @@ Performance at the Esplanade. It was a memorable and enriching experience!</p>
 <p>Our pupils had the chance to enjoy the “Mathilda Musical” at Marina Bay
 Sands. It was a wonderful learning experience for them as they learnt to
 appreciate the Arts!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SPge8L3NK8Y?si=VpCOrKhdG8fCedsW"></iframe>
+</div>
 <p><strong>Makerspace&nbsp;</strong>
 </p>
 <p>The newly minted Makerspace is an area that provide pupils with opportunities
