@@ -49,11 +49,15 @@ and the arts, and life skills such as time management and data literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eins2.png">
 </div>
-<p><strong>MAKER SPACE Programme </strong>
+<p><strong>MAKER SPACE Programme</strong>
 </p>
 <p>This programme gives pupils the opportunity to design and create their
 own toy, fostering critical and creative thinking as they develop their
 ideas. It also helps build their confidence as they bring their concepts
 to life. Using the school’s new Makerspace, pupils will design and construct
 their own unique toy.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eins3.png">
+</div>
 <p></p>
