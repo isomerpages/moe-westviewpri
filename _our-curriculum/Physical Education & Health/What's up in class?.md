@@ -86,14 +86,8 @@ facilitate the development of care, cooperation, responsibility and resilience.<
 <p>Pupils engage in running, jumping and throwing activities through multiple
 learning contexts. Through the challenges, pupils learn to be determined,
 resilient, develop their potential and improve their personal best.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Athletics" src="/images/Athletics.jpg">
-</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3d122XZBZ6s"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rehN8NS98Nc"></iframe>
 </div>
 <p><strong>Swimming</strong>
 </p>
