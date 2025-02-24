@@ -18,4 +18,3 @@ School in August and September 2023.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes13.png">
 </div>
 <p></p>
-<p></p>
