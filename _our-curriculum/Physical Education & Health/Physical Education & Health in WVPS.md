@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Physical Education & Health
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/physical%20education%20&amp;%20cca_resized.jpg">
-</div>
 <p><strong>Vision</strong> 
 <br>A Westviewan is an active sportsperson, physically competent and leading
 a healthy lifestyle</p>
