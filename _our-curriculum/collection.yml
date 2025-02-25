@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT/Home Based Learning (HBL).md
       - ICT/Enrichment Programmes & Support.md
       - ICT/Department Programmes.md
       - ICT/What’s up in class?.md
