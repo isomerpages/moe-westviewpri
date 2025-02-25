@@ -5,9 +5,6 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/english%20language_resized.jpg">
-</div>
 <p><strong>Vision</strong>
 </p>
 <p>Competent &amp; Confident users of the English Language.</p>
