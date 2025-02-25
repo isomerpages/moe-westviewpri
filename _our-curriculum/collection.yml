@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - PAL/.keep
       - English Language/.keep
       - English Language/English Language in WVPS.md
       - English Language/What’s up in class?.md
@@ -42,11 +41,12 @@ collections:
       - Core CCAs/Floorball.md
       - Core CCAs/Football.md
       - Core CCAs/Scouts.md
-      - CCE/What's up in class?.md
       - CCE/.keep
+      - CCE/What's up in class?.md
       - CCE/CCE in WVPS.md
       - CCE/WV as One.md
       - CCE/We are Leaders.md
+      - PAL/.keep
       - PAL.md
       - Home Based Learning/.keep
       - Home Based Learning/General Info.md
