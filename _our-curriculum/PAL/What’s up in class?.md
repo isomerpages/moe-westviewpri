@@ -10,9 +10,7 @@ third_nav_title: PAL
 decision-making skills, build confidence, be curious and creative, cooperate
 and work with others. These skills are essential for pupils to excel both
 academically and in life.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Music</strong>
+<p><strong>&nbsp;Music</strong>
 </p>
 <p>Pupils are given the opportunity to explore sounds in new and creative
 ways. They are challenged with a variety of musical tasks and work in groups
@@ -54,7 +52,7 @@ in art discussions and presentations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL7.jpg">
 </div>
-<p><strong>&nbsp;Outdoor Education</strong>
+<p><strong>Outdoor Education</strong>
 </p>
 <p>Pupils learn through authentic situations in the outdoors such as finding
 their way around a garden in a small group. They gain awareness and appreciation
