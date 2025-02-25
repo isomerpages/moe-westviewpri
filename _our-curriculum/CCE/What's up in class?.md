@@ -15,7 +15,6 @@ complex conversations and discussions at the Secondary levels and beyond.
 Topics related to developing citizenship dispositions are also taught in
 CCE (FTGP) to foster inter-ethnic understanding and appreciation for one
 another’s culture in a multicultural classroom setting.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_1.png">
 </div>
