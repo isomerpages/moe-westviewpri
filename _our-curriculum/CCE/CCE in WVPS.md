@@ -5,9 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE" src="/images/About%20Us/Our%20People/cce_resized.jpg">
-</div>
 <p><strong>Vision</strong>
 </p>
 <p>A WestViewan is a confident leader, who is socially responsible and possesses
