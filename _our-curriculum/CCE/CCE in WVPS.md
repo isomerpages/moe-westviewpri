@@ -39,4 +39,3 @@ and the 21st-century skills needed to thrive in an ever-changing world.</p>
 develop social-emotional competencies, and equip our pupils with 21CC,
 we are preparing them to be confident leaders, responsible citizens, and
 lifelong learners who are ready to make a positive impact on the world.</p>
-<p></p>
