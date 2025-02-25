@@ -2,12 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
-      - ICT/Home Based Learning (HBL).md
-      - ICT/Enrichment Programmes & Support.md
-      - ICT/Department Programmes.md
-      - ICT/What’s up in class?.md
-      - ICT/Information and Communication Technology (ICT).md
       - ICT/.keep
+      - ICT/Information and Communication Technology (ICT).md
+      - ICT/What’s up in class?.md
+      - ICT/Department Programmes.md
+      - ICT/Enrichment Programmes & Support.md
+      - ICT/Home Based Learning (HBL).md
       - English Language/.keep
       - English Language/English Language in WVPS.md
       - English Language/What’s up in class?.md
