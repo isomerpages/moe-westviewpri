@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/aesthetics_resized.jpg">
-</div>
 <p><strong>Vision</strong> 
 <br>Every West Viewan is a talented pupil waiting to be discovered and developed.</p>
 <p><strong>Mission</strong>
@@ -33,7 +30,7 @@ learner/confident person)
 </p>
 <p><strong>Music</strong>
 </p>
-<p><strong>Music Curriculum Concept </strong>
+<p><strong>Music Curriculum Concept</strong>
 </p>
 <p>The Primary and Lower Secondary Music curriculum seeks to develop musical
 understanding through the three Musical Processes of Listening, Creating
@@ -46,7 +43,7 @@ in practice.</p>
 </div>
 <p><strong>Art</strong>
 </p>
-<p><strong>Syllabus Objectives </strong>
+<p><strong>Syllabus Objectives</strong>
 </p>
 <p>Recognising students as key agents of learning, the objectives of the
 primary art syllabus are to develop all students as active artists and
