@@ -2,12 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - ICT/.keep
-      - ICT/Information and Communication Technology (ICT).md
-      - ICT/What’s up in class?.md
-      - ICT/Department Programmes.md
-      - ICT/Enrichment Programmes & Support.md
-      - ICT/Home Based Learning (HBL).md
       - English Language/.keep
       - English Language/English Language in WVPS.md
       - English Language/What’s up in class?.md
@@ -39,6 +33,12 @@ collections:
       - Aesthetics/Enrichment Programmes & Support.md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership Development Programme.md
+      - ICT/.keep
+      - ICT/Information and Communication Technology (ICT).md
+      - ICT/What’s up in class?.md
+      - ICT/Department Programmes.md
+      - ICT/Enrichment Programmes & Support.md
+      - ICT/Home Based Learning (HBL).md
       - Core CCAs/.keep
       - Core CCAs/Core CCAs in WVPS.md
       - Core CCAs/Art & Craft Club.md
