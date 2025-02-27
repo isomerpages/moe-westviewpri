@@ -36,6 +36,6 @@ Board (HPB), pupils learn practical tips and skills to make healthier food
 choices and engage in active games and sports. AKP seeks to provide pupils
 with hands-on and active learning experience.</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;" height="auto" width="100%" alt="Enrichment Programmes &amp; Support" src="/images/Active%20Kids%20Programme%20(AKP).jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_24_at_11_34_17_AM__1_.jpg">
 </div>
 <p></p>
