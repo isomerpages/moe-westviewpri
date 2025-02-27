@@ -31,9 +31,25 @@ throughout life.</p>
 drink mineral water instead of sugary drinks and to buy healthy snacks
 during recess. Pupils receives a token which they can deposit in the “West
 View Bank of PRIDE”. The classes with the most token win prizes.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_24_at_11_17_30_AM.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <h2>Sugar-free Mondays</h2>
 <p>Sales of sweet drinks and carbonated drinks are not allowed on Mondays
 in a bid to encourage pupils to consume less sugar and drink water as an
