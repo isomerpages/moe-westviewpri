@@ -39,13 +39,14 @@ View Bank of PRIDE”. The classes with the most token win prizes.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_24_at_11_17_30_AM.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Dz2-pNVN7lg"></iframe>
+</div>
 </th>
 </tr>
 </tbody>
