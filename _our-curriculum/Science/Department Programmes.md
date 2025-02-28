@@ -68,6 +68,106 @@ lesson.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Construct</strong> – Pupils will develop their scientific concepts,
+skills and inculcate attitudes through hands-on learning experiences. Teachers
+will adopt various questioning strategies to further deepen students’ conceptual
+understanding and clarify concepts and skills taught through clear explanations.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_1.jpeg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_2.jpeg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_3.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_4.jpeg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_5.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Construct_6.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Consolidate</strong> – Pupils will be given opportunities to show
+their understanding on various platforms. Teachers will design various
+activities for pupils to apply the scientific concepts and skills in different
+contexts.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_1.jpeg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_2.jpeg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_3.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_4.jpeg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_5.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Consolidate_6.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Enhanced 21st Century Competencies (E21CC) Development</strong>
 </p>
 <p><strong>(1) Blooming Gardens Programme @ WVPS</strong>
