@@ -12,16 +12,23 @@ variant: tiptap
 </p>
 <p>To provide an engaging learning environment to develop our pupils into
 confident and competent users of English Language in speech and writing.</p>
-<p><strong>Message from</strong>&nbsp;<strong>HOD English Language &amp; School Library</strong> 
-<br><strong>Mr Matthew Chua</strong> 
-<br><em>"In this globalised and delicate world, it is important that the pupils are equipped with the skills to be affective communicators who seek to understand and be understood."</em>
+<p><strong>Message from HOD English Language</strong>
 </p>
-<p><strong>Message from LH/ English Language</strong> 
-<br><strong>Mrs Ho-Tan Soon Hui</strong> 
-<br><em>"Every child is different and has his own potential. As an educator, I believe in encouraging our pupils to focus on their unique strengths to reach their fullest potential.</em>
+<p><strong>Mrs Ho-Tan Soon Hui</strong>
 </p>
-<p><em>I am committed to build on a culture of continuous learning and improvement in the school so that teachers can be empowered to fulfil the potential of every child in WVPS."</em>
+<p>"Every child is different and has his own potential. As an educator, I
+believe in encouraging our pupils to focus on their unique strengths to
+reach their fullest potential.</p>
+<p>I am committed to build on a culture of continuous learning and improvement
+in the school so that teachers can be empowered to fulfil the potential
+of every child in WVPS."</p>
+<p><strong>Message from ST/English Language</strong>
 </p>
+<p><strong>Mrs Theseira Cynthia</strong>
+</p>
+<p>“Every child can learn and wants to learn. With the right guidance, each
+child can take ownership of his/her learning and make meaningful progress
+as a capable and independent learner.”</p>
 <p><strong>Curriculum Framework &amp; Description</strong>
 </p>
 <p>English Language (EL) is the common language that facilitates bonding
