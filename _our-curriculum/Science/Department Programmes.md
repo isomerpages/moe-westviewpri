@@ -5,6 +5,69 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
+<p><strong>Inquiry-based Learning of Science @ WVPS</strong>
+</p>
+<p>The Primary Science Curriculum seeks to nurture pupils as an inquirer
+by leveraging on their interest and stimulating their curiosity about themselves
+and their environment. The main goal is for pupils to have a strong foundation
+in Science for life, learning, citizenry, and work.&nbsp;</p>
+<p>In West View Primary School, we aim to provide every child authentic learning
+experiences in learning of Science through the three “IN”s - Inspire, Inquire
+and Innovate. Teachers are the leaders of inquiry in Science learning.
+They play an important role as facilitators for inquiry learning to take
+place. Teachers will plan and engage pupils in meaningful learning experiences
+through the 3C (Capture - Construct - Consolidate) Pedagogical Framework.&nbsp;&nbsp;</p>
+<p><strong>Capture</strong> – Pupils tap on their prior knowledge to learn
+new science concepts and make meaningful connections between their prior
+knowledge and new concepts learnt. Teachers can also arouse pupils’ interest
+so that the pupils will be more motivated and stay engaged throughout the
+lesson.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Investigate_and_Explore__I___E__Activities_5.jpeg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_2.jpeg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_3.jpeg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_4.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_5.jpeg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Dept_Capture_6.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Enhanced 21st Century Competencies (E21CC) Development</strong>
 </p>
 <p><strong>(1) Blooming Gardens Programme @ WVPS</strong>
