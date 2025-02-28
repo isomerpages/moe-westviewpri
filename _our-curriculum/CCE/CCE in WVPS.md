@@ -9,17 +9,11 @@ variant: tiptap
 </p>
 <p>A WestViewan is a confident leader, who is socially responsible and possesses
 the courage to make a positive change to themselves and others.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%;" height="auto" width="100%" alt="CCE" src="/images/CCE%20Vision%20Chart.jpeg">
-</div>
 <p><strong>Mission</strong>
 </p>
 <p>To inculcate values, build social emotional competencies and develop character
 and citizenship dispositions that enables WestViewan to grow holistically
 and learn for life.</p>
-<p>
-<br><strong>Message from HOD</strong>
-</p>
 <p><strong>Message from HOD</strong>
 </p>
 <p><strong>Building Character, Social-Emotional Competencies, and 21CC at West View Primary</strong>
