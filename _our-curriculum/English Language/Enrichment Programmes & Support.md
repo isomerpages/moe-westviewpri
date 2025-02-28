@@ -5,30 +5,25 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Enrichment Programmes</strong></h4>
 <p><strong>DA VINCI - B.R.A.I.N. PROGRAMME</strong>
 </p>
-<p>&nbsp;</p>
-<p>The English Language programme, B.R.A.I.N., acronym for <strong><u>B</u></strong>e
-yourself, <strong><u>R</u></strong>apport with audience, Self-<strong><u>A</u></strong>wareness, <strong><u>I</u></strong>mprovisation,
-co<strong><u>N</u></strong>fidence, aims to extend and equip pupils strong
-in the language, their oratorical skills with extensive opportunities to
-produce and present their ideas in various contexts effectively, affectively
-and eloquently.</p>
-<p>&nbsp;</p>
+<p>The English Language programme, B.R.A.I.N., acronym for Be yourself, Rapport
+with audience, Self-Awareness, Improvisation, coNfidence, aims to extend
+and equip pupils strong in the language, their oratorical skills with extensive
+opportunities to produce and present their ideas in various contexts effectively,
+affectively and eloquently.</p>
 <p>Primary 4 pupils will learn to speak clearly and convey their ideas expressively.
 They will also improve their skills in articulation and vocal projection.
 They also get to think on their feet when given impromptu speech situations.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENG34.jpg">
+</div>
+<p>Our Primary 4 pupils engaged in activities to help them hone their presentation
+skills</p>
+<p>Click here ( <a href="https://www.westviewpri.moe.edu.sg/uniquely-us/da-vinci/" rel="noopener noreferrer nofollow" target="_blank">https://www.westviewpri.moe.edu.sg/uniquely-us/da-vinci/</a>)
+to find out more about the English Language Department’s enrichment programme!</p>
+<p></p>
 <h5><strong>Literacy Support Programmes</strong></h5>
 <p><strong>Learning Support Programme (LSP)</strong>
 </p>
