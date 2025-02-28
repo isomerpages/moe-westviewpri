@@ -90,7 +90,7 @@ success when given the right opportunities.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci10.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -102,16 +102,16 @@ success when given the right opportunities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci8.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci9_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci11.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
