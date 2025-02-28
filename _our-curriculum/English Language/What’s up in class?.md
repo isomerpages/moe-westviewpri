@@ -99,10 +99,9 @@ their literacy skills.</p>
 </div>
 <p><strong><em>Learning Centres</em></strong>
 </p>
-<p><em>The pupils’ skills in speaking, reading, writing and listening are reinforced through the different learning centre stations. The pupils are engaged and they get to learn language in a fun and interactive manner with the use of English Language activities and games. </em>
+<p><em>The pupils’ skills in speaking, reading, writing and listening are reinforced through the different learning centre stations. The pupils are engaged and they get to learn language in a fun and interactive manner with the use of English Language activities and games.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng4.png">
 </div>
-<p></p>
 <p></p>
