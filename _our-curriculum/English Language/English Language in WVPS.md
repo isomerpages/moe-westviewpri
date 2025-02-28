@@ -16,19 +16,16 @@ confident and competent users of English Language in speech and writing.</p>
 </p>
 <p><strong>Mrs Ho-Tan Soon Hui</strong>
 </p>
-<p>"Every child is different and has his own potential. As an educator, I
-believe in encouraging our pupils to focus on their unique strengths to
-reach their fullest potential.</p>
-<p>I am committed to build on a culture of continuous learning and improvement
-in the school so that teachers can be empowered to fulfil the potential
-of every child in WVPS."</p>
+<p><em>"Every child is different and has his own potential. As an educator, I believe in encouraging our pupils to focus on their unique strengths to reach their fullest potential.</em>
+</p>
+<p><em>I am committed to build on a culture of continuous learning and improvement in the school so that teachers can be empowered to fulfil the potential of every child in WVPS."</em>
+</p>
 <p><strong>Message from ST/English Language</strong>
 </p>
 <p><strong>Mrs Theseira Cynthia</strong>
 </p>
-<p>“Every child can learn and wants to learn. With the right guidance, each
-child can take ownership of his/her learning and make meaningful progress
-as a capable and independent learner.”</p>
+<p><em>“Every child can learn and wants to learn. With the right guidance, each child can take ownership of his/her learning and make meaningful progress as a capable and independent learner.”</em>
+</p>
 <p><strong>Curriculum Framework &amp; Description</strong>
 </p>
 <p>English Language (EL) is the common language that facilitates bonding
