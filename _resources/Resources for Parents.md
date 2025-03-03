@@ -243,7 +243,7 @@ parenting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict10.png">
 </div>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/screentimeadvisory-7to12</a>
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/primary/oral-eye-care#child-eyes" rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub/primary/oral-eye-care#child-eyes</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,7 +274,6 @@ start conversations on screen use.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ict8.png">
 </div>
-<p></p>
 <p><a href="https://go.gov.sg/screen-use-agreement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/screen-use-agreement</a>
 </p>
 <p>&nbsp;</p>
@@ -292,7 +291,8 @@ balance activities, and support open communication on screen use.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict7.png">
 </div>
-<p>Microsoft Office 365 ProPlus Guide (hyperlink to the pdf)</p>
+<p><a href="/files/Microsoft_Office_365_ProPlus_Guide.pdf" rel="noopener nofollow" target="_blank">Microsoft Office 365 ProPlus Guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Microsoft Office 365 ProPlus is available for free to all students. Refer
