@@ -227,7 +227,7 @@ learning environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict11.png">
 </div>
-<p><a href="https://parentingforwellness.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Parenting For Wellness</a>
+<p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting For Wellness</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,7 @@ parenting.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict9.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ict9.png">
 </div>
 <p><a href="https://www.digitalforlife.gov.sg/home/learn/resources/all-resources/raising-children-in-the-digital-age" rel="noopener noreferrer nofollow" target="_blank">Digital for Life_Raising Child in the Digital Age</a>
 </p>
@@ -272,7 +272,7 @@ start conversations on screen use.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict8.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ict8.png">
 </div>
 <p></p>
 <p><a href="https://go.gov.sg/screen-use-agreement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/screen-use-agreement</a>
