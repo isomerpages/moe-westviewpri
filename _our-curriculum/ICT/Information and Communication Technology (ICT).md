@@ -52,7 +52,7 @@ student-centred experiences. Teachers refer to the EdTech Pedagogical Scaffold
 to guide the design and facilitation of technology-enhanced learning, ensuring
 meaningful and effective integration throughout the lesson.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE10.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE10.png">
 </div>
 <p><strong>3. Cyber Wellness</strong>
 </p>
