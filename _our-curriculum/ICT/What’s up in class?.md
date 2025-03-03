@@ -89,24 +89,25 @@ co-curricular activities to enhance learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.jpg">
 </div>
-<p>Cyber Wellness</p>
+<p><strong>Cyber Wellness</strong>
+</p>
 <p>Our Cyber Wellness education is delivered through various platforms:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Form Teacher Guidance Period (FTGP): Dedicated lessons focusing on online
-safety and etiquette.</p>
+<p><strong>Form Teacher Guidance Period (FTGP):</strong> Dedicated lessons
+focusing on online safety and etiquette.</p>
 </li>
 <li>
-<p>Assemblies: School-wide sessions addressing current digital issues and
-promoting positive online behaviour.</p>
+<p><strong>Assemblies:</strong> School-wide sessions addressing current digital
+issues and promoting positive online behaviour.</p>
 </li>
 <li>
-<p>Termly Tips: Regular updates and advice shared with pupils to reinforce
-safe online practices.</p>
+<p><strong>Termly Tips:</strong> Regular updates and advice shared with pupils
+to reinforce safe online practices.</p>
 </li>
 <li>
-<p>ICT Lessons: Integration of Cyber Wellness principles to provide practical
-guidance during technology use.</p>
+<p><strong>ICT Lessons:</strong> Integration of Cyber Wellness principles
+to provide practical guidance during technology use.</p>
 </li>
 </ul>
 <p>This multifaceted approach ensures that pupils receive consistent and
