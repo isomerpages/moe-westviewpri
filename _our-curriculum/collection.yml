@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Home Based Learning.md
       - English Language/.keep
       - English Language/English Language in WVPS.md
       - English Language/What’s up in class?.md
@@ -27,6 +26,12 @@ collections:
       - Physical Education & Health/What's up in class?.md
       - Physical Education & Health/Department Programmes.md
       - Physical Education & Health/Enrichment Programmes & Support.md
+      - ICT/.keep
+      - ICT/Information and Communication Technology (ICT).md
+      - ICT/What’s up in class?.md
+      - ICT/Department Programmes.md
+      - ICT/Enrichment Programmes & Support.md
+      - ICT/Home Based Learning (HBL).md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics in WVPS.md
       - Aesthetics/What's up in class?.md
@@ -34,12 +39,6 @@ collections:
       - Aesthetics/Enrichment Programmes & Support.md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership Development Programme.md
-      - ICT/.keep
-      - ICT/Information and Communication Technology (ICT).md
-      - ICT/What’s up in class?.md
-      - ICT/Department Programmes.md
-      - ICT/Enrichment Programmes & Support.md
-      - ICT/Home Based Learning (HBL).md
       - Core CCAs/.keep
       - Core CCAs/Core CCAs in WVPS.md
       - Core CCAs/Art & Craft Club.md
@@ -57,6 +56,7 @@ collections:
       - PAL/.keep
       - PAL/Programme for Active Learning (PAL).md
       - PAL/What’s up in class?.md
+      - Home Based Learning.md
       - Home Based Learning/.keep
       - Home Based Learning/General Info.md
       - Home Based Learning/SLS Support.md
