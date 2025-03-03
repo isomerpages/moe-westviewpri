@@ -38,7 +38,7 @@ empowered to take ownership of their learning, using technology effectively
 for research, collaboration, and problem-solving in an ever-evolving digital
 landscape.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE9.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE9.png">
 </div>
 <p><strong>2. Integrating EdTech to Enrich Teaching and Learning</strong>
 </p>
@@ -52,18 +52,10 @@ student-centred experiences. Teachers refer to the EdTech Pedagogical Scaffold
 to guide the design and facilitation of technology-enhanced learning, ensuring
 meaningful and effective integration throughout the lesson.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE10.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE10.png">
 </div>
-<p>2. Integrating EdTech to Enrich Teaching and Learning</p>
-<p>Teachers are empowered through professional development to design technology-enhanced
-lessons that promote interactive and collaborative learning. By leveraging
-EdTech tools and platforms, lessons become more engaging and tailored to
-diverse learning needs.</p>
-<p>In our classrooms, we harness e-Pedagogy to foster active learning. Through
-the purposeful use of technology, we create engaging, data-informed, and
-student-centred experiences. Teachers refer to the EdTech Pedagogical Scaffold
-to guide the design and facilitation of technology-enhanced learning, ensuring
-meaningful and effective integration throughout the lesson</p>
+<p><strong>3. Cyber Wellness</strong>
+</p>
 <p>We prioritise the well-being of our pupils in the digital realm. Our Cyber
 Wellness programme uses the Sense-Think-Act approach to develop a child’s
 instinct to act responsibly in cyberspace. This approach is grounded in
@@ -90,7 +82,7 @@ online environment. Our cyber wellness education also helps pupils develop
 self-management skills, enabling them to make informed decisions and maintain
 a healthy balance in technology use.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE11.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE11.png">
 </div>
 <p><strong>Partnership with Parents</strong>
 </p>
