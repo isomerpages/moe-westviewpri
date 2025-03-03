@@ -57,9 +57,9 @@ meaningful and effective integration throughout the lesson.</p>
 <p><strong>3. Cyber Wellness</strong>
 </p>
 <p>We prioritise the well-being of our pupils in the digital realm. Our Cyber
-Wellness programme uses the Sense-Think-Act approach to develop a child’s
-instinct to act responsibly in cyberspace. This approach is grounded in
-three guiding principles:</p>
+Wellness programme uses the <em>Sense-Think-Act</em> approach to develop
+a child’s instinct to act responsibly in cyberspace. This approach is grounded
+in three guiding principles:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Respect for Self and Others: Developing an understanding of the impact
