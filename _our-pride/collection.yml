@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Gallery Life at WV/2025.md
       - Gallery Life at WV/2024.md
       - Gallery Life at WV/2023.md
       - Gallery Life at WV/2022.md
