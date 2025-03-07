@@ -16,7 +16,14 @@ by our Cyber Warriors, where students engage in interactive games and discussion
 to reinforce safe online practices and positive peer influence.</p>
 <p>Through these initiatives, we aim to equip students with the knowledge
 and skills to navigate the digital world safely and responsibly.</p>
-<p><strong>Be Cyber-Bully Proof </strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<p><strong>Be Cyber-Bully Proof</strong>
 </p>
 <p>Be Cyber-Bully Proof is an annual event that raises awareness about cyberbullying
 and promotes a culture of kindness and respect online.</p>
