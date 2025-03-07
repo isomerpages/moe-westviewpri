@@ -5,12 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>DA VINCI</strong></h1>
+<h4><strong>Description of Signature Programme</strong></h4>
 <p>The DA VINCI at West View Primary School seeks to nurture every child’s
 potential, acknowledging that each student possesses unique combinations
 of talents and abilities. Through a thoughtfully structured curriculum,
 the programme provides students with varied opportunities to maximize their
 strengths and reach their fullest potential, and is designed to develop
 critical thinking, creativity, and effective communication skills.</p>
+<h4><strong>Key Programmes</strong></h4>
 <p>The DA VINCI consists of three key programme:</p>
 <p><strong>BRAIN Programme </strong>
 <br>Focused on developing effective communication and presentation skills,

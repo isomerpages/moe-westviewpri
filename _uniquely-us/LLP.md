@@ -2,85 +2,154 @@
 title: LLP
 permalink: /uniquely-us/llp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Learning for Life Programme: ACE the Arts
-=========================================
-![](/images/Uniquely%20Us/LLP/For_cover_page___LLP.jpg)
-![](/images/Uniquely%20Us/LLP/image1.png)
-![](/images/Uniquely%20Us/LLP/Image2.png)
-
-#### Programmes
-
-<p style="color:red" align="left">Sharing of talents and interests through Artistes of the Term (AOTT)</p>
-
-![](/images/Uniquely%20Us/LLP/image3.png)
-
-AOTT is a platform where pupils pick up new skills and show them to their friends. Pupils are reminded that excellence is not being the best but doing their best.
-![](/images/Uniquely%20Us/LLP/image4.png)
-
-![](/images/Uniquely%20Us/LLP/Flourish.png)
-
-<p style="color:red" align="left">Teachers as role models to learn for life - Arts and Life</p>
-
-Arts and Life is a special project where staff of West View Primary School inspire lifelong learning. They role model PRIDE and show pupils the importance of curiosity, resilience, and the joy of learning by being passionate about continuous education and personal growth.
-
-<h4><center><u>Arts and Life is 3 years old!</u></center></h4>
-
-![](/images/Uniquely%20Us/LLP/image6.png)
-
-[Link to 2023 Arts and Life playlist](https://www.youtube.com/playlist?list=PL_kYG_eIYG4Q8GP9YLuTO9RejCLwwvaHz)
-
-<center>Link to previous episodes</center>
-
-|&nbsp;|&nbsp;|
-|:--------:|:--------:|
-|[2022](https://youtube.com/playlist?list=PLwZqEOsDzxO_ZvWKiY0lR0-4qsPOsIoQG)|[2021](https://www.youtube.com/playlist?list=PLwZqEOsDzxO9qwQluE1L1430TAlVfnBrO)|
-
-![](/images/Uniquely%20Us/LLP/Flourish.png)
-
-<p style="color:red" align="left">Exposing pupils to the Arts through STRIVE and Learning Journeys</p>
-
-Pupils have the opportunity to immerse themselves in diverse dance and music experiences, including K-pop dance, ethnic dance, hip-hop dance and songwriting classes. This provides them with a holistic experience
-![](/images/Uniquely%20Us/LLP/image7.png)
-
-During Learning Journeys, pupils gain aesthetic experiences and appreciation for the Arts through exposure to live performances.
-
-|&nbsp;|&nbsp;|
-| :--------: | :--------: |
-|![](/images/Uniquely%20Us/LLP/image8.png)|![](/images/Uniquely%20Us/LLP/image9.png)|
-
-<center>Learning Journey to watch Frozen - The Musical on 18 February 2023</center>
-
-![](/images/Uniquely%20Us/LLP/image10.jpeg)
-
-*Upcoming Learning Journey: Roald Dahl's Matilda The Musical - Term 2, 2024*
-
-![](/images/Uniquely%20Us/LLP/Flourish.png)
-	
-<p style="color:red" align="left">A platform for pupils to be heard and encouraged - Student’s Voice</p>
-
-Student’s Voice is a place for students to share their thoughts and opinions on important topics. It creates a community where students feel valued and empowered. This platform encourages critical thinking, empathy and communication skills, promoting active participation in shaping the educational environment.
-
-|&nbsp;|&nbsp;|
-| :--------: | :--------: |
-|![](/images/Uniquely%20Us/LLP/image11.jpeg)|![](/images/Uniquely%20Us/LLP/image12.png)|
-
-![](/images/Uniquely%20Us/LLP/Flourish.png)
-
-<p style="color:red" align="left">Competitions and activities to inculcate the love for language in a multicultural society</p>
-
-Competitions showcasing Performing Arts in Mother Tongue languages celebrate cultural diversity. Examples include contests in dance, singing, and storytelling, where participants express their talents and creativity.
-![](/images/Uniquely%20Us/LLP/image13.png)
-
-Compilation of videos from past competition
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Njjekf_LcZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/bkQJy13LdEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-What is ACE the Arts?
----------------------
-
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XCbcwgau62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-<p style="color:blue" align="center">(Video filmed pre-Covid-19)</p>
+<p><strong>Learning for Life Programme</strong>
+</p>
+<p>The Learning for Life Programme at West View Primary School seeks to instill
+in pupils, a passion for learning for life and an appreciation for the
+arts. Pupils learn how to express themselves and create opportunities for
+themselves. They are given many opportunities to explore and develop their
+strengths and interests, using their gifts to serve the school and community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP1.png">
+</div>
+<p><strong>Programmes</strong>
+</p>
+<p>The Learning for Life Programme consists of the programmes below:</p>
+<p><strong>Learning Journeys</strong>
+</p>
+<p>During Learning Journeys, pupils gain aesthetic experiences and appreciation
+for the Arts through exposure to live performances.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP3_png.jpg">
+</div>
+<p>Our pupils were given the opportunity to watch a French Theatre Drama
+Performance at the Esplanade. It was a memorable and enriching experience!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP4_png.jpg">
+</div>
+<p>Our pupils had the chance to enjoy the “Mathilda Musical” at Marina Bay
+Sands. It was a wonderful learning experience for them as they learnt to
+appreciate the Arts!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SPge8L3NK8Y?si=VpCOrKhdG8fCedsW"></iframe>
+</div>
+<p><strong>Makerspace&nbsp;</strong>
+</p>
+<p>The newly minted Makerspace is an area that provide pupils with opportunities
+to hone their creativity while they develop lifelong skills. Many engaging
+activities are provided for pupils to discover and explore their talents,
+while developing their design-thinking, observational skills, critical
+thinking and enhanced 21st century competencies.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP5.png">
+</div>
+<p>Learning how to use different materials to design a healthy plate of nutritious
+food for teachers. We are young Masterchefs!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP6.png">
+</div>
+<p>Our healthy plates</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP7.jpg">
+</div>
+<p>Honing our observational drawing skills</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP9.jpg">
+</div>
+<p>We are budding artists!</p>
+<p>Exploring with lego and strawbees. We learn to design our own toys!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP10.png">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R33ksZqYRAU?si=WhBFLRbjPfB05MFk"></iframe>
+</div>
+<p><strong>Aesthetics Week</strong>
+</p>
+<p>Aesthetics Week was an explosion of creativity! From mesmerising online
+beatboxing, karaoke with classmates to vibrant sidewalk chalk drawings;
+every moment was a masterpiece. The immersive music experience transported
+the pupils to another dimension, while tote bag-colouring added a personal
+touch to the swag, but the highlight was the stunning Wearable Art Parade!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP11.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP12.jpg">
+</div>
+<p>For the Wearable Art Parade, pupils used recyclable materials to design
+and create their own fashion pieces. They made something valuable for themselves
+and others.</p>
+<p>Arts is definitely an expression of one’s creativity! Pupils displayed
+their creative talents and drew on the courtyard floor using colourful
+chalks. What a wonderful experience indeed!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP13.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP14.png">
+</div>
+<p><strong>ACES of West View</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP15.jpg">
+</div>
+<p>From playing the musical instruments to singing and gymnastics, we rejoice
+with our pupils as they explore and develop their interests and passions.
+The school community watched in awe as our very own talented West Viewans
+performed. Pupils also shared the importance of displaying TALENT Values
+and following their aspirations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP16.png">
+</div>
+<p><strong>STRIVE Programmes</strong>
+</p>
+<p>Pupils have the opportunity to immerse themselves in diverse dance and
+music experiences, including K-pop dance, ethnic dance, hip hop, beatboxing
+and songwriting classes. This provides them with holistic experiences that
+promote learning for life.</p>
+<p><strong>Ethnic Dances</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP18.jpg">
+</div>
+<p><strong>K-Pop</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP19.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP20.jpg">
+</div>
+<p><strong>Show Choir</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Qkz4vdet2E?si=GwJQzWwk1Sj5VuNb"></iframe>
+</div>
+<p><strong>Birthday Celebrations @ West View</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp21.png">
+</div>
+<p>In West View Primary School, our school birthday celebrations are a hit!
+Together, we sing the birthday song in different languages, filling the
+air with joy and appreciation for every West Viewan. The heartwarming tradition
+of celebrating one another with gifts and songs unites us and creates lasting
+memories.</p>
+<p></p>
+<p></p>

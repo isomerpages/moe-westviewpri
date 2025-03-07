@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="#promoting-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Promoting Cyber Wellness</a>
+<p><a href="#promoting-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness &amp; ICT</a>
 </p>
 </li>
 <li>
@@ -44,7 +44,7 @@ variant: tiptap
 <h2>P1 2023 Parents' Handbook</h2>
 <p>Click the picture below to access the Handbook.</p>
 <p></p>
-<h2>Promoting Cyber Wellness</h2>
+<h2>Cyber Wellness &amp; ICT</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -204,6 +204,99 @@ digital learners. Check out additional resources from external agencies
 like <a href="https://go.gov.sg/medialiteracycouncil-cw-resources" rel="noopener noreferrer nofollow" target="_blank">Media Literacy Council</a> and
 <a href="https://go.gov.sg/nlb-sure-campaign" rel="noopener noreferrer nofollow" target="_blank">S.U.R.E. by National Library Board</a>to support our student’s digital
 journey.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Acceptable_Use_Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptable Use Policy for Students</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A set of guidelines for students to maintain a positive and respectful
+learning environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict11.png">
+</div>
+<p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting For Wellness</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A toolbox of tips to support your child’s well-being and navigate digital-age
+parenting.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict10.png">
+</div>
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/primary/oral-eye-care#child-eyes" rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub/primary/oral-eye-care#child-eyes</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Screen use, cyberwellness, and parenting resources for kids aged 7-12.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ict9.png">
+</div>
+<p><a href="https://www.digitalforlife.gov.sg/home/learn/resources/all-resources/raising-children-in-the-digital-age" rel="noopener noreferrer nofollow" target="_blank">Digital for Life_Raising Child in the Digital Age</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Strategies to guide children's digital journey, protect them online, and
+start conversations on screen use.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ict8.png">
+</div>
+<p><a href="https://go.gov.sg/screen-use-agreement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/screen-use-agreement</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use a Family Screen Use Agreement to manage your child’s screen time,
+balance activities, and support open communication on screen use.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict7.png">
+</div>
+<p><a href="/files/Microsoft_Office_365_ProPlus_Guide.pdf" rel="noopener nofollow" target="_blank">Microsoft Office 365 ProPlus Guide</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microsoft Office 365 ProPlus is available for free to all students. Refer
+to the guide for more details.</p>
 </td>
 </tr>
 </tbody>

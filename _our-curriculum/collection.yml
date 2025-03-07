@@ -26,11 +26,19 @@ collections:
       - Physical Education & Health/What's up in class?.md
       - Physical Education & Health/Department Programmes.md
       - Physical Education & Health/Enrichment Programmes & Support.md
-      - Aesthetics/What's up in class?.md
+      - ICT/.keep
+      - ICT/Information and Communication Technology (ICT).md
+      - ICT/What’s up in class?.md
+      - ICT/Department Programmes.md
+      - ICT/Enrichment Programmes & Support.md
+      - ICT/Home Based Learning (HBL).md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics in WVPS.md
+      - Aesthetics/What's up in class?.md
       - Aesthetics/Department Programmes.md
       - Aesthetics/Enrichment Programmes & Support.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership Development Programme.md
       - Core CCAs/.keep
       - Core CCAs/Core CCAs in WVPS.md
       - Core CCAs/Art & Craft Club.md
@@ -41,12 +49,11 @@ collections:
       - Core CCAs/Floorball.md
       - Core CCAs/Football.md
       - Core CCAs/Scouts.md
-      - CCE/What's up in class?.md
       - CCE/.keep
       - CCE/CCE in WVPS.md
-      - CCE/WV as One.md
-      - CCE/We are Leaders.md
-      - PAL.md
-      - Home Based Learning/.keep
-      - Home Based Learning/General Info.md
-      - Home Based Learning/SLS Support.md
+      - CCE/What's up in class?.md
+      - CCE/Department Programmes.md
+      - PAL/.keep
+      - PAL/Programme for Active Learning (PAL).md
+      - PAL/What’s up in class?.md
+      - Home Based Learning.md

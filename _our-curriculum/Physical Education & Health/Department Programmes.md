@@ -14,9 +14,6 @@ Telematches. Leading up to this event, our pupils worked together as a
 class to prepare for the events. In the same year, our junior sports CCA
 members also visited the Singapore Sports Museum at Sports Hub as part
 of our Olympism@WVPS.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%;" height="auto" width="100%" alt="Department Programmes" src="/images/Olympism@WVPS%20.jpeg">
-</div>
 <h2>Healthy Canteen</h2>
 <p>Besides exercising, our school strives to create greater awareness of
 different aspects of health through the use of learning spaces. The school
@@ -29,17 +26,31 @@ necessary for their growing needs.</p>
 <p>As many dietary preferences are inculcated from young, it is important
 to shape these early in life and empower children to make healthier choices
 throughout life.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%;" height="auto" width="100%" alt="Department Programmes" src="/images/Healthy%20Canteen%20.jpeg">
-</div>
 <h2>Fruittie Veggie Programme</h2>
 <p>The programme encourages students to eat more fruits and vegetables, to
 drink mineral water instead of sugary drinks and to buy healthy snacks
 during recess. Pupils receives a token which they can deposit in the “West
 View Bank of PRIDE”. The classes with the most token win prizes.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_24_at_11_17_30_AM.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Dz2-pNVN7lg"></iframe>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h2>Sugar-free Mondays</h2>
 <p>Sales of sweet drinks and carbonated drinks are not allowed on Mondays
 in a bid to encourage pupils to consume less sugar and drink water as an
@@ -51,9 +62,6 @@ alternative.</p>
 <p>Play@recess encourages pupils to engage in unstructured play to promote
 a healthy lifestyle. Pupils are able to loan out PE equipment to play.
 Pupils develop their social skills and build friendships as they play together.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%;" height="auto" width="100%" alt="Department Programmes" src="/images/Play@Recess%20.jpeg">
-</div>
 <h2>Dancercise</h2>
 <p>Our Dancercise workout sessions emphasise the importance of active living
 amongst pupils.Pupils are energised after the workout to start the day
