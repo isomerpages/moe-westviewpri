@@ -30,19 +30,28 @@ variant: tiptap
 <p><a href="#school-holiday-edition" rel="noopener noreferrer nofollow" target="_blank">School Holiday Edition</a>
 </p>
 </li>
-<li>
-<p><a href="#joint-year-end-school-holidays-advisory" rel="noopener noreferrer nofollow" target="_blank">Joint Year-End School Holidays Advisory</a>
-</p>
-</li>
 </ol>
 <h2>Group Personal Accident Insurance for students</h2>
 <p>Online claim submission can be done at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.</p>
 <h2>A Day in Life of a P1 Pupil</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R9xIlSU8WTc"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ba7AoFOhjVc?si=ekw5eDI-tXnrjmde"></iframe>
 </div>
-<h2>P1 2023 Parents' Handbook</h2>
-<p>Click the picture below to access the Handbook.</p>
+<h3>P1 Orientation 2025 -Welcome and Introduction of School Personnel</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z5Syx4SlSpQ?si=Y8EJRRxDTqDw4nMu"></iframe>
+</div>
+<h3>P1 Orientation 2025 - School Operation</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OLLcHCbam10?si=NNktIK8BGPeVa60S"></iframe>
+</div>
+<h3>P1 Orientation 2025 - Preparing for School</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3pYMO3Avo5s?si=vmlLw9btsUi9okRN"></iframe>
+</div>
+<h2>P1 2025 Parents' Handbook</h2>
+<p>Click <a href="/files/P1_Parents_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access the Handbook.</p>
 <p></p>
 <h2>Cyber Wellness &amp; ICT</h2>
 <table style="minWidth: 75px">
@@ -559,5 +568,4 @@ or to seek clarification about the school’s Sexuality Education programme.</p>
 <h2>School Holiday Edition</h2>
 <p><a href="/files/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Resource Kit - School Holiday Edition.pdf</a>
 </p>
-<h2>Joint Year-End School Holidays Advisory</h2>
 <p></p>
