@@ -418,7 +418,7 @@ five succeed after much suffering and many treacherous encounters .&nbsp;&nbsp;<
 <p>2.&nbsp;中学：推荐内容包括小说、哲学、历史人物故事、散文以及手工书。</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image002.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/image002.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
