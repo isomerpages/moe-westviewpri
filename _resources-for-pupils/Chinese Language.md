@@ -424,9 +424,6 @@ five succeed after much suffering and many treacherous encounters .&nbsp;&nbsp;<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image003.png">
 </div>
-<h2>儿童阅读推荐 （二月）</h2>
-<p></p>
-<h2>听故事，识世界</h2>
 <p></p>
 <h2>ICT tips for the learning of Chinese Language</h2>
 <div class="isomer-image-wrapper">
