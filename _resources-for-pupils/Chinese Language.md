@@ -2,37 +2,565 @@
 title: Chinese Language
 permalink: /wvps/resources/resources-for-pupils/chinese-language/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Recommended Resources for the learning of Chinese Language
-----------------------------------------------------------
-
-<table class="iveo_table ives_tab_simple3" align="left" width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 869.078px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 88px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">S/N</span></b></p></td><td width="317" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">e-Resource</b></span></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 515px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Link</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">1</span></b></p></td><td width="317" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">星衢童阅乐</span></u></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><img src="/images/CL1.png" alt="1.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 271px; height: 149px;"></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=kx-Yk116cT0" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=kx-Yk116cT0</b></a></span><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="182" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">目录</span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep1<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">毛毛的新毯子</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep2<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">为什么我们不会游泳？</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep3<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">一束不同颜色的花</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep4<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">小猫咪咪</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep5<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">小苍蝇环游世界</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td><td width="173" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep6<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">等明天</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep7<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">袋鼠妈妈的口袋</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep8<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">龟兔又赛跑</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep9<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">买西瓜</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Ep10<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">小猪赛跑</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2</span></b></p></td><td width="317" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<span>&nbsp;</span></span><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">星衢童阅乐园《第二季》</span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b><img src="/images/CL2.png" width="100%" alt="2.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s</b></a></span><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">CSCF Kids Storytelling Wonderland Season 2 is back with more vivid storytelling videos and interesting activities. Inspiring kids' imagination and learn Chinese in a fun and easy way! Broadcasting every 1st and 3rd Friday, 7p.m. Subscribe to our channel for the latest episodes.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">3</span></b></p></td><td width="317" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><img width="217" height="289" src="/images/CL3.png" alt="3.png" class="" style="margin: 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; width: 273px; height: 362px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Scan the QR code to check out the recommended reads from National Library Board.</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="182" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">适合小学一年级和二年级的故事书</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(Recommended for P1 &amp; P2)</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/3%20QR%20P1%20and%20P2.png" alt="3 QR P1 and P2.png" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 223px; height: 210px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<span>&nbsp;</span><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">适合小学三年级和四年级的故事书<span>&nbsp;</span></span>(Recommended for P3 &amp; P4)</span><img src="/images/3%20QR%20P3%20and%20P4.png" alt="3 QR P3 and P4.png" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; background-color: initial; width: 210px; height: 205px;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></p></td><td width="173" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">适合小学五年级和六年级的读物<span>&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(Recommended for P5 &amp; P6)</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><img src="/images/3%20QR%20P5%20and%20P6.png" alt="3 QR P5 and P6.png" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; background-color: initial; width: 231px; height: 211px;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">新加坡绘本</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(Chinese Picture books)</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/3%20QR%20Chinese%20Pic%20books.png" alt="3 QR Chinese Pic books.png" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 200px; height: 200px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">4</span></b></p></td><td width="317" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">eZhishi<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">知识悦读</span></u></b></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/CL4.png" alt="4.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><a href="https://www.ezhishi.net/Funland/TFunland/index.aspx?rLevelType=1" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline; background-color: initial;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.ezhishi.net/Funland/TFunland/index.aspx?rLevelType=1</span></a><br style="margin: 0px; outline: 0px; padding: 0px;"></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Login using ezhishi account, click on “zhishi Funland” (<span>&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">知识悦读<span>&nbsp;</span></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">). Not only are there many reading materials to choose from, each story comes with a video and an activity.</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">5</span></b></p></td><td width="317" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Zaobao Schools<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">早报校园</span></u></b><img src="/images/CL5.png" width="100%" alt="5.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 251px; height: 149px;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.zbschools.sg/" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.zbschools.sg/<span>&nbsp;</span></span></a></span><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<span>&nbsp;</span></span><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Zaobao Schools provide news articles on social issues, popular topics and entertainment.</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">6</span></b></p></td><td width="317" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">西游记<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Journey to the West</span></u></b><img src="/images/CL6.jpeg" alt="6.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 241px; height: 196px;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=vhsG3GQSPCs" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">https://www.youtube.com/watch?v=vhsG3GQSPCs</a></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">During the Tang dynasty, Buddhist monk Xuanzang traveled to the "Western Regions ”to obtain Buddhist sacred texts.&nbsp; The Gautama Buddha provided him four protectors and disciples,<span>&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">孙悟空<span>&nbsp;</span></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Sun Wukong ( the Monkey King),<span>&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">猪八戒<span>&nbsp;</span></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Zhu Bajie ,<span>&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">沙悟净<span>&nbsp;</span></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Sha Wujing , and a dragon prince turned white horse<span>&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">白龙马<span>&nbsp;</span></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Bai Long Ma.&nbsp; The team of five succeed after much suffering and many treacherous encounters .&nbsp;&nbsp;</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">7</span></b></p></td><td width="317" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">喜马拉雅<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">FM<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">六一儿童节小故事<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">-<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">姆咪故事<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">(Moomin)</span></u></b><img src="/images/CL7.png" alt="7.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=O5GfeX1Q-gQ" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=O5GfeX1Q-gQ</span></a></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<span>&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Welcome to the Moomin Storytime , enjoy this<span>&nbsp;</span></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">audio story.&nbsp;</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="6" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">8</span></b></p></td><td width="317" rowspan="6" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">儿童歌曲<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Kids Song</span></u></b><img src="/images/CL8.jpeg" alt="8.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=a1CMEVfDeP4" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=a1CMEVfDeP4</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">早安老师<span>&nbsp;</span></span></b><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Good morning , teacher !</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=8cU8l6ZamR0" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=8cU8l6ZamR0</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">声律启蒙</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=KqT7EcRrZBY" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=KqT7EcRrZBY</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">你笑起<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">來<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">真好看<span>&nbsp;</span></span></b><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">You Look Good When You Smile</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=rVFf0HRcrkE" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=rVFf0HRcrkE</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">虫儿飞</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=1Hn5inD7JX0" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=1Hn5inD7JX0</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">童年<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Childhood</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=NoGBBbI4Xo8" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=NoGBBbI4Xo8</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">但愿人长久</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="39" rowspan="7" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">9</span></b></p></td><td width="317" rowspan="7" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">经典故事<span>&nbsp;</span></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Fiction Story</span></u></b><img src="/images/CL9.png" alt="9.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 267px; height: 170px;"></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></b></p></td><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=t2wIIz52swc" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=t2wIIz52swc</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">卖火柴的小女孩&nbsp;<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Little Match Girl&nbsp;&nbsp;&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=By5ql5a6Y40" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=By5ql5a6Y40</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">小红帽&nbsp;<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Little Red Riding Hood</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=bXKxl8QIItA" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=bXKxl8QIItA</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">三只小猪&nbsp;<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">The Three Little Pigs</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=3mcI_zA9U6E" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=3mcI_zA9U6E</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">龟兔赛跑&nbsp;<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">The Rabbit And The Turtle</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=LBslSKy7jdw" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=LBslSKy7jdw</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">狮子与老鼠&nbsp;<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Lion And The Mouse</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=e2f_qqU4ulw" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=e2f_qqU4ulw</span></a></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">狐狸爸爸笑了<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Fox and the Pigs</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="355" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.youtube.com/watch?v=_mC6HHiZlCg" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">https://www.youtube.com/watch?v=_mC6HHiZlCg</span></a></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="ZH-CN" class="" style="margin: 0px; outline: 0px; padding: 0px;">手机的规矩<span>&nbsp;</span></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Rules for Mobile Phone</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">10</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">创意笔第19期<br style="margin: 0px; outline: 0px; padding: 0px;"></u></b><img src="/images/cover.png" alt="cover.PNG" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="6" style="margin: 0px; outline: 0px; padding: 0px;"><a href="/files/19.pdf" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">链接</a></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">11</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="6" style="margin: 0px; outline: 0px; padding: 0px;">我们心中的故事</font><img src="/images/min.png" width="100%" alt="-min.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 265px; height: 202px;"></td><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"><font size="6" style="margin: 0px; outline: 0px; padding: 0px;"><a href="/files/Resources%20for%20pupils/Chinese%20Langauge/Our_stories_CL_compressed.pdf" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;">链接</a></font></td></tr></tbody></table>
-
-假期阅读乐（2024年3月）
-----------------
-[![朋友和友情 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/book_mar_2024.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/book_mar_2024.pdf)
-
-## 儿童阅读推荐 （二月）
-[![二月 儿童阅读推荐](/images/Resources%20for%20pupils/Chinese%20Language/Ebook_Feb_2024.jpg)](/files/Resources%20for%20pupils/Chinese%20Langauge/Ebook_Feb_2024.pdf)
-
-
-听故事，识世界
---------------------------------------------------------------
-[![听故事，识世界](/images/Resources%20for%20pupils/Chinese%20Language/storytelling_mar_2024.png)](/files/Resources%20for%20pupils/Chinese%20Langauge/storytelling_mar_2024.pdf)
-
-
-ICT tips for the learning of Chinese Language
----------------------------------------------
-
-![Chinese ICT](/images/Chinese%20ICT%201.png)
-
-![Chinese ICT](/images/Chinese%20ICT%202.png)
-
-![Chinese ICT ](/images/Chinese%20ICT%203.png)
-
-![Chinese ICT ](/images/Chinese%20ICT%204.png)
-
-![Chinese ICT ](/images/Chinese%20ICT%205.png)
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 880px;" width="0" align="center" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;" class=""><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" colspan="7" width="777"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Stay Home Edition (Mother Tongue)</span></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" colspan="7" width="777"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Recommended Apps &amp;Websites for the learning of Mother Tongue</span></b><span style="margin: 0px; outline: 0px; padding: 0px;" class=""></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" width="37"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">S/N</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" width="276"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Name</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" width="211"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Icon</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" width="95"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Description</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" width="37"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">IOS</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" width="60"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Andriod</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" class="" width="60"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Level</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="37"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;">1.</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="276"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">NLB Mobile App</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://mobileapp.nlb.gov.sg/"><span style="margin: 0px; outline: 0px; padding: 0px;">https://mobileapp.nlb.gov.sg/</span></a><span style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;"></span></span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><br style="margin: 0px; outline: 0px; padding: 0px;"></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">NLB Website</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="http://www.nlb.gov.sg/discovereads/primary-resources/"><span style="margin: 0px; outline: 0px; padding: 0px;">http://www.nlb.gov.sg/discovereads/primary-resources/</span></a><span style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="211"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" href="https://mobileapp.nlb.gov.sg/"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 183.023px; height: 116.402px;" class="ive_eobj_center" alt="nlb.jpg" align="left" src="/images/nlb.jpeg" height="83" width="82"></a><br style="margin: 0px; outline: 0px; padding: 0px;"></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center">NLB Mobile App<br style="margin: 0px; outline: 0px; padding: 0px;"></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="95"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span style="margin: 0px; outline: 0px; padding: 0px;">·<span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px;">With lots of Mother Tongue books to choose from, download this app to meet your reading needs!&nbsp;</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="37"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">√</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="60"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">√</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="60"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">Primary 1-6</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="37"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;">2.</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="276"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">Learning Mother Tongue Languages -<span>&nbsp;</span></span><span style="margin: 0px; outline: 0px; padding: 0px;">Duolingo</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" target="_blank" href="https://www.duolingo.com/"><span style="margin: 0px; outline: 0px; padding: 0px;">https://www.duolingo.com/</span></a><span style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="211"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(236, 31, 38); text-decoration: underline;" href="https://www.duolingo.com/"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 337px;" class="ive_eobj_center" alt="duolingo.png" align="left" src="/images/duolingo.png" height="67" width="101"></a><span style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Duolingo App</span><br style="margin: 0px; outline: 0px; padding: 0px;"></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="95"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;"><span style="margin: 0px; outline: 0px; padding: 0px;">·<span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px;">You can learn Chinese, Malay, Tamil and other languages with this fun and engaging app.</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="37"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">√</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="60"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">√</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="60"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 26px !important; color: rgb(28, 52, 88); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-weight: 400;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px;">Primary 1-6</span></p></td></tr></tbody></table>
+<h2>Recommended Resources for the learning of Chinese Language</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>e-Resource</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Link</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong><u>星衢童阅乐</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 271px; height: 149px;" height="auto" width="100%" alt="1.png" src="/images/CL1.png">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong><a href="https://www.youtube.com/watch?v=kx-Yk116cT0" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=kx-Yk116cT0</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>目录</u></strong>
+</p>
+<p><strong>Ep1&nbsp;毛毛的新毯子</strong>
+</p>
+<p><strong>Ep2&nbsp;为什么我们不会游泳？</strong>
+</p>
+<p><strong>Ep3&nbsp;一束不同颜色的花</strong>
+</p>
+<p><strong>Ep4&nbsp;小猫咪咪</strong>
+</p>
+<p><strong>Ep5&nbsp;小苍蝇环游世界</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Ep6&nbsp;等明天</strong>
+</p>
+<p><strong>Ep7&nbsp;袋鼠妈妈的口袋</strong>
+</p>
+<p><strong>Ep8&nbsp;龟兔又赛跑</strong>
+</p>
+<p><strong>Ep9&nbsp;买西瓜</strong>
+</p>
+<p><strong>Ep10&nbsp;小猪赛跑</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>&nbsp;&nbsp;<strong><u>星衢童阅乐园《第二季》</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;" height="auto" width="100%" alt="2.png" src="/images/CL2.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong><a href="https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+<p>CSCF Kids Storytelling Wonderland Season 2 is back with more vivid storytelling
+videos and interesting activities. Inspiring kids' imagination and learn
+Chinese in a fun and easy way! Broadcasting every 1st and 3rd Friday, 7p.m.
+Subscribe to our channel for the latest episodes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; width: 273px; height: 362px;" height="289" width="217" alt="3.png" src="/images/CL3.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Scan the QR code to check out the recommended reads from National Library
+Board.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>适合小学一年级和二年级的故事书</p>
+<p>(Recommended for P1 &amp; P2)</p>
+<p>
+<br>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;适合小学三年级和四年级的故事书&nbsp;(Recommended for P3 &amp; P4)</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; background-color: initial; width: 210px; height: 205px;" height="auto" width="100%" alt="3 QR P3 and P4.png" src="/images/3%20QR%20P3%20and%20P4.png">
+</div>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>适合小学五年级和六年级的读物&nbsp;(Recommended for P5 &amp; P6)</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; background-color: initial; width: 231px; height: 211px;" height="auto" width="100%" alt="3 QR P5 and P6.png" src="/images/3%20QR%20P5%20and%20P6.png">
+</div>
+<p>新加坡绘本</p>
+<p>(Chinese Picture books)</p>
+<p>
+<br>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong><u>eZhishi&nbsp;知识悦读</u></strong>
+</p>
+<p><strong><u><br></u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.ezhishi.net/Funland/TFunland/index.aspx?rLevelType=1" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ezhishi.net/Funland/TFunland/index.aspx?rLevelType=1</u></a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Login using ezhishi account, click on “zhishi Funland” (&nbsp;知识悦读&nbsp;).
+Not only are there many reading materials to choose from, each story comes
+with a video and an activity.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong><u>Zaobao Schools&nbsp;早报校园</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 251px; height: 149px;" height="auto" width="100%" alt="5.png" src="/images/CL5.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.zbschools.sg/" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.zbschools.sg/&nbsp;</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>&nbsp;&nbsp;Zaobao Schools provide news articles on social issues, popular
+topics and entertainment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>6</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong><u>西游记&nbsp;Journey to the West</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 241px; height: 196px;" height="auto" width="100%" alt="6.jpg" src="/images/CL6.jpeg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=vhsG3GQSPCs" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=vhsG3GQSPCs</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>During the Tang dynasty, Buddhist monk Xuanzang traveled to the "Western
+Regions ”to obtain Buddhist sacred texts.&nbsp; The Gautama Buddha provided
+him four protectors and disciples,&nbsp;孙悟空&nbsp;Sun Wukong ( the Monkey
+King),&nbsp;猪八戒&nbsp;Zhu Bajie ,&nbsp;沙悟净&nbsp;Sha Wujing , and a dragon
+prince turned white horse&nbsp;白龙马&nbsp;Bai Long Ma.&nbsp; The team of
+five succeed after much suffering and many treacherous encounters .&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>7</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong><u>喜马拉雅&nbsp;FM&nbsp;六一儿童节小故事&nbsp;-&nbsp;姆咪故事&nbsp;(Moomin)</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;" height="auto" width="100%" alt="7.png" src="/images/CL7.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=O5GfeX1Q-gQ" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=O5GfeX1Q-gQ</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>&nbsp;&nbsp;Welcome to the Moomin Storytime , enjoy this&nbsp;audio story.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>8</strong>
+</p>
+</td>
+<td rowspan="6" colspan="1">
+<p><strong><u>儿童歌曲&nbsp;Kids Song</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;" height="auto" width="100%" alt="8.jpg" src="/images/CL8.jpeg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=a1CMEVfDeP4" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=a1CMEVfDeP4</u></a>
+</p>
+<p><strong>早安老师&nbsp;</strong>Good morning , teacher !</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=8cU8l6ZamR0" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=8cU8l6ZamR0</u></a>
+</p>
+<p><strong>声律启蒙</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=KqT7EcRrZBY" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=KqT7EcRrZBY</u></a>
+</p>
+<p><strong>你笑起&nbsp;來&nbsp;真好看&nbsp;</strong>You Look Good When You Smile</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=rVFf0HRcrkE" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=rVFf0HRcrkE</u></a>
+</p>
+<p><strong>虫儿飞</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=1Hn5inD7JX0" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=1Hn5inD7JX0</u></a>
+</p>
+<p><strong>童年&nbsp;Childhood</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=NoGBBbI4Xo8" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=NoGBBbI4Xo8</u></a>
+</p>
+<p><strong>但愿人长久</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p><strong>9</strong>
+</p>
+</td>
+<td rowspan="7" colspan="1">
+<p><strong><u>经典故事&nbsp;Fiction Story</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 267px; height: 170px;" height="auto" width="100%" alt="9.png" src="/images/CL9.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=t2wIIz52swc" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=t2wIIz52swc</u></a>
+</p>
+<p><strong>卖火柴的小女孩&nbsp;&nbsp;Little Match Girl&nbsp;&nbsp;&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=By5ql5a6Y40" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=By5ql5a6Y40</u></a>
+</p>
+<p><strong>小红帽&nbsp;&nbsp;Little Red Riding Hood</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=bXKxl8QIItA" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=bXKxl8QIItA</u></a>
+</p>
+<p><strong>三只小猪&nbsp;&nbsp;The Three Little Pigs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=3mcI_zA9U6E" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=3mcI_zA9U6E</u></a>
+</p>
+<p><strong>龟兔赛跑&nbsp;&nbsp;The Rabbit And The Turtle</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=LBslSKy7jdw" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=LBslSKy7jdw</u></a>
+</p>
+<p><strong>狮子与老鼠&nbsp;&nbsp;Lion And The Mouse</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=e2f_qqU4ulw" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=e2f_qqU4ulw</u></a>
+</p>
+<p><strong>狐狸爸爸笑了&nbsp;Fox and the Pigs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.youtube.com/watch?v=_mC6HHiZlCg" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=_mC6HHiZlCg</u></a>
+</p>
+<p><strong>手机的规矩&nbsp;Rules for Mobile Phone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>创意笔第19期<br></u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" height="auto" width="100%" alt="cover.PNG" src="/images/cover.png">
+</div>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="/files/19.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>链接</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>11</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>我们心中的故事</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 265px; height: 202px;" height="auto" width="100%" alt="-min.png" src="/images/min.png">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p>
+<br><a href="/files/Resources%20for%20pupils/Chinese%20Langauge/Our_stories_CL_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>链接</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>假期阅读乐”推荐书单（3月)</h2>
+<p>您好！三月假期即将到来，我们特此向您推荐本学段的“假期阅读乐”华文阅读书单。</p>
+<p>&nbsp;</p>
+<p>“假期阅读乐”是推广华文学习委员会（CPCLL）与国家图书馆管理局（NLB）合作推出的项目。项目旨在推广华文阅读，培养学生良好的阅读习惯。每个学校假期前，我们都会为学校推荐适合学生阅读的华文书籍。您可以根据我们的推荐书单给学生安排假期阅读活动，也可以将随邮附上的PDF文件和下面的相关信息转发给学生。学生只需打开PDF文件，点击感兴趣的书籍封面，即可了解该书内容并借阅电子书。他们也可以扫描或点击二维码登入&nbsp;Libby网站查看更多电子书推荐。</p>
+<p>&nbsp;</p>
+<p>本期“假期阅读乐”包括两类推荐，希望学生在这个假期都能自由畅快地遨游书海：</p>
+<p>1.&nbsp;小学：推荐内容包括心理成长、奇幻故事以及本地绘本。小学书单包括电子书和纸质书。</p>
+<p>2.&nbsp;中学：推荐内容包括小说、哲学、历史人物故事、散文以及手工书。</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/image002.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image003.png">
+</div>
+<p></p>
+<h2>ICT tips for the learning of Chinese Language</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%201.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%202.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%203.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%204.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%205.png">
+</div>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="7">
+<p><strong>Stay Home Edition (Mother Tongue)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7">
+<p><strong>Recommended Apps &amp;Websites for the learning of Mother Tongue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Icon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Description</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IOS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Andriod</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NLB Mobile App</p>
+<p><a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://mobileapp.nlb.gov.sg/</u></a>
+</p>
+<p>
+<br>
+</p>
+<p>NLB Website</p>
+<p><a href="http://www.nlb.gov.sg/discovereads/primary-resources/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.nlb.gov.sg/discovereads/primary-resources/</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<p>NLB Mobile App
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;With lots of Mother Tongue books to choose from, download
+this app to meet your reading needs!&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1-6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Mother Tongue Languages -&nbsp;Duolingo</p>
+<p><a href="https://www.duolingo.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.duolingo.com/</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+<p>Duolingo App
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;You can learn Chinese, Malay, Tamil and other languages with
+this fun and engaging app.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>√</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1-6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
