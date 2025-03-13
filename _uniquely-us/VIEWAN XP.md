@@ -90,13 +90,11 @@ of projects</p>
 </p>
 <p><strong>Design Challenge: To design ways to help us to know the important places in our school</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VIEWAN XP" src="/images/VIEWAN%20XP.jpg">
-</div>
 <p><strong><u>PRIMARY 2</u></strong>
 </p>
 <p><strong>Design Challenge: To design ways to encourage my peers to save electricity in the classroom</strong>
 </p>
+<p></p>
 <p><strong><u>PRIMARY 3</u></strong>
 </p>
 <p><strong>Design Challenge: To design and build creative projects to reduce waste in our school</strong>
