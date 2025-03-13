@@ -9,9 +9,10 @@ variant: tiptap
 <p>Beyond mastering the subject content, we believe that pupils must be equipped
 in the subject discipline with the necessary skills, dispositions and E21CC
 competencies to face the future. As they learn best from experience, we
-strive to enrich their learning through our school-based redesigned&nbsp;<strong><em>VIEWAN&nbsp;XP Design Thinking </em></strong>curriculum<em>.</em>
+strive to enrich their learning through our school-based redesigned&nbsp;<strong>VIEWAN&nbsp;XP Design Thinking<em> </em></strong>curriculum<em>.</em>
 </p>
-<p>Outcomes of VIEWAN XP</p>
+<p><strong>Outcomes of VIEWAN XP</strong>
+</p>
 <p>Development of E21CC with focus on:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -85,16 +86,13 @@ of projects</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/XP2.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VIEWAN XP" src="/images/Pic_1a.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VIEWAN XP" src="/images/VIEWAN%20XP.jpg">
-</div>
 <p><strong><u>PRIMARY 1</u></strong>
 </p>
 <p><strong>Design Challenge: To design ways to help us to know the important places in our school</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="VIEWAN XP" src="/images/VIEWAN%20XP.jpg">
+</div>
 <p><strong><u>PRIMARY 2</u></strong>
 </p>
 <p><strong>Design Challenge: To design ways to encourage my peers to save electricity in the classroom</strong>
