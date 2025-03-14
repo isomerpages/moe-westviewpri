@@ -37,7 +37,7 @@ an opportunity to showcase their growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_3.png">
 </div>
-<p>As part of our<strong> DA VINCI</strong>, students have the opportunity
+<p>As part of our<strong> </strong>DA VINCI, students have the opportunity
 to engage in cross-cultural exchanges with partner schools. They will participate
 in cross-cultural activities, gain new insights, and build friendships
 with students from partner schools. We are confident that this experience
