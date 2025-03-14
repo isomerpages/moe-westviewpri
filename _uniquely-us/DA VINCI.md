@@ -43,8 +43,8 @@ in cross-cultural activities, gain new insights, and build friendships
 with students from partner schools. We are confident that this experience
 will broaden their horizons and deepen their learning journey.</p>
 <p><strong>Internationalisation Programme</strong> includes:</p>
-<p><strong>Overseas Immersion Programme with Hong Kong Schools: Tai Po Old Market Public School (Plover Cove) and Lee Chi Tat Memorial School</strong>
-</p>
+<p><strong>Overseas Immersion Programme </strong>with Hong Kong Schools:<strong> </strong>Tai
+Po Old Market Public School (Plover Cove) and Lee Chi Tat Memorial School</p>
 <p>This overseas exchange offered students firsthand experience with Hong
 Kong’s education system, encouraging cultural exchange, and fostering international
 friendships. The partner schools offer programmes related to both sustainability
@@ -58,7 +58,7 @@ platform for showcasing to our students and teachers.</p>
 <p>Our students have the chance to host and interact with students from these
 esteemed schools, developing global perspectives and understanding through
 shared activities.</p>
-<p><u>Internationalisation Programme with </u><strong><u>Singapore International School Vietnam</u></strong>
+<p><strong>Internationalisation Programme with Singapore International School Vietnam</strong>
 </p>
 <p>P5 students and students from Singapore International School Vietnam were
 immersed in an array of engaging learning experiences that involves an
@@ -70,7 +70,7 @@ formed friendship bonds with lasting memories.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DV_5.png">
 </div>
-<p><u>Internationalisation Programme with </u><strong><u>Xi’an Gao Xin No.1 Primary School</u></strong>
+<p><strong>Internationalisation Programme with Xi’an Gao Xin No.1 Primary School</strong>
 </p>
 <p>Our visitors from China interacted with our P5 cultural buddies in the
 canteen. It was a wonderful experience for the visitors as they got to
