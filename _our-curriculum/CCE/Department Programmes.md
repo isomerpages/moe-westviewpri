@@ -86,6 +86,6 @@ producers, animators and more that make up the media industry.</p>
 social, and emotional changes they experience as they mature, develop healthy
 and rewarding relationships including those with members of the opposite
 sex, and make wise, informed and responsible decisions on sexuality matters.</p>
-<p><a href="https://www.westviewpri.moe.edu.sg/wvps/resources/resources-for-parents/#moe-sexuality-education-in-schools" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education</a>
+<p><a href="https://www.westviewpri.moe.edu.sg/wvps/resources/resources-for-parents/#:~:text=for%20more%20details.-,MOE%20Sexuality%20Education%20in%20Schools,-WEST%20VIEW%20PRIMARY" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education</a>
 </p>
 <p></p>
