@@ -18,8 +18,8 @@ our culture.</p>
 <p>To make the learning of Mother Tongue Language an enjoyable experience
 and encourage children to learn the language to the best of their ability.</p>
 <p><strong>Message from HOD Mother Tongue Languages &amp; Innovation<br>Mdm Lew Yee Loo Michelle</strong> 
-<br>_”爱因斯坦说兴趣是最好的老师 , 我们应该以学生的兴趣为导向，努力营造母语学习环境，让他们感受母语的魅力，加强对母语文化的意识。“ _</p>
-<p><strong>Message from SH/ Malau Language &amp; Tamil Language</strong>
+<br>”爱因斯坦说兴趣是最好的老师 , 我们应该以学生的兴趣为导向，努力营造母语学习环境，让他们感受母语的魅力，加强对母语文化的意识。“</p>
+<p><strong>Message from SH/ Malay Language &amp; Tamil Language</strong>
 <br><strong>Mdm Sarifah Hassan</strong> 
 <br><em>"Children are motivated to better themselves in a supportive and encouraging environment. Every child should have a taste of success and no achievement is too small to be mentioned. I believe teachers should be innovative in their teaching approaches and constantly hone their craft to excite pupils and better engage them in their learning. Through the use of Malay literature, I seek to ignite hope, develop confidence and help pupils to love Malay Language."</em>
 </p>
