@@ -139,7 +139,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Kai Wei</p>
+<p><a href="mailto:Ong_kai_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ong Kai Wei</a>
+</p>
 </td>
 </tr>
 <tr>
