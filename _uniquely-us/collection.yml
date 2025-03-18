@@ -2,6 +2,7 @@ collections:
   uniquely-us:
     output: true
     order:
+      - Student Leadership Development Programme.md
       - ALP.md
       - LLP.md
       - VIEWAN XP.md
