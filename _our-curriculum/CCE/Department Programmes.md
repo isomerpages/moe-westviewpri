@@ -80,6 +80,8 @@ producers, animators and more that make up the media industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE8.png">
 </div>
+<p>ECG Resources: <a href="https://www.westviewpri.moe.edu.sg/wvps/resources/education-and-career-guidance-resources/" rel="noopener noreferrer nofollow" target="_blank">https://www.westviewpri.moe.edu.sg/wvps/resources/education-and-career-guidance-resources/</a>
+</p>
 <p><strong>5. Sexuality Education (Growing Years’ Series)</strong>
 </p>
 <p>Sexuality Education is about enabling pupils to understand the physiological,
