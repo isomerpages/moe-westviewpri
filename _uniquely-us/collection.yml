@@ -2,9 +2,9 @@ collections:
   uniquely-us:
     output: true
     order:
-      - Student Leadership Development Programme.md
       - ALP.md
       - LLP.md
+      - Student Leadership Development Programme.md
       - VIEWAN XP.md
       - DA VINCI.md
       - EinSTein.md
