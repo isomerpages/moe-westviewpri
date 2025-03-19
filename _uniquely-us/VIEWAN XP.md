@@ -97,6 +97,9 @@ of projects</p>
 </p>
 <p><strong>Design Challenge: To design ways to encourage my peers to save electricity in the classroom</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ViewanXP_Racial_Harmony_Day_3.jpg">
+</div>
 <p><strong><u>PRIMARY 3</u></strong>
 </p>
 <p><strong>Design Challenge: To design and build creative projects to reduce waste in our school</strong>
