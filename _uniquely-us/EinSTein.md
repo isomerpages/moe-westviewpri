@@ -4,7 +4,7 @@ permalink: /uniquely-us/einstein/
 description: ""
 variant: tiptap
 ---
-<h4>Description of Signature Programme</h4>
+<h4><strong>Description of Signature Programme</strong></h4>
 <p>As we all know that Einstein had a very challenging childhood. But because
 of his perseverance and commitment, he became very successful.&nbsp;</p>
 <p>In West View, we believe that Every West Viewan is a Talented Pupil. Every
@@ -27,7 +27,7 @@ individual talents,&nbsp;<strong>I</strong>dentify learning needs and&nbsp;<stro
 the whole child through a&nbsp;<strong>S</strong>tudent-centred and&nbsp;<strong>T</strong>alent-focused
 programme so that every child has the opportunity to succeed and achieve
 their personal best.</p>
-<h4>Key Programmes</h4>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong>MENDAKI HOMEWORK CAFE Programme</strong>
 </p>
 <p>The programme aims to provide a conducive environment for pupils to complete
