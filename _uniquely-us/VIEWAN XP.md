@@ -4,7 +4,7 @@ permalink: /uniquely-us/viewan-xp/
 description: ""
 variant: tiptap
 ---
-<h4>Description of Signature Programme</h4>
+<h4><strong>Description of Signature Programme</strong></h4>
 <p>Beyond mastering the subject content, we believe that pupils must be equipped
 in the subject discipline with the necessary skills, dispositions and E21CC
 competencies to face the future. As they learn best from experience, we
