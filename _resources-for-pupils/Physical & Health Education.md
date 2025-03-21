@@ -613,11 +613,4 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </table>
 <p>@Source&nbsp; - GET KIDS MOVING Youtube series
 <br>*Source: Kidz Bop Youtube Series</p>
-<p><strong>Have FUN posting your moves in&nbsp;Flipgrid.</strong>
-</p>
-<p><strong>Go to&nbsp;<a href="https://flipgrid.com/019b216c" rel="noopener noreferrer nofollow" target="_blank">https://flipgrid.com/019b216c</a>&nbsp;or scan this QR code :</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/QR%20(1).png">
-</div>
 <p></p>
