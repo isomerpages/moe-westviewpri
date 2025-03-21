@@ -75,7 +75,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=kx-Yk116cT0" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=kx-Yk116cT0</a> 
+<p><a href="https://www.youtube.com/watch?v=kx-Yk116cT0" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=kx-Yk116cT0</a>
 </p>
 </td>
 </tr>
