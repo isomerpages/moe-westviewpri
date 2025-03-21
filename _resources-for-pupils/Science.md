@@ -1814,7 +1814,7 @@ lives.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://phet.colorado.edu/sims/html/forces-and-motion- basics/latest/forces-and-motion-basics_all.html" rel="noopener nofollow" target="_blank">https://phet.colorado.edu/sims/html/forces-and-motion- basics/latest/forces-and-motion-basics_all.html</a>
+<p><a href="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html" rel="noopener noreferrer nofollow" target="_blank">https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html</a>
 </p>
 </td>
 </tr>
