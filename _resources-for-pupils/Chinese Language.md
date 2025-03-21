@@ -40,7 +40,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.westviewpri.moe.edu.sg/files/Resources%20for%20pupils/Chinese%20Langauge/Our_stories_CL_compressed.pdf" rel="noopener nofollow" target="_blank">链接</a>
+<p><a href="/files/Our_stories_CL_compressed.pdf" rel="noopener nofollow" target="_blank">链接</a>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.westviewpri.moe.edu.sg/files/19.pdf" rel="noopener nofollow" target="_blank">链接</a>
+<p><a href="/files/19.pdf" rel="noopener nofollow" target="_blank">链接</a>
 </p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ encounters.</p>
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=O5GfeX1Q-gQ" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=O5GfeX1Q-gQ</a> 
+<p><a href="https://www.youtube.com/watch?v=O5GfeX1Q-gQ" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=O5GfeX1Q-gQ</a>
 </p>
 </td>
 </tr>
