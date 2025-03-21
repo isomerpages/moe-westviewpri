@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="#p1-2023-parents-handbook" rel="noopener noreferrer nofollow" target="_blank">P1 2023 Parents' Handbook</a>
+<p><a href="#p1-2023-parents-handbook" rel="noopener noreferrer nofollow" target="_blank">P1 2025 Parents' Handbook</a>
 </p>
 </li>
 <li>
