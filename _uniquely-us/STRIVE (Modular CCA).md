@@ -4,7 +4,7 @@ permalink: /uniquely-us/strive-modular-cca/
 description: ""
 variant: tiptap
 ---
-<h4>Description of Signature Programme</h4>
+<h4><strong>Description of Signature Programme</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NFnQNFTkH_o?si=J0JFCRx6QNM7cQuq"></iframe>
 </div>
@@ -30,7 +30,7 @@ Games, Performing and Visual Arts, ICT and Life Skills. These fun-filled
 experiences include archery, ethnic dance, inline skating, public speaking
 and coding. All pupils from Primary Three to Six participate in STRIVE@WVPS
 during curriculum hours.</p>
-<h4>Key Programmes</h4>
+<h4><strong>Key Programmes</strong></h4>
 <p>Below are some activities offered by our STRIVE@WVPS:</p>
 <h2>Visual &amp; Performing Arts</h2>
 <table style="minWidth: 50px">

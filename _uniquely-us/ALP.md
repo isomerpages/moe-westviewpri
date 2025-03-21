@@ -57,7 +57,7 @@ part in bettering lives.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M2OuUc5Qsxk"></iframe>
 </div>
-<h4>Key Programmes</h4>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong>3R Initiatives</strong>&nbsp;</p>
 <p>Beyond just knowing the facts (head) about Reducing, Reusing and Recycling
 and on how to save the environment during Science, Reading and Art programmes,
@@ -99,13 +99,14 @@ towards sustainability and eco-stewardship.</p>
 <p>Our Blooming Gardens is more than just a garden — it complements the Science
 curriculum in West View Primary School, where students deepen their understanding
 of sustainability, plants through experiential learning.</p>
-<p>Click here to find out how our Science curriculum integrates this learning
-space!</p>
+<p>Click <a href="https://www.westviewpri.moe.edu.sg/our-curriculum/science/department-programmes/" rel="noopener nofollow" target="_blank">here</a> to
+find out how our Science curriculum integrates this learning space!</p>
 <p>Beyond the classroom, the Environmental Science Club at West View Primary
 also taps on the Blooming Gardens for their CCA sessions, allowing the
 students to cultivate their green fingers while fostering teamwork and
 responsibility.</p>
-<p>Click here to explore our CCA activities at Blooming Gardens!</p>
+<p>Click <a href="https://www.westviewpri.moe.edu.sg/our-curriculum/core-ccas/environmental-science-club/" rel="noopener nofollow" target="_blank">here</a> to
+explore our CCA activities at Blooming Gardens!</p>
 <p>Through this initiative, we continue to empower our students to become
 active contributors to a greener future.</p>
 <p><strong>Internationalisation Programme: Sustainability using STEM/STEAM</strong>
@@ -185,8 +186,12 @@ young eco-stewards who will make a positive impact to the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp4_png.jpg">
 </div>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><strong><u>MOE Innergy Award (Bronze Award)</u></strong>
 </p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Us/ALP/image6.png">
 </div>
@@ -229,7 +234,7 @@ towards the planet.</p>
 students, staff, and community partners in creating a greener and more
 sustainable school environment. We will continue to inspire and nurture
 young eco-stewards who will make a positive impact to the environment.</p>
-<ol start="2" data-tight="true" class="tight">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Green Living Awards 2024</strong>
 </p>

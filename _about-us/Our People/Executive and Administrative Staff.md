@@ -169,16 +169,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:amirulhakim.ahmadhassanayoppan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Amirul</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Multimedia Administration &amp; Production Assistant</strong>
 </p>
 </td>

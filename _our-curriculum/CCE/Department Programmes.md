@@ -80,12 +80,14 @@ producers, animators and more that make up the media industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE8.png">
 </div>
+<p>ECG Resources: <a href="https://www.westviewpri.moe.edu.sg/wvps/resources/education-and-career-guidance-resources/" rel="noopener noreferrer nofollow" target="_blank">https://www.westviewpri.moe.edu.sg/wvps/resources/education-and-career-guidance-resources/</a>
+</p>
 <p><strong>5. Sexuality Education (Growing Years’ Series)</strong>
 </p>
 <p>Sexuality Education is about enabling pupils to understand the physiological,
 social, and emotional changes they experience as they mature, develop healthy
 and rewarding relationships including those with members of the opposite
 sex, and make wise, informed and responsible decisions on sexuality matters.</p>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education</a>
-</p>
+<p>To find out more about Sexuality Education, click <a href="https://www.westviewpri.moe.edu.sg/wvps/resources/resources-for-parents/#:~:text=for%20more%20details.-,MOE%20Sexuality%20Education%20in%20Schools,-WEST%20VIEW%20PRIMARY" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p></p>

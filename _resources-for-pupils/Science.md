@@ -509,7 +509,11 @@ of plants and fungi.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nparks.gov.sg/mygreenspace/issue-38-vol-3-2018/conservation/wild-about-mushrooms</u></a></em>
+<p><a href="https://www.youtube.com/watch?v=FbrjnHm-Cnl&amp;t=17s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=FbrjnHm-Cnl&amp;t=17s</a>
+</p>
+<p><a href="https://www.youtube.com/watch?v=dBCuPFwZ8Sc" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=dBCuPFwZ8Sc</a>
+</p>
+<p><a href="https://www.youtube.com/watch?v=JZjzQhFG6Ec&amp;t=127s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=JZjzQhFG6Ec&amp;t=127s</a>
 </p>
 </td>
 </tr>
@@ -1810,7 +1814,7 @@ lives.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/</u></a></em>
+<p><a href="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html" rel="noopener noreferrer nofollow" target="_blank">https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html</a>
 </p>
 </td>
 </tr>

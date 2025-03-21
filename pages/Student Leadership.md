@@ -1,7 +1,8 @@
 ---
-title: Character First
+title: Student Leadership
 permalink: /uniquely-us/character-first/
 description: ""
+variant: tiptap
 ---
 Our Priority
 ------------
