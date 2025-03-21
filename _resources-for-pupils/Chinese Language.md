@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>我们 心中的故事</strong>
+<p><strong><u>我们 心中的故事</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/c1.png">
@@ -149,7 +149,7 @@ Subscribe to our channel for the latest episodes.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong>西游记 Journey to the West</strong>
+<p><strong><u>西游记 Journey to the West</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
