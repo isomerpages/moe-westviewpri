@@ -141,21 +141,25 @@ Subscribe to our channel for the latest episodes.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong><u>Zaobao Schools&nbsp;早报校园</u></strong>
+<p><strong>西游记 Journey to the West</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 251px; height: 149px;" height="auto" width="100%" alt="5.png" src="/images/CL5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.zbschools.sg/" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.zbschools.sg/&nbsp;</u></a>&nbsp;</p>
+<p><a href="https://www.youtube.com/watch?v=vhsG3GQSPCs" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=vhsG3GQSPCs</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>&nbsp;&nbsp;Zaobao Schools provide news articles on social issues, popular
-topics and entertainment.</p>
+<p>&nbsp;During the Tang dynasty, Buddhist monk Xuanzang traveled to the
+"Western Regions” to obtain Buddhist sacred texts. The Gautama Buddha provided
+him four protectors and disciples, 孙悟空 Sun Wukong (the Monkey King), 猪八戒
+Zhu Bajie , 沙悟净 Sha Wujing , and a dragon prince turned white horse 白龙马
+Bai Long Ma. The team of five succeed after much suffering and many treacherous
+encounters.</p>
 </td>
 </tr>
 <tr>
@@ -164,26 +168,19 @@ topics and entertainment.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong><u>西游记&nbsp;Journey to the West</u></strong>
-</p>
+<p>喜马拉雅 FM 六一儿童节小故事 - 姆咪故事 (Moomin)</p>
 <div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 241px; height: 196px;" height="auto" width="100%" alt="6.jpg" src="/images/CL6.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=vhsG3GQSPCs" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=vhsG3GQSPCs</u></a>
+<p><a href="https://www.youtube.com/watch?v=O5GfeX1Q-gQ" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=O5GfeX1Q-gQ</a> 
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>During the Tang dynasty, Buddhist monk Xuanzang traveled to the "Western
-Regions ”to obtain Buddhist sacred texts.&nbsp; The Gautama Buddha provided
-him four protectors and disciples,&nbsp;孙悟空&nbsp;Sun Wukong ( the Monkey
-King),&nbsp;猪八戒&nbsp;Zhu Bajie ,&nbsp;沙悟净&nbsp;Sha Wujing , and a dragon
-prince turned white horse&nbsp;白龙马&nbsp;Bai Long Ma.&nbsp; The team of
-five succeed after much suffering and many treacherous encounters .&nbsp;&nbsp;</p>
+<p>Welcome to the Moomin Storytime, enjoy this&nbsp;audio story.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -332,43 +329,6 @@ five succeed after much suffering and many treacherous encounters .&nbsp;&nbsp;<
 <p><a href="https://www.youtube.com/watch?v=_mC6HHiZlCg" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=_mC6HHiZlCg</u></a>
 </p>
 <p><strong>手机的规矩&nbsp;Rules for Mobile Phone</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>10</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>创意笔第19期<br></u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" height="auto" width="100%" alt="cover.PNG" src="/images/cover.png">
-</div>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><a href="/files/19.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>链接</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>11</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>我们心中的故事</p>
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 265px; height: 202px;" height="auto" width="100%" alt="-min.png" src="/images/min.png">
-</div>
-</td>
-<td rowspan="1" colspan="2">
-<p>
-<br><a href="/files/Resources%20for%20pupils/Chinese%20Langauge/Our_stories_CL_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>链接</u></a>
 </p>
 </td>
 </tr>
