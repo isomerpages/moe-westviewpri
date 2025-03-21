@@ -36,7 +36,7 @@ variant: tiptap
 <p><strong>我们 心中的故事</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/c1.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -308,6 +308,7 @@ encounters.</p>
 </p>
 <p><strong>手机的规矩&nbsp;Rules for Mobile Phone</strong>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
