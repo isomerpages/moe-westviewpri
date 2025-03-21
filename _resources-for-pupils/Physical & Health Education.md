@@ -298,13 +298,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </tbody>
 </table>
 <p>@Source&nbsp; - GET KIDS MOVING series</p>
-<p><strong>Have FUN posting your moves in&nbsp;Flipgrid.</strong>
-</p>
-<p><strong>Go to&nbsp;<a href="https://flipgrid.com/019b216c" rel="noopener noreferrer nofollow" target="_blank">https://flipgrid.com/019b216c</a>&nbsp;or scan this QR code :</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/QR.png">
-</div>
 <h2>Fun activities for the upper primary kids!</h2>
 <table style="minWidth: 75px">
 <colgroup>
