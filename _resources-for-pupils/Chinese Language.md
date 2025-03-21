@@ -213,7 +213,7 @@ encounters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=8cU8l6ZamR0" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=8cU8l6ZamR0</u></a>
+<p><a href="https://www.youtube.com/watch?v=DRU8bVnbFHM" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=DRU8bVnbFHM</a>
 </p>
 <p><strong>声律启蒙</strong>
 </p>
@@ -221,7 +221,7 @@ encounters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=KqT7EcRrZBY" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=KqT7EcRrZBY</u></a>
+<p><a href="https://www.youtube.com/watch?v=oS9kCw-TTs8" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=oS9kCw-TTs8</a>
 </p>
 <p><strong>你笑起&nbsp;來&nbsp;真好看&nbsp;</strong>You Look Good When You Smile</p>
 </td>
