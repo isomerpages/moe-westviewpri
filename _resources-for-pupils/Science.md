@@ -1810,7 +1810,7 @@ lives.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.scholastic.com/teachers/activities/teaching-content/force-and-motion-6-studyjams-interactive-science-activities/</u></a></em>
+<p><a href="https://phet.colorado.edu/sims/html/forces-and-motion- basics/latest/forces-and-motion-basics_all.html" rel="noopener nofollow" target="_blank">https://phet.colorado.edu/sims/html/forces-and-motion- basics/latest/forces-and-motion-basics_all.html</a>
 </p>
 </td>
 </tr>
