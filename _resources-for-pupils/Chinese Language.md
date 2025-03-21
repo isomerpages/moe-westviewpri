@@ -28,77 +28,37 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>1</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p><strong><u>星衢童阅乐</u></strong>
+<td rowspan="1" colspan="1">
+<p><strong>我们 心中的故事</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 271px; height: 149px;" height="auto" width="100%" alt="1.png" src="/images/CL1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c1.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong><a href="https://www.youtube.com/watch?v=kx-Yk116cT0" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=kx-Yk116cT0</u></a></strong>
+<p><a href="https://www.westviewpri.moe.edu.sg/files/Resources%20for%20pupils/Chinese%20Langauge/Our_stories_CL_compressed.pdf" rel="noopener nofollow" target="_blank">链接</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>目录</u></strong>
-</p>
-<p><strong>Ep1&nbsp;毛毛的新毯子</strong>
-</p>
-<p><strong>Ep2&nbsp;为什么我们不会游泳？</strong>
-</p>
-<p><strong>Ep3&nbsp;一束不同颜色的花</strong>
-</p>
-<p><strong>Ep4&nbsp;小猫咪咪</strong>
-</p>
-<p><strong>Ep5&nbsp;小苍蝇环游世界</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Ep6&nbsp;等明天</strong>
-</p>
-<p><strong>Ep7&nbsp;袋鼠妈妈的口袋</strong>
-</p>
-<p><strong>Ep8&nbsp;龟兔又赛跑</strong>
-</p>
-<p><strong>Ep9&nbsp;买西瓜</strong>
-</p>
-<p><strong>Ep10&nbsp;小猪赛跑</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p><strong>2</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;&nbsp;<strong><u>星衢童阅乐园《第二季》</u></strong>
+<td rowspan="1" colspan="1">
+<p><strong><u>创意笔第19期</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;" height="auto" width="100%" alt="2.png" src="/images/CL2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c2.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong><a href="https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s</u></a></strong>
+<p><a href="https://www.westviewpri.moe.edu.sg/files/19.pdf" rel="noopener nofollow" target="_blank">链接</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>&nbsp;</p>
-<p>CSCF Kids Storytelling Wonderland Season 2 is back with more vivid storytelling
-videos and interesting activities. Inspiring kids' imagination and learn
-Chinese in a fun and easy way! Broadcasting every 1st and 3rd Friday, 7p.m.
-Subscribe to our channel for the latest episodes.</p>
 </td>
 </tr>
 <tr>
@@ -107,42 +67,45 @@ Subscribe to our channel for the latest episodes.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
+<p><strong><u>星衢童阅乐园</u></strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="margin: 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; width: 273px; height: 362px;" height="289" width="217" alt="3.png" src="/images/CL3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Scan the QR code to check out the recommended reads from National Library
-Board.</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=kx-Yk116cT0</a></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>适合小学一年级和二年级的故事书</p>
-<p>(Recommended for P1 &amp; P2)</p>
-<p>
-<br>
+<p><u>目录</u>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;适合小学三年级和四年级的故事书&nbsp;(Recommended for P3 &amp; P4)</p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; background-color: initial; width: 210px; height: 205px;" height="auto" width="100%" alt="3 QR P3 and P4.png" src="/images/3%20QR%20P3%20and%20P4.png">
-</div>
-<p></p>
-<p>&nbsp;</p>
+<p><strong>Ep1 毛毛的新毯子</strong>
+</p>
+<p><strong>Ep2 为什么我们不会游泳？</strong>
+</p>
+<p><strong>Ep3 一束不同颜色的花</strong>
+</p>
+<p><strong>Ep4 小猫咪咪</strong>
+</p>
+<p><strong>Ep5 小苍蝇环游世界</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>适合小学五年级和六年级的读物&nbsp;(Recommended for P5 &amp; P6)</p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; background-color: initial; width: 231px; height: 211px;" height="auto" width="100%" alt="3 QR P5 and P6.png" src="/images/3%20QR%20P5%20and%20P6.png">
-</div>
-<p>新加坡绘本</p>
-<p>(Chinese Picture books)</p>
-<p>
-<br>
-</p>
 <p></p>
+<p><strong>Ep6 等明天</strong>
+</p>
+<p><strong>Ep7 袋鼠妈妈的口袋</strong>
+</p>
+<p><strong>Ep8 龟兔又赛跑</strong>
+</p>
+<p><strong>Ep9 买西瓜</strong>
+</p>
+<p><strong>Ep10 小猪赛跑</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -151,22 +114,25 @@ Board.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong><u>eZhishi&nbsp;知识悦读</u></strong>
+<p><strong><u>星衢童阅乐园《第二季》</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+</div>
 <p><strong><u><br></u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.ezhishi.net/Funland/TFunland/index.aspx?rLevelType=1" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ezhishi.net/Funland/TFunland/index.aspx?rLevelType=1</u></a>
-<br>
+<p><a href="https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Login using ezhishi account, click on “zhishi Funland” (&nbsp;知识悦读&nbsp;).
-Not only are there many reading materials to choose from, each story comes
-with a video and an activity.</p>
+<p>CSCF Kids Storytelling Wonderland Season 2 is back with more vivid storytelling
+videos and interesting activities. Inspiring kids' imagination and learn
+Chinese in a fun and easy way! Broadcasting every 1st and 3rd Friday, 7p.m.
+Subscribe to our channel for the latest episodes.</p>
 </td>
 </tr>
 <tr>
