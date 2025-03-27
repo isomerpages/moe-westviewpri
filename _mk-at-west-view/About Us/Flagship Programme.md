@@ -8,7 +8,7 @@ third_nav_title: About Us
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Curriculum" src="/images/Header%203%20-%20Curriculum.png">
 </div>
-<h3>Hi-Light Programme</h3>
+<h3>HI-Light Programme</h3>
 <p><strong>Designed to support holistic development through an integrated approach to learning:</strong>
 </p>
 <ul>
