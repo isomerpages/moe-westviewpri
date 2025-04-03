@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Education and Career Guidance (ECG) Resources.md
-      - Resources for Parents/.keep
       - Resources for Pupils.md
