@@ -4,4 +4,6 @@ permalink: /school-holiday-edition/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2>School Holiday Edition</h2>
+<p><a href="/files/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Resource Kit - School Holiday Edition.pdf</a>
+</p>
