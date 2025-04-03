@@ -4,4 +4,5 @@ permalink: /group-personal-accident-insurance-for-students/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2>Group Personal Accident Insurance for students</h2>
+<p>Online claim submission can be done at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.</p>
