@@ -2,5 +2,6 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - P1 2025 Parents' Handbook.md
       - A Day in Life of a P1 Pupil.md
       - Group Personal Accident Insurance for students.md
