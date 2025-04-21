@@ -332,15 +332,9 @@ animals and how you can play a part in saving these animals!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.wartgames.com/themes/animals/endangered.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wartgames.com/themes/animals/endangered.html</u></a></em>
 </p>
