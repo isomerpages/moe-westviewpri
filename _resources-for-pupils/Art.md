@@ -75,8 +75,6 @@ variant: tiptap
 </p>
 <p><a href="http://toytheater.com/category/art/" rel="noopener noreferrer nofollow" target="_blank">Visit the Toy Theatre Art and try out various activities</a>
 </p>
-<p><a href="https://www.crayola.com/athome" rel="noopener noreferrer nofollow" target="_blank">Colouring with Crayola</a>
-</p>
 <p><a href="https://www.youtube.com/watch?v=MjaYnyCJDdU" rel="noopener noreferrer nofollow" target="_blank">Doodling with Mo Williams</a>
 <br>
 <br><strong>Upper Primary (Primary 4 to Primary 6)</strong>
