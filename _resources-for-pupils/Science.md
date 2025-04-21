@@ -336,7 +336,7 @@ animals and how you can play a part in saving these animals!</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wrs.com.sg/en/singapore-zoo/my-animal-buddy/chat-with-poppy.html</u></a></em>
+<p><a href="https://www.mandai.com/en/mandai.html" rel="noopener noreferrer nofollow" target="_blank">https://www.mandai.com/en/mandai.html</a>
 </p>
 </td>
 </tr>
