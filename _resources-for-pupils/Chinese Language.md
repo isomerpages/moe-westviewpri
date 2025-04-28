@@ -313,21 +313,21 @@ encounters.</p>
 </tr>
 </tbody>
 </table>
-<h2>假期阅读乐”推荐书单（3月)</h2>
-<p>您好！三月假期即将到来，我们特此向您推荐本学段的“假期阅读乐”华文阅读书单。</p>
+<h2><u>“儿童阅读推荐” 推荐书单（5月</u></h2>
+<p>您好！我们特此向您推荐今年的五月份阅读书单。</p>
 <p>&nbsp;</p>
-<p>“假期阅读乐”是推广华文学习委员会（CPCLL）与国家图书馆管理局（NLB）合作推出的项目。项目旨在推广华文阅读，培养学生良好的阅读习惯。每个学校假期前，我们都会为学校推荐适合学生阅读的华文书籍。您可以根据我们的推荐书单给学生安排假期阅读活动，也可以将随邮附上的PDF文件和下面的相关信息转发给学生。学生只需打开PDF文件，点击感兴趣的书籍封面，即可了解该书内容并借阅电子书。他们也可以扫描或点击二维码登入&nbsp;Libby网站查看更多电子书推荐。</p>
+<p>“儿童阅读推荐”计划是推广华文学习委员会（CPCLL）与国家图书馆管理局（NLB）合作推出的项目。项目旨在推广华文阅读，培养学生良好的阅读习惯。每个月，我们都会为学校推荐适合学生阅读的华文书籍。您可以根据我们的推荐书单给学生安排阅读活动。</p>
 <p>&nbsp;</p>
-<p>本期“假期阅读乐”包括两类推荐，希望学生在这个假期都能自由畅快地遨游书海：</p>
-<p>1.&nbsp;小学：推荐内容包括心理成长、奇幻故事以及本地绘本。小学书单包括电子书和纸质书。</p>
-<p>2.&nbsp;中学：推荐内容包括小说、哲学、历史人物故事、散文以及手工书。</p>
+<p>您可以将随邮附上的PDF文件和下面的相关信息转发给学生。学生只需打开PDF文件，点击感兴趣的书籍封面，即可了解该书内容并借阅电子书。他们也可以扫描以下二维码登入&nbsp;Libby网站查看更多电子书推荐。随邮也附上纸质书的推荐书单。</p>
+<p>&nbsp;</p>
+<p>本月“儿童阅读推荐”的推荐内容包括节日故事、亲情故事和成长故事。</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/image002.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Physical_Book_Recommendation__CPCLL__Primary___May_2025_page_0001.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image003.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eBook_Recommendation__CPCLL__Primary___May_2025_page_0001.jpg">
 </div>
 <p></p>
 <h2>ICT tips for the learning of Chinese Language</h2>
