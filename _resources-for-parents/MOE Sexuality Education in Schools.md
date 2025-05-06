@@ -151,7 +151,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6 - 10</p>
+<p>Term 3 Week 3 - 7</p>
 </td>
 </tr>
 <tr>
