@@ -105,6 +105,6 @@ Division)</p>
 </div>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Slide7.jpg">
 </div>
 <p></p>
