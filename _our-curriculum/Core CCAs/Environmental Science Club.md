@@ -114,6 +114,6 @@ difference in our community! 🌍🛤️✨</p>
 <p></p>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Sci_club.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
 </div>
 <p></p>

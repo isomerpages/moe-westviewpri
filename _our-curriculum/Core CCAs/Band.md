@@ -113,6 +113,6 @@ in performance and also allows students to showcase their talents.</p>
 </p>
 <h2>CCA Model Pupil</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.jpg">
 </div>
 <p></p>
