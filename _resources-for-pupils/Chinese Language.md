@@ -313,23 +313,30 @@ encounters.</p>
 </tr>
 </tbody>
 </table>
-<h2><u>“儿童阅读推荐” 推荐书单（5月)</u></h2>
-<p>您好！我们特此向您推荐今年的五月份阅读书单。</p>
+<h2><u>“假期阅读乐”推荐书单（6月）</u></h2>
+<p>您好！六月学校假期即将到来，我们特此向您推荐本学段的“假期阅读乐”华文阅读书单。</p>
 <p>&nbsp;</p>
-<p>“儿童阅读推荐”计划是推广华文学习委员会（CPCLL）与国家图书馆管理局（NLB）合作推出的项目。项目旨在推广华文阅读，培养学生良好的阅读习惯。每个月，我们都会为学校推荐适合学生阅读的华文书籍。您可以根据我们的推荐书单给学生安排阅读活动。</p>
+<p>“假期阅读乐”是推广华文学习委员会（CPCLL）与国家图书馆管理局（NLB）合作推出的项目。项目旨在推广华文阅读，培养学生良好的阅读习惯。每个学校假期前，我们都会为学校推荐适合学生阅读的华文书籍。您可以根据我们的推荐书单给学生安排假期阅读活动，也可以将随邮附上的PDF文件和下面的相关信息转发给学生。学生只需打开PDF文件，点击感兴趣的书籍封面，即可了解该书内容并借阅电子书或纸质书。他们也可以扫描或点击二维码登入&nbsp;Libby网站查看更多电子书推荐。</p>
 <p>&nbsp;</p>
-<p>您可以将随邮附上的PDF文件和下面的相关信息转发给学生。学生只需打开PDF文件，点击感兴趣的书籍封面，即可了解该书内容并借阅电子书。他们也可以扫描以下二维码登入&nbsp;Libby网站查看更多电子书推荐。随邮也附上纸质书的推荐书单。</p>
+<p>想让学生爱上阅读，老师也要以身作则。因此我们每个6月和12月假期，都会为老师们推荐适合的读物，相信大家也能借此丰富自己的精神世界。本期“假期阅读乐”就包括三类推荐，希望学生与老师在这个假期都能自由畅快地遨游书海：</p>
+<p>1.&nbsp;小学：推荐内容包括职业启蒙、名人传记以及心理成长故事。</p>
+<p>2.&nbsp;中学：推荐内容包括小说、诗词、心灵成长以及散文。</p>
+<p>3.&nbsp;教师：本期推荐8本好书，既有大家之作，也有热门作品。</p>
 <p>&nbsp;</p>
-<p>本月“儿童阅读推荐”的推荐内容包括节日故事、亲情故事和成长故事。</p>
+<p>在此也附上本地绘本推荐的海报。海报上的电子指南将在六月份上线，为教育工作者、家长分享12岁前必读的100本新加坡读物，借此让更多家长、小朋友探索新加坡华文儿童书籍。希望小学老师也能分享给家长。</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Physical_Book_Recommendation__CPCLL__Primary___May_2025_page_0001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image002__1_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eBook_Recommendation__CPCLL__Primary___May_2025_page_0001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image003__1_.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image004.png">
+</div>
 <h2>ICT tips for the learning of Chinese Language</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%201.png">
