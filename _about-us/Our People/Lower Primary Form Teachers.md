@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>OG 1 &amp; OG 2</strong>
+<p><strong> 1 Aspiration</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>OG 3 &amp; OG 4</strong>
+<p><strong> 1 Brilliance</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,8 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>OG 5 &amp; OG 6</p>
+<p>1 <strong>Confidence</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jeswyn_sara_muruges@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jeswyn Sara</a>
@@ -67,7 +68,8 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>OG 7 &amp; OG 8</p>
+<p><strong> 1 Diligence</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_siew_cheng_shirlena@moe.edu. sg" rel="noopener nofollow" target="_blank">Mdm Yap Siew Cheng Shirlena</a>
@@ -80,7 +82,8 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>OG 9 &amp; OG 10</p>
+<p>1 <strong>Empathy</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_mabel@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Mabel Tan</a>
