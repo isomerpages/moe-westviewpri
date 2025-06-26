@@ -16,7 +16,7 @@ locations:
         time: 7.15 a.m. - 4.45 p.m.
         description: ""
     maps_link: ""
-    title: General Office
+    title: Location
 contacts:
   - content:
       - phone: +65 6760 0178
