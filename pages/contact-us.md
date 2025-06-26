@@ -16,7 +16,7 @@ locations:
         time: 7.15 a.m. - 4.45 p.m.
         description: ""
     maps_link: ""
-    title: Office Hours (General Office)
+    title: General Office
 contacts:
   - content:
       - phone: +65 6760 0178
@@ -33,4 +33,5 @@ contacts:
       - email: ""
       - other: Bukit Panjang MRT Station, Senja LRT (BP13)
     title: "Nearest MRT/LRT Station:"
+feedback: ""
 ---
