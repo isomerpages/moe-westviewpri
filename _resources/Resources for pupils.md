@@ -1,5 +1,5 @@
 ---
-title: Resources for Pupils
+title: Resources for pupils
 permalink: /wvps/resources/resources-for-pupils/
 description: ""
 variant: tiptap

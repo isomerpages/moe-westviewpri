@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Resources for parents.md
       - Education and Career Guidance (ECG) Resources.md
-      - Resources for Pupils.md
+      - Resources for parents.md
+      - Resources for pupils.md
