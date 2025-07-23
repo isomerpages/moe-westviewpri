@@ -235,19 +235,60 @@ students on buses and the size of school bus etc.
 <br><strong>Monday to Wednesday: 8.00 a.m. to 5.30 p.m.</strong>
 <br><strong>Thursday &amp; Friday: 8.00 a.m. to 5.00 p.m.</strong>
 <br>
-<br><strong><em><u>Dental clinic will be closed on: 18/9, 20/9, 2/10, 30/10, 01/11, 15/11 (staff at CHIJ OLQOP).</u></em></strong>
+<br><strong><em><u>Dental clinic will be closed from 23/7/2025 to 30/4/2026</u></em></strong>
 <br>
-<br><strong>More closure timings please see below</strong>
-<br>
+<br>Any urgent dental treatment, please contact one of the following BUDDY
+clinics for assistance.
+<br>For general enquiry, please please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
+<p>
+<br><strong>Dental Therapist: Ng SC</strong>
 <br><strong><em>Clinic HP contact: 87985043</em></strong>
 <br><strong><em>Lunch time: 1.00 p.m. to 2.00 p.m.</em></strong>
 <br>
 <br><strong>In case of needed dental treatments during WVPS clinic closures, please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment</strong>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services/buddy%20clinics.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Buddy Clinic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Telephone</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unity Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91158304</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Greenridge Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>98396594</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mobile Dental Clinic 30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87945043</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>For emergencies such as dental trauma, facial/gum swellings or toothaches,
 please contact: HPB, School Dental Centre.
