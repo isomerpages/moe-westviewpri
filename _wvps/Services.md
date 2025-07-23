@@ -237,7 +237,7 @@ students on buses and the size of school bus etc.
 <br>
 <br><strong><em><u>Dental clinic will be closed from 23/7/2025 to 30/4/2026</u></em></strong>
 <br>
-<br>Any urgent dental treatment, please contact one of the following BUDDY
+<br>Any URGENT dental treatment, please contact one of the following BUDDY
 clinics for assistance.
 <br>For general enquiry, please please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
