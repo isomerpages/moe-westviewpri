@@ -6,10 +6,10 @@ third_nav_title: Our School
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sosrvj8AvOE"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/haaYGznOBiY?si=QWJA64XHdqIjBbOi"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/School%20History.jpeg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sosrvj8AvOE"></iframe>
 </div>
 <p>West View Primary School began functioning on 2 January 1998 to meet the
 increased demands for places in&nbsp;Bukit Panjang and Chua Chu Kang housing
