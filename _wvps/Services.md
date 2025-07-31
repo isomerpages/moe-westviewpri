@@ -232,8 +232,7 @@ students on buses and the size of school bus etc.
 to visit the bookshop from 11.30 a.m. to 12.30 p.m. and from 2 p.m. to
 3 p.m. (Monday to Friday).</p>
 <p>* Parents must report to the security post and obtain a visitor pass before
-proceeding to the bookshop.</p>
-<p>
+proceeding to the bookshop.
 <br>*Operating hours may change during school holidays. Please call our school
 to check</p>
 </td>
@@ -253,12 +252,11 @@ to check</p>
 <br>
 <br>Any URGENT dental treatment, please contact one of the following BUDDY
 clinics for assistance.
-<br>For general enquiry, please please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+<br>For general enquiry, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
 <p>
 <br><strong>Dental Therapist: Ng SC</strong>
 <br><strong><em>Clinic HP contact: 87985043</em></strong>
-<br><strong><em>Lunch time: 1.00 p.m. to 2.00 p.m.</em></strong>
 <br>
 <br><strong>In case of needed dental treatments during WVPS clinic closures, please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment</strong>
 <br>
@@ -306,7 +304,6 @@ clinics for assistance.
 <p>
 <br>For emergencies such as dental trauma, facial/gum swellings or toothaches,
 please contact: HPB, School Dental Centre.
-<br>
 <br>Tel: <strong>64353779</strong> or <strong>64353151</strong>
 <br>Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
 <br>
@@ -318,10 +315,11 @@ please contact: HPB, School Dental Centre.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="An icon of a tie, indicating uniform" src="/images/uniform.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop.png">
 </div>
-<p>Uniform</p>
+<p>Bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Pacific Bookstores</strong>
@@ -329,7 +327,13 @@ please contact: HPB, School Dental Centre.
 <br><strong>Tel:</strong> 6559 2269
 <br><strong>Website:</strong>  <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
 <br><strong>Operating Hours:</strong> 8.00 a.m. to 3.00 p.m.
-<br><strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.
+<br><strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.</p>
+<p></p>
+<p>*Parents who wish to purchase stationery or school uniform are allowed
+to visit the bookshop from 11.30 a.m. to 12.30 p.m. and from 2 p.m. to
+3 p.m. (Monday to Friday).</p>
+<p>* Parents must report to the security post and obtain a visitor pass before
+proceeding to the bookshop.
 <br>*<em>Operating hours may change during school holidays. Please call our school to check</em>
 </p>
 </td>
