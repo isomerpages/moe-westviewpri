@@ -126,8 +126,9 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -138,6 +139,9 @@ Singapore Food Agency (SFA).</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -182,6 +186,9 @@ link or QR code below.
 eligibility of the application and only short-listed applicants will be
 contacted for the official registration.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -203,6 +210,9 @@ students on buses and the size of school bus etc.
 <img style="width: 100%" height="auto" width="100%" alt="A table showing the fares for the school bus" src="/images/Services/school%20bus%20fares.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,9 +227,18 @@ students on buses and the size of school bus etc.
 <br><strong>Tel:</strong> 6559 2269
 <br><strong>Website:</strong>  <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
 <br><strong>Operating Hours:</strong> 8.00 a.m. to 3.00 p.m.
-<br><strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.
-<br>*<em>Operating hours may change during school holidays. Please call our school to check</em>
-</p>
+<br><strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.</p>
+<p>*Parents who wish to purchase stationery or school uniform are allowed
+to visit the bookshop from 11.30 a.m. to 12.30 p.m. and from 2 p.m. to
+3 p.m. (Monday to Friday).</p>
+<p>* Parents must report to the security post and obtain a visitor pass before
+proceeding to the bookshop.</p>
+<p>
+<br>*Operating hours may change during school holidays. Please call our school
+to check</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -293,6 +312,9 @@ please contact: HPB, School Dental Centre.
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -310,6 +332,9 @@ please contact: HPB, School Dental Centre.
 <br><strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.
 <br>*<em>Operating hours may change during school holidays. Please call our school to check</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
