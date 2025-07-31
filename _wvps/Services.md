@@ -230,12 +230,7 @@ students on buses and the size of school bus etc.
 <p>Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The School Dental Clinic will open from 25 Aug 2023 to Apr/May 2024 (subject to changes)</strong>
-<br>
-<br><strong>Monday to Wednesday: 8.00 a.m. to 5.30 p.m.</strong>
-<br><strong>Thursday &amp; Friday: 8.00 a.m. to 5.00 p.m.</strong>
-<br>
-<br><strong><em><u>Dental clinic will be closed from 23/7/2025 to 30/4/2026</u></em></strong>
+<p><strong><em><u>Dental clinic will be closed from 23/7/2025 to 30/4/2026</u></em></strong>
 <br>
 <br>Any URGENT dental treatment, please contact one of the following BUDDY
 clinics for assistance.
@@ -296,12 +291,7 @@ please contact: HPB, School Dental Centre.
 <br>Tel: <strong>64353779</strong> or <strong>64353151</strong>
 <br>Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
 <br>
-<br><strong>West View Primary Dental Clinic will be close on the following days</strong>
-<br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services/wvps%20dental%20clinic%20closure%20dates%20(appendix).png">
-</div>
 </td>
 </tr>
 <tr>
