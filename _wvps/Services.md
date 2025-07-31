@@ -219,7 +219,7 @@ students on buses and the size of school bus etc.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="An icon showing a stack of 3 books, indicating a book shop" src="/images/bookshop.png">
 </div>
-<p>Book shop</p>
+<p>Bookstores</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Pacific Bookstores</strong>
@@ -307,34 +307,6 @@ please contact: HPB, School Dental Centre.
 <br>Tel: <strong>64353779</strong> or <strong>64353151</strong>
 <br>Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
 <br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop.png">
-</div>
-<p>Bookshop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Pacific Bookstores</strong>
-<br>
-<br><strong>Tel:</strong> 6559 2269
-<br><strong>Website:</strong>  <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
-<br><strong>Operating Hours:</strong> 8.00 a.m. to 3.00 p.m.
-<br><strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.</p>
-<p></p>
-<p>*Parents who wish to purchase stationery or school uniform are allowed
-to visit the bookshop from 11.30 a.m. to 12.30 p.m. and from 2 p.m. to
-3 p.m. (Monday to Friday).</p>
-<p>* Parents must report to the security post and obtain a visitor pass before
-proceeding to the bookshop.
-<br>*<em>Operating hours may change during school holidays. Please call our school to check</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
