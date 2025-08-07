@@ -41,8 +41,7 @@ third_nav_title: ICT
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__5E.pdf" rel="noopener noreferrer nofollow" target="_blank">5E</a>
-</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -123,8 +122,7 @@ third_nav_title: ICT
 </tr>
 <tr>
 <td rowspan="1" colspan="5">
-<p><strong>CCE</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -132,8 +130,7 @@ third_nav_title: ICT
 <p></p>
 </th>
 <td rowspan="1" colspan="5">
-<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_Aug__5_NTIL_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">5 NTIL CCE</a></strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
