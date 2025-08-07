@@ -55,11 +55,12 @@ third_nav_title: ICT
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL4</a></strong>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL3</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/Home Based Learning/HBL_MT_Weekly_Plan_T3W8__13_14_Aug__3CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL4</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -143,8 +144,7 @@ third_nav_title: ICT
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/HBL_Weekly_Plan_T3W8__13_14_Aug__P4E.pdf" rel="noopener noreferrer nofollow" target="_blank">4E</a>
-</p>
+<p></p>
 </th>
 </tr>
 <tr>
