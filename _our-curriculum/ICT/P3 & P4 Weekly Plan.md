@@ -131,8 +131,7 @@ third_nav_title: ICT
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P4/HBL_Weekly_Plan_T3W7__13_14_Aug__4B_1.pdf" rel="noopener noreferrer nofollow" target="_blank">4</a>
-<a href="/files/Home Based Learning/P4/HBL_Weekly_Plan_T3W7__13_14_Aug__4B_1.pdf" rel="noopener nofollow" target="_blank">B</a>
+<p><a href="/files/Home Based Learning/P4/HBL_Weekly_Plan_T3W7__13_14_Aug__4B_1.pdf" rel="noopener nofollow" target="_blank">4B</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
