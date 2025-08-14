@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Khoo_poh_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Khoo Poh Ling</a>
+<p><a href="mailto:Khoo_poh_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Khoo</a>
 </p>
 </td>
 </tr>
@@ -44,11 +44,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="yeo_choon_keow@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jane Yeo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Administrative Executive</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tng_yew_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tng Yew Li</a>
+<p><a href="mailto:nurasyirin_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Nurasyirin Binte Mohamad</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Executive</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="faten_hanani_harun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Faten Hanani</a>
 </p>
 </td>
 </tr>
@@ -134,16 +154,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anwar Bin Sukimin</p>
+<p>Mr Anwar Bin Sukimin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Associate</strong>
+<p><strong>ICT Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_wilven@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wilven Ho</a>
+<p><a href="amalina_sukimin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Amalina</a>
 </p>
 </td>
 </tr>
@@ -163,7 +183,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_hariz_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohammad Hariz</a>
+<p><a href="mailto:ashley_leann_lau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Ashley Leann Lau</u></a>
 </p>
 </td>
 </tr>
