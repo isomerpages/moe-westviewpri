@@ -94,16 +94,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Assistant</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurasyirin_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurasyirin Binte Mohamad</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong>
 </p>
 </td>
