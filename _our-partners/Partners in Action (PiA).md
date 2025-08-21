@@ -30,4 +30,4 @@ Do join the PiA and play a part in our West Viewans’ learning and development!
 
 Click [here](https://go.gov.sg/PIAPROFILINGFORM2025) to register and we will be in touch with you!
 
-Click [here](/files/2024_PiA_Handbook_Updated_compressed.pdf) to access our PiA Handbook
+Click [here](/files/PiA_handbook_2025_compressed_2.pdf) to access our PiA Handbook.
