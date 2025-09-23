@@ -32,7 +32,7 @@ third_nav_title: ICT
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P3/HBL_Weekly_Plan_T4W2__25_30_Sept__3C.pdf" rel="noopener noreferrer nofollow" target="_blank">3C</a>
+<p><a href="/files/Home Based Learning/P3/HBL_Weekly_Plan_T4W2__25_30_Sept__3C_edited.pdf" rel="noopener noreferrer nofollow" target="_blank">3C</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
