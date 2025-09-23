@@ -3,7 +3,6 @@ title: P5 Weekly Plan
 permalink: /p5-weekly-planning/
 variant: tiptap
 description: ""
-third_nav_title: ICT
 ---
 <table style="minWidth: 125px">
 <colgroup>
