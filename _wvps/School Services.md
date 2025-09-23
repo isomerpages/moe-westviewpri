@@ -1,5 +1,5 @@
 ---
-title: Services
+title: School Services
 permalink: /wvps/services/
 description: ""
 variant: tiptap
