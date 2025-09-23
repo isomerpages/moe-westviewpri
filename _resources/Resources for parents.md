@@ -6,7 +6,7 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener nofollow" target="_blank">Services</a>
+<p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener nofollow" target="_blank">School Services</a>
 </p>
 </li>
 <li>
