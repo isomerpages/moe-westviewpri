@@ -115,6 +115,58 @@ proceeding to the bookshop.</p>
 <p>*Operating hours may change during school holidays. Please call our school
 to check</p>
 <p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>27/11/2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Thursday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Self-Collection for Online, Walk-In Purchase for P1 Only</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>9am - 3pm</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
