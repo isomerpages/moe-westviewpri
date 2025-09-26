@@ -108,7 +108,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Bock Keow</p>
+<p>Mr Jumadi Bin Yacob</p>
 </td>
 </tr>
 <tr>
@@ -154,6 +154,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Amalina_Sukimin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Amalina</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lok_kin_fook@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lok Kin Fook</a>
 </p>
 </td>
 </tr>
