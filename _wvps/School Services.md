@@ -116,14 +116,23 @@ proceeding to the bookshop.</p>
 to check</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -143,7 +152,6 @@ clinics for assistance.
 <br><strong><em>Clinic HP contact: 87985043</em></strong>
 <br>
 <br><strong>In case of needed dental treatments during WVPS clinic closures, please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -190,13 +198,13 @@ clinics for assistance.
 please contact: HPB, School Dental Centre.
 <br>Tel: <strong>64353779</strong> or <strong>64353151</strong>
 <br>Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
-<br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
