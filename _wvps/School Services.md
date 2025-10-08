@@ -126,9 +126,8 @@ to check</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -141,17 +140,10 @@ to check</p>
 <p>Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em><u>Dental clinic will be closed from 23/7/2025 to 30/4/2026</u></em></strong>
+<p><strong><em><u>Dental clinic will be closed from 23/7/2025 to 31/12/2025 due to revamp of clinic</u></em></strong>
 <br>
-<br>Any URGENT dental treatment, please contact one of the following BUDDY
-clinics for assistance.
-<br>For general enquiry, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
-</p>
-<p>
-<br><strong>Dental Therapist: Ng SC</strong>
-<br><strong><em>Clinic HP contact: 87985043</em></strong>
+<br>(A) For any dental enquiries, please contact the following:
 <br>
-<br><strong>In case of needed dental treatments during WVPS clinic closures, please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -161,19 +153,63 @@ clinics for assistance.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Buddy Clinic</p>
+<p>First point of contact:</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Telephone</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>8798 5043</strong>
+<br>
+<br>Whatsapp messages are preferred, as our staff may be occupied with providing
+treatment for patients. If it is urgent, please call.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unity Primary School</p>
+<p>General enquiry, please email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>91158304</p>
+<p><a href="mailto:Cheong_Wai_Leong@hpb.gov.sg" rel="noopener nofollow" target="_blank">Cheong_Wai_Leong@hpb.gov.sg</a>
+</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>B) Information on urgent dental needs and buddy dental clinics as a supporting
+role:
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Urgent dental conditions</p>
+</td>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Fever due to toothache</p>
+</li>
+<li>
+<p>Facial swelling</p>
+</li>
+<li>
+<p>Injury to mouth and teeth</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Buddy Dental Clinic (Supporting Role)</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Contact Number</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -182,29 +218,37 @@ clinics for assistance.
 <td rowspan="1" colspan="1">
 <p>98396594</p>
 </td>
+<td rowspan="3" colspan="1">
+<p>WhatsApp messages are preferred, as our staff may be occupied with providing
+treatment for patients. If it is urgent, please call</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mobile Dental Clinic 30</p>
+<p>Bukit Panjang Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>87945043</p>
+<p>91142186</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mobile Dental Clinic 25 (located in a Secondary School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91864597</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
-<br>For emergencies such as dental trauma, facial/gum swellings or toothaches,
-please contact: HPB, School Dental Centre.
-<br>Tel: <strong>64353779</strong> or <strong>64353151</strong>
-<br>Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
-</p>
+<br>Due to limited availability, some appointments may be scheduled for afternoons
+or school holidays. Thank you for your understanding.</p>
 </td>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
