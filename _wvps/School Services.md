@@ -126,9 +126,8 @@ to check</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -141,17 +140,46 @@ to check</p>
 <p>Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em><u>Dental clinic will be closed from 23/7/2025 to 30/4/2026</u></em></strong>
+<p><strong><em><u>Dental clinic will be closed from 23/7/2025 to 31/12/2025 due to revamp of clinic</u></em></strong>
 <br>
-<br>Any URGENT dental treatment, please contact one of the following BUDDY
-clinics for assistance.
-<br>For general enquiry, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+<br>(A) For any dental enquiries, please contact the following:
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>First point of contact:</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>8798 5043</strong>
+<br>
+<br>Whatsapp messages are preferred, as our staff may be occupied with providing
+treatment for patients. If it is urgent, please call.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>General enquiry, please email:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Cheong_Wai_Leong@hpb.gov.sg" rel="noopener nofollow" target="_blank">Cheong_Wai_Leong@hpb.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
 </p>
 <p>
-<br><strong>Dental Therapist: Ng SC</strong>
-<br><strong><em>Clinic HP contact: 87985043</em></strong>
 <br>
-<br><strong>In case of needed dental treatments during WVPS clinic closures, please contact buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment</strong>
+<br>
+<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -200,11 +228,31 @@ please contact: HPB, School Dental Centre.
 <br>Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
 </p>
 </td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p>(B) Information on urgent dental needs and buddy dental clinics as a supporting
+role:</p>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
