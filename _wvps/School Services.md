@@ -207,11 +207,8 @@ role:
 <th rowspan="1" colspan="1">
 <p>Buddy Dental Clinic (Supporting Role)</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Contact Number</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -219,7 +216,7 @@ role:
 <p>Greenridge Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9839 6594</p>
+<p>98396594</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>WhatsApp messages are preferred, as our staff may be occupied with providing
@@ -231,7 +228,7 @@ treatment for patients. If it is urgent, please call</p>
 <p>Bukit Panjang Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9114 2186</p>
+<p>91142186</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +236,7 @@ treatment for patients. If it is urgent, please call</p>
 <p>Mobile Dental Clinic 25 (located in a Secondary School)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9186 4597</p>
+<p>91864597</p>
 </td>
 </tr>
 </tbody>
