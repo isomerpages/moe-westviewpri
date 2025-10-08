@@ -189,7 +189,7 @@ role:
 <td rowspan="1" colspan="1">
 <p>Urgent dental conditions</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
 <p>Fever due to toothache</p>
@@ -201,9 +201,6 @@ role:
 <p>Injury to mouth and teeth</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
