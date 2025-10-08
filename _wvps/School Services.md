@@ -174,63 +174,10 @@ treatment for patients. If it is urgent, please call.</p>
 </tbody>
 </table>
 <p>
+<br>B) Information on urgent dental needs and buddy dental clinics as a supporting
+role:
 <br>
 </p>
-<p>
-<br>
-<br>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Buddy Clinic</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Telephone</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unity Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91158304</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Greenridge Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>98396594</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mobile Dental Clinic 30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>87945043</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>For emergencies such as dental trauma, facial/gum swellings or toothaches,
-please contact: HPB, School Dental Centre.
-<br>Tel: <strong>64353779</strong> or <strong>64353151</strong>
-<br>Address: <strong>3 Second Hospital Avenue S(168937) Level 4</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -239,16 +186,71 @@ please contact: HPB, School Dental Centre.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <td rowspan="1" colspan="1">
-<p>(B) Information on urgent dental needs and buddy dental clinics as a supporting
-role:</p>
+<p>Urgent dental conditions</p>
 </td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Fever due to toothache</p>
+</li>
+<li>
+<p>Facial swelling</p>
+</li>
+<li>
+<p>Injury to mouth and teeth</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Buddy Dental Clinic (Supporting Role)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Number</p>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Greenridge Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9839 6594</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>WhatsApp messages are preferred, as our staff may be occupied with providing
+treatment for patients. If it is urgent, please call</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bukit Panjang Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9114 2186</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mobile Dental Clinic 25 (located in a Secondary School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9186 4597</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>Due to limited availability, some appointments may be scheduled for afternoons
+or school holidays. Thank you for your understanding.</p>
+</td>
 </tr>
 </tbody>
 </table>
