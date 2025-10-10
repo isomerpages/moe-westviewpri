@@ -31,7 +31,7 @@ third_nav_title: ICT
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6B</strong>
+<p><strong><a href="/files/Home Based Learning/P6/HBL_Weekly_Plan_T4W5__13_15_Oct__6B.pdf" rel="noopener noreferrer nofollow" target="_blank">6B</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
