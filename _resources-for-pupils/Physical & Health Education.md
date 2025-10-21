@@ -197,14 +197,6 @@ activities to keep you engaged during June holidays.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.healthhub.sg/live-healthy/1204/when-a-mask-is-a-must" rel="noopener noreferrer nofollow" target="_blank"><u>When a mask is a must</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.healthhub.sg/live-healthy/826/types-of-physical-activities" rel="noopener noreferrer nofollow" target="_blank"><u>Types of Physical Activities</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://www.healthhub.sg/live-healthy/1291/fun-fruity-facts" rel="noopener noreferrer nofollow" target="_blank"><u>Fun Fruity Facts</u></a>
 </p>
 </li>
@@ -494,14 +486,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.healthhub.sg/live-healthy/1204/when-a-mask-is-a-must" rel="noopener noreferrer nofollow" target="_blank"><u>When a mask is a must</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.healthhub.sg/live-healthy/826/types-of-physical-activities" rel="noopener noreferrer nofollow" target="_blank"><u>Types of Physical Activities</u></a>
-</p>
-</li>
 <li>
 <p><a href="https://www.healthhub.sg/live-healthy/1291/fun-fruity-facts" rel="noopener noreferrer nofollow" target="_blank"><u>Fun Fruity Facts</u></a>
 </p>
