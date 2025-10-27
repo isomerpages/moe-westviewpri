@@ -48,6 +48,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tng_yew_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tng Yew Li</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_choon_keow@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jane Yeo</a>
 </p>
 </td>
