@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Fadhilah_Sanib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Fadhilah</a>
+<p><a href="mailto:nur_fadhilah_sanib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Fadhilah</a>
 </p>
 </td>
 </tr>
@@ -169,7 +169,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ma_r_balamurugan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr A R Balamurugan</a>
+<p><a href="mailto:a_r_balamurugan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr A R Balamurugan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
