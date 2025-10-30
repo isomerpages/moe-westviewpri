@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong> 1 Aspiration</strong>
+<p><strong>1 Aspiration</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong> 1 Brilliance</strong>
+<p><strong>1 Brilliance</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong> 1 Diligence</strong>
+<p><strong>1 Diligence</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarifah.hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sarifah Hassan</u></a>
+<p><a href="mailto:sarifah_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sarifah Hassan</u></a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_kai_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ong Kai Wei</a>
+<p><a href="mailto:ong_kai_wei_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ong Kai Wei</a>
 </p>
 </td>
 </tr>
