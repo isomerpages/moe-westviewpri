@@ -2,6 +2,7 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - Central Kitchen Meal Model.md
       - Group Personal Accident Insurance for students.md
       - A Day in Life of a P1 Pupil.md
       - P1 Orientation 2025.md
