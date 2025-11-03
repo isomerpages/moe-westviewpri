@@ -140,7 +140,7 @@ learning and real-world issues.</p>
 <p>Mrs Chia-Lai Seow Poh (2018-2022)</p>
 </li>
 <li>
-<p>Ms Patricia Chong Huay Leng (2018-present)</p>
+<p>Ms Patricia Chong Huay Leng (2018-2023)</p>
 </li>
 <li>
 <p>Mdm Siti Suhaila Binte Sapihe (2022-present)</p>
