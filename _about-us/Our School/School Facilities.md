@@ -3,6 +3,7 @@ title: School Facilities
 permalink: /about-us/our-school/school-facilities/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eGPPIbBGQB4" height="315" width="560"></iframe>
 
@@ -22,7 +23,7 @@ third_nav_title: Our School
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTM8REYD7WfEyv32x_nSufyNc7CC1JlkPR6ozD0UoptQrtKh02aquai_6r1SmjxhXy834VkZR6nlDwz/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### 6. DA VINCI
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpM68aQeT8HQEF9lNX4n3u1OLhl6t1UKPpWjy3ojU4jsff9KueTiLjCmeBEmT_CNmtTvGbbVVLKrVK/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+
 
 ### 7. EinSTein
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2v7pSKeSDq7p85B6SvnZKnjVctjaOX3M0Y8HHxsBvaNTgwPT34qZk9ZUMYgWeqJFVAI_gwJ-Fqv7_/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
