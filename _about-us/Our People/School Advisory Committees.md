@@ -101,6 +101,15 @@ third_nav_title: Our People
 <p>Mr Siew Chong Kiet</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Ming Jin Edwin</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
