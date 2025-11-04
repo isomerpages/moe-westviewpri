@@ -6,7 +6,7 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener nofollow" target="_blank">School Services</a>
+<p><a href="/central-kitchen-meal-model/" rel="noopener nofollow" target="_blank">Central Kitchen Meal Model</a>
 </p>
 </li>
 <li>
@@ -35,6 +35,10 @@ description: ""
 </li>
 <li>
 <p><a href="/school-holiday-edition/" rel="noopener noreferrer nofollow" target="_blank"><u>School Holiday Edition</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener nofollow" target="_blank">School Services</a>
 </p>
 </li>
 </ul>
