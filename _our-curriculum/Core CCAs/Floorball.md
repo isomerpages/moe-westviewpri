@@ -104,7 +104,8 @@ Division)</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fbslib-8i9c"></iframe>
 </div>
 <h2>CCA Model Pupil</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Slide7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide6.png">
 </div>
 <p></p>
