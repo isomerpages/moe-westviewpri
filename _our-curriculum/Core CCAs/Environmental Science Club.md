@@ -113,7 +113,8 @@ difference in our community! 🌍🛤️✨</p>
 </div>
 <p></p>
 <h2>CCA Model Pupil</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide7.png">
 </div>
 <p></p>
