@@ -1,6 +1,6 @@
 ---
 title: Resources for Parents
-permalink: /wvps/resources/resources-for-parents/
+permalink: /wvps/resources/old-resources-for-parents/
 description: ""
 variant: tiptap
 ---
