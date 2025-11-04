@@ -10,10 +10,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener nofollow" target="_blank">School Services</a>
-</p>
-</li>
-<li>
 <p><a href="/resources-for-parents/group-personal-accident-insurance-for-students/" rel="noopener noreferrer nofollow" target="_blank"><u>Group Personal Accident Insurance for students</u></a>
 </p>
 </li>
@@ -39,6 +35,10 @@ description: ""
 </li>
 <li>
 <p><a href="/school-holiday-edition/" rel="noopener noreferrer nofollow" target="_blank"><u>School Holiday Edition</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener nofollow" target="_blank">School Services</a>
 </p>
 </li>
 </ul>
