@@ -125,7 +125,8 @@ Tier 2 - Champion</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MS6-EH16ejg"></iframe>
 </div>
 <h2>CCA Model Pupil</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.png">
 </div>
 <p></p>
