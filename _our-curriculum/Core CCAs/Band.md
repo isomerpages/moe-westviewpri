@@ -112,7 +112,8 @@ in performance and also allows students to showcase their talents.</p>
 <p><strong>Performance at Get Active! Singapore Heartland Festival 2023</strong>
 </p>
 <h2>CCA Model Pupil</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.png">
 </div>
 <p></p>
