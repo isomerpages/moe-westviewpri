@@ -116,7 +116,8 @@ Bin the Pins</p>
 <img style="width:80%;" height="auto" width="100%" alt="Scouts" src="/images/IMG_9973.jpeg">
 </div>
 <h2>CCA Model Pupil</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.png">
 </div>
 <p></p>

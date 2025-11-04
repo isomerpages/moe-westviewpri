@@ -101,7 +101,8 @@ traditions.</p>
 <br>
 </p>
 <h2>CCA Model Pupil</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide8.png">
 </div>
 <p></p>
