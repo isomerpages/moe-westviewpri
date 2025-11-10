@@ -14,11 +14,26 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="/our-pride/achievements/cca/2021/" rel="noopener noreferrer nofollow" target="_blank">2021</a></strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -29,20 +44,75 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://westviewpri.moe.edu.sg/our-pride/achievements/cca/2024/" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
+<p><strong><a href="/our-pride/achievements/cca/2022/" rel="noopener noreferrer nofollow" target="_blank">2022</a></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/our-pride/achievements/cca/2023/" rel="noopener noreferrer nofollow" target="_blank">2023</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/our-pride/achievements/cca/2022/" rel="noopener noreferrer nofollow" target="_blank">2022</a></strong>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong><a href="https://westviewpri.moe.edu.sg/our-pride/achievements/cca/2024/" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/our-pride/achievements/cca/2021/" rel="noopener noreferrer nofollow" target="_blank">2021</a></strong>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
