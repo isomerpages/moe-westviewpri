@@ -163,7 +163,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Amalina_Sukimin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Amalina</a>
+<p><a href="mailto:Amalina_Sukimin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Amalina Musfirah (Lina)</a>
 </p>
 </td>
 </tr>
@@ -189,11 +189,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:habib.rayeesahmadkhan@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Habib Rayees Ahmad Khan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Multimedia Administration &amp; Production Assistant</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ashley_leann_lau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Ashley Leann Lau</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jayanthi.lakshmi@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jayanthi Lakshmi</a>
 </p>
 </td>
 </tr>
