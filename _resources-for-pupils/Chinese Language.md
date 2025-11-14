@@ -4,7 +4,13 @@ permalink: /wvps/resources/resources-for-pupils/chinese-language/
 description: ""
 variant: tiptap
 ---
-<h2>Recommended Resources for the learning of Chinese Language</h2>
+<h4><strong>🌟 Chinese Language Learning Resource Section</strong></h4>
+<p><strong>🎯 Purpose:</strong>
+<br><strong>To inspire and support pupils in learning Chinese through fun, interactive, and meaningful resources—both online and offline.</strong>
+</p>
+<p><strong>✅ Recommended YouTube Channels for Pupils</strong>
+<br><strong>These are engaging, age-appropriate, and updated channels that make learning Chinese enjoyable:</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -15,11 +21,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>e-Resource</strong>
+<p><strong>YouTube Channel</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -33,14 +38,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>我们 心中的故事</u></strong>
+<p><strong>EduSpore YouTube Channel</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/c1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon1.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="/files/Our_stories_CL_compressed.pdf" rel="noopener nofollow" target="_blank">链接</a>
+<p>🔗 Watch here<strong>&nbsp;</strong>
+<br><a href="https://www.youtube.com/results?search_query=EduSpore+YouTube+Channel" rel="noopener noreferrer nofollow" target="_blank"><u>EduSpore YouTube Channel - YouTube</u></a>
 </p>
 </td>
 </tr>
@@ -50,14 +56,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>创意笔第19期</u></strong>
+<p><strong>Little Fox Chinese</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon2.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="/files/19.pdf" rel="noopener nofollow" target="_blank">链接</a>
+<p>🔗 Watch here<strong>&nbsp;</strong>
+<br><a href="https://www.youtube.com/results?search_query=little+fox+Chinese" rel="noopener noreferrer nofollow" target="_blank"><u>Little Fox Chinese - YouTube</u></a>
 </p>
 </td>
 </tr>
@@ -67,72 +74,43 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong><u>星衢童阅乐园</u></strong>
+<p><strong>YOYO TV</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon3.png">
 </div>
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=kx-Yk116cT0" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=kx-Yk116cT0</a>
+<td rowspan="2" colspan="2">
+<p>🔗 Watch here<strong>&nbsp;</strong>
+<br><strong><a href="https://www.youtube.com/results?search_query=yoyo+tv" rel="noopener noreferrer nofollow" target="_blank"><u>yoyo tv - YouTube</u></a></strong>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><u>目录</u>
-</p>
-<p><strong>Ep1 毛毛的新毯子</strong>
-</p>
-<p><strong>Ep2 为什么我们不会游泳？</strong>
-</p>
-<p><strong>Ep3 一束不同颜色的花</strong>
-</p>
-<p><strong>Ep4 小猫咪咪</strong>
-</p>
-<p><strong>Ep5 小苍蝇环游世界</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Ep6 等明天</strong>
-</p>
-<p><strong>Ep7 袋鼠妈妈的口袋</strong>
-</p>
-<p><strong>Ep8 龟兔又赛跑</strong>
-</p>
-<p><strong>Ep9 买西瓜</strong>
-</p>
-<p><strong>Ep10 小猪赛跑</strong>
-</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p><strong>4</strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong><u>星衢童阅乐园《第二季》</u></strong>
+<p><strong>Momo亲子台</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon4.png">
 </div>
 <p><strong><u><br></u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s</a>
+<p>🔗 Watch here <a href="https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;amp;t=300s" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=U9nnfcfvzQw&amp;t=300s</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>CSCF Kids Storytelling Wonderland Season 2 is back with more vivid storytelling
-videos and interesting activities. Inspiring kids' imagination and learn
-Chinese in a fun and easy way! Broadcasting every 1st and 3rd Friday, 7p.m.
-Subscribe to our channel for the latest episodes.</p>
+<p>Taiwanese channel with stories, crafts, and cultural content in Mandarin.</p>
+<p>Age: 5–12</p>
 </td>
 </tr>
 <tr>
@@ -148,17 +126,18 @@ Subscribe to our channel for the latest episodes.</p>
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=vhsG3GQSPCs" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=vhsG3GQSPCs</a>
+<p>🔗 Watch here</p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=vhsG3GQSPCs" rel="noopener noreferrer nofollow" target="_blank"><u>西游记 1-4 (西遊記 | Journey to the West) 孫悟空 | Classics | Chinese Stories for Kids | Little Fox</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>&nbsp;During the Tang dynasty, Buddhist monk Xuanzang traveled to the
-"Western Regions” to obtain Buddhist sacred texts. The Gautama Buddha provided
-him four protectors and disciples, 孙悟空 Sun Wukong (the Monkey King), 猪八戒
-Zhu Bajie , 沙悟净 Sha Wujing , and a dragon prince turned white horse 白龙马
-Bai Long Ma. The team of five succeed after much suffering and many treacherous
+<p>During the Tang dynasty, Buddhist monk Xuanzang traveled to the "Western
+Regions” to obtain Buddhist sacred texts. The Gautama Buddha provided him
+four protectors and disciples, 孙悟空 Sun Wukong (the Monkey King), 猪八戒 Zhu
+Bajie , 沙悟净 Sha Wujing , and a dragon prince turned white horse 白龙马 Bai
+Long Ma. The team of five succeed after much suffering and many treacherous
 encounters.</p>
 </td>
 </tr>
@@ -168,20 +147,23 @@ encounters.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong><u>喜马拉雅 FM 六一儿童节小故事 - 姆咪故事 (Moomin)</u></strong>
+<p><strong>Learn Chinese with ChineseClass101</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon6.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=O5GfeX1Q-gQ" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=O5GfeX1Q-gQ</a>
+<p>🔗 Watch here</p>
+<p><a href="https://www.youtube.com/watch?v=wOZji5OKDAY" rel="noopener noreferrer nofollow" target="_blank"><u>Day 1: 10/300 | Learn 300 Chinese Words in 30 Days Challenge</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Welcome to the Moomin Storytime, enjoy this&nbsp;audio story.&nbsp;</p>
+<p>Learn Chinese with <a href="http://ChineseClass101.com" rel="noopener noreferrer nofollow" target="_blank">ChineseClass101.com</a> - The Fastest,
+Easiest and Most Fun Way to Learn Chinese. :) Start speaking Chinese in
+minutes with Audio and Video lessons.</p>
 </td>
 </tr>
 <tr>
@@ -190,289 +172,247 @@ encounters.</p>
 </p>
 </td>
 <td rowspan="6" colspan="1">
-<p><strong><u>儿童歌曲&nbsp;Kids Song</u></strong>
+<p><strong>Yoyo Chinese</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial;" height="auto" width="100%" alt="8.jpg" src="/images/CL8.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon7.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=a1CMEVfDeP4" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=a1CMEVfDeP4</u></a>
-</p>
-<p><strong>早安老师&nbsp;</strong>Good morning , teacher !</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=DRU8bVnbFHM" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=DRU8bVnbFHM</a>
-</p>
-<p><strong>声律启蒙</strong>
+<p>🔗 Watch here</p>
+<p><a href="https://www.youtube.com/@YoyoChinese" rel="noopener noreferrer nofollow" target="_blank"><u>Yoyo Chinese - YouTube</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=oS9kCw-TTs8" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=oS9kCw-TTs8</a>
-</p>
-<p><strong>你笑起&nbsp;來&nbsp;真好看&nbsp;</strong>You Look Good When You Smile</p>
+<td rowspan="5" colspan="2">
+<p>Learning Chinese doesn't have to feel impossible! We offer structured
+and comprehensive online courses with 1,000+ video lessons that capture
+real life scenarios and native Chinese dialogue, making you feel like you’re
+there in China yourself! And we teach from an English speaker’s point of
+view, making the learning process much easier and more effective.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=rVFf0HRcrkE" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=rVFf0HRcrkE</u></a>
-</p>
-<p><strong>虫儿飞</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=1Hn5inD7JX0" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=1Hn5inD7JX0</u></a>
-</p>
-<p><strong>童年&nbsp;Childhood</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=NoGBBbI4Xo8" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=NoGBBbI4Xo8</u></a>
-</p>
-<p><strong>但愿人长久</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="7" colspan="1">
-<p><strong>8</strong>
-</p>
-</td>
-<td rowspan="7" colspan="1">
-<p><strong><u>经典故事&nbsp;Fiction Story</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; background-color: initial; width: 267px; height: 170px;" height="auto" width="100%" alt="9.png" src="/images/CL9.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=t2wIIz52swc" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=t2wIIz52swc</u></a>
-</p>
-<p><strong>卖火柴的小女孩&nbsp;&nbsp;Little Match Girl&nbsp;&nbsp;&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=By5ql5a6Y40" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=By5ql5a6Y40</u></a>
-</p>
-<p><strong>小红帽&nbsp;&nbsp;Little Red Riding Hood</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=bXKxl8QIItA" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=bXKxl8QIItA</u></a>
-</p>
-<p><strong>三只小猪&nbsp;&nbsp;The Three Little Pigs</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=3mcI_zA9U6E" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=3mcI_zA9U6E</u></a>
-</p>
-<p><strong>龟兔赛跑&nbsp;&nbsp;The Rabbit And The Turtle</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=LBslSKy7jdw" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=LBslSKy7jdw</u></a>
-</p>
-<p><strong>狮子与老鼠&nbsp;&nbsp;Lion And The Mouse</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=e2f_qqU4ulw" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=e2f_qqU4ulw</u></a>
-</p>
-<p><strong>狐狸爸爸笑了&nbsp;Fox and the Pigs</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=_mC6HHiZlCg" class="" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=_mC6HHiZlCg</u></a>
-</p>
-<p><strong>手机的规矩&nbsp;Rules for Mobile Phone</strong>
-</p>
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
-<h2><u>“假期阅读乐”推荐书单（6月）</u></h2>
-<p>您好！六月学校假期即将到来，我们特此向您推荐本学段的“假期阅读乐”华文阅读书单。</p>
-<p>&nbsp;</p>
-<p>“假期阅读乐”是推广华文学习委员会（CPCLL）与国家图书馆管理局（NLB）合作推出的项目。项目旨在推广华文阅读，培养学生良好的阅读习惯。每个学校假期前，我们都会为学校推荐适合学生阅读的华文书籍。您可以根据我们的推荐书单给学生安排假期阅读活动，也可以将随邮附上的PDF文件和下面的相关信息转发给学生。学生只需打开PDF文件，点击感兴趣的书籍封面，即可了解该书内容并借阅电子书或纸质书。他们也可以扫描或点击二维码登入&nbsp;Libby网站查看更多电子书推荐。</p>
-<p>&nbsp;</p>
-<p>想让学生爱上阅读，老师也要以身作则。因此我们每个6月和12月假期，都会为老师们推荐适合的读物，相信大家也能借此丰富自己的精神世界。本期“假期阅读乐”就包括三类推荐，希望学生与老师在这个假期都能自由畅快地遨游书海：</p>
-<p>1.&nbsp;小学：推荐内容包括职业启蒙、名人传记以及心理成长故事。</p>
-<p>2.&nbsp;中学：推荐内容包括小说、诗词、心灵成长以及散文。</p>
-<p>3.&nbsp;教师：本期推荐8本好书，既有大家之作，也有热门作品。</p>
-<p>&nbsp;</p>
-<p>在此也附上本地绘本推荐的海报。海报上的电子指南将在六月份上线，为教育工作者、家长分享12岁前必读的100本新加坡读物，借此让更多家长、小朋友探索新加坡华文儿童书籍。希望小学老师也能分享给家长。</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image002__1_.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image003__1_.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image004.png">
-</div>
-<h2>ICT tips for the learning of Chinese Language</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%201.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%202.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%203.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%204.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chinese ICT" src="/images/Chinese%20ICT%205.png">
-</div>
-<table style="minWidth: 175px">
+<p><strong>🌐 <u>Interactive Websites for Singapore Students</u></strong>
+</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="7">
-<p><strong>Stay Home Edition (Mother Tongue)</strong>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>e-Resource</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Link</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>我们 心中的故事</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon8.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>🔗 Read here
+<br><a href="https://www.westviewpri.moe.edu.sg/files/Our_stories_CL_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>链接</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="7">
-<p><strong>Recommended Apps &amp;Websites for the learning of Mother Tongue</strong>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WOW! Publication</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon10.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>🔗 Read here<strong>&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.westviewpri.moe.edu.sg/our-pride/wow-publication/" rel="noopener noreferrer nofollow" target="_blank"><u>WOW! Publication</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1lK1XgelmvnzlPhi4RaZELPkUhqELYvWu/view?pli=1" rel="noopener noreferrer nofollow" target="_blank"><u>WOW Publication 2024.pdf - Google Drive</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1qVvZEPT82EtC-x_tN16Ema0vCZobse2b/view" rel="noopener noreferrer nofollow" target="_blank"><u>WOW! Publication 2023 (Interactive).pdf - Google Drive</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/118KrF9Y2IipB-ztiCK6iFZdaTozr7Cp1/view" rel="noopener noreferrer nofollow" target="_blank"><u>WOW! Publication_2022.pdf - Google Drive</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/13GpN0hxp_Uc_uZg6VKzpCkYMNHNZn9Vy/view" rel="noopener noreferrer nofollow" target="_blank"><u>WOW! Publication_2021.pdf - Google Drive</u></a>
+</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>联合早报</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon11.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon12.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>🔗 Read here<strong>&nbsp;</strong>
+</p>
+<p><strong><a href="https://www.zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>早报校园 ZBSchools</u></a></strong>
+<br><a href="https://www.zaobao.com.sg/keywords/da-mu-zhi" rel="noopener noreferrer nofollow" target="_blank"><u>大拇指 | 联合早报</u></a>
+<br>Offers oral practice videos, composition samples, and current affairs
+in Chinese.</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p><strong>🎓 Support for Learners</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>🧩 Icon</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>💡 Support Strategy</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>🔗 Link</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>📘</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bilingual Resources</strong>
+<br>Use bilingual subtitles, pinyin, and English summaries to support understanding.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pleco.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Pleco Dictionary</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
+<p>🔊</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Read-Aloud Tools</strong>
+<br>Watch videos and listen to audiobooks to improve listening and reading
+skills.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/results?search_query=little+fox+chinese" rel="noopener noreferrer nofollow" target="_blank"><u>Little Fox Chinese</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Icon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Description</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IOS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Andriod</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.</strong>
-</p>
+<p>📱</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NLB Mobile App</p>
-<p><a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://mobileapp.nlb.gov.sg/</u></a>
-</p>
-<p>
-<br>
-</p>
-<p>NLB Website</p>
-<p><a href="http://www.nlb.gov.sg/discovereads/primary-resources/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.nlb.gov.sg/discovereads/primary-resources/</u></a>
-</p>
+<p><strong>Interactive Apps</strong>
+<br>Use apps like HelloChinese and Du Chinese for gamified learning.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><a href="https://www.hellochinese.cc/" rel="noopener noreferrer nofollow" target="_blank"><u>HelloChinese</u></a>
 </p>
-<p>NLB Mobile App
-<br>
+<p><a href="https://duchinese.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Du Chinese</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;With lots of Mother Tongue books to choose from, download
-this app to meet your reading needs!&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>√</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>√</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1-6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2.</strong>
+<p>👫</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Peer &amp; Teacher Support</strong>
+<br>Buddy reading and teacher-recorded audio help learners follow along.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quizlet.com/latest" rel="noopener noreferrer nofollow" target="_blank"><u>Quizlet</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Mother Tongue Languages -&nbsp;Duolingo</p>
-<p><a href="https://www.duolingo.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.duolingo.com/</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>Duolingo App
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;You can learn Chinese, Malay, Tamil and other languages with
-this fun and engaging app.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>√</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>√</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1-6</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
 <p></p>
