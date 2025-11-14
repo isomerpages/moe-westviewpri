@@ -80,15 +80,13 @@ learning experiences which help them learn the language better.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/MT Language/comb4.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/MT Language/comb4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/MT Language/img9.png">
 </div>
-<p>
-<br><strong><em>Use real-life context: relate CL to pupils’ daily life experiences to make learning more meaningful</em></strong>
+<p><strong><em>Use real-life context: relate CL to pupils’ daily life experiences to make learning more meaningful</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/MT Language/img10.png">
 </div>
 <p><strong><em>Promote a positive MT learning environment to make learning fun and enjoyable</em></strong>
 </p>
