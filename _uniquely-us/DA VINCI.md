@@ -111,61 +111,54 @@ an opportunity to showcase their growth.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Empathize:</strong>&nbsp;Photos of students interviewing
-<br>
-</p>
+<p><strong>Empathize:</strong>&nbsp;Photos of students interviewing</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/comb5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Da Vinci/comb5.png">
 </div>
 </li>
 <li>
 <p><strong>Define:</strong>&nbsp;Sticky notes with problem statements</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/comb6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Da Vinci/comb6.png">
 </div>
 </li>
 <li>
 <p><strong>Ideate:</strong>&nbsp;Sketches/brainstorming snapshots.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/comb7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Da Vinci/comb7.png">
 </div>
 </li>
 <li>
 <p><strong>Prototype:</strong>&nbsp;Process of creation</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/comb8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Da Vinci/comb8.png">
 </div>
 </li>
 <li>
 <p><strong>Test:</strong>&nbsp;Presentations of Projects to our external
 judges</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/comb10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Da Vinci/comb10.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/comb11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Da Vinci/comb11.png">
 </div>
 </li>
 <li>
 <p><strong>DA VINCI Champions</strong>: Photos of winning teams with their
 prototypes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/comb12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Da Vinci/comb12.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 </li>
 </ol>
 </li>
-</ul>
-<p></p>
-<ul>
 <li>
 <p><strong>Project Highlights:</strong>
-<br><em>✓  Using Technology to improve recycling efficiency in our school</em>
-<br><em>✓  Investigating the Cooling Effect of Green Walls on Air Temperature</em>
-<br><em>✓  Growing our Green Future</em>
+<br><em>✓ Using Technology to improve recycling efficiency in our school</em>
+<br><em>✓ Investigating the Cooling Effect of Green Walls on Air Temperature</em>
+<br><em>✓ Growing our Green Future</em>
 </p>
 </li>
 </ul>
