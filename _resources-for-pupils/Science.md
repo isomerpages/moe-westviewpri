@@ -827,17 +827,12 @@ states.</p>
 <td rowspan="3" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/science/light/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/science/light/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://kids.nationalgeographic.com/explore/space/sun/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/space/sun/</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://kids.nationalgeographic.com/explore/space/light-pollution/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/space/light-pollution/</u></a></em>
@@ -857,8 +852,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Formation, shapes and sizes of shadows</u>
-<br>
+<p>•<strong>&nbsp;<u>Formation, shapes and sizes of shadows</u></strong>
 </p>
 </td>
 </tr>
@@ -884,34 +878,16 @@ states.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.edumedia-sciences.com/en/node/72-the-shadows" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.edumedia-sciences.com/en/node/72-the-shadows</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p><em><a href="https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/</u></a></em>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/space/solar-system/eclipse-moon/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/space/solar-system/eclipse-moon/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/</u></a></em>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -920,8 +896,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Different shapes and sizes of shadows (application)</u>
-<br>
+<p><strong>•&nbsp;<u>Different shapes and sizes of shadows (application)</u></strong>
 </p>
 </td>
 </tr>
@@ -978,8 +953,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Plants reproduction</u>
-<br>
+<p><strong>•&nbsp;<u>Plants reproduction</u></strong>
 </p>
 </td>
 </tr>
@@ -992,19 +966,10 @@ states.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Watch these videos to find out:</p>
-<p>
-<br>
-</p>
-<p>- how flowering plants reproduce.</p>
-<p>
-<br>
-</p>
-<p>- how important animals are to the pollination of plants.</p>
-<p>
-<br>
-</p>
-<p>- how seeds germinate into seedlings.</p>
+<p>Watch these videos to find out:
+<br>- how flowering plants reproduce.
+<br>- how important animals are to the pollination of plants.
+<br>- how seeds germinate into seedlings.</p>
 </td>
 </tr>
 <tr>
@@ -1047,17 +1012,12 @@ states.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s</u></a></em>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=CYuNY21dY3E" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=CYuNY21dY3E</u></a></em>
-</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <p><strong>Cycles in matter and water</strong>
@@ -1070,9 +1030,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Properties of water</u>
-<br>•&nbsp;<u>Importance of water as a resource</u>
-<br>
+<p>•&nbsp;<strong><u>Properties of water</u><br>•&nbsp;<u>Importance of water as a resource</u></strong>
 </p>
 </td>
 </tr>
@@ -1136,47 +1094,7 @@ of water as a resource and its journey since the formation of earth.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Human reproductive system</u>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 281px;" height="auto" width="100%" alt="reproductivesystem1.jpg" src="/images/reproductivesystem1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Watch this video to view the process of human reproduction.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=sUkrsCyHTlM" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=sUkrsCyHTlM</u></a></em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Human circulatory and respiratory systems</u>
-<br>
+<p>•&nbsp;<strong><u>Human circulatory and respiratory systems</u></strong>
 </p>
 </td>
 </tr>
@@ -1255,8 +1173,7 @@ us carry out daily functions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Plant transport system</u>
-<br>
+<p><strong>•&nbsp;<u>Plant transport system</u></strong>
 </p>
 </td>
 </tr>
@@ -1331,74 +1248,6 @@ help the plant carry out life processes.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Cell System</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Parts and functions of cells</u>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 291px;" height="auto" width="100%" alt="cells.gif" src="/images/cells.gif">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Explore the evolution of cells and how they divided into two types of
-cells - plant and animal cells.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.sciencekids.co.nz/videos/biology/bacteria.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/videos/biology/bacteria.html</u></a></em>
-</p>
-<p><em>(Bacteria cells)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=9UvlqAVCoqY" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=9UvlqAVCoqY</u></a></em>
-</p>
-<p><em>(Plant cells)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=cj8dDTHGJBY" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=cj8dDTHGJBY</u></a></em>
-</p>
-<p><em>(Animal cells)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.ducksters.com/science/the_cell.php" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ducksters.com/science/the_cell.php</u></a></em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Electrical System</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1409,8 +1258,7 @@ cells - plant and animal cells.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Electrical circuits</u>
-<br>
+<p><strong>•&nbsp;<u>Electrical circuits</u></strong>
 </p>
 </td>
 </tr>
@@ -1479,8 +1327,7 @@ cells - plant and animal cells.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Introduction to different types of energy</u>
-<br>
+<p>•&nbsp;<strong><u>Introduction to different types of energy</u></strong>
 </p>
 </td>
 </tr>
@@ -1518,8 +1365,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Let's explore energy</u>
-<br>
+<p><strong>•&nbsp;<u>Let's explore energy</u></strong>
 </p>
 </td>
 </tr>
@@ -1552,9 +1398,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1563,8 +1406,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Energy in the World</u>
-<br>
+<p><strong>•&nbsp;<u>Energy in the World</u></strong>
 </p>
 </td>
 </tr>
@@ -1591,9 +1433,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1602,8 +1441,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;Energy forms and conversion
-<br>
+<p><strong><u>•&nbsp;Energy forms and conversion </u></strong>
 </p>
 </td>
 </tr>
@@ -1631,9 +1469,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1642,8 +1477,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Energy Conversion</u>
-<br>
+<p>•<strong>&nbsp;<u>Energy Conversion</u></strong>
 </p>
 </td>
 </tr>
@@ -1667,7 +1501,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Let’s explore forces</u>
+<p><strong>•&nbsp;<u>Let’s explore forces</u></strong>
 </p>
 </td>
 </tr>
@@ -1700,9 +1534,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1711,7 +1542,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Forces in the world</u>
+<p><strong>•&nbsp;<u>Forces in the world</u></strong>
 </p>
 </td>
 </tr>
@@ -1738,9 +1569,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1749,7 +1577,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Types of forces</u>
+<p><strong>•&nbsp;<u>Types of forces</u></strong>
 </p>
 </td>
 </tr>
@@ -1792,7 +1620,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Types of habitats</u>
+<p><strong>•&nbsp;<u>Types of habitats</u></strong>
 </p>
 </td>
 </tr>
@@ -1831,9 +1659,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1842,7 +1667,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Interdependency between the animals</u>
+<p>•<strong>&nbsp;<u>Interdependency between the animals</u></strong>
 </p>
 </td>
 </tr>
@@ -1864,22 +1689,14 @@ the animals</p>
 <td rowspan="2" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.animalplanet.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.animalplanet.com/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://mab.wrs.com.sg/login.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://mab.wrs.com.sg/login.html</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1888,7 +1705,7 @@ the animals</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Food chains and food web</u>
+<p>•<strong>&nbsp;<u>Food chains and food web</u></strong>
 </p>
 </td>
 </tr>
@@ -1915,9 +1732,6 @@ the animals</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1926,7 +1740,7 @@ the animals</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Adaptation of animals and plants</u>
+<p><strong>•&nbsp;<u>Adaptation of animals and plants</u></strong>
 <br>
 </p>
 </td>
@@ -1979,9 +1793,6 @@ and plants</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1990,7 +1801,7 @@ and plants</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Man’s impact on the environment</u>
+<p><strong>•&nbsp;<u>Man’s impact on the environment</u></strong>
 </p>
 </td>
 </tr>
