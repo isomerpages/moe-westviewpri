@@ -52,7 +52,7 @@ contexts.</p>
 <br>
 <br><strong><u>Enhanced 21st Century Competencies (E21CC) Development</u></strong>
 </p>
-<p><strong>(1) Blooming Gardens Programme @ WVPS</strong>
+<p><strong><u>(1) Blooming Gardens Programme @ WVPS</u></strong>
 <br>Blooming Gardens is an enriching learning space where Science concepts
 come to life. Featuring soil-based planters, hydroponics, aquaponics, and
 solar panel systems, it encourages collaborative skills and deepens critical
@@ -84,7 +84,7 @@ an appreciation for environmental stewardship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci3.png">
 </div>
-<p><strong>(2) Young Scientist Badge Scheme (YSBS)</strong>
+<p><strong><u>(2) Young Scientist Badge Scheme (YSBS)</u></strong>
 <br>First launched in 1982, Young Scientist Badge Scheme (YSBS) is a programme
 designed to inspire interest in and encourage the exploration of Science,
 Technology, Engineering and Mathematics (STEM) disciplines among Primary
@@ -106,7 +106,7 @@ will further enhance our pupils’ learning experience as Young Scientist.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci5.png">
 </div>
-<p><strong>(3)&nbsp;E2K Science integration in regular Science curriculum lessons</strong>
+<p><strong><u>(3) E2K Science in WVPS</u></strong>
 <br>At West View Primary School, we believe in nurturing every student to
 their full potential. Excellence 2000 (E2K) Science program will be part
 of the DA VINCI programme offered by the school. With the E2K Science Program,
