@@ -1441,7 +1441,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>•&nbsp;Energy forms and conversion </u></strong>
+<p><strong><u>•&nbsp;Energy forms and conversion</u></strong>
 </p>
 </td>
 </tr>
