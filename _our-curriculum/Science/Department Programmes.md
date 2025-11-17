@@ -108,20 +108,15 @@ will further enhance our pupils’ learning experience as Young Scientist.</p>
 </div>
 <p><strong>(3)&nbsp;E2K Science integration in regular Science curriculum lessons</strong>
 <br>At West View Primary School, we believe in nurturing every student to
-their full potential. This year, we piloted the integration of Excellence
-2000 (E2K) Science program into our regular Science curriculum lessons
-for our Primary 4 high-ability learners.</p>
-<p>With the E2K Science Program, we stretch and challenge our high-ability
-learners through inquiry-based, hands-on experiences that ignite curiosity
-and foster a deeper understanding of scientific concepts. Under the guidance
-of our E2K Science-trained teachers, students participate in learning experiences
-designed to nurture a love for science by allowing them to ask questions,
-design experiments, and develop their own hypotheses. Moving forward, the
-department have put in place structured plans to continue the integration
-of E2K Science pedagogies into our Primary 5 Science curriculum. By integrating
-the E2K Science pedagogies into our curriculum, we reaffirm our dedication
-to differentiated learning and the belief that every student can experience
-success when given the right opportunities.</p>
+their full potential. Excellence 2000 (E2K) Science program will be part
+of the DA VINCI programme offered by the school. With the E2K Science Program,
+we stretch and challenge our high-ability learners through inquiry-based,
+hands-on experiences that ignite curiosity and foster a deeper understanding
+of scientific concepts. Under the guidance of our E2K Science-trained teachers,
+students participate in learning experiences designed to nurture a love
+for science by allowing them to ask questions, design experiments, and
+develop their own hypotheses. Please click <a href="/uniquely-us/da-vinci/" rel="noopener nofollow" target="_blank">here</a> for more information on DA VINCI
+programme.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
