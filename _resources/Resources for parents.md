@@ -6,7 +6,7 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Resources for parents/Parent_s_Handbook_2026.pdf" rel="noopener nofollow" target="_blank">Parent's Handbook 2026</a>
+<p><a href="/files/Resources for parents/Parent_s_Handbook_2026.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2026 Resources</a>
 </p>
 </li>
 <li>
