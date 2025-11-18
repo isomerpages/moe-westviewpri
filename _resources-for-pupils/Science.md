@@ -16,14 +16,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Global warming and its effects</u>
-<br>
+<p><strong>•&nbsp;<u>Global warming and its effects</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -75,9 +69,6 @@ your part to save the Earth through many fun-filled interactive activities!</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -86,14 +77,8 @@ your part to save the Earth through many fun-filled interactive activities!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Recycling food waste &amp; food composting</u>
-<br>
+<p><strong>•&nbsp;<u>Recycling food waste &amp; food composting</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -118,17 +103,12 @@ the interactive activities.</p>
 <td rowspan="4" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.recyclenow.com/recycling-knowledge/how-is-it-recycled/food-waste" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.recyclenow.com/recycling-knowledge/how-is-it-recycled/food-waste</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://www.turtlediary.com/game/recycling-waste.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.turtlediary.com/game/recycling-waste.html</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm</u></a></em>
@@ -143,9 +123,6 @@ the interactive activities.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -154,9 +131,8 @@ the interactive activities.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Recycling plastics &amp; papers</u>
+<p>•<strong>&nbsp;<u>Recycling plastics &amp; papers</u></strong>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -224,14 +200,8 @@ quizzes and more!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Find out the different types of animals and their interesting facts.</u>
-<br>
+<p>•<strong>&nbsp;<u>Find out the different types of animals and their interesting facts.</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -249,11 +219,8 @@ quizzes and more!</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Interactive activities for you to try and find out more about the animals
-you love!</p>
-<p>
-<br>
-</p>
-<p>Take a virtual tour through the exhibitions and engage in interactive
+you love!
+<br>Take a virtual tour through the exhibitions and engage in interactive
 activities.</p>
 </td>
 </tr>
@@ -285,17 +252,12 @@ activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://classroommagazines.scholastic.com/support/learnathome/grades-prek-k.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://classroommagazines.scholastic.com/support/learnathome/grades-prek-k.html</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://neal.fun/deep-sea/" rel="noopener noreferrer nofollow" target="_blank"><u>https://neal.fun/deep-sea/</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <p><strong>Animal Conservation</strong>
@@ -308,14 +270,8 @@ activities.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Find out which animals are endangered and how you can play a part in saving them.</u>
-<br>
+<p><strong>•&nbsp;<u>Find out which animals are endangered and how you can play a part in saving them.</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -335,29 +291,19 @@ animals and how you can play a part in saving these animals!</p>
 <td rowspan="4" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.mandai.com/en/mandai.html" rel="noopener noreferrer nofollow" target="_blank">https://www.mandai.com/en/mandai.html</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://www.wartgames.com/themes/animals/endangered.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wartgames.com/themes/animals/endangered.html</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="http://www.gamesforchange.org/studentchallenge/la/endangered-species/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.gamesforchange.org/studentchallenge/la/endangered-species/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://www.worldwildlife.org/pages/animal-trivia-games" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.worldwildlife.org/pages/animal-trivia-games</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <h2>Learning resources for Primary 3 &amp; 4</h2>
@@ -372,14 +318,8 @@ animals and how you can play a part in saving these animals!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Characteristics of living things</u>
-<br>
+<p><strong>•&nbsp;<u>Characteristics of living things</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -440,7 +380,6 @@ of living things.</p>
 <tr>
 <th rowspan="1" colspan="2">
 <p><u>• Groups of animals</u>
-<br>
 </p>
 </th>
 </tr>
@@ -481,8 +420,7 @@ of living things.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Plant and fungi</u>
-<br>
+<p><strong>•&nbsp;<u>Plant and fungi</u><br></strong>
 </p>
 </td>
 </tr>
@@ -509,8 +447,6 @@ of plants and fungi.</p>
 <p>Resources:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=FbrjnHm-Cnl&amp;t=17s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=FbrjnHm-Cnl&amp;t=17s</a>
-</p>
 <p><a href="https://www.youtube.com/watch?v=dBCuPFwZ8Sc" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=dBCuPFwZ8Sc</a>
 </p>
 <p><a href="https://www.youtube.com/watch?v=JZjzQhFG6Ec&amp;t=127s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=JZjzQhFG6Ec&amp;t=127s</a>
@@ -529,14 +465,8 @@ of plants and fungi.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Properties of materials</u>
-<br>
+<p><strong>•&nbsp;<u>Properties of materials</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -576,35 +506,6 @@ you experiment with a variety of objects.</p>
 </tbody>
 </table>
 <h5><strong>Theme: Systems</strong></h5>
-<p><strong>Human System</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Parts of the digestive system</u>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 374px;" height="auto" width="100%" alt="Digestive.jpg" src="/images/Digestive.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Match the labels to the correct parts of the digestive system.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Plant System</strong>
 </p>
 <table style="minWidth: 50px">
@@ -615,8 +516,7 @@ you experiment with a variety of objects.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Parts and function of a plant</u>
-<br>
+<p>•<strong>&nbsp;<u>Parts and function of a plant</u></strong>
 </p>
 </td>
 </tr>
@@ -644,7 +544,7 @@ a plant and their functions.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong><u>Theme: Interactions</u></strong></h5>
+<h5><strong>Theme: Interactions</strong></h5>
 <p><strong>Interactions with magnets</strong>
 </p>
 <table style="minWidth: 50px">
@@ -655,8 +555,7 @@ a plant and their functions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Magnetic materials &amp; Attraction and Repulsion</u>
-<br>
+<p>•&nbsp;<strong><u>Magnetic materials &amp; Attraction and Repulsion</u></strong>
 </p>
 </td>
 </tr>
@@ -700,8 +599,7 @@ a plant and their functions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Life cycles of plants and animals</u>
-<br>
+<p><strong>•&nbsp;<u>Life cycles of plants and animals</u></strong>
 </p>
 </td>
 </tr>
@@ -727,17 +625,12 @@ and animals.</p>
 <td rowspan="7" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/animals-and-nature/amphibians/life-cycle-frog/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/animals-and-nature/amphibians/life-cycle-frog/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://www.pbslearningmedia.org/resource/nat36-int-butterflylifecycle/butterfly-life-cycle/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/resource/nat36-int-butterflylifecycle/butterfly-life-cycle/</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.westernpest.com/blog/cockroach-life-cycle/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.westernpest.com/blog/cockroach-life-cycle/</u></a></em>
@@ -745,17 +638,12 @@ and animals.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://pklifescience.com/article/547/1/important-birds" rel="noopener noreferrer nofollow" target="_blank"><u>https://pklifescience.com/article/547/1/important-birds</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://mealwormcare.org/life-cycle/" rel="noopener noreferrer nofollow" target="_blank"><u>https://mealwormcare.org/life-cycle/</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.epa.gov/mosquitocontrol/mosquito-life-cycle" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.epa.gov/mosquitocontrol/mosquito-life-cycle</u></a></em>
@@ -780,8 +668,7 @@ and animals.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Properties of matter</u>
-<br>
+<p><strong>•&nbsp;<u>Properties of matter</u></strong>
 </p>
 </td>
 </tr>
@@ -808,17 +695,12 @@ states.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://www.youtube.com/watch?v=npv74D2MO6Q" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=npv74D2MO6Q</u></a></em>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/science/solids-liquids-and-gases/what-is-matter/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/science/solids-liquids-and-gases/what-is-matter/</u></a></em>
-</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <h5><strong>Theme: Energy</strong></h5>
@@ -832,8 +714,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>What is energy?</u>
-<br>
+<p><strong>•&nbsp;<u>What is energy?</u></strong>
 </p>
 </td>
 </tr>
@@ -870,8 +751,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Heat and temperature</u>
-<br>
+<p><strong>•&nbsp;<u>Heat and temperature</u></strong>
 </p>
 </td>
 </tr>
@@ -891,17 +771,12 @@ states.</p>
 <td rowspan="5" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/science/heat/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/science/heat/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://k8schoollessons.com/conductors-and-insulators/" rel="noopener noreferrer nofollow" target="_blank"><u>https://k8schoollessons.com/conductors-and-insulators/</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.coolkidfacts.com/heat/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.coolkidfacts.com/heat/</u></a></em>
@@ -932,8 +807,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>What is light energy?</u>
-<br>
+<p>•&nbsp;<strong><u>What is light energy?</u></strong>
 </p>
 </td>
 </tr>
@@ -953,17 +827,12 @@ states.</p>
 <td rowspan="3" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/science/light/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/science/light/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://kids.nationalgeographic.com/explore/space/sun/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/space/sun/</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://kids.nationalgeographic.com/explore/space/light-pollution/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/explore/space/light-pollution/</u></a></em>
@@ -983,8 +852,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Formation, shapes and sizes of shadows</u>
-<br>
+<p>•<strong>&nbsp;<u>Formation, shapes and sizes of shadows</u></strong>
 </p>
 </td>
 </tr>
@@ -1010,34 +878,16 @@ states.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.edumedia-sciences.com/en/node/72-the-shadows" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.edumedia-sciences.com/en/node/72-the-shadows</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p><em><a href="https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pbslearningmedia.org/resource/buack2-sci-shadowshapes/shadow-shapes/</u></a></em>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/space/solar-system/eclipse-moon/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/space/solar-system/eclipse-moon/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.dkfindout.com/us/video/space/what-is-total-solar-eclipse/</u></a></em>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1046,8 +896,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Different shapes and sizes of shadows (application)</u>
-<br>
+<p><strong>•&nbsp;<u>Different shapes and sizes of shadows (application)</u></strong>
 </p>
 </td>
 </tr>
@@ -1104,8 +953,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Plants reproduction</u>
-<br>
+<p><strong>•&nbsp;<u>Plants reproduction</u></strong>
 </p>
 </td>
 </tr>
@@ -1118,19 +966,10 @@ states.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Watch these videos to find out:</p>
-<p>
-<br>
-</p>
-<p>- how flowering plants reproduce.</p>
-<p>
-<br>
-</p>
-<p>- how important animals are to the pollination of plants.</p>
-<p>
-<br>
-</p>
-<p>- how seeds germinate into seedlings.</p>
+<p>Watch these videos to find out:
+<br>- how flowering plants reproduce.
+<br>- how important animals are to the pollination of plants.
+<br>- how seeds germinate into seedlings.</p>
 </td>
 </tr>
 <tr>
@@ -1173,17 +1012,12 @@ states.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=HP21hIVJhWI&amp;t=67s</u></a></em>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=CYuNY21dY3E" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=CYuNY21dY3E</u></a></em>
-</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <p><strong>Cycles in matter and water</strong>
@@ -1196,9 +1030,7 @@ states.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Properties of water</u>
-<br>•&nbsp;<u>Importance of water as a resource</u>
-<br>
+<p>•&nbsp;<strong><u>Properties of water</u><br>•&nbsp;<u>Importance of water as a resource</u></strong>
 </p>
 </td>
 </tr>
@@ -1262,47 +1094,7 @@ of water as a resource and its journey since the formation of earth.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Human reproductive system</u>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 281px;" height="auto" width="100%" alt="reproductivesystem1.jpg" src="/images/reproductivesystem1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Watch this video to view the process of human reproduction.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=sUkrsCyHTlM" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=sUkrsCyHTlM</u></a></em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Human circulatory and respiratory systems</u>
-<br>
+<p>•&nbsp;<strong><u>Human circulatory and respiratory systems</u></strong>
 </p>
 </td>
 </tr>
@@ -1381,8 +1173,7 @@ us carry out daily functions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Plant transport system</u>
-<br>
+<p><strong>•&nbsp;<u>Plant transport system</u></strong>
 </p>
 </td>
 </tr>
@@ -1457,74 +1248,6 @@ help the plant carry out life processes.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Cell System</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Parts and functions of cells</u>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 291px;" height="auto" width="100%" alt="cells.gif" src="/images/cells.gif">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Explore the evolution of cells and how they divided into two types of
-cells - plant and animal cells.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.sciencekids.co.nz/videos/biology/bacteria.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/videos/biology/bacteria.html</u></a></em>
-</p>
-<p><em>(Bacteria cells)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=9UvlqAVCoqY" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=9UvlqAVCoqY</u></a></em>
-</p>
-<p><em>(Plant cells)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.youtube.com/watch?v=cj8dDTHGJBY" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=cj8dDTHGJBY</u></a></em>
-</p>
-<p><em>(Animal cells)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.ducksters.com/science/the_cell.php" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ducksters.com/science/the_cell.php</u></a></em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Electrical System</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1535,8 +1258,7 @@ cells - plant and animal cells.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Electrical circuits</u>
-<br>
+<p><strong>•&nbsp;<u>Electrical circuits</u></strong>
 </p>
 </td>
 </tr>
@@ -1605,8 +1327,7 @@ cells - plant and animal cells.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Introduction to different types of energy</u>
-<br>
+<p>•&nbsp;<strong><u>Introduction to different types of energy</u></strong>
 </p>
 </td>
 </tr>
@@ -1644,8 +1365,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Let's explore energy</u>
-<br>
+<p><strong>•&nbsp;<u>Let's explore energy</u></strong>
 </p>
 </td>
 </tr>
@@ -1678,9 +1398,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1689,8 +1406,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Energy in the World</u>
-<br>
+<p><strong>•&nbsp;<u>Energy in the World</u></strong>
 </p>
 </td>
 </tr>
@@ -1717,9 +1433,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1728,8 +1441,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;Energy forms and conversion
-<br>
+<p><strong><u>•&nbsp;Energy forms and conversion</u></strong>
 </p>
 </td>
 </tr>
@@ -1757,9 +1469,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1768,8 +1477,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Energy Conversion</u>
-<br>
+<p>•<strong>&nbsp;<u>Energy Conversion</u></strong>
 </p>
 </td>
 </tr>
@@ -1793,7 +1501,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Let’s explore forces</u>
+<p><strong>•&nbsp;<u>Let’s explore forces</u></strong>
 </p>
 </td>
 </tr>
@@ -1826,9 +1534,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1837,7 +1542,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Forces in the world</u>
+<p><strong>•&nbsp;<u>Forces in the world</u></strong>
 </p>
 </td>
 </tr>
@@ -1864,9 +1569,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1875,7 +1577,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Types of forces</u>
+<p><strong>•&nbsp;<u>Types of forces</u></strong>
 </p>
 </td>
 </tr>
@@ -1918,7 +1620,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Types of habitats</u>
+<p><strong>•&nbsp;<u>Types of habitats</u></strong>
 </p>
 </td>
 </tr>
@@ -1957,9 +1659,6 @@ lives.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1968,7 +1667,7 @@ lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Interdependency between the animals</u>
+<p>•<strong>&nbsp;<u>Interdependency between the animals</u></strong>
 </p>
 </td>
 </tr>
@@ -1990,22 +1689,14 @@ the animals</p>
 <td rowspan="2" colspan="1">
 <p>Resources:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.animalplanet.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.animalplanet.com/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><em><a href="https://mab.wrs.com.sg/login.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://mab.wrs.com.sg/login.html</u></a></em>
 </p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2014,7 +1705,7 @@ the animals</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Food chains and food web</u>
+<p>•<strong>&nbsp;<u>Food chains and food web</u></strong>
 </p>
 </td>
 </tr>
@@ -2041,9 +1732,6 @@ the animals</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2052,7 +1740,7 @@ the animals</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Adaptation of animals and plants</u>
+<p><strong>•&nbsp;<u>Adaptation of animals and plants</u></strong>
 <br>
 </p>
 </td>
@@ -2105,9 +1793,6 @@ and plants</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2116,7 +1801,7 @@ and plants</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;<u>Man’s impact on the environment</u>
+<p><strong>•&nbsp;<u>Man’s impact on the environment</u></strong>
 </p>
 </td>
 </tr>

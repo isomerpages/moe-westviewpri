@@ -6,22 +6,16 @@ third_nav_title: Science
 variant: tiptap
 ---
 <p><strong>Vision</strong>
-</p>
-<p>Pupils with inquiring minds</p>
+<br>Pupils with inquiring minds</p>
 <p><strong>Mission</strong>
-</p>
-<p>To provide pupils with experiences which build on their interest in and
+<br>To provide pupils with experiences which build on their interest in and
 stimulate their curiosity about their environment.</p>
-<p><strong>Message from HOD Science &amp; ALP</strong> 
-<br><strong>Mdm Efizah Samat</strong> 
-<br><em>"I believe that the way to learn Science is to engage the curious minds among our children in their quest for continuous learning. In this school, we provide our pupils with the experiences which stimulate their curiosity about the things around and their environment and build on their interest. As children investigate and explore, they will question and wonder, and through discovery, they learn."</em>
+<p><strong>Message from HOD Science &amp; ALP&nbsp;</strong>
+<br><strong>Mr Jonathan Lo&nbsp;</strong>
+<br>
+<br><em>“I believe Science education is more than acquiring facts — it is about nurturing curiosity and developing the ability to think critically about the world around us. At West View Primary, I seek to provide learning experiences that help students see the relevance of Science in their daily lives and appreciate how it shapes our future.</em>
 </p>
-<p><strong>Message from LH/ Science<br>Mr Ho Yeow Lin Peter</strong> 
-<br><em>"'The science of today is the technology of tomorrow.'" Edward Teller</em>
-</p>
-<p><em>Through Science education, I believe that pupils will develop the scientific habits of mind and use scientific inquiry to explore new things.</em>
-</p>
-<p><em>When pupils are curious and question about the things around them, they learn to tackle unfamiliar situations effectively, gather evidence independently and generate their own conclusions and explanations. Through such experiences and over time, they will become the problem solvers of the future."</em>
+<p><em>By engaging in inquiry and applying scientific thinking, students learn to reason with evidence, make informed decisions, and use their knowledge responsibly. My hope is to inspire every child to view Science not just as a subject, but as a way of understanding, questioning, and improving the world we live in.”</em>
 </p>
 <p><strong>Science Curriculum</strong>
 </p>
