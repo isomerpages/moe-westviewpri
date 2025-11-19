@@ -62,10 +62,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.healthhub.sg/well-being-and-lifestyle/personal-care/health_screening_for_primary_school" rel="noopener noreferrer nofollow" target="_blank"><u>Health Screening for Primary School</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener noreferrer nofollow" target="_blank">School Dental Services &amp; School Bus JK59 information</a>
 </p>
 </li>
