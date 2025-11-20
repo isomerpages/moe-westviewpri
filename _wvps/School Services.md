@@ -103,8 +103,9 @@ students on buses and the size of school bus etc.
 <td rowspan="1" colspan="1">
 <p><strong>Pacific Bookstores</strong>
 <br>
-<br><strong>Tel:</strong> 6559 2269
+<br><strong>Tel:</strong> 9091 9583
 <br><strong>Website:</strong>  <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
+<br><strong>Email: </strong><a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 <br><strong>Operating Hours:</strong> 8.00 a.m. to 3.00 p.m.
 <br><strong>Lunch Break:</strong> 12.30 p.m. to 1.30 p.m.</p>
 <p>*Parents who wish to purchase stationery or school uniform are allowed
