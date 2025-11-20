@@ -54,7 +54,8 @@ description: ""
 </p>
 </li>
 <li>
-<p>P1 Textbooks and Uniform (Walk-In Purchases: Opening Schedule)</p>
+<p><a href="/files/Resources for parents/P1_Textbooks_and_Uniform___Opening_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Textbooks and Uniform (Walk-In Purchases: Opening Schedule)</a>
+</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/setup-moe-egiro" rel="noopener noreferrer nofollow" target="_blank">Application for&nbsp;eGIRO</a>
@@ -77,7 +78,8 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Application for School Bus</p>
+<p><a href="/files/Resources for parents/Application_for_School_Bus.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for School Bus</a>
+</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/digitalaccessathomescheme" rel="noopener noreferrer nofollow" target="_blank">Application for Digital Device​</a>
