@@ -10,11 +10,11 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Resources for parents/Parent_s_Handbook_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Parents Handbook 2026</a>
+<p><a href="/files/Resources for parents/2026_P1_Admin_Day_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Administration Day</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Resources for parents/P1_2026_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2026</a>
+<p><a href="/files/Resources for parents/Parent_s_Handbook_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Parents Handbook 2026</a>
 </p>
 </li>
 <li>
@@ -42,55 +42,61 @@ description: ""
 </p>
 </li>
 </ul>
-<p><strong><u>Links:</u></strong>
+<p><strong><u>Links (Mandatory):</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collecting Pupil Data via Student Details Form (SDF)Portal​</u></a>
+<p><a href="/files/Resources for parents/P1_2026_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/digitalaccessathomescheme" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Digital Device​</u></a>
+<p><a href="https://www.pacificbookstores.com/#purchase" rel="noopener noreferrer nofollow" target="_blank">Online Ordering of Textbooks and Uniform</a>
 </p>
 </li>
 <li>
-<p><a href="https://linktr.ee/bigheartscc" rel="noopener noreferrer nofollow" target="_blank"><u>Big Heart Student Care</u></a>
+<p>P1 Textbooks and Uniform (Walk-In Purchases: Opening Schedule)</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/setup-moe-egiro" rel="noopener noreferrer nofollow" target="_blank">Application for&nbsp;eGIRO</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Financial Assistance Application Form for 2026 [GGAS]</u></a>
+<p><a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Submission of Edusave&nbsp; Standing Order (Only applicable for Singapore Citizens)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener noreferrer nofollow" target="_blank">School Dental Services &amp; School Bus JK59 information</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Submission of Student Detail Form</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.pacificbookstores.com/#purchase" rel="noopener noreferrer nofollow" target="_blank">Online order of school Textbooks and Uniform</a>
+<p><a href="https://sites.google.com/view/amiboxschool/guides-to-amiapp" rel="noopener noreferrer nofollow" target="_blank">Instructions on how to pair AMI Card with AMIAPP School app</a>
 </p>
 </li>
 </ul>
-<p><strong><u>eGiro:</u></strong>
+<p><strong><u>Links (if Required):</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/setup-moe-egiro" rel="noopener noreferrer nofollow" target="_blank"><u>Application for&nbsp;eGIRO</u></a>
+<p>Application for School Bus</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/digitalaccessathomescheme" rel="noopener noreferrer nofollow" target="_blank">Application for Digital Device​</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.mahabodhi.moe.edu.sg/files/MOEEGIROUSERGUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>User guide for eGIRO application</u></a>
-</p>
-</li>
-</ul>
-<p><strong><u>Edusave:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank"><u>Submission of Edusave&nbsp;Standing Order​</u></a>
+<p><a href="https://bigheart.cyberland.sg/interest.php" rel="noopener noreferrer nofollow" target="_blank">Application for Student Care Centre</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" rel="noopener noreferrer nofollow" target="_blank"><u>More information on Edusave Account: Usage of funds</u></a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">Application for MOE-FAS</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mahabodhi.moe.edu.sg/files/MOEEGIROUSERGUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">User guide for eGIRO application</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" rel="noopener noreferrer nofollow" target="_blank">More information on Edusave Account: Usage of funds</a>
 </p>
 </li>
 </ul>
