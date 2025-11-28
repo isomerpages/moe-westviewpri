@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Principal's Message
       id: infopic
-      description: Welcome to 2025! At West View Primary School, we inspire learning,
+      description: Welcome to 2026! At West View Primary School, we inspire learning,
         nurture TALENT values, and build home-school bonds for a meaningful,
         memorable year ahead!
       button: Read the Full Message
