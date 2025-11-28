@@ -251,7 +251,8 @@ work.</p>
 <br>
 </p>
 <h2>CCA Model Pupil</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Model Pupil/Slide2.png">
 </div>
 <p></p>
