@@ -118,6 +118,6 @@ Bin the Pins</p>
 <h2>CCA Model Pupil</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Model Pupil/Slide1.png">
 </div>
 <p></p>
