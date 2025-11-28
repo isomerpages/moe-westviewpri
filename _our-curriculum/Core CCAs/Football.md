@@ -29,7 +29,7 @@ may take with them through life.</p>
 <h2>CCA Model Pupil</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Model Pupil/Slide5.png">
 </div>
 <p><strong>Will you become our next Football CCA Model Pupil?</strong>
 </p>
