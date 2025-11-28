@@ -89,7 +89,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p><strong><a href="https://westviewpri.moe.edu.sg/our-pride/achievements/cca/2025/" rel="noopener nofollow" target="_blank">2025</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
