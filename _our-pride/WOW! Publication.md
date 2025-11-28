@@ -11,17 +11,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WOW__Publication_2025.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1lK1XgelmvnzlPhi4RaZELPkUhqELYvWu/view?usp=sharing"><img style="width: 88%;" height="auto" width="100%" alt="" src="/images/WOW_2024.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1qVvZEPT82EtC-x_tN16Ema0vCZobse2b/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="WoW 2023" src="/images/WoW_2023_cover.png"></a>
