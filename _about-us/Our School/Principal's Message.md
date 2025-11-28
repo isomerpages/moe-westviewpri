@@ -16,7 +16,6 @@ new Primary 1 pupils and families, we are delighted to welcome you into
 the West View family. Starting primary school is a significant milestone,
 and we are honoured to partner you in this journey of growth, discovery,
 and joy for your child.</p>
-<p>&nbsp;</p>
 <p>At West View, our vision of nurturing <strong>Passionate Learners and Confident Leaders</strong> is
 brought to life through purposeful and well-designed experiences that help
 every child discover their strengths and grow with joy. To develop <strong>passionate learners</strong>,
