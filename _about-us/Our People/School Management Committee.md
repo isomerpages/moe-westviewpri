@@ -95,17 +95,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_lin_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stanley Koh Lin Kai</a>
+<p><a href="mailto:kao_horng_yih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kao Horng Yih</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Science &amp; ALP</strong>
+<p><strong>HOD Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:lo_zhi_hui_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lo Zhi Hui Jonathan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -211,27 +212,45 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_yeow_lin_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Yeow Peter</a>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH/ English Language (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:see_kian_leong_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr See Kian Leong Jeremy</a> &nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH/ Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cai_xingyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xingyi</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH/ Mathematics (Covering)</strong>
+<p><strong>LH/ Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cai_xingyi@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cai Xingyi</a>
+<p><a href="mailto:Chan_wai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chan Wai Ling</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH/ Chinese Language (Covering)</strong>
+<p><strong>LH/ MK</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chan_wai_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Wai Ling</a>
+<p><a href="mailto:nurfara_pawzi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfara Pawzi</a>
 </p>
 </td>
 </tr>
