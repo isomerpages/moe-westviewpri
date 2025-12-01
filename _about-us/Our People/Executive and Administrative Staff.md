@@ -38,16 +38,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hamzah_abas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hamzah Abas</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operations Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:tng_yew_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tng Yew Li</a>
 </p>
 </td>
@@ -136,15 +126,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Ai Moi Poveneswary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Lay Choo</p>
 </td>
 </tr>
@@ -163,7 +144,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Amalina_Sukimin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Amalina Musfirah (Lina)</a>
+<p><a href="mailto:Amalina_Sukimin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Amalina (Lina)</a>
 </p>
 </td>
 </tr>
