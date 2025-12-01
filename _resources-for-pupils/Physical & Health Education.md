@@ -553,10 +553,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </p>
 </li>
 <li>
-<p><a href="https://activeparents.myactivesg.com/apkits" rel="noopener noreferrer nofollow" target="_blank"><u>ActiveParent Kit Video</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://cdn2.hubspot.net/hubfs/6212555/Active%20Parents/images/starter%20kit/My%20Active%20Parents%20Kit%202020.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ActiveParent Kit</u></a>
 </p>
 </li>
