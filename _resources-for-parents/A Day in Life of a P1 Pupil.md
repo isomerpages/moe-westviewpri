@@ -10,6 +10,6 @@ description: ""
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC-xq8hvj_daqgqhuwyvetIJYYrsPaszPKBTmCwthaSJ2SszZeqzqhWbEpErqGT3OxhwCOkeUPESDL/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC-xq8hvj_daqgqhuwyvetIJYYrsPaszPKBTmCwthaSJ2SszZeqzqhWbEpErqGT3OxhwCOkeUPESDL/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
