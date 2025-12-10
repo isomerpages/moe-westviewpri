@@ -14,5 +14,6 @@ description: ""
 <br><a href="/files/Resources for parents/Central_Kitchen_Meal_Model__CKMM____Parent_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">iv: Parents FAQs</a>
 <br><a href="https://sites.google.com/view/amiboxschool/guides-to-amiapp" rel="noopener noreferrer nofollow" target="_blank">v: Guides to AMIAPP</a>
 <br><a href="https://sites.google.com/view/amiboxschool/faq" rel="noopener noreferrer nofollow" target="_blank">vi: AMIBOX School FAQs</a>
+<br><a href="https://sites.google.com/view/amiboxschool/faq" rel="noopener noreferrer nofollow" target="_blank">vii: AMIBOX School FAQs</a>
 </p>
 <p></p>
