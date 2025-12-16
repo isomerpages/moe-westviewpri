@@ -10,7 +10,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Resources for parents/2026_P1_Admin_Day_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Administration Day</a>
+<p><a href="/files/2026_P1_Admin_Day_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Administration Day</a>
 </p>
 </li>
 <li>
