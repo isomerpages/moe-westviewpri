@@ -58,8 +58,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/files/Resources for parents/P1_Textbooks_and_Uniform___Opening_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Textbooks and Uniform (Walk-In</a>
-<a href="/files/Resources for parents/P1_Textbooks_and_Uniform___Opening_Schedule.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Resources for parents/P1_Textbooks_and_Uniform___Opening_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank"> Purchases: Opening Schedule)</a>
+<p><a href="/files/Resources for parents/P1_Textbooks_and_Uniform___Opening_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Textbooks and Uniform (Walk-In Purchases: Opening Schedule)</a>
 </p>
 </li>
 <li>
