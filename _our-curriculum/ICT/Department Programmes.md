@@ -35,8 +35,10 @@ and fostering a supportive online community.</p>
 <p>Through these initiatives, we encourage students to be proactive in promoting
 a safe and inclusive online environment, empowering them to support one
 another and take a stand against cyberbullying.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -44,36 +46,41 @@ another and take a stand against cyberbullying.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image002.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image005.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image003.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image005.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image004.jpg">
 </div>
-</td>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image007.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+</th>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image006.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image004.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image007.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image002.jpg">
 </div>
 </td>
 </tr>
