@@ -20,7 +20,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="/our-pride/achievements/academics/2025/" rel="noopener nofollow" target="_blank">2025</a>
+</p>
 </th>
 </tr>
 <tr>
