@@ -546,18 +546,12 @@ you when using dangerous items such as knives and electrical appliances.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://activeparents.myactivesg.com/parent-child-exercises" rel="noopener noreferrer nofollow" target="_blank"><u>Resources from Active SG</u></a>
 </p>
 </li>
-<li>
-<p><a href="https://cdn2.hubspot.net/hubfs/6212555/Active%20Parents/images/starter%20kit/My%20Active%20Parents%20Kit%202020.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ActiveParent Kit</u></a>
-</p>
-</li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
