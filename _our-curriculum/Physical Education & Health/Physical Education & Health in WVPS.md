@@ -12,16 +12,18 @@ a healthy lifestyle</p>
 <br>To deliver quality and enjoyable PE lessons, anchored with values</p>
 <p><strong>Message from HOD Physical Education &amp; Co-Curricular Activities</strong> 
 <br><strong>Mr Tan Leng Khoon</strong> 
-<br><em>“I firmly believe that well-structured Physical Education (PE) and Co-curriculum are essential in helping students cultivate a diverse range of soft skills and core values. These qualities are pivotal for their success in life. I envision the students of West View Primary as active, health-conscious individuals, who not only embrace a healthy lifestyle but are also passionate about their pursuits and confident in their ability to lead and inspire others.”</em>
+<br><em>“I firmly believe that well-structured Physical Education (PE) and co-curricular programmes play a vital role in nurturing students’ soft skills and core values. These attributes are essential in preparing them for success beyond the classroom. I envision the students of West View Primary as active and health-conscious individuals who embrace a healthy lifestyle, pursue their interests with passion, and demonstrate the confidence to lead and inspire others.”</em>
 </p>
-<p><strong>Curriculum Framework &amp; Description<br></strong>Our PE curriculum
-offers a diverse range of movement experiences designed to nurture the
-holistic development of our students. By focusing on fundamental motor
-skills and core values, we lay a solid foundation for learning, active
-participation, and the enjoyment of various physical activities and sports.
-As pupils refine their movements, they gain confidence in their abilities,
-becoming more efficient, effective, and versatile. This progression not
-only strengthens their motor skills but also encourages a lifelong commitment
-to active, healthy living.</p>
+<p><strong>Curriculum Framework &amp; Description<br></strong>Our Physical
+Education curriculum provides purposeful and progressive movement experiences
+that support the holistic development of our students. Anchored in the
+development of fundamental motor skills and school values and emerging
+21<sup>st</sup> century competencies such as collaboration, communication
+and adaptiveness, the curriculum lays a strong foundation for active participation
+and enjoyment in physical activities and sports. As pupils refine their
+movement skills through structured learning experiences, they develop confidence,
+adaptability, and self-management. This progression not only enhances their
+physical competence but also cultivates positive dispositions towards lifelong
+participation in physical activity and healthy living.</p>
 <p></p>
 <p></p>

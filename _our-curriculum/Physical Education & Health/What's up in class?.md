@@ -107,8 +107,8 @@ Neighbourhood Learning Journey and P5 Outdoor Adventure Camp.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSI3PAf2E0Vg8ASKD7eivsw5urTqNltzwB8ELbhPBbh0gHX-aqS2Xr1wb4Q96EtN1XOinBQaey9RVNx/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>(3) Physical Health and Fitness</h4>
-<p>Physical Health and Fitness stimulates pupils’ interest in physical activity
+<h4>(3) Physical Health and Safety</h4>
+<p>Physical Health and Safety stimulates pupils’ interest in physical activity
 as meaningful connections between health and safety concepts. Practical
 applications are made through experiential learning.</p>
 <div class="iframe-wrapper">
