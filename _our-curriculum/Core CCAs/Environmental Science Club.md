@@ -23,9 +23,11 @@ our planet.</p>
 <p>Join us as we make West View Primary School greener and more sustainable,
 one step at a time!</p>
 <h2>Teachers-in-Charge</h2>
-<p>Mr A R Balamurugan (IC)</p>
-<p>Ms Thilagaletchumi (2IC)</p>
-<p>Ms Jeswyn Sara</p>
+<p>Mr Bala (IC)
+<br>Mrs Warren (2IC)
+<br>Mdm Jeswyn Sara
+<br>Ms Yeow Su Shan
+<br>Mdm Madinah</p>
 <h2>Achievements</h2>
 <p><strong>Look out for updates here!</strong>
 </p>

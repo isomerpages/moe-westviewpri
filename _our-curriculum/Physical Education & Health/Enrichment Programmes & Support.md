@@ -6,10 +6,12 @@ third_nav_title: Physical Education & Health
 variant: tiptap
 ---
 <h2>Active Kids Programme (AKP)</h2>
-<p>Through the Active Kids Programme (AKP), a partnership with Health Promotion
-Board (HPB), pupils learn practical tips and skills to make healthier food
-choices and engage in active games and sports. AKP seeks to provide pupils
-with hands-on and active learning experience.</p>
+<p>Through the Active Kids Programme (AKP), pupils acquire practical knowledge
+and skills to make healthier food choices while actively participating
+in games and sports. Facilitated by our PE teachers, AKP provides pupils
+with hands-on, experiential learning opportunities that promote active
+engagement, reinforce positive lifestyle habits, and encourage the development
+of self-management and responsible decision-making skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_24_at_11_34_17_AM__1_.jpg">
 </div>

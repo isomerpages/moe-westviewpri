@@ -18,12 +18,11 @@ necessary in any situation that comes along. This is in line with our Scout’
 motto of “Be Prepared”. instill sportsmanship and camaraderie. They also
 participate in outreach to the community.</p>
 <h2>Teachers-in-Charge</h2>
-<p>Mdm Normanisha (Overall-in-charge)
-<br>Mr Uresh Kandasamy (Second-in-charge)
-<br>Mdm Nurhazlinda
-<br>Mdm Silviya
-<br>Ms Deepa Thangamani
-<br>Mr Ang Eng Chuan</p>
+<p>Mr Uresh Kandasamy (IC)
+<br>Nurhazlinda (2IC)
+<br>Gail Ng
+<br>Ms Veevashine
+<br>Ms Nur Shabrina</p>
 <h2>Achievements</h2>
 <table style="minWidth: 50px">
 <colgroup>
