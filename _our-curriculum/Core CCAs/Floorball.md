@@ -120,9 +120,7 @@ Division)</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlczc9gKOcEP_FpDWWGQFqzA-I21DhUMOyw0ljw_7IIxkB4cSH41Fvu266zdhUUPAGri349zFg_igl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fbslib-8i9c"></iframe>
 </div>
