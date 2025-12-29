@@ -19,10 +19,9 @@ in performance and also allows students to showcase their talents.</p>
 <h2>Teachers-in-Charge</h2>
 <p>Ms Deviga (IC)
 <br>Mdm Zakiah (2IC)
-<br>Ms Clara Chia
+<br>Mdm Reina
 <br>Ms Michelle Khoo
-<br>Mrs Theseira Cynthia (ST)
-<br>Ong Kai Wei</p>
+<br>Ms Ong Kai Wei</p>
 <h2>Achievements</h2>
 <table style="minWidth: 50px">
 <colgroup>
