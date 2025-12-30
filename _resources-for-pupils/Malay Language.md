@@ -105,10 +105,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Compilation of Malay legend for reading practice
-<br>• Vocabulary games
-<br>• Poem reading
-<br>• Simple comprehension question to test pupils'understanding</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -192,7 +189,7 @@ by DBP</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Increase your word bank</p>
+<p>Increase your word bank</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -218,8 +215,8 @@ by DBP</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• A 'Fruit Ninja'-like game that teaches pupils pupils to learn about
-fruits from the Archipelago region.</p>
+<p>A 'Fruit Ninja'-like game that teaches pupils pupils to learn about fruits
+from the Archipelago region.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -245,7 +242,7 @@ fruits from the Archipelago region.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• For early readers, with games to suit their learning needs</p>
+<p>For early readers, with games to suit their learning needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -380,18 +377,21 @@ in a more fun and effective way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/TTS_Pintar_App_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Helps pupils to widen their vocabulary through crossword puzzle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary &nbsp;1 - 6</p>
 </td>
 </tr>
 </tbody>
@@ -429,22 +429,16 @@ in a more fun and effective way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nabil &amp; Nailah Reader Series</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nabil.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Malay Language Learning and Promotional Community has come up with
-various story books that a suitable for all levels.
-<br>
-<br><a href="http://www.mllpc.sg/publications/3" rel="noopener noreferrer nofollow" target="_blank">http://www.mllpc.sg/publications/3</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -453,7 +447,10 @@ various story books that a suitable for all levels.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Antologi Carpen 'Benih'</p>
+<p>Antologi Carpen 'Benih'
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs/</a>
+<a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/%20%20%20resources/anthology" rel="noopener noreferrer nofollow" target="_blank">&nbsp;&nbsp; resources/anthology</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -463,10 +460,7 @@ various story books that a suitable for all levels.
 <td rowspan="1" colspan="1">
 <p>Benih is a collection of short stories by teachers. This short collection
 features a variety of themes to encourage reading interest among pupils
-especially in Primary 5 and 6.
-<br>
-<br><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/anthology" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/anthology</a>
-</p>
+especially in Primary 5 and 6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 5 - 6</p>
@@ -478,7 +472,9 @@ especially in Primary 5 and 6.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cetusan</p>
+<p>Cetusan
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.mllpc.sg/assets/upload/publications/pdf/1524205222_Cetusan-FA-web.pdf</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -487,11 +483,8 @@ especially in Primary 5 and 6.
 </td>
 <td rowspan="1" colspan="1">
 <p>Nine schools in Singapore worked together to produce this magazine which
-compiles pupil's compositions, grammar notes, articles on culture, drawings
-on proverbs and tips to write a good composition.
-<br>
-<br><a href="https://www.mllpc.sg/assets/upload/publications/pdf/1524205222_Cetusan-FA-web.pdf" rel="noopener noreferrer nofollow" target="_blank">1524205222_Cetusan-FA-web.pdf</a>
-</p>
+comprises of compilation of pupil’s composition, grammar notes, articles
+on culture, drawings on proverbs and tips to write a good composition.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 1 - 6</p>
@@ -504,6 +497,8 @@ on proverbs and tips to write a good composition.
 </td>
 <td rowspan="1" colspan="1">
 <p>Pantun Anak Singapura</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ml-poetry-sg-50/sg50_pantun.pdf</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -511,10 +506,7 @@ on proverbs and tips to write a good composition.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>A compilation of Pantun by pupils from various schools in Singapore.
-<br>
-<br><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ml-poetry-sg-50/sg50_pantun.pdf" rel="noopener noreferrer nofollow" target="_blank">sg50_pantun.pdf</a>
-</p>
+<p>A compilation of Pantun by pupils from various schools in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 3 - 4</p>
@@ -526,11 +518,15 @@ on proverbs and tips to write a good composition.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Berita Harian Singapura</p>
+<p>Berita Harian Singapura
+<br>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/berita%20harian.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Resources for pupils/BH_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -642,6 +638,36 @@ and engaging app.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1 - 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nabil &amp; Nailah Reader Series
+<br><a href="http://www.mllpc.sg/publications/3" rel="noopener noreferrer nofollow" target="_blank">http://www.mllpc.sg/publications/3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nabil.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Malay Language Learning and Promotional Community has come up with
+various story books that a suitable for all levels.
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 1 - 6</p>
