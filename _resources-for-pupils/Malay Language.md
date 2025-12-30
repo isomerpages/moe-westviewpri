@@ -394,9 +394,41 @@ in a more fun and effective way.</p>
 <p>Primary &nbsp;1 - 6</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>14.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Mother Tongue Languages - Duolingo
+<br><a href="https://www.duolingo.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.duolingo.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/duolingo.png">
+</div>
+<p>
+<br>Duolingo App</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• You can learn Chinese, Malay, Tamil and other languages with this fun
+and engaging app.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✓</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✓</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1 - 6</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h2>Recommended Malay Language Reading Materials</h2>
+<h1>Stay Home Edition (Mother Tongue)</h1>
+<h4>Recommended Malay Language Reading Materials</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -429,16 +461,26 @@ in a more fun and effective way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NLB Mobile App
+<br><a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://mobileapp.nlb.gov.sg/</a>
+<br>
+<br>NLB Website
+<br><a href="http://www.nlb.gov.sg/discovereads/primary-resources/" rel="noopener noreferrer nofollow" target="_blank">http://www.nlb.gov.sg/discovereads/primary-resources/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nlb.jpeg">
+</div>
+<p>
+<br>NLB Mobile App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>• With lots of Mother Tongue books to choose from, download this app to
+meet your learning needs!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 1-6</p>
 </td>
 </tr>
 <tr>
@@ -539,110 +581,6 @@ and around the world.
 <p>Primary 3 - 6</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h2>Stay Home Edition (Mother Tongue)</h2>
-<p><strong>Recommended Apps &amp; Websites for the learning of Mother Tongue</strong>
-</p>
-<table style="minWidth: 175px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>S/N</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Icon</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>iOS</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Android</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NLB Mobile App
-<br><a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://mobileapp.nlb.gov.sg/</a>
-<br>
-<br>NLB Website
-<br><a href="http://www.nlb.gov.sg/discovereads/primary-resources/" rel="noopener noreferrer nofollow" target="_blank">http://www.nlb.gov.sg/discovereads/primary-resources/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nlb.jpeg">
-</div>
-<p>
-<br>NLB Mobile App</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• With lots of Mother Tongue books to choose from, download this app to
-meet your learning needs!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✓</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✓</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Mother Tongue Languages - Duolingo
-<br><a href="https://www.duolingo.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.duolingo.com/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/duolingo.png">
-</div>
-<p>
-<br>Duolingo App</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• You can learn Chinese, Malay, Tamil and other languages with this fun
-and engaging app.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✓</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✓</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -659,20 +597,13 @@ and engaging app.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Malay Language Learning and Promotional Community has come up with
-various story books that a suitable for all levels.
-<br>
-</p>
+various story books that a suitable for all levels.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1 - 6</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<h2></h2>
 <p></p>
