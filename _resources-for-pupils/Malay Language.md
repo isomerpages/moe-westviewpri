@@ -168,14 +168,12 @@ vocabulary
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kamus%20pro.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/kamus%20pro.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Consists of Kamus Dewan Fourth edition and Malay-English Dewan Dictionary
-by DBP
-<br>
-<br>• Includes a Malay – Chinese Dictionary</p>
+<p>Consists of Kamus Dewan Fourth edition and Malay-English Dewan Dictionary
+by DBP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -352,6 +350,35 @@ fruits from the Archipelago region.</p>
 <p>Primary 3 - 6</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>12.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pintar Bahasa Melayu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Resources for pupils/Pintar_Bahasa_Melayu_App_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interactive learning application to help children master basic Malay skills
+in a more fun and effective way.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✓</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✓</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1
+- 6</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Recommended Malay Language Reading Materials</h2>
@@ -504,7 +531,7 @@ and around the world.
 </tbody>
 </table>
 <h2>Stay Home Edition (Mother Tongue)</h2>
-<p><strong>Recommended Apps &amp; Websites for the learning of Mother Tonuge</strong>
+<p><strong>Recommended Apps &amp; Websites for the learning of Mother Tongue</strong>
 </p>
 <table style="minWidth: 175px">
 <colgroup>
