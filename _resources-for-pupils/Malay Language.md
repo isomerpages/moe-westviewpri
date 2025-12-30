@@ -4,7 +4,7 @@ permalink: /wvps/resources/resources-for-pupils/malay-language/
 description: ""
 variant: tiptap
 ---
-<h2>Recommended apps for learning</h2>
+<h2>Recommended Apps &amp; Websites for learning of Mother Tongue</h2>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -53,7 +53,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• This engaging app helps to widen their vocabulary</p>
+<p>This engaging app helps to widen their vocabulary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -79,7 +79,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Learning idioms (Peribahasa) through games</p>
+<p>Learning idioms (Peribahasa) through games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -106,12 +106,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>• Compilation of Malay legend for reading practice
-<br>
 <br>• Vocabulary games
-<br>
 <br>• Poem reading
-<br>
-<br>• Simple comprehension question to test pupils' understanding</p>
+<br>• Simple comprehension question to test pupils'understanding</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -139,14 +136,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>• Compilation of Malay legends/folklores for reading practice and to widen
 vocabulary
-<br>
-<br>• Vocabulary games
-<br>
+<br>• Vocabulary game
 <br>• Poem reading
-<br>
-<br>• Idioms (Peribahasa)
-<br>
-<br>• Simple comprehension questions to test pupils' understanding</p>
+<br>•Idiom(Peribahasa)
+<br>• Simplecomprehension questions to test pupils' understanding</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -176,7 +169,7 @@ vocabulary
 by DBP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -279,7 +272,6 @@ fruits from the Archipelago region.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• An application that scaffolds reading skills
-<br>
 <br>• Contains learning modules and games suitable for children</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -338,7 +330,7 @@ fruits from the Archipelago region.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Easy to play challenging Malay language word puzzles</p>
+<p>Easy to play challenging Malay language word puzzles</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -375,8 +367,31 @@ in a more fun and effective way.</p>
 <p>✓</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1
-- 6</p>
+<p>Primary &nbsp;1 - 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>13.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Helps pupils to widen their vocabulary through crossword puzzle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
