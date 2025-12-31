@@ -97,7 +97,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cerita Rakyat Nusantara App by MLCS</p>
+<p>Cerita Rakyat</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -105,7 +105,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nusantara App by MLCS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -583,7 +583,8 @@ and around the world.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>6.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nabil &amp; Nailah Reader Series
