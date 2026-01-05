@@ -86,8 +86,10 @@ traditions.</p>
 </table>
 <h2>Events</h2>
 <h4><u>Chinese Street Dance Competition 2025</u><br></h4>
-<p>Chinese Streer Dance Competition Video Link is here: https://youtu.be/oV-KUtSV5D8</p>
-<h4>Collaboration with SMRT at Hillion Mall 2025</h4>
+<p><strong>Chinese Street Dance Competition Video Link is here: <a href="https://youtu.be/oV-KUtSV5D8" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/oV-KUtSV5D8</a></strong>
+</p>
+<p></p>
+<h4><u>Collaboration with SMRT at Hillion Mall 2025</u></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Collaboration_with_SMRT_at_Hillion_Mall.jpg">
 </div>
