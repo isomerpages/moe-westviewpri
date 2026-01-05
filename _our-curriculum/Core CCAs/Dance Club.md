@@ -85,6 +85,10 @@ traditions.</p>
 </tbody>
 </table>
 <h2>Events</h2>
+<h4><u>Chine Street Dance Competition 2025</u></h4>
+<p></p>
+<p></p>
+<p></p>
 <h4><u>Chinese New Year Performance @ Senja-Cashew Community Club 2020</u></h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%;" height="auto" width="100%" alt="Chinese Dance" src="/images/Chinese%20New%20Year%20Performance%20@%20Senja-Cashew%20Community%20Club%202020.jpg">
