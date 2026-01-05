@@ -85,6 +85,46 @@ traditions.</p>
 </tbody>
 </table>
 <h2>Events</h2>
+<h4><u>Chinese Street Dance Competition 2025</u><br></h4>
+<p><strong>Chinese Street Dance Competition Video Link is here: <a href="https://youtu.be/oV-KUtSV5D8" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/oV-KUtSV5D8</a></strong>
+</p>
+<p></p>
+<h4><u>Collaboration with SMRT at Hillion Mall 2025</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Collaboration_with_SMRT_at_Hillion_Mall.jpg">
+</div>
+<p></p>
+<p></p>
+<h4><u>Hari Raya Celebration Collabaration with West Spring Sec School 2025</u></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Hari_Raya_Celebration_Collabaration_with_West_Spring_Sec_School.jpg">
+</div>
+<h4><u>Star Awards Performance 2025</u></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/Star_Awards_Performance.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Star Award Performance Video Link is here:
+<br><a href="https://youtu.be/fi9NMnfXZ68" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/fi9NMnfXZ68</a>
+<br>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><u>Chinese New Year Performance @ Senja-Cashew Community Club 2020</u></h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%;" height="auto" width="100%" alt="Chinese Dance" src="/images/Chinese%20New%20Year%20Performance%20@%20Senja-Cashew%20Community%20Club%202020.jpg">

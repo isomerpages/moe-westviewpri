@@ -2,15 +2,16 @@ collections:
   our-pride:
     output: true
     order:
+      - Gallery Life at WV/.keep
       - Gallery Life at WV/2026.md
       - Gallery Life at WV/2025.md
       - Gallery Life at WV/2024.md
       - Gallery Life at WV/2023.md
       - Gallery Life at WV/2022.md
       - Gallery Life at WV/2021.md
-      - Gallery Life at WV/.keep
+      - Achievements/.keep
       - Achievements/CCA.md
       - Achievements/Academics.md
       - Achievements/Staff.md
-      - Achievements/.keep
       - WOW! Publication.md
+      - Student Leadership @ WestView Wall.md
