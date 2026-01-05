@@ -47,7 +47,7 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>🔗 Watch here<strong>&nbsp;</strong>
 <br><a href="https://www.youtube.com/results?search_query=EduSpore+YouTube+Channel" rel="noopener noreferrer nofollow" target="_blank"><u>EduSpore YouTube Channel - YouTube</u></a>
-</p>
+<br>Animated flashcards and textbook-based revision videos.</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,9 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>🔗 Watch here<strong>&nbsp;</strong>
 <br><a href="https://www.youtube.com/results?search_query=little+fox+Chinese" rel="noopener noreferrer nofollow" target="_blank"><u>Little Fox Chinese - YouTube</u></a>
-</p>
+<br>Animated stories and songs with subtitles and pinyin. Great for vocabulary,
+listening, and reading.
+<br>Age: 5–12</p>
 </td>
 </tr>
 <tr>
@@ -82,9 +84,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="2" colspan="2">
-<p>🔗 Watch here<strong>&nbsp;</strong>
-<br><strong><a href="https://www.youtube.com/results?search_query=yoyo+tv" rel="noopener noreferrer nofollow" target="_blank"><u>yoyo tv - YouTube</u></a></strong>
-</p>
+<p>🔗 Watch here&nbsp;
+<br><a href="https://www.youtube.com/results?search_query=yoyo+tv" rel="noopener noreferrer nofollow" target="_blank"><u>yoyo tv - YouTube</u></a>
+<br>Fun and educational videos including songs, dances, and storytelling.</p>
+<p>Age: 5–10</p>
 </td>
 </tr>
 <tr></tr>
@@ -265,7 +268,7 @@ view, making the learning process much easier and more effective.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.westviewpri.moe.edu.sg/our-pride/wow-publication/" rel="noopener noreferrer nofollow" target="_blank"><u>WOW! Publication</u></a>
+<p><a href="https://www.westviewpri.moe.edu.sg/our-pride/wow-publication/" rel="noopener noreferrer nofollow" target="_blank"><u>WOW! Publication 2025</u></a>
 </p>
 </li>
 <li>
