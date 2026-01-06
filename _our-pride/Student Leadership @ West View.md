@@ -1,6 +1,6 @@
 ---
-title: Student Leadership @ West View Wall
-permalink: /our-pride/student-leadership-westview/
+title: Student Leadership @ West View
+permalink: /our-pride/student-leadership-westview-wall/
 variant: tiptap
 description: ""
 ---
