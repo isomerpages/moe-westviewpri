@@ -343,7 +343,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ST/ Educational Support</strong>
+<p><strong>ST/ Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
