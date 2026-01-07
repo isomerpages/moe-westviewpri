@@ -32,7 +32,10 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTM8REYD7WfEyv32x_nSufyNc7CC1JlkPR6ozD0UoptQrtKh02aquai_6r1SmjxhXy834VkZR6nlDwz/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3>6. DA VINCI</h3>
+<h3>6. DA VINCI<br></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/davinci.jpg">
+</div>
 <h3>7. EinSTein</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2v7pSKeSDq7p85B6SvnZKnjVctjaOX3M0Y8HHxsBvaNTgwPT34qZk9ZUMYgWeqJFVAI_gwJ-Fqv7_/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
