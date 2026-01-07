@@ -32,11 +32,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fathin_nazhirah_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Fathin Nazhirah</u></a>
+<p><a href="mailto:fathin_nazhirah_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fathin Nazhirah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:majidah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Majidah Ramli</u></a>
+<p><a href="mailto:majidah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Majidah Ramli</a>
 </p>
 </td>
 </tr>
@@ -46,11 +46,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ngho_seng_kuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ngho Seng Kuang</u></a>
+<p><a href="mailto:ngho_seng_kuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ngho Seng Kuang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hui_min_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Elaine Lim</u></a>
+<p><a href="mailto:lim_hui_min_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Lim</a>
 </p>
 </td>
 </tr>
@@ -60,11 +60,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_kiat_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chua Kiat Eng</u></a>
+<p><a href="mailto:chua_kiat_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Kiat Eng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.westviewpri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Charissa</u></a>
+<p><a href="mailto:ang_eng_chuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Eng Chuan</a>
 </p>
 </td>
 </tr>
@@ -74,11 +74,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_Shok_Hwa_Gail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Ng Shok Hwa Gail</u></a>
+<p><a href="mailto:Ng_Shok_Hwa_Gail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Shok Hwa Gail</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_toon_lim@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Tan Toon Lim</u></a>
+<p><a href="mailto:tan_toon_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Toon Lim</a>
 </p>
 </td>
 </tr>
