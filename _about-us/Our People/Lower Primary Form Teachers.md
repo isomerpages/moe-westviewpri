@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deepa_thangamani@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mdm Deepa Thangamani</u></a>
+<p><a href="mailto:deepa_thangamani@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Deepa Thangamani</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
