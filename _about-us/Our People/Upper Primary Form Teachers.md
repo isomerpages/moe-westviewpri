@@ -33,11 +33,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chai_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lam-Ang Chai Hwa</u></a>
+<p><a href="mailto:ang_chai_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lam-Ang Chai Hwa</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kim_soon_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Mr Lim Kim Soon Daniel</u></a>
+<p><a href="mailto:lim_kim_soon_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Kim Soon Daniel</a>
 </p>
 </td>
 </tr>
@@ -47,11 +47,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_kian_leong_Jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr See Kian Leong, Jeremy</u></a>
+<p><a href="mailto:see_kian_leong_Jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr See Kian Leong, Jeremy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarifah_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sarifah Hassan</u></a>
+<p><a href="mailto:sarifah_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarifah Hassan</a>
 </p>
 </td>
 </tr>
@@ -61,11 +61,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_pheck_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lim-Chua Pheck Keng</u></a>
+<p><a href="mailto:chua_pheck_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Chua Pheck Keng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kee_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Tan Kee Jin</u></a>
+<p><a href="mailto:tan_kee_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Kee Jin</a>
 </p>
 </td>
 </tr>
@@ -75,11 +75,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fadhilah_sanib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fadhilah</u></a>
+<p><a href="mailto:nur_fadhilah_sanib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Fadhilah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loke_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Raja-Loke Shu Fen</u></a>
+<p><a href="mailto:loke_shu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Raja-Loke Shu Fen</a>
 </p>
 </td>
 </tr>
