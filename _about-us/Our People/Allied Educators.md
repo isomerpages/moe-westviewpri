@@ -31,6 +31,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:masnurie_mohamed_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Masnurie</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Lead SEN Officer</strong>
 </p>
 </td>
