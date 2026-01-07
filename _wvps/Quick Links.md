@@ -10,7 +10,9 @@ variant: markdown
 | [Parents Gateway](https://pg.moe.edu.sg/) | [HRP](https://www.hrp.gov.sg/hrp/#/) |
 | [Student iCON (Google Account)](https://workspace.google.com/dashboard) | [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F) |
 | [M365](https://office.com) | [School Library](https://schoolibrary.moe.edu.sg/westviewpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
-|  | [All Ears Form Builder](https://forms.moe.edu.sg/) |
+| [Touch Typing Practice](https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt) | [All Ears Form Builder](https://forms.moe.edu.sg/) |
+| [Touch Typing Game](https://www.typing.com/student/game/type-a-balloon) |  |
+| [Touch Typing Challenge](https://thetypingcat.com/typing-courses/basic/lesson-1/task-5) |  |
 
 Find us on Facebook!  
 
