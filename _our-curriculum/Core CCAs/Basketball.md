@@ -5,22 +5,32 @@ description: ""
 third_nav_title: Core CCAs
 variant: tiptap
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Junior_Basketball_team_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/basketball_2.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Senior_Basketball_team_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core CCAs/basketball_1.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -52,6 +62,23 @@ of the match.</p>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games Basketball Championships (Senior Boy Division):
+League 1 National Top 16</p>
+</li>
+<li>
+<p>National School Games Basketball Championships (Junior Boy Division):
+Tier 1 National Top 16</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
