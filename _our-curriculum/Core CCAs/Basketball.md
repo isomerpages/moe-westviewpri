@@ -65,7 +65,7 @@ of the match.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
