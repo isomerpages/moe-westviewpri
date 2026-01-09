@@ -20,123 +20,12 @@ description: ""
 <p>In today’s digital world, using devices and the internet is important
 for learning. This Acceptable Use Policy (AUP) helps pupils use the ICT
 resources safely and responsibly. All pupils must follow these guidelines
-to keep a positive and respectful learning environment.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>The R.I.G.H.T. Use of ICT Guidelines</strong>
+to keep a positive and respectful learning environment.
+<br><a href="/files/Acceptable_Use_Policy_Agreement_2026.pdf" rel="noopener nofollow" target="_blank">Click to read the Acceptable Use Policy</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>R</strong> – Responsible Use</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>I will use school devices only for learning with my teacher’s permission.</p>
-</li>
-<li>
-<p>I will keep my login details safe and private.</p>
-</li>
-<li>
-<p>I will keep personal devices switched off during school.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>I </strong>– Internet Safety</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>I will use the internet safely and only for schoolwork.</p>
-</li>
-<li>
-<p>I will not visit unsafe sites or open suspicious links.</p>
-</li>
-<li>
-<p>I will never share my personal information online.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>G</strong> – Good Digital Citizenship</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>I will be kind and respectful when communicating online.</p>
-</li>
-<li>
-<p>I will respect others’ work and privacy.</p>
-</li>
-<li>
-<p>I will report cyberbullying or unsafe content to an adult.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>H</strong> – Handle Devices with Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>I will take good care of school devices.</p>
-</li>
-<li>
-<p>I will keep devices safe and report problems immediately.</p>
-</li>
-<li>
-<p>I will be responsible if devices are damaged due to misuse.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>T</strong> – Technology for Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>I will follow my teacher’s instructions when using technology.</p>
-</li>
-<li>
-<p>I will use AI tools only to support my learning and be honest.</p>
-</li>
-<li>
-<p>I will not share personal information with AI tools.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
