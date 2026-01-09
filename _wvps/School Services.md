@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -18,9 +17,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -65,9 +61,6 @@ link or QR code below.
 eligibility of the application and only short-listed applicants will be
 contacted for the official registration.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,11 +78,10 @@ students on buses and the size of school bus etc.
 <br><strong>Telephone:</strong> 64655959
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A table showing the fares for the school bus" src="/images/Services/school%20bus%20fares.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services/school bus fares.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -118,21 +110,7 @@ to check</p>
 <p></p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -141,110 +119,10 @@ to check</p>
 <p>Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em><u>Dental clinic will be closed from 23/7/2025 to 31/12/2025 due to revamp of clinic</u></em></strong>
-<br>
-<br>(A) For any dental enquiries, please contact the following:
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>First point of contact:</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><strong>8798 5043</strong>
-<br>
-<br>Whatsapp messages are preferred, as our staff may be occupied with providing
-treatment for patients. If it is urgent, please call.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>General enquiry, please email:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Cheong_Wai_Leong@hpb.gov.sg" rel="noopener nofollow" target="_blank">Cheong_Wai_Leong@hpb.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>B) Information on urgent dental needs and buddy dental clinics as a supporting
-role:
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Urgent dental conditions</p>
-</td>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Fever due to toothache</p>
-</li>
-<li>
-<p>Facial swelling</p>
-</li>
-<li>
-<p>Injury to mouth and teeth</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Buddy Dental Clinic (Supporting Role)</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Contact Number</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Greenridge Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>98396594</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>WhatsApp messages are preferred, as our staff may be occupied with providing
-treatment for patients. If it is urgent, please call</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bukit Panjang Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91142186</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mobile Dental Clinic 25 (located in a Secondary School)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91864597</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>Due to limited availability, some appointments may be scheduled for afternoons
-or school holidays. Thank you for your understanding.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services/dental_calendar.jpg">
+</div>
 </td>
 </tr>
 </tbody>
