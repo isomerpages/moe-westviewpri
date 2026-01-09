@@ -153,7 +153,7 @@ to keep a positive and respectful learning environment.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>MOE Platforms &amp; Accounts
-<br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space (SLS)</a><strong><br><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parent's Gateway</a><br><a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">Student's ICON</a></strong>
+<br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space (SLS)</a><strong><br><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parent's Gateway</a><br><a href="https://icon.moe.edu.sg/" rel="noopener nofollow" target="_blank">Student's ICON</a></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
