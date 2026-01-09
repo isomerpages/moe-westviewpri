@@ -73,6 +73,14 @@ may be collected as part of managing the device. By using the device, you
 agree to this.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Use_of_Chromebooks.png">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
