@@ -175,6 +175,15 @@ to keep a positive and respectful learning environment.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Notice for Students:</strong>
+<br>The Chromebooks are managed by the school. Your activity on the device
+might be monitored to help with support and security. Some information
+may be collected as part of managing the device. By using the device, you
+agree to this.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
