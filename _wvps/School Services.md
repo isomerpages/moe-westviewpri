@@ -121,7 +121,7 @@ to check</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services/dental_calendar.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dental_Notice_20260112.jpg">
 </div>
 </td>
 </tr>
