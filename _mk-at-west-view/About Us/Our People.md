@@ -44,6 +44,15 @@ variant: tiptap
 <p>Ms Sherilyn Pua Xiumin</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head<br>K2 Level Coordinator</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurfara Binte Pawzi</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Kindergarten Educators (English Language)</h2>
@@ -56,11 +65,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurfara Binte Pawzi (K1 internal level coordinator)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -79,17 +83,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Habiba D/O Mustakim (K2 internal level coordinator)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Candice Ee Wei Yuan</p>
+<p>Mdm Habiba D/O Mustakim (K1 Level Coordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms G. Clarissa Sujita</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms How Yan Lin Raelyn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Qasdina Binte Jaafar</p>
 </td>
 </tr>
 </tbody>
@@ -113,11 +122,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Shihao</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Ling</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +172,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sujatha Kandiban</p>
+<p>Mdm Sujatha Kandiban</p>
 </td>
 </tr>
 </tbody>
