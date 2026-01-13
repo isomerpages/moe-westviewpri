@@ -18,4 +18,9 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="345" width="561" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC-xq8hvj_daqgqhuwyvetIJYYrsPaszPKBTmCwthaSJ2SszZeqzqhWbEpErqGT3OxhwCOkeUPESDL/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p>Viii: Order Cancellation</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for Parents/order_cancellation.jpg">
+</div>
 <p></p>
