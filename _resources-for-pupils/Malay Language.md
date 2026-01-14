@@ -90,8 +90,8 @@ lots of Mother Tongue books and magazines to choose from.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nabil &amp; Nabilah Reader Series</p>
-<p>http://www.mllpc.sg/publications/3</p>
+<p><a href="http://www.mllpc.sg/publications/3" rel="noopener nofollow" target="_blank">Nabil &amp; Nabilah Reader Series</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,8 +123,8 @@ various story books that is suitable for all levels.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Berita Harian Singapura</p>
-<p>https://www.beritaharian.sg/</p>
+<p><a href="https://www.beritaharian.sg/" rel="noopener nofollow" target="_blank">Berita Harian Singapura</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,8 +152,8 @@ and around the world.</p>
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Antologi Cerpen ‘Benih’</p>
-<p>https://academyofsingaporeteachers.moe.edu.sg/mlcs/&nbsp;&nbsp; resources/anthology</p>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/anthology" rel="noopener nofollow" target="_blank">Antologi Cerpen ‘Benih’ </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -187,8 +187,8 @@ especially in Primary 5 and 6.</p>
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cetusan</p>
-<p>https://www.mllpc.sg/assets/upload/publications/pdf/1524205222_Cetusan-FA-web.pdf</p>
+<p><a href="https://www.mllpc.sg/assets/upload/publications/pdf/1524205222_Cetusan-FA-web.pdf" rel="noopener nofollow" target="_blank">Cetusan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -222,8 +222,8 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 <p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pantun Anak Singapura</p>
-<p>https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ml-poetry-sg-50/sg50_pantun.pdf</p>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ml-poetry-sg-50/sg50_pantun.pdf" rel="noopener nofollow" target="_blank">Pantun Anak Singapura</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
