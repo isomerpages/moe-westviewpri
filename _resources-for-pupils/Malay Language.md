@@ -56,10 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>NLB Mobile App</p>
-<p>https://mobileapp.nlb.gov.sg/</p>
-<p>&nbsp;</p>
-<p>NLB Website</p>
-<p>https://eresources.nlb.gov.sg/main/Pages/Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
