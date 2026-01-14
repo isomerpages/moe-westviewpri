@@ -63,8 +63,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/NLB_Mobile_App_Logo.jpg">
 </div>
@@ -94,9 +92,6 @@ lots of Mother Tongue books and magazines to choose from.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-<p></p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Siri_Nabil_N_Nabilah.png">
@@ -152,14 +147,10 @@ and around the world.</p>
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/anthology" rel="noopener nofollow" target="_blank">Antologi Cerpen ‘Benih’ </a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/anthology" rel="noopener nofollow" target="_blank">Antologi Cerpen ‘Benih’</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Benih.png">
@@ -192,11 +183,6 @@ especially in Primary 5 and 6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Cetusan.png">
 </div>
@@ -227,15 +213,9 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Pantun_Anak.png">
 </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Pantun Anak Singapura</p>
 <p>&nbsp;</p>
 </td>
