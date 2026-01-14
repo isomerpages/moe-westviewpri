@@ -55,10 +55,11 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NLB Mobile App
+<p><a href="https://mobileapp.nlb.gov.sg/" rel="noopener nofollow" target="_blank">NLB Mobile App</a>
 <br>
 <br>
-<br>NLB Website</p>
+<br><a href="https://eresources.nlb.gov.sg/main/Pages/Primary" rel="noopener nofollow" target="_blank">NLB Website</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
