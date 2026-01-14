@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <h2><strong>Stay Home Edition (Malay Language)</strong></h2>
 <p><strong>Recommended Malay Language Reading Materials</strong>
-<br>
-<br>
 </p>
 <table style="minWidth: 175px">
 <colgroup>
@@ -235,7 +233,7 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 </tr>
 </tbody>
 </table>
-<h1><strong>Recommended Apps &amp;Websites for the learning of Mother Tongue</strong><br><br></h1>
+<h1><strong>Recommended Apps &amp;Websites for the learning of Mother Tongue</strong></h1>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
