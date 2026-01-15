@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <h2><strong>Stay Home Edition (Malay Language)</strong></h2>
 <p><strong>Recommended Malay Language Reading Materials</strong>
-<br>
-<br>
 </p>
 <table style="minWidth: 175px">
 <colgroup>
@@ -52,21 +50,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.</strong>
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://mobileapp.nlb.gov.sg/" rel="noopener nofollow" target="_blank">NLB Mobile App</a>
+<br>
+<br>
+<br><a href="https://eresources.nlb.gov.sg/main/Pages/Primary" rel="noopener nofollow" target="_blank">NLB Website</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NLB Mobile App</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://mobileapp.nlb.gov.sg/</a>
-</p>
-<p>&nbsp;</p>
-<p>NLB Website</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/main/Pages/Primary</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/NLB_Mobile_App_Logo.jpg">
@@ -90,18 +83,13 @@ lots of Mother Tongue books and magazines to choose from.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2.</strong>
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.mllpc.sg/publications/3" rel="noopener nofollow" target="_blank">Nabil &amp; Nabilah Reader Series</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nabil &amp; Nabilah Reader Series</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.mllpc.sg/publications/3</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-<p></p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Siri_Nabil_N_Nabilah.png">
@@ -125,12 +113,10 @@ various story books that is suitable for all levels.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3.</strong>
-</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Berita Harian Singapura</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/</a>
+<p><a href="https://www.beritaharian.sg/" rel="noopener nofollow" target="_blank">Berita Harian Singapura</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,20 +142,13 @@ and around the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4.</strong>
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/anthology" rel="noopener nofollow" target="_blank">Antologi Cerpen ‘Benih’</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Antologi Cerpen ‘Benih’</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs/</a>
-<a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/%20%20%20resources/anthology" rel="noopener noreferrer nofollow" target="_blank">&nbsp;&nbsp; resources/anthology</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Benih.png">
@@ -194,21 +173,14 @@ especially in Primary 5 and 6.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5.</strong>
-</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cetusan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.mllpc.sg/assets/upload/publications/pdf/1524205222_Cetusan-FA-web.pdf</a>
+<p><a href="https://www.mllpc.sg/assets/upload/publications/pdf/1524205222_Cetusan-FA-web.pdf" rel="noopener nofollow" target="_blank">Cetusan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Cetusan.png">
 </div>
@@ -231,25 +203,17 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6.</strong>
-</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pantun Anak Singapura</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ml-poetry-sg-50/sg50_pantun.pdf</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ml-poetry-sg-50/sg50_pantun.pdf" rel="noopener nofollow" target="_blank">Pantun Anak Singapura</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Pantun_Anak.png">
 </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Pantun Anak Singapura</p>
 <p>&nbsp;</p>
 </td>
@@ -269,7 +233,7 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 </tr>
 </tbody>
 </table>
-<h1><strong>Recommended Apps &amp;Websites for the learning of Mother Tongue</strong><br><br></h1>
+<h1><strong>Recommended Apps &amp;Websites for the learning of Mother Tongue</strong></h1>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
