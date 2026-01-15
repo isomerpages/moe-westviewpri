@@ -60,8 +60,15 @@ to keep a positive and respectful learning environment.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Creative Tools</strong>
-<br><strong><a href="https://www.canva.com/" rel="noopener nofollow" target="_blank">Canva</a><br><a href="https://www.capcut.com/" rel="noopener nofollow" target="_blank">CapCut</a></strong>
+<br><strong><a href="https://www.capcut.com/" rel="noopener nofollow" target="_blank">CapCut</a></strong>
+<br><strong><a href="https://www.canva.com/" rel="noopener nofollow" target="_blank">Canva</a></strong>
+<br>- <a href="go.gov.sg/canva20263a" rel="noopener nofollow" target="_blank">Class 3A</a>
+<br>- <a href="go.gov.sg/canva20263b" rel="noopener nofollow" target="_blank">Class 3B</a>
+<br>- <a href="go.gov.sg/canva20263c" rel="noopener nofollow" target="_blank">Class 3C</a>
+<br>- <a href="go.gov.sg/canva20263d" rel="noopener nofollow" target="_blank">Class 3D</a>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
