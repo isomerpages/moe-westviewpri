@@ -100,7 +100,7 @@ the interactive activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Resources:</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -109,12 +109,6 @@ the interactive activities.</p>
 </td>
 </tr>
 <tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.niehs.nih.gov/topics/reduce/vermicomposting/index.htm</u></a></em>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="https://www.youtube.com/watch?v=V8miLevRI_o" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=V8miLevRI_o</u></a></em>
