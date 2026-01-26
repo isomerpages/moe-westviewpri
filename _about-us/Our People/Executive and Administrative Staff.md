@@ -180,16 +180,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Multimedia Administration &amp; Production Assistant</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ashley_leann_lau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Ashley Leann Lau</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
 </p>
 </td>
