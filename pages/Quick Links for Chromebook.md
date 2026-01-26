@@ -25,11 +25,6 @@ to keep a positive and respectful learning environment.
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -84,7 +79,7 @@ to keep a positive and respectful learning environment.
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Sociogram Survey (My Friends in Class) </strong>
+<p><strong>Sociogram Survey (My Friends in Class)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
