@@ -140,6 +140,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kheng Tee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ICT Manager</strong>
 </p>
 </td>
