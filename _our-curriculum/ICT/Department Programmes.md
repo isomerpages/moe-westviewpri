@@ -9,17 +9,25 @@ third_nav_title: ICT
 </p>
 <p>Safer Internet Week is an annual event that promotes responsible and respectful
 online behaviour, aligned with the objectives of Safer Internet Day—to
-empower individuals to use technology safely, critically, and positively.</p>
-<p>The week begins with an assembly talk on online safety, digital etiquette,
-and protecting personal data. This is followed by recess activities led
-by our Cyber Warriors, where students engage in interactive games and discussions
-to reinforce safe online practices and positive peer influence.</p>
-<p>Through these initiatives, we aim to equip students with the knowledge
+empower students to use technology safely, critically, and positively.</p>
+<p>This year, the week featured engaging assembly talks on online safety,
+digital etiquette, and protecting personal data. Recess activities, supported
+by our Parents in Action (PiA), included a Cyber Safe Scavenger Hunt and
+Online Safety Connect Four, giving students fun, interactive ways to reinforce
+safe online practices. Pupils also consolidated their learning through
+SLS games.</p>
+<p>Through these activities, we aim to equip students with the knowledge
 and skills to navigate the digital world safely and responsibly.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
