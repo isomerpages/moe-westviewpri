@@ -2,6 +2,7 @@
 title: Education and Career Guidance (ECG) Resources
 permalink: /wvps/resources/education-and-career-guidance-resources/
 description: ""
+variant: markdown
 ---
 # PSLE scoring and S1 posting matters
 <h2 style="color:midnightblue">Parent engagement deck on PSLE scoring and S1 posting changes</h2>
@@ -37,7 +38,7 @@ Overview of the different kinds of schools and the experiences in Secondary Scho
 Parents and their children coming together to share their reflections on success beyond PSLE grades.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2 style="color:midnightblue">JOURNEYING WITH OUR CHILDREN, SUPPORTING THEIR ASPIRATIONS</h2>
-This <a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" target="_blank">handbook for parents</a> contains tips and advice on ECG and considerations at key education stages to guide&nbsp;their&nbsp;children.
+This <a href="https://go.gov.sg/tips-for-parents" target="_blank">handbook for parents</a> contains tips and advice on ECG and considerations at key education stages to guide&nbsp;their&nbsp;children.
 
 ![](/images/Picture1.jpeg)
 																										 
