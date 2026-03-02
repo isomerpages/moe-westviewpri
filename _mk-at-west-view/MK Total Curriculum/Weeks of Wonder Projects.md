@@ -1,9 +1,9 @@
 ---
-title: MK Total Curriculum
-permalink: /total-curriculum/
+title: Weeks of Wonder Projects
+permalink: /weeks-of-wonder-projects/
 variant: tiptap
 description: ""
-third_nav_title: About Us
+third_nav_title: MK Total Curriculum
 ---
 <h2>MK Curriculum</h2>
 <div class="isomer-image-wrapper">
@@ -37,11 +37,11 @@ relationships with friends and adults through positive and purposeful interactio
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LockyOmaNB0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LockyOmaNB0"></iframe>
 </div>
 <p></p>
 <h2>MK Environment</h2>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmsFYRdMBKBTcR-UNEA0FdbRXbmeqD0F4TB9FYba5rrda-zOguczFqNW-05pUXJTocR3d6Imf-5utb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmsFYRdMBKBTcR-UNEA0FdbRXbmeqD0F4TB9FYba5rrda-zOguczFqNW-05pUXJTocR3d6Imf-5utb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>

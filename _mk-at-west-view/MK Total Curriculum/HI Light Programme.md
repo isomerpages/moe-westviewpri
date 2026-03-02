@@ -1,9 +1,9 @@
 ---
-title: Flagship Programme
-permalink: /flagship-programme/
+title: HI Light Programme
+permalink: /hi-light-programme/
 variant: tiptap
 description: ""
-third_nav_title: About Us
+third_nav_title: MK Total Curriculum
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Curriculum" src="/images/Header%203%20-%20Curriculum.png">
