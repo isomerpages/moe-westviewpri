@@ -2,8 +2,8 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Weeks of Wonder Projects/MOE Kindergarden Total Curriculum.md
-      - Weeks of Wonder Projects/.keep
+      - Starlight/MOE Kindergarden Total Curriculum.md
+      - Starlight/.keep
       - MK Total Curriculum.md
       - MK Open House.md
       - About Us/.keep
