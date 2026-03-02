@@ -28,5 +28,5 @@ joy of self-motivated learning.</p>
 Language</p>
 </li>
 </ul>
-<p>*pending photos</p>
+<p></p>
 <p></p>
