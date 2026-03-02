@@ -91,7 +91,7 @@ and attitudes to learning.</p>
 <li>
 <p>Engagement
 <br>
-<br>* pending photos</p>
+</p>
 </li>
 </ul>
 <p></p>
