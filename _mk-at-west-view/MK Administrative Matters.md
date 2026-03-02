@@ -7,7 +7,7 @@ description: ""
 <h2><strong>MK Administrative Matters</strong></h2>
 <p><strong><u>Fee</u></strong>
 <br>
-<br>The monthly fee for MK in 2025 is:</p>
+<br>The monthly fee for MK in 2026 is:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$160 for Singapore Citizens.</p>
@@ -20,8 +20,8 @@ description: ""
 no additional out-of-pocket expenses for complementary programmes such
 as field trips.</p>
 <p><strong>Note:</strong> If you require a full-day service, <strong>Kindergarten Care (KCare)</strong> is
-available at most MKs. For 2025, the maximum KCare monthly fee is $415.
-KCare fees are also payable during the June and December holidays. <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">Learn more about KCare fees and subsidies</a>.</p>
+available at most MKs.</p>
+<p></p>
 <p><strong><u>Financial assistance</u></strong>
 </p>
 <p>If your child is a Singapore Citizen, they may qualify for financial assistance
