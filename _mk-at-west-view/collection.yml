@@ -2,7 +2,6 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - MK Administrative Matters.md
       - MK Open House.md
       - About Us/.keep
       - About Us/About Us.md
@@ -22,6 +21,7 @@ collections:
       - MK Gallery/2023.md
       - MK Gallery/2022.md
       - MK Gallery/2021.md
+      - MK Administrative Matters.md
       - KCare Administrative Matters.md
       - Partners.md
       - Contact Us.md
