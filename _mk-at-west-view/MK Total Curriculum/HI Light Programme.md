@@ -45,9 +45,9 @@ and norms to guide children’s behaviour.</p>
 </li>
 <li>
 <p>Honesty</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p>Social and Emotional Competencies (SEC) complement values by providing
 children with the knowledge, skills and dispositions to understand themselves,
 interact positively with others, be responsible citizens and navigate the
@@ -89,7 +89,9 @@ and attitudes to learning.</p>
 <p>Sense of wonder and curiosity</p>
 </li>
 <li>
-<p>Engagement</p>
+<p>Engagement
+<br>
+<br>* pending photos</p>
 </li>
 </ul>
 <p></p>
