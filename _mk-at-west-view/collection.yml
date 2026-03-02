@@ -2,8 +2,8 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - Starlight/MOE Kindergarden Total Curriculum.md
-      - Starlight/.keep
+      - MOE Kindergarden T C/MOE Kindergarden Total Curriculum.md
+      - MOE Kindergarden T C/.keep
       - MK Total Curriculum.md
       - MK Open House.md
       - About Us/.keep
