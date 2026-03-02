@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - MOE Kindergarden Total Curriculum.md
       - MK Total Curriculum.md
       - MK Open House.md
       - About Us/.keep
