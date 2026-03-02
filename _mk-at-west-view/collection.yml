@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - MOE Kindergarden T C/Starlight Literacy Programme ML.md
       - MOE Kindergarden T C/Starlight Literacy Programe EL.md
       - MOE Kindergarden T C/HI Light Programme.md
       - MOE Kindergarden T C/Centre Initiatives.md
