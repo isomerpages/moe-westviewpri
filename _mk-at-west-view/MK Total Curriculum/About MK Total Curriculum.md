@@ -9,9 +9,9 @@ third_nav_title: MK Total Curriculum
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_TC.png">
 </div>
-<h1><strong>MK Total  Curriculum</strong></h1>
+<h1><strong>MK Total Curriculum</strong></h1>
 <p></p>
-<p>To support our vision “A Strong Start for Every Child”, <a href="http://G.R.O.W.ing" rel="noopener noreferrer nofollow" target="_blank">G.R.O.W.ing</a> U.P.
+<p>To support our vision “A Strong Start for Every Child”, <a href="not a link" rel="noopener noreferrer nofollow" target="_blank">G.R.O.W.ing</a> U.P.
 is designed to promote holistic development of our children with a focus
 on inculcating values and developing social and emotional competencies
 in them. As the early years is a critical period of children’s growth and
