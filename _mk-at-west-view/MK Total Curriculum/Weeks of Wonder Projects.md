@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MK Total Curriculum
 ---
-<h2>MK Curriculum</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Curriculum" src="/images/Header%203%20-%20Curriculum.png">
-</div>
+<h2>WoW Projects</h2>
 <p>To support our vision “A Strong Start for Every Child”, G.R.O.W.ing U.P.
 is designed to promote holistic development of our children with a focus
 on inculcating values and developing social and emotional competencies
