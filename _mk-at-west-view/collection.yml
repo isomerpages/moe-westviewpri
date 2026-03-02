@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - MOE Kindergarden T C/Centre Initiatives.md
       - MOE Kindergarden T C/Weeks of Wonder Projects.md
       - MOE Kindergarden T C/.keep
       - MK Total Curriculum.md
