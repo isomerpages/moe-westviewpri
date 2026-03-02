@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - Flagship Programme.md
       - MK Total Curriculum.md
       - MK Open House.md
       - About Us/.keep
