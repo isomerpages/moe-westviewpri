@@ -54,5 +54,5 @@ the significance of mango leaves and made a mango leaf Thoranam, practised
 balance and coordination by dancing with a Karagam on their heads, and
 engaged in hands-on sensory play with traditional Indian kitchen utensils.</p>
 <p>*pending photos</p>
-<p></p>
+<hr>
 <p></p>
