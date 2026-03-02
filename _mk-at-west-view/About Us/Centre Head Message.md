@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: About Us
 ---
-<p><strong>Message from Centre Head/ MK</strong> 
-<br><strong>Mdm Shereen Low</strong>
-</p>
+<h1><strong>Message from Centre Head/ MK</strong> <br><strong>Mdm Shereen Low</strong></h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
