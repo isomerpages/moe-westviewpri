@@ -22,6 +22,7 @@ for learning. This Acceptable Use Policy (AUP) helps pupils use the ICT
 resources safely and responsibly. All pupils must follow these guidelines
 to keep a positive and respectful learning environment.
 <br><a href="/files/Acceptable_Use_Policy_Agreement_2026.pdf" rel="noopener nofollow" target="_blank">Click to read the Acceptable Use Policy</a>
+<br><a href="" rel="noopener nofollow" target="_blank">*</a>
 </p>
 </td>
 </tr>
