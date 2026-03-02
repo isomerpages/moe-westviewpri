@@ -2,6 +2,7 @@ collections:
   mk-at-west-view:
     output: true
     order:
+      - MK Total Curriculum.md
       - Weeks of Wonder Projects/.keep
       - Starlight Literacy Programme/.keep
       - MK Open House.md
