@@ -5,13 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: MK Total Curriculum
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Curriculum" src="/images/Header%203%20-%20Curriculum.png">
-</div>
-<h3>HI-Light Programme</h3>
-<p><strong>Designed to support holistic development through an integrated approach to learning:</strong>
-</p>
-<ul>
+<h1>HI-Light Programme</h1>
+<p>The HI-Light programme is designed to support the holistic development
+of children. It fosters children’s acquisition of values, social and emotional
+skills and learning dispositions, as well as knowledge and skills across
+the following five learning areas through an integrated approach:</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Aesthetics and Creative Expression</p>
 </li>
@@ -27,139 +26,72 @@ third_nav_title: MK Total Curriculum
 <li>
 <p>Numeracy</p>
 </li>
-<li>
-<p>Values, Social and Emotional Competencies and Learning Dispositions</p>
-</li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Hi_light_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MK/Hi_light_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Hi_light_4.jpeg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MK/Hi_light_3.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Starlight Literacy Programme</h3>
-<ul>
-<li>
-<p>Nurtures early childhood bilingualism</p>
-</li>
-<li>
-<p>Offered in English and 3 Mother Tongue Languages (Chinese, Malay and Tamil)</p>
-</li>
-<li>
-<p>Focuses on developing listening, speaking and early literacy skills.</p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Starlight_4.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 51%;" height="auto" width="100%" alt="" src="/images/MK/Starlight_2.JPG">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Starlight_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 68%;" height="auto" width="100%" alt="" src="/images/MK/Starlight_1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Weeks of Wonder (WoW) projects</h3>
-<p>In a year, MK children complete 2 WoW projects in English and another
-2 in their Mother Tongue Language (MTL). Children work with their friends
-to investigate topics that interest them. WoW projects promote:</p>
+<hr>
+<h3>Values, Social and Emotional Competencies and Learning Dispositions</h3>
+<p>Values, social and emotional competencies and learning dispositions enhance
+the learning experiences created to develop children’s knowledge, skills
+and dispositions in the five learning areas. Values helps to set standards
+and norms to guide children’s behaviour.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sense of curiosity in young children.</p>
+<p>Respect</p>
 </li>
 <li>
-<p>Encourage children to make sense of the world around them.</p>
+<p>Responsibility</p>
 </li>
 <li>
-<p>Confidence as children take charge of their learning and experience the
-joy of self-motivated learning.</p>
+<p>Care</p>
 </li>
 <li>
-<p>Collaborate with one another using English language and their Mother Tongue
-Language.</p>
-<p></p>
+<p>Honesty</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MK/WOW_3.jpeg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WOW_2.jpeg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 58%;" height="auto" width="100%" alt="" src="/images/MK/WOW_4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/WOW_1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p>Social and Emotional Competencies (SEC) complement values by providing
+children with the knowledge, skills and dispositions to understand themselves,
+interact positively with others, be responsible citizens and navigate the
+various new situations.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Self-awareness</p>
+</li>
+<li>
+<p>Self-management</p>
+</li>
+<li>
+<p>Social awareness</p>
+</li>
+<li>
+<p>Relationship management</p>
+</li>
+<li>
+<p>Responsible decision-making</p>
+</li>
+</ul>
+<p></p>
+<p>Learning Disposition (PRAISE) helps children to build positive behaviours
+and attitudes to learning.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perseverance</p>
+</li>
+<li>
+<p>Reflectiveness</p>
+</li>
+<li>
+<p>Appreciation</p>
+</li>
+<li>
+<p>Inventiveness</p>
+</li>
+<li>
+<p>Sense of wonder and curiosity</p>
+</li>
+<li>
+<p>Engagement
+<br>
+<br>* pending photos</p>
+</li>
+</ul>
 <p></p>
