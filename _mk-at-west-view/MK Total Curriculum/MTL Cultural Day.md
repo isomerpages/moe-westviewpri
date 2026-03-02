@@ -34,7 +34,7 @@ the fragrance of traditional sachets, and discovered the ingredients used
 to make rice dumplings. We also practised paddling a dragon boat, working
 together as a team. Through shadow puppetry, we learned that the festival
 commemorates Qu Yuan, a patriotic poet.</p>
-<p>*pending photos</p>
+<p></p>
 <hr>
 <h4><strong><em><u>Malay Cultural Day</u></em></strong></h4>
 <p>
@@ -45,7 +45,7 @@ flowers such as roses and jasmine, sometimes enhanced with rose water or
 essential oils. The mixture is then placed in small perforated containers.
 The children enjoyed making their own bunga rampai and were able to bring
 it home too!</p>
-<p>*pending photos</p>
+<p></p>
 <hr>
 <h4><strong><em><u>Tamil Cultural Day</u></em></strong></h4>
 <p>Children explored Indian culture by learning the benefits of eating on
@@ -53,6 +53,6 @@ a banana leaf and practising eating with their right hand. They discovered
 the significance of mango leaves and made a mango leaf Thoranam, practised
 balance and coordination by dancing with a Karagam on their heads, and
 engaged in hands-on sensory play with traditional Indian kitchen utensils.</p>
-<p>*pending photos</p>
+<p></p>
 <hr>
 <p></p>
