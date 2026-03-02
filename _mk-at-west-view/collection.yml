@@ -2,13 +2,6 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - MOE Kindergarden T C/.keep
-      - MOE Kindergarden T C/Starlight Literacy Programe EL.md
-      - MOE Kindergarden T C/HI Light Programme.md
-      - MOE Kindergarden T C/Starlight Literacy Programme ML.md
-      - MOE Kindergarden T C/MTL Cultural Day.md
-      - MOE Kindergarden T C/Weeks of Wonder Projects.md
-      - MOE Kindergarden T C/Centre Initiatives.md
       - MK Total Curriculum.md
       - MK Open House.md
       - About Us/.keep
@@ -16,6 +9,13 @@ collections:
       - About Us/Our Mission, Vision & Beliefs.md
       - About Us/Centre Head Message.md
       - About Us/Our People.md
+      - MOE Kindergarden T C/.keep
+      - MOE Kindergarden T C/Starlight Literacy Programe EL.md
+      - MOE Kindergarden T C/HI Light Programme.md
+      - MOE Kindergarden T C/Starlight Literacy Programme ML.md
+      - MOE Kindergarden T C/MTL Cultural Day.md
+      - MOE Kindergarden T C/Weeks of Wonder Projects.md
+      - MOE Kindergarden T C/Centre Initiatives.md
       - MK Gallery/.keep
       - MK Gallery/2025.md
       - MK Gallery/2024.md
