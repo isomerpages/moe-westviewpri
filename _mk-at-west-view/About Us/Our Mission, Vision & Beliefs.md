@@ -5,9 +5,6 @@ description: ""
 third_nav_title: About Us
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="About Us" src="/images/Header%202%20-%20About%20Us.png">
-</div>
 <h2>Our Beliefs</h2>
 <p>At MOE Kindergarten (MK), we believe that children are curious, active
 and competent learners.</p>
