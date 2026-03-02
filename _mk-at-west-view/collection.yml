@@ -2,14 +2,14 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - MK Total Curriculum.md
       - MK Open House.md
-      - About Us/Flagship Programme.md
       - About Us/.keep
+      - About Us/Flagship Programme.md
       - About Us/About Us.md
       - About Us/Our Mission, Vision & Beliefs.md
       - About Us/Centre Head Message.md
       - About Us/Our People.md
+      - MK Total Curriculum.md
       - MK Gallery/.keep
       - MK Gallery/2025.md
       - MK Gallery/2024.md
