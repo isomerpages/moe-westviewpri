@@ -28,11 +28,11 @@ Language</p>
 <hr>
 <p><strong><u>Starlight Chinese Language Literacy Programme</u></strong>
 </p>
-<p>*pending photos
+<p>
 <br>
 <br><strong><u>Starlight Malay Language Literacy Programme</u></strong>
 </p>
-<p>*pending photos</p>
+<p></p>
 <p><strong><u>Starlight Tamil Language Literacy Programme</u></strong>
 </p>
-<p>*pending photos</p>
+<p></p>
