@@ -2,7 +2,6 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - KCare Administrative Matters.md
       - MK Total Curriculum.md
       - MK Open House.md
       - About Us/.keep
@@ -26,5 +25,6 @@ collections:
       - Administration Matters/.keep
       - Administration Matters/MK Fees & Financial Assistance.md
       - Administration Matters/KCare Monthly Fees.md
+      - KCare Administrative Matters.md
       - Partners.md
       - Contact Us.md
