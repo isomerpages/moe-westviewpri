@@ -7,7 +7,7 @@ third_nav_title: MK Total Curriculum
 ---
 <h1>Starlight Literacy Programme</h1>
 <p>The Starlight Literacy Programme nurtures children’s language skills through
-Big Books, songs, rhymes and games set in the local context.We seek to
+Big Books, songs, rhymes and games set in the local context. We seek to
 develop their listening and speaking skills, as well as their interest
 in learning languages through an active, interactive approach.</p>
 <hr>
@@ -23,4 +23,4 @@ in learning languages through an active, interactive approach.</p>
 <p>Communicate with confidence</p>
 </li>
 </ul>
-<p></p>
+<p>*pending photos</p>
