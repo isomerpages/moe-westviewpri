@@ -21,11 +21,12 @@ celebrations, customs and traditions as well as folklores</p>
 Language.</p>
 </li>
 <li>
-<p>To demonstrate respect towards different cultures and traditions Take
-a look at what our children have been learning during our MK@WV Cultural
-Day!</p>
+<p>To demonstrate respect towards different cultures and traditions</p>
 </li>
 </ol>
+<p></p>
+<p>Take a look at what our children have been learning during our MK@WV Cultural
+Day!</p>
 <hr>
 <h4><strong><em><u>Chinese Cultural Day</u></em></strong></h4>
 <p>
