@@ -39,7 +39,7 @@ viewing habits.</p>
 about children’s bedtime routines and the activities they do before sleeping.
 Each child receives a bedtime chart to complete at home with their parents
 and later shares their routine with the class.</p>
-<p>*pending photos</p>
+<p></p>
 <hr>
 <h1>T.E.A Time</h1>
 <p>
@@ -64,7 +64,8 @@ through a forest, moving through a snowstorm, and crawling into a cave—while
 the teacher narrates and children act out the adventure. The session ends
 with a creative loose parts activity where children make a bear face, followed
 by group reflection and calming “bear breaths” and stretches.
-<br>* pending photos</p>
+<br>
+</p>
 <hr>
 <p></p>
 <p></p>

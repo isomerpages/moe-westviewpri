@@ -23,4 +23,4 @@ in learning languages through an active, interactive approach.</p>
 <p>Communicate with confidence</p>
 </li>
 </ul>
-<p>*pending photos</p>
+<p></p>
