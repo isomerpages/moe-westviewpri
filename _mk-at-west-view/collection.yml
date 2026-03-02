@@ -2,10 +2,10 @@ collections:
   mk-at-west-view:
     output: true
     order:
-      - MOE Kindergarden Total Curriculum.md
-      - Starlight Literacy Programme/MK Total Curriculum.md
       - Starlight Literacy Programme/.keep
+      - Starlight Literacy Programme/MK Total Curriculum.md
       - MK Open House.md
+      - MOE Kindergarden Total Curriculum.md
       - About Us/.keep
       - About Us/Flagship Programme.md
       - About Us/About Us.md
