@@ -4,43 +4,83 @@ permalink: /total-curriculum/
 variant: tiptap
 description: ""
 ---
-<h2>MK Curriculum</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Curriculum" src="/images/Header%203%20-%20Curriculum.png">
-</div>
-<p>To support our vision “A Strong Start for Every Child”, G.R.O.W.ing U.P.
-is designed to promote holistic development of our children with a focus
-on inculcating values and developing social and emotional competencies
-in them. As the early years is a critical period of children’s growth and
-development, it also aims to create their awareness in healthy eating and
-keeping physically active that will help them develop habits to embrace
-an active and healthy lifestyle.</p>
-<p>A series of learning experiences is planned to be carried out for a week
-in a term with a different focus for each day, such as healthy eating and
-regular exercise; respecting and showing kindness to our friends; and building
-relationships with friends and adults through positive and purposeful interactions.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_27_at_1_22_31_PM.jpg">
-</div>
-<p><em>At MK@West View, we offer quality and affordable Kindergarten 1 (K1) and Kindergarten 2 (K2) education to Singapore Citizens and Permanent Residents. You can choose from the following options:</em>
-</p>
+<h2><strong>MK Administrative Matters</strong></h2>
+<p><strong><u>Fee</u></strong>
+<br>
+<br>The monthly fee for MK in 2025 is:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>MK morning session (8 a.m. to 12 p.m.)</strong>
-</p>
+<p>$160 for Singapore Citizens.</p>
 </li>
 <li>
-<p><strong>MK afternoon session (1 p.m. to 5 p.m.)</strong>
-</p>
+<p>$320 for Singapore Permanent Residents.</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LockyOmaNB0"></iframe>
-</div>
+<p>Fees are also payable during the June and December holidays. There are
+no additional out-of-pocket expenses for complementary programmes such
+as field trips.</p>
+<p><strong>Note:</strong> If you require a full-day service, <strong>Kindergarten Care (KCare)</strong> is
+available at most MKs. For 2025, the maximum KCare monthly fee is $415.
+KCare fees are also payable during the June and December holidays. <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">Learn more about KCare fees and subsidies</a>.</p>
+<p><strong><u>Financial assistance</u></strong>
+</p>
+<p>If your child is a Singapore Citizen, they may qualify for financial assistance
+under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
+KiFAS is provided by the Early Childhood Development Agency (ECDA) and
+applies only to MK school fees.</p>
+<p><strong><u>Uniform expenses</u></strong>
+</p>
+<p>You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg/products/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">Beau Voix Uniform</a> or
+<a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank">Jeep Sing Fashion</a>at the following prices:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Beau Voix Uniform</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Jeep Sing Fashion</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>$7 for polo T-shirt.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>$7 for polo T-shirt.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>$7 for khaki shorts (for boys) or skorts (for girls).</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>$8 for khaki shorts (for boys) or skorts (for girls).</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<h2>MK Environment</h2>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmsFYRdMBKBTcR-UNEA0FdbRXbmeqD0F4TB9FYba5rrda-zOguczFqNW-05pUXJTocR3d6Imf-5utb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p></p>
