@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Weeks of Wonder Projects/.keep
-      - MOE Kindergarden Total Curriculum.md
       - MK Total Curriculum.md
       - MK Open House.md
       - About Us/.keep
