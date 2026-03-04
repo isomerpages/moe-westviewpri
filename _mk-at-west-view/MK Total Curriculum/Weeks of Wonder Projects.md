@@ -28,5 +28,15 @@ joy of self-motivated learning.</p>
 Language</p>
 </li>
 </ul>
-<p></p>
+<p>During our Weeks of Wonder (W.O.W.) project, they showed a keen interest
+in how phones have evolved over the years. They asked thoughtful questions
+like, “What did people use phones for in the past compared to today?” and
+“How have different types of phones changed over time?”</p>
+<p>With help from the teacher, the children seeked answers to these questions
+through videos and books, discovering how phones have transformed from
+simple communication tools to multifunctional devices.</p>
+<p>To conclude the W.O.W project, the children designed their own pretend
+phones and shared with one another the different features they would like
+their phones to have. They even tried communicating with each other using
+cup telephones, making their learning both fun and hands-on.</p>
 <p></p>
