@@ -1,6 +1,6 @@
 ---
-title: Starlight Literacy Programme ML
-permalink: /starlight-literacy-programme-ml/
+title: ML Starlight Literacy Programme
+permalink: /ml-starlight-literacy-programme/
 variant: tiptap
 description: ""
 third_nav_title: MK Total Curriculum
