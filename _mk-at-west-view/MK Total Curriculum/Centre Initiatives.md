@@ -6,6 +6,7 @@ description: ""
 third_nav_title: MK Total Curriculum
 ---
 <h1>G.R.O.W.ing U.P</h1>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1btToZ0uQZrTNFPgreijPetvsJjI1x0Y8/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROWing_UP_poster_pic.jpg"></a>
 <p>To support our vision “A Strong Start for Every Child”, G.R.O.W.ing U.P
 is designed to promote holistic development of our children with a focus
 on inculcating values and developing social and emotional competencies
