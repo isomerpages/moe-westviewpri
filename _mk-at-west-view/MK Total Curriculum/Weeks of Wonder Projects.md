@@ -39,18 +39,6 @@ simple communication tools to multifunctional devices.</p>
 phones and shared with one another the different features they would like
 their phones to have. They even tried communicating with each other using
 cup telephones, making their learning both fun and hands-on.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
