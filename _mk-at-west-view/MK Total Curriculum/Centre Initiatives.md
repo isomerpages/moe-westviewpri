@@ -28,9 +28,9 @@ Move Well, Grow Well! — An engaging outdoor aerobics session designed to
 support fitness, coordination, and overall healthy development.</p>
 <p>Day 3: Physical Well-Being Activity – Eat Well In this physical well-being
 activity focused on healthy eating, one teacher role-plays as a healthy
-hawker while reading Sometimes and Everyday Food. Children learn to distinguish
-between “sometimes” and “everyday” foods through discussion and hands-on
-materials.</p>
+hawker while reading <em>Sometimes and Everyday Food.</em> Children learn
+to distinguish between “sometimes” and “everyday” foods through discussion
+and hands-on materials.</p>
 <p>Day 4: Social Well-being - Learn Well In this social well-being activity
 focused on learning well, children are guided on how to make appropriate
 choices when selecting shows to watch, helping them develop responsible
