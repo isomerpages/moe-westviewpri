@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MK Total Curriculum
 ---
-<h1>WoW Projects</h1>
+<h1>W.o.W Projects</h1>
 <p>Understanding children’s natural sense of curiosity, the Weeks of Wonder
 (W.o.W.) projects provide opportunities for children to work with their
 friends to investigate topics that interest them. The projects are carried
@@ -39,4 +39,63 @@ simple communication tools to multifunctional devices.</p>
 phones and shared with one another the different features they would like
 their phones to have. They even tried communicating with each other using
 cup telephones, making their learning both fun and hands-on.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Wow04.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Wow01.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Wow05.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Wow02.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Wow03.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
