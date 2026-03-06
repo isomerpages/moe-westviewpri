@@ -6,6 +6,7 @@ description: ""
 third_nav_title: MK Total Curriculum
 ---
 <h1>G.R.O.W.ing U.P</h1>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1btToZ0uQZrTNFPgreijPetvsJjI1x0Y8/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROWing_UP_poster_pic.jpg"></a>
 <p>To support our vision “A Strong Start for Every Child”, G.R.O.W.ing U.P
 is designed to promote holistic development of our children with a focus
 on inculcating values and developing social and emotional competencies
@@ -39,9 +40,94 @@ viewing habits.</p>
 about children’s bedtime routines and the activities they do before sleeping.
 Each child receives a bedtime chart to complete at home with their parents
 and later shares their routine with the class.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW09.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW08.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW07.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/GROW06.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW05.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW04.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/GROW03.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW02.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/GROW01.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h1>T.E.A Time</h1>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1AHnBmmyJuhKx4Hve3NjCqG25_1DNS9RI/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA_Time_poster_pic.jpg"></a>
 <p>
 <br>T.E.A. Time empowers teachers as Thinkers to provide Enriching and Authentic
 learning experiences for young children. Besides fostering children's holistic
@@ -66,6 +152,68 @@ with a creative loose parts activity where children make a bear face, followed
 by group reflection and calming “bear breaths” and stretches.
 <br>
 </p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA08.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA07.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA06.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA05.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA04.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA03.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA02.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TEA01.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p></p>
 <p></p>
