@@ -13,7 +13,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gc0DqEkQD8U?si=Rrb9QfcxOHztUbkm"></iframe>
 </div>
-<h4>Our Learning Environment </h4>
+<h4>Our Learning Environment</h4>
 <p>MK aims to provide quality and affordable Kindergarten 1 (K1) and Kindergarten
 2 (K2) education to Singapore Citizens (SC) and Permanent Residents (PR).</p>
 <p>We offer 4-hour K1 and K2 programmes, with a single session KCare service.</p>
