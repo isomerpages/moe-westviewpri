@@ -16,12 +16,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,21 +34,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Child Development)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pua_xiu_min_sherilyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pua Xiu Min Sherilyn</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Level Head<br>(K2 Level Coordinator)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nurfara_Pawzi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurfara Binte Pawzi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher (Child Development)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pua_xiu_min_sherilyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pua Xiu Min Sherilyn</a>
 </p>
 </td>
 </tr>
