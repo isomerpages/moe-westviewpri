@@ -93,9 +93,8 @@ Language</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br><strong><u>Starlight Malay Language Literacy Programme</u></strong>
+<hr>
+<p><strong><u>Starlight Malay Language Literacy Programme</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -188,6 +187,7 @@ Language</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p><strong><u>Starlight Tamil Language Literacy Programme</u></strong>
 <br>
 </p>
