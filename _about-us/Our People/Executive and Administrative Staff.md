@@ -197,6 +197,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science Lab Assistant</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Song_Kin_San@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Song Kin San</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="width: 0px">
