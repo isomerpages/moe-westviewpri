@@ -207,6 +207,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Youth Worker for EinSTein Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zahirah_Zainal_Abiddin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Zahirah Zainal Abidin</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="width: 0px">
