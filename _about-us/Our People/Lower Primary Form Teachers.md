@@ -142,8 +142,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lufang_charmian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charmian Lee</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
