@@ -30,12 +30,12 @@ part of the school; putting in time and effort into their learning.&nbsp;</p>
 <p><strong><u>S</u></strong>ustain the partnership</p>
 <p><strong><u>T</u></strong>eam up for the child</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQM40jmZSDNyHyQFUP42t8NKrI7J4kLtUoFmZznangQ89F1r7AWPZWQ3gf135PEtjgeqw4R7mM4uazV/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQM40jmZSDNyHyQFUP42t8NKrI7J4kLtUoFmZznangQ89F1r7AWPZWQ3gf135PEtjgeqw4R7mM4uazV/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Do join the PiA and play a part in our West Viewans’ learning and development!
 You will gain the enriching school life experience while helping to shape
 their learning in school. All parents are welcome to join!&nbsp;</p>
 <p>Click <a href="https://go.gov.sg/piaprofilingform2026" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register and we will be in touch with you!</p>
-<p>Click <a href="/files/PiA_handbook_2025_compressed_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/Aesthetic_Painting_Motivational_Art_Poster_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access our PiA Handbook.</p>
