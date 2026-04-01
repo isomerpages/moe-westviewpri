@@ -27,6 +27,13 @@ We are committed to helping students build strong foundations while encouraging
 curiosity, exploration, and confident problem-solving. Through meaningful
 tasks and thoughtful questioning, we aim to nurture resilient learners
 who can think deeply and apply Mathematics in real-life contexts.”</p>
+<p><strong>Message from LH/ Mathematics</strong>
+<br><strong>Ms Cai Xingyi</strong>
+<br>“Every child is unique, and every mind is precious. We believe that all
+students can learn Mathematics with the right support and encouragement.
+We aim to create a safe environment where students can learn without fear,
+experience the joy of learning Mathematics, and grow in confidence and
+resilience.”</p>
 <p><strong>Message from ST/ Mathematics</strong> 
 <br><strong>Mrs Esther Chan-Lim Siew Hiang</strong> 
 <br><em>"All pupils can learn Mathematics and they need to believe it. To me, helping pupils to first develop a love for learning Mathematics is important. When a pupil begins to love learning Mathematics, he/she will be willing to put in more effort and time to raise his/her competency. In turn, he/she will see an improvement in his/her performance and will be motivated to put in more effort to learn more about the subject. It will be a virtual cycle."</em>
