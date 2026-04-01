@@ -7,13 +7,14 @@ variant: tiptap
 ---
 <h2>School Vision</h2>
 <p>Every West Viewan a Passionate Learner and Confident Leader.</p>
-<p>学校愿景: 维新学子一一热爱学习，自信卓越。热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
-<p>Visi Sekolah: Setiap pelajar West View penuntut yang bersemangat dan pemimpin
-yang berkeyakinan. Pelajar yang bersemangat suka menimba ilmu, berani menghadapi
-cabaran dan bertanggungjawab terhadap pembelajaran.</p>
-<p>தொலைநோக்கு: ஒவ்வொரு வெஸ்ட் வீயூ மாணவன் ஆர்வமுடன் கற்பதோடு தன்னபிக்கையோடு
-வழிநடத்தும் தலைவனாவான்.&nbsp;ஆர்வத்துடன் கற்கும் மாணவன் பாடங்களை விரும்பிக்
-கற்பதோடு, அதில் எழும் சவால்களை மேற்கொண்டு, தனது கற்றலில் பொறுப்பெற்றுக்கொள்கிறான்.&nbsp;</p>
+<p><strong>学校愿景: </strong>维新学子一一热爱学习，自信卓越。热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
+<p><strong>Visi Sekolah: </strong>Setiap pelajar West View penuntut yang
+bersemangat dan pemimpin yang berkeyakinan. Pelajar yang bersemangat suka
+menimba ilmu, berani menghadapi cabaran dan bertanggungjawab terhadap pembelajaran.</p>
+<p><strong>தொலைநோக்கு:</strong> ஒவ்வொரு வெஸ்ட் வீயூ மாணவன் ஆர்வமுடன் கற்பதோடு
+தன்னபிக்கையோடு வழிநடத்தும் தலைவனாவான்.&nbsp;ஆர்வத்துடன் கற்கும் மாணவன்
+பாடங்களை விரும்பிக் கற்பதோடு, அதில் எழும் சவால்களை மேற்கொண்டு, தனது கற்றலில்
+பொறுப்பெற்றுக்கொள்கிறான்.&nbsp;</p>
 <hr>
 <h2>School Mission</h2>
 <p>To make school inviting and learning inspiring for our learners to grow
