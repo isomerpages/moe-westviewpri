@@ -5,6 +5,113 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h2>School Vision</h2>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Every West Viewan a Passionate Learner and Confident Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>学校愿景</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Visi Sekolah</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>தொலைநோக்கு</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>维新学子--热爱学习，自信卓越</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Setiap pelajar West View penuntut yang bersemangat dan pemimpin yang berkeyakinan.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ஒவ்வொரு வெஸ்ட் வீயூ மாணவன் ஆர்வமுடன் கற்பதோடு தன்னபிக்கையோடு வழிநடத்தும்
+தலைவனாவான்.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pelajar yang bersemangat suka menimba ilmu, berani menghadapi cabaran
+dan bertanggungjawab terhadap pembelajaran.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ஆர்வத்துடன் கற்கும் மாணவன் பாடங்களை விரும்பிக் கற்பதோடு, அதில் எழும் சவால்களை
+மேற்கொண்டு, தனது கற்றலில் பொறுப்பெற்றுக்கொள்கிறான்.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h2>School Mission</h2>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>To make school inviting and learning inspiring for our learners to grow
+holistically</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>学校使命</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Misi Sekolah</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>குறிக்கோள்</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>营造一个温馨且激发学习热情的校园，促进维新学子全面发展</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Menjadikan sekolah tempat yang menarik dan pembelajaran yang memberikan
+inspirasi kepada pelajar untuk berkembang secara holistik.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>மனங்கவரும் பள்ளியை உருவாக்கி கற்றலை ஊக்கமளிக்கும் வகையில் மாணவர்களை முழுமையாக
+வளர்ச்சி அடைய செய்தல்</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -15,108 +122,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
-<h2>School Vision</h2>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p>Every West Viewan a Passionate Learner and Confident Leader</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>学校愿景</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Visi Sekolah</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;தொலைநோக்கு</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>维新学子--热爱学习，自信卓越</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Setiap pelajar West View penuntut yang bersemangat dan pemimpin yang berkeyakinan.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ஒவ்வொரு வெஸ்ட் வீயூ மாணவன் ஆர்வமுடன் கற்பதோடு தன்னபிக்கையோடு வழிநடத்தும்
-தலைவனாவான்.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>热爱学习的学子在学习中找到乐趣，勇敢面对挑战，并对自己的学习负责。</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Pelajar yang bersemangat suka menimba ilmu, berani menghadapi cabaran
-dan bertanggungjawab terhadap pembelajaran.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ஆர்வத்துடன் கற்கும் மாணவன் பாடங்களை விரும்பிக் கற்பதோடு, அதில் எழும் சவால்களை
-மேற்கொண்டு, தனது கற்றலில் பொறுப்பெற்றுக்கொள்கிறான்.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<h2>School Mission</h2>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p>To make school inviting and learning inspiring for our learners to grow
-holistically</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>学校使命</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Misi Sekolah</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>குறிக்கோள்&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>营造一个温馨且激发学习热情的校园，促进维新学子全面发展</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Menjadikan sekolah tempat yang menarik dan pembelajaran yang memberikan
-inspirasi kepada pelajar untuk berkembang secara holistik.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>மனங்கவரும் பள்ளியை உருவாக்கி கற்றலை ஊக்கமளிக்கும் வகையில் மாணவர்களை முழுமையாக
-வளர்ச்சி அடைய செய்தல்</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
+<th rowspan="1" colspan="5">
 <h2>School Values</h2>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="5">
@@ -179,40 +187,44 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 <p>நம்பகமானவர்</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;ஈடுபாடுடன் கற்றல்&nbsp;</p>
+<p>ஈடுபாடுடன் கற்றல்&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>பச்சாதாபம்</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;துணிவு</p>
+<p>துணிவு</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;உறுதி</p>
+<p>உறுதி</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="5">
+</tbody>
+</table>
 <p></p>
-<p></p>
-</td>
-</tr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="5">
+<th rowspan="1" colspan="3">
 <h2>Our Aspiration</h2>
-</td>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <p>To be a school of choice in our community</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>我们的愿景</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Aspirasi Kami</strong>
 </p>
 </td>
@@ -222,18 +234,19 @@ inspirasi kepada pelajar untuk berkembang secara holistik.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>成为社区的首选学校</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Menjadi sekolah pilihan dalam komuniti kami</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>சமூகத்தில் விரும்பத்தக்க பள்ளியாகத்&nbsp; திகழ்தல்&nbsp;</p>
+<p>சமூகத்தில் விரும்பத்தக்க பள்ளியாகத்&nbsp; திகழ்தல்</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h2>School Motto</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/AH.jpg">
