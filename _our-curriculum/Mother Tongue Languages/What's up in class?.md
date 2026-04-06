@@ -37,14 +37,57 @@ can retain it.</p>
 </blockquote>
 <p>We use games and other interesting activities to promote interest and
 reinforce learning so that our Mother Tongue lessons are fun and engaging.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/MT Language/Picture2.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/MT Language/Picture3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tonuge/What's up in class/How_a_Lower_Primary_Mother_Tongue_Lesson_Looks_Like_1.png">
 </div>
-<p><strong><em>Engaging pupils through Experimental Learning</em></strong>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tonuge/What's up in class/How_a_Lower_Primary_Mother_Tongue_Lesson_Looks_Like_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tonuge/What's up in class/How_a_Lower_Primary_Mother_Tongue_Lesson_Looks_Like_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tonuge/What's up in class/How_a_Lower_Primary_Mother_Tongue_Lesson_Looks_Like_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tonuge/What's up in class/How_a_Lower_Primary_Mother_Tongue_Lesson_Looks_Like_5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tonuge/What's up in class/How_a_Lower_Primary_Mother_Tongue_Lesson_Looks_Like_6.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>Engaging pupils through group activities promoting thinking and discussion</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother%20Tonuge/What's%20up%20in%20class/Using%20games%20to%20reinforce%20learning.jpg">
