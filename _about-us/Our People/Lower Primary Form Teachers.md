@@ -142,7 +142,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lok_hong_tan_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lok Hong Tan Jenny</a>
+</p>
 </td>
 </tr>
 <tr>
