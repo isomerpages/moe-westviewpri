@@ -22,14 +22,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/p1-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>P1 Orientation 2025</u></a>
-</p>
-</li>
-<li>
-<p><a href="/p1-2025-parents-handbook/" rel="noopener noreferrer nofollow" target="_blank"><u>P1 2025 Parents' Handbook</u></a>
-</p>
-</li>
-<li>
 <p><a href="/cyber-wellness-ict/" rel="noopener noreferrer nofollow" target="_blank"><u>Cyber Wellness &amp; ICT</u></a>
 </p>
 </li>
