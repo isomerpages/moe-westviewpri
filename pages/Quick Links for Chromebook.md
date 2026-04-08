@@ -22,13 +22,11 @@ for learning. This Acceptable Use Policy (AUP) helps pupils use the ICT
 resources safely and responsibly. All pupils must follow these guidelines
 to keep a positive and respectful learning environment.
 <br><a href="/files/Acceptable_Use_Policy_Agreement_2026.pdf" rel="noopener nofollow" target="_blank">Click to read the Acceptable Use Policy</a>
-<br><a href="" rel="noopener nofollow" target="_blank">*</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -126,24 +124,84 @@ to keep a positive and respectful learning environment.
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Notice for Students:</strong>
-<br>The Chromebooks are managed by the school. Your activity on the device
-might be monitored to help with support and security. Some information
-may be collected as part of managing the device. By using the device, you
-agree to this.</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>TSRI Survey for Primary 4</strong></h4>
+<p>Click on the respective picture to access the survey for Form Teacher
+1 and Form Teacher 2.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>Form Teacher 1</h4>
+</th>
+<th rowspan="1" colspan="2">
+<h4>Form Teacher 2</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Uresh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Pei Tee Patty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Soh - Ho Hwee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suriani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shabrina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Veevarshinie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chen Jing Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chng Chyi Woei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Use_of_Chromebooks.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSRI_Form_Teacher_1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSRI_Form_Teacher_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -151,6 +209,16 @@ agree to this.</p>
 <p></p>
 <p></p>
 <p></p>
+<hr>
+<h4><strong>Notice for Students:</strong></h4>
+<p>The Chromebooks are managed by the school. Your activity on the device
+might be monitored to help with support and security. Some information
+may be collected as part of managing the device. By using the device, you
+agree to this.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Use_of_Chromebooks.png">
+</div>
+<hr>
 <p></p>
 <p>
 <br>
