@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h4><strong>Acceptable Use Policy</strong></h4>
+<h1><strong>Acceptable Use Policy</strong></h1>
 <p>In today’s digital world, using devices and the internet is important
 for learning. This Acceptable Use Policy (AUP) helps pupils use the ICT
 resources safely and responsibly. All pupils must follow these guidelines
