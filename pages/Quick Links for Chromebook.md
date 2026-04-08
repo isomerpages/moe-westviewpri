@@ -5,28 +5,16 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Acceptable Use Policy</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Acceptable Use Policy</strong></h4>
 <p>In today’s digital world, using devices and the internet is important
 for learning. This Acceptable Use Policy (AUP) helps pupils use the ICT
 resources safely and responsibly. All pupils must follow these guidelines
 to keep a positive and respectful learning environment.
 <br><a href="/files/Acceptable_Use_Policy_Agreement_2026.pdf" rel="noopener nofollow" target="_blank">Click to read the Acceptable Use Policy</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<hr>
+<h4><strong>Quick Links</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -61,8 +49,11 @@ to keep a positive and respectful learning environment.
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
+</tbody>
+</table>
+<p></p>
+<hr>
+<h4><strong>Sociogram Survey (My Friends in Class)</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -72,18 +63,6 @@ to keep a positive and respectful learning environment.
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p><strong>Sociogram Survey (My Friends in Class)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.moe.edu.sg/sna/forms/J20868" rel="noopener nofollow" target="_blank">Class 2A</a>
@@ -124,20 +103,11 @@ to keep a positive and respectful learning environment.
 </tr>
 </tbody>
 </table>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h4><strong>TSRI Survey for Primary 4</strong></h4>
-<p>Click on the respective picture to access the survey for Form Teacher
-1 and Form Teacher 2.</p>
+<p>Click on the respective picture to access the survey for <a href="https://forms.moe.edu.sg/forms/Jqyr9a" rel="noopener nofollow" target="_blank">Form Teacher 1</a> and
+<a href="https://forms.moe.edu.sg/forms/J49OWy" rel="noopener nofollow" target="_blank">Form Teacher 2</a>.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -148,10 +118,10 @@ to keep a positive and respectful learning environment.
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>Form Teacher 1</h4>
+<h4><a href="https://forms.moe.edu.sg/forms/Jqyr9a" rel="noopener nofollow" target="_blank">Form Teacher 1</a></h4>
 </th>
 <th rowspan="1" colspan="2">
-<h4>Form Teacher 2</h4>
+<h4><a href="https://forms.moe.edu.sg/forms/J49OWy" rel="noopener nofollow" target="_blank">Form Teacher 2</a></h4>
 </th>
 </tr>
 <tr>
@@ -184,30 +154,14 @@ to keep a positive and respectful learning environment.
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSRI_Form_Teacher_1.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/Jqyr9a"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSRI_Form_Teacher_1.jpg"></a>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSRI_Form_Teacher_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/J49OWy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSRI_Form_Teacher_2.jpg"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <hr>
 <h4><strong>Notice for Students:</strong></h4>
@@ -218,6 +172,7 @@ agree to this.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Use_of_Chromebooks.png">
 </div>
+<p></p>
 <hr>
 <p></p>
 <p>
