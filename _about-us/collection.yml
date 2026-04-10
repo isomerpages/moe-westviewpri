@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Curriculum.md
       - Our School/.keep
       - Our School/School Ethos.md
       - Our School/Principal's Message.md
@@ -18,3 +17,4 @@ collections:
       - Our People/Upper Primary Form Teachers.md
       - Our People/Allied Educators.md
       - Our People/Executive and Administrative Staff.md
+      - Our Curriculum.md
