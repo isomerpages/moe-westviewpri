@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Pride.md
       - Our School/.keep
       - Our School/School Ethos.md
       - Our School/Principal's Message.md
@@ -19,3 +18,4 @@ collections:
       - Our People/Allied Educators.md
       - Our People/Executive and Administrative Staff.md
       - Our Curriculum.md
+      - Our Pride.md
