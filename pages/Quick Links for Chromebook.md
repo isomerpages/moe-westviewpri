@@ -112,58 +112,6 @@ to keep a positive and respectful learning environment.
 </table>
 <p></p>
 <hr>
-<h4><strong>Sociogram Survey (My Friends in Class)</strong></h4>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/sna/forms/J20868" rel="noopener nofollow" target="_blank">Class 2A</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/J49nrG" rel="noopener nofollow" target="_blank">Class 2B</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vVnW6P" rel="noopener nofollow" target="_blank">Class 2C</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vyDwWm" rel="noopener nofollow" target="_blank">Class 2D</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/J9Wg7O" rel="noopener nofollow" target="_blank">Class 2E</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/sna/forms/enW1DY" rel="noopener nofollow" target="_blank">Class 3A</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/oOqV8K" rel="noopener nofollow" target="_blank">Class 3B</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vrYwR1" rel="noopener nofollow" target="_blank">Class 3C</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vXjmPO" rel="noopener nofollow" target="_blank">Class 3D</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/sna/forms/JbGmBR" rel="noopener nofollow" target="_blank">Class 4A</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/enW1jl" rel="noopener nofollow" target="_blank">Class 4B</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vrYwDM" rel="noopener nofollow" target="_blank">Class 4C</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/oOqVmY" rel="noopener nofollow" target="_blank">Class 4D</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/sna/forms/oa0mDz" rel="noopener nofollow" target="_blank">Class 5A</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/odKYDw" rel="noopener nofollow" target="_blank">Class 5B</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vYwm5X" rel="noopener nofollow" target="_blank">Class 5C</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/JMNZXm" rel="noopener nofollow" target="_blank">Class 5D</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/sna/forms/odKY3y" rel="noopener nofollow" target="_blank">Class 6A</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vYwmWE" rel="noopener nofollow" target="_blank">Class 6B</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/JMNZkr" rel="noopener nofollow" target="_blank">Class 6C</a>
-<br><a href="https://forms.moe.edu.sg/sna/forms/vwpEbn" rel="noopener nofollow" target="_blank">Class 6D</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<hr>
 <h4><strong>Notice for Students:</strong></h4>
 <p>The Chromebooks are managed by the school. Your activity on the device
 might be monitored to help with support and security. Some information
