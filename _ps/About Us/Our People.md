@@ -1,6 +1,6 @@
 ---
 title: Our People
-permalink: /our-people/
+permalink: /about-us/our-people/school-management-committee/
 variant: tiptap
 description: ""
 third_nav_title: About Us
