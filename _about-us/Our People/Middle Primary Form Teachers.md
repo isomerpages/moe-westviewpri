@@ -85,8 +85,9 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 4</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -100,6 +101,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -118,6 +122,9 @@ variant: tiptap
 <p><a href="mailto:ho_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ho Hwee Ling</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,6 +138,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suriani_abdul_bakri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suriani</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -146,6 +156,10 @@ variant: tiptap
 <p><a href="mailto:chen_jing_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Jing Ting</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kamarulzaman_kamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kamarul</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,6 +173,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chng_chyi_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chng Chyi Woei</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
