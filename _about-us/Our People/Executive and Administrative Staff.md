@@ -78,7 +78,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur’ilyana Binte Abdul Rahim</p>
+<p><a href="mailto:nurilyana_abdul_rahim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur'ilyana Abdul Rahim</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -99,6 +100,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_siew_lan_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Christina Lai</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Management Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lum Ching Yee</p>
 </td>
 </tr>
 <tr>
