@@ -53,6 +53,12 @@ to keep a positive and respectful learning environment.
 </table>
 <p></p>
 <hr>
+<h4><strong>NE Quiz</strong></h4>
+<p>Click on the <a href="https://go.gov.sg/nequizpri-tablet" rel="noopener nofollow" target="_blank">image </a>to
+start your mission on SLS!</p><a class="isomer-image-wrapper" href="https://go.gov.sg/nequizpri-tablet"><img style="width: 100%" height="auto" width="100%" alt="Click to start your mission!" src="/images/banner_2.png"></a>
+<p></p>
+<p></p>
+<hr>
 <h4><strong>Notice for Students:</strong></h4>
 <p>The Chromebooks are managed by the school. Your activity on the device
 might be monitored to help with support and security. Some information
