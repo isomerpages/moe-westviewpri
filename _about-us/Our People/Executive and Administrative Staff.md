@@ -108,7 +108,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lum Ching Yee</p>
+<p><a href="mailto:Lum_Ching_Yee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lum Ching Yee</a>
+</p>
 </td>
 </tr>
 <tr>
