@@ -193,7 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:habib.rayeesahmadkhan@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Habib Rayees Ahmad Khan</a>
+<p><a href="mailto:habib.rayeesahmadkhan@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Habib</a>
 </p>
 </td>
 </tr>
