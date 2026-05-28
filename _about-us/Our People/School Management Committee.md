@@ -111,16 +111,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Mother Tongue Languages &amp; Innovation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lew_yee_loo_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lew Yee Loo Michelle</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>HOD Physical Education &amp; Co-Curricular Activities</strong>
 </p>
 </td>
