@@ -68,16 +68,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faten_hanani_harun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Faten Hanani</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nurilyana_abdul_rahim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur'ilyana Abdul Rahim</a>
 </p>
 </td>
@@ -203,7 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:habib.rayeesahmadkhan@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Habib Rayees Ahmad Khan</a>
+<p><a href="mailto:habib.rayeesahmadkhan@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Habib</a>
 </p>
 </td>
 </tr>
