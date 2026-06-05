@@ -36,7 +36,7 @@ Performance at the Esplanade. It was a memorable and enriching experience!</p>
 Sands. It was a wonderful learning experience for them as they learnt to
 appreciate the Arts!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SPge8L3NK8Y?si=VpCOrKhdG8fCedsW"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SPge8L3NK8Y?si=VpCOrKhdG8fCedsW"></iframe>
 </div>
 <p><strong>Makerspace&nbsp;</strong>
 </p>
@@ -45,8 +45,9 @@ to hone their creativity while they develop lifelong skills. Many engaging
 activities are provided for pupils to discover and explore their talents,
 while developing their design-thinking, observational skills, critical
 thinking and enhanced 21st century competencies.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Framework_for_21st_century_competencies_and_student_outcomes.jpg">
 </div>
 <p>Learning how to use different materials to design a healthy plate of nutritious
 food for teachers. We are young Masterchefs!</p>
@@ -74,7 +75,7 @@ food for teachers. We are young Masterchefs!</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R33ksZqYRAU?si=WhBFLRbjPfB05MFk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R33ksZqYRAU?si=WhBFLRbjPfB05MFk"></iframe>
 </div>
 <p><strong>Aesthetics Week</strong>
 </p>
@@ -106,27 +107,28 @@ chalks. What a wonderful experience indeed!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP15.jpg">
 </div>
-<p>From playing the musical instruments to singing and gymnastics, we rejoice
-with our pupils as they explore and develop their interests and passions.
-The school community watched in awe as our very own talented West Viewans
-performed. Pupils also shared the importance of displaying TALENT Values
-and following their aspirations.</p>
+<p>Our distinctive programme provides meaningful opportunities for every
+West Viewan to discover and nurture their interests and passions. The school
+community watched in admiration as our talented pupils confidently showcased
+their abilities and celebrated their unique strengths. Through their inspiring
+performances and heartfelt sharing, pupils also demonstrated the importance
+of living out the TALENT Values while courageously pursuing their aspirations
+and dreams.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACES_of_West_View.jpg">
 </div>
 <p><strong>STRIVE Programmes</strong>
 </p>
-<p>Pupils have the opportunity to immerse themselves in diverse dance and
-music experiences, including K-pop dance, ethnic dance, hip hop, beatboxing
-and songwriting classes. This provides them with holistic experiences that
-promote learning for life.</p>
+<p>Pupils are immersed in various dance and music experiences, including
+K-pop dance, ethnic dance, hip hop, beatboxing, and songwriting workshops.
+These enriching opportunities nurture creativity, confidence, and self-expression,
+while providing holistic learning experiences that inspire pupils to develop
+new skills, appreciate diverse cultures, and embrace learning for life.</p>
 <p><strong>Ethnic Dances</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ethnic_dance.jpg">
 </div>
 <p><strong>K-Pop</strong>
 </p>
@@ -139,17 +141,20 @@ promote learning for life.</p>
 <p><strong>Show Choir</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Qkz4vdet2E?si=GwJQzWwk1Sj5VuNb"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Qkz4vdet2E?si=GwJQzWwk1Sj5VuNb"></iframe>
 </div>
 <p><strong>Birthday Celebrations @ West View</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp21.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Birthday1.jpg">
 </div>
-<p>In West View Primary School, our school birthday celebrations are a hit!
-Together, we sing the birthday song in different languages, filling the
-air with joy and appreciation for every West Viewan. The heartwarming tradition
-of celebrating one another with gifts and songs unites us and creates lasting
-memories.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Birthday2.jpg">
+</div>
+<p>At West View Primary School, our birthday celebrations are always a joyful
+occasion! We come together to sing birthday songs, filling the school with
+laughter, warmth, and appreciation. This heartwarming tradition of celebrating
+through songs and thoughtful gifts strengthens our sense of belonging,
+fosters meaningful friendships, and creates treasured memories for all.</p>
 <p></p>
 <p></p>

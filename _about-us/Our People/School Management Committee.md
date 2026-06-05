@@ -141,6 +141,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD ICT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_jing_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Jing Ting</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Year Head for Lower Primary</strong>
 </p>
 </td>
@@ -247,16 +257,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ ICT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_jing_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Jing Ting</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/ Data &amp; Information Management</strong>
 </p>
 </td>
@@ -267,7 +267,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ Student Leadership Development (Covering)</strong>
+<p><strong>SH/ Student Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
