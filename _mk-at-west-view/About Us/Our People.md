@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_jannah_fatin_mohamed_johari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Jannah Fatin Bte Mohd Johari (MTL team coordinator)</a>
+<p><a href="mailto:nur_jannah_fatin_mohamed_johari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Jannah Fatin Binte Mohamed Johari (Senior Teacher/ Malay Language)</a>
 </p>
 </td>
 </tr>
