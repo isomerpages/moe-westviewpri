@@ -6,8 +6,9 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h2>Primary 3</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -25,6 +26,9 @@ variant: tiptap
 <p><strong>&nbsp;</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,6 +42,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:majidah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Majidah Ramli</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,6 +60,9 @@ variant: tiptap
 <p><a href="mailto:lim_hui_min_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Lim</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,6 +75,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_eng_chuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Eng Chuan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurfarha_begum_naina_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurfarha Begum</a>
 </p>
 </td>
 </tr>
@@ -80,6 +94,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_toon_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Toon Lim</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
