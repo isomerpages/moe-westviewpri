@@ -227,16 +227,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH/ MK</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurfara_pawzi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurfara Pawzi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/ Malay Language &amp; Tamil Language</strong>
 </p>
 </td>
