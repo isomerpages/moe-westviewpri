@@ -6,9 +6,8 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h2></h2>
-<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Management_Committee_Informal___selected.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCHOOL_MANAGEMENT_COMMITTEE_Formal.jpg">
 </div>
 <h2>School Leaders</h2>
 <table style="minWidth: 50px">
