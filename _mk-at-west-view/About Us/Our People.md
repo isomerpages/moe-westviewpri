@@ -6,7 +6,7 @@ third_nav_title: About Us
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKE_Informal___selected.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Formal.jpg">
 </div>
 <h2>Key Personnels</h2>
 <table style="minWidth: 50px">
