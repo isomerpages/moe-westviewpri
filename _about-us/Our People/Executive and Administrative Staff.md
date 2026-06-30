@@ -5,8 +5,14 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS_Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXECUTIVE_ADMINISTRATIVE_STAFF_Formal.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
