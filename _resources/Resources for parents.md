@@ -37,5 +37,9 @@ description: ""
 <p><a href="https://www.westviewpri.moe.edu.sg/wvps/services/" rel="noopener nofollow" target="_blank">School Services</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/wvpsadvisorynotecyclingtoschool" rel="noopener nofollow" target="_blank">Advisory Note Cycling To School</a>
+</p>
+</li>
 </ul>
 <p></p>
