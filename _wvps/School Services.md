@@ -123,18 +123,7 @@ to check</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dental_Notice_20260721.jpg">
 </div>
-<h4><em><u>Announcement:</u></em></h4>
-<p>Dear Parents and Students,</p>
-<p>All school dental clinics will be closed on 23 July 2026</p>
-<p>If your child requires urgent dental treatment (e.g. a tooth injury, facial
-swelling, or fever due to a toothache), please kindly contact the following
-Mobile Dental Clinic via call or WhatsApp message.</p>
-<p>M19 (Tel: 93895041) @ Bt View Sec</p>
-<p>M22 (Tel: 91864607) @ Kent Ridge Sec</p>
-<p>M25 (Tel: 91864597) @ Greenridge Sec</p>
-<p>M30 (Tel: 92707789) @ Sch of Sc &amp; Tech</p>
-<p>Please note that these contact numbers are valid only on 23/7/2026.</p>
-<p>Thank you.</p>
+<h4></h4>
 </td>
 </tr>
 </tbody>
