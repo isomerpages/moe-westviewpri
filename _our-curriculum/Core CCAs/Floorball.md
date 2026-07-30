@@ -6,10 +6,6 @@ third_nav_title: Core CCAs
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_Senior_Team__2024_.jpg">
-</div>
-<p>Floorball Senior Team (2024)</p>
 <h2>Brief of CCA</h2>
 <p>Floorball CCA provides our girls with the opportunity to learn floorball
 techniques and values such as resilience, teamwork, determination and sportsmanship.
@@ -116,14 +112,7 @@ Division)</p>
 </tr>
 </tbody>
 </table>
-<h2>What's up in our CCA?</h2>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlczc9gKOcEP_FpDWWGQFqzA-I21DhUMOyw0ljw_7IIxkB4cSH41Fvu266zdhUUPAGri349zFg_igl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fbslib-8i9c"></iframe>
-</div>
 <h2>CCA Model Pupil</h2>
 <p></p>
 <div class="isomer-image-wrapper">
