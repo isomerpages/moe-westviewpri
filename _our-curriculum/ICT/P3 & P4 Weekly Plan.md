@@ -23,22 +23,22 @@ third_nav_title: ICT
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P3/HBL_Weekly_Plan_T4W2__25_30_Sept__3A.pdf" rel="noopener noreferrer nofollow" target="_blank">3A</a>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_Weekly_Plan_T3W7__12_13_Aug__3A.pdf" rel="noopener noreferrer nofollow" target="_blank">3A</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P3/HBL_Weekly_Plan_T4W2__25_30_Sept__3B.pdf" rel="noopener noreferrer nofollow" target="_blank">3B</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_Weekly_Plan_T3W7__12_13_Aug__3B.pdf" rel="noopener noreferrer nofollow" target="_blank">3B</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P3/HBL_Weekly_Plan_T4W2__25_30_Sept__3C_edited.pdf" rel="noopener noreferrer nofollow" target="_blank">3C</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_Weekly_Plan_T3W7__12_13_Aug__3C.pdf" rel="noopener noreferrer nofollow" target="_blank">3C</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P3/HBL_Weekly_Plan_T4W2__25_30_Sept__3D.pdf" rel="noopener noreferrer nofollow" target="_blank">3D</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_Weekly_Plan_T3W7__12_13_Aug__3D.pdf" rel="noopener noreferrer nofollow" target="_blank">3D</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
@@ -47,19 +47,19 @@ third_nav_title: ICT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P3/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__3CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL1</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__3CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P3/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__3CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL2</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__3CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P3/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__3CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL3</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__3CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P3/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__3CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL4</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__3CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">3CL4</a>
 </p>
 </td>
 </tr>
@@ -71,11 +71,11 @@ third_nav_title: ICT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P3/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__3ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML1</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__3ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P3/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__3ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML2</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__3ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">3ML2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +93,7 @@ third_nav_title: ICT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P3/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__P3TL.pdf" rel="noopener noreferrer nofollow" target="_blank">3TL</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P3/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__3TL.pdf" rel="noopener noreferrer nofollow" target="_blank">3TL</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,22 +126,22 @@ third_nav_title: ICT
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P4/HBL_Weekly_Plan_T4W2__25_30_Sept__4A.pdf" rel="noopener noreferrer nofollow" target="_blank">4A</a>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_Weekly_Plan_T3W7__12_13_Aug__4A.pdf" rel="noopener noreferrer nofollow" target="_blank">4A</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P4/HBL_Weekly_Plan_T4W2__25_30_Sept__4B.pdf" rel="noopener nofollow" target="_blank">4B</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_Weekly_Plan_T3W7__12_13_Aug__4B.pdf" rel="noopener noreferrer nofollow" target="_blank">4B</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P4/HBL_Weekly_Plan_T4W2__25_30_Sept__4C.pdf" rel="noopener noreferrer nofollow" target="_blank">4C</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_Weekly_Plan_T3W7__12_13_Aug__4C.pdf" rel="noopener noreferrer nofollow" target="_blank">4C</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Home Based Learning/P4/HBL_Weekly_Plan_T4W2__25_30_Sept__4D.pdf" rel="noopener noreferrer nofollow" target="_blank">4D</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_Weekly_Plan_T3W7__12_13_Aug__4D.pdf" rel="noopener noreferrer nofollow" target="_blank">4D</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
@@ -150,20 +150,19 @@ third_nav_title: ICT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P4/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__4CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL1</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__P4CL1.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P4/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__4CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL2</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__P4CL2.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P4/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__4CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL3</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__P4CL3.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P4/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__4CL4.pdf" rel="noopener noreferrer nofollow" target="_blank">4CL4</a></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -174,11 +173,11 @@ third_nav_title: ICT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P4/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__4ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML1</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__4ML1.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P4/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__4ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML2</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__4ML2.pdf" rel="noopener noreferrer nofollow" target="_blank">4ML2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,7 +195,7 @@ third_nav_title: ICT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Home Based Learning/P4/HBL_MT_Weekly_Plan_T4W2__25_30_Sept__4TL.pdf" rel="noopener noreferrer nofollow" target="_blank">4TL</a></strong>
+<p><a href="/files/HBL2026 Weekly Plan/P4/HBL_MT_Weekly_Plan_T3W7__12_13_Aug__4TL.pdf" rel="noopener noreferrer nofollow" target="_blank">4TL</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
