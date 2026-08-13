@@ -10,7 +10,7 @@ variant: tiptap
 activities to keep you engaged during June holidays.</p>
 <p>Let’s watch this video to find out more!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2VvXRlFfBlw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2VvXRlFfBlw"></iframe>
 </div>
 <p><strong>*Reminders to pupils *</strong>
 <br><strong>1. You should consult your parents or guardians before using these online workouts and exercises.</strong>
@@ -18,9 +18,8 @@ activities to keep you engaged during June holidays.</p>
 <br><strong>3. If you feel unwell while exercising, you should stop immediately and alert your parents or guardians.</strong>
 </p>
 <h2>Fun activities for the lower primary kids!</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -30,20 +29,12 @@ activities to keep you engaged during June holidays.</p>
 <p>Type of Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Theme</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>YouTube&nbsp;links</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
 <p>Workouts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -73,12 +64,6 @@ activities to keep you engaged during June holidays.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="HP.png" src="/images/HP.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.youtube.com/watch?v=fu-ZCwMrvKc&amp;list=RDCMUCokO71NW3TgndaSNyHIqwtQ&amp;index=2" rel="noopener noreferrer nofollow" target="_blank"><u>Harry Potter 'Enchanted Spells' Kids Workout</u></a>
@@ -90,9 +75,6 @@ activities to keep you engaged during June holidays.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://family.disney.com/articles/disney-workouts/" rel="noopener noreferrer nofollow" target="_blank"><u>Fun Disney-themed workouts for all</u></a>
@@ -102,11 +84,6 @@ activities to keep you engaged during June holidays.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="SW.png" src="/images/SW.png">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -124,9 +101,6 @@ activities to keep you engaged during June holidays.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>All about Sports</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -192,9 +166,6 @@ activities to keep you engaged during June holidays.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.healthhub.sg/live-healthy/1291/fun-fruity-facts" rel="noopener noreferrer nofollow" target="_blank"><u>Fun Fruity Facts</u></a>
@@ -221,9 +192,6 @@ activities to keep you engaged during June holidays.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.youtube.com/watch?v=KhfkYzUwYFk" rel="noopener noreferrer nofollow" target="_blank"><u>Trolls: Can't Stop The Feeling | GoNoodle</u></a>
@@ -246,9 +214,6 @@ activities to keep you engaged during June holidays.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://activeparents.myactivesg.com/parent-child-exercises" rel="noopener noreferrer nofollow" target="_blank"><u>Resources from Active SG</u></a>
@@ -263,14 +228,6 @@ activities to keep you engaged during June holidays.</p>
 <p>Healthy Cooking for Kids</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please ensure that you have your parent’s supervision when you use the
-kitchen.</p>
-<p></p>
-<p>Do let an adult, such as your parents or guardians, assist or supervise
-you when using dangerous items such as knives and electrical appliances.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.youtube.com/watch?v=m9qUMcryrBc" rel="noopener noreferrer nofollow" target="_blank"><u>Making a tomato and cheese sandwich</u></a>
@@ -285,15 +242,18 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </p>
 </li>
 </ul>
+<p>Please ensure that you have your parent’s supervision when you use the
+kitchen.</p>
+<p>Do let an adult, such as your parents or guardians, assist or supervise
+you when using dangerous items such as knives and electrical appliances.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>@Source&nbsp; - GET KIDS MOVING series</p>
+<p></p>
 <h2>Fun activities for the upper primary kids!</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -303,23 +263,12 @@ you when using dangerous items such as knives and electrical appliances.</p>
 <p>Type of Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Theme</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>YouTube&nbsp;links</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Workouts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="margin: 0px; outline: 0px; padding: 0px; width: 152px; height: 116px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EbFxijX_H58"></iframe>
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -359,12 +308,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="HP.png" src="/images/HP.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.youtube.com/watch?v=TBGOZlZ2-DY&amp;t=158s" rel="noopener noreferrer nofollow" target=""><u>Harry Potter 'Hogwarts' School Workout :</u></a>
@@ -378,11 +321,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="SW.png" src="/images/SW.png">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -407,16 +345,10 @@ you when using dangerous items such as knives and electrical appliances.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>All about Sports</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -482,9 +414,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.healthhub.sg/live-healthy/1291/fun-fruity-facts" rel="noopener noreferrer nofollow" target="_blank"><u>Fun Fruity Facts</u></a>
@@ -508,9 +437,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dance Series</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -543,9 +469,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 <p>Parent-child PE Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://activeparents.myactivesg.com/parent-child-exercises" rel="noopener noreferrer nofollow" target="_blank"><u>Resources from Active SG</u></a>
@@ -557,13 +480,6 @@ you when using dangerous items such as knives and electrical appliances.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Healthy Cooking for Kids</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please ensure that you have your parent’s supervision when you use the
-kitchen.</p>
-<p></p>
-<p>Do let an adult, such as your parents or guardians, assist or supervise
-you when using dangerous items such as knives and electrical appliances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -581,10 +497,14 @@ you when using dangerous items such as knives and electrical appliances.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<p>Please ensure that you have your parent’s supervision when you use the
+kitchen.</p>
+<p>Do let an adult, such as your parents or guardians, assist or supervise
+you when using dangerous items such as knives and electrical appliances.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>@Source&nbsp; - GET KIDS MOVING Youtube series
-<br>*Source: Kidz Bop Youtube Series</p>
+<p></p>
 <p></p>
