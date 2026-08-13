@@ -12,32 +12,27 @@ habits to take good care of ourselves</p>
 <p>
 <br>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p><strong>(1)&nbsp;&nbsp; &nbsp;We take care of our mind by...</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p>a.&nbsp;&nbsp; &nbsp;knowing how to relax</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Click on the picture to access the link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,11 +47,6 @@ habits to take good care of ourselves</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breathing to relax</p>
@@ -70,11 +60,6 @@ habits to take good care of ourselves</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; background-color: initial; width: 220px; height: 220px;" height="auto" width="100%" alt="Calm down bottles.jpg" src="/images/Calm%20down%20bottles.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Calm-down bottles</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,11 +69,6 @@ habits to take good care of ourselves</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; background-color: initial; width: 281px; height: 185px;" height="auto" width="100%" alt="Ways to sleep better.png" src="/images/Ways%20to%20sleep%20better.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ways to sleep better</p>
@@ -102,11 +82,6 @@ habits to take good care of ourselves</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; background-color: initial; width: 284px; height: 200px;" height="auto" width="100%" alt="Strees Relaxation techniques.jpg" src="/images/Strees%20Relaxation%20techniques.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Stress relaxation techniques</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,17 +89,13 @@ habits to take good care of ourselves</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p>b.&nbsp;&nbsp; &nbsp;going on a virtual learning journey</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Click on the picture to access the link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,11 +110,6 @@ habits to take good care of ourselves</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 289px; height: 384px;" height="auto" width="100%" alt="Singapore Philatelic Museum.jpg" src="/images/Singapore%20Philatelic%20Museum.jpeg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Interactive Tour at Singapore Philatelic Museum</p>
@@ -157,11 +123,6 @@ habits to take good care of ourselves</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 322px; height: 215px;" height="auto" width="100%" alt="SIngapore Museums.jpg" src="/images/SIngapore%20Museums.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Singapore Museums</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,23 +130,19 @@ habits to take good care of ourselves</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p><strong>(2)&nbsp;&nbsp; &nbsp;We take care of our heart by…</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p>a.&nbsp;&nbsp; &nbsp;spending time with our loved ones</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Click on the picture to access the link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,11 +157,6 @@ habits to take good care of ourselves</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 304px; height: 199px;" height="auto" width="100%" alt="Child-friendly recipes.jpg" src="/images/Child-friendly%20recipes.jpeg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipes that are child-friendly</p>
@@ -218,11 +170,6 @@ habits to take good care of ourselves</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 287px; height: 156px;" height="auto" width="100%" alt="Learn how to make crafts.jpg" src="/images/Learn%20how%20to%20make%20crafts.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Learn how to make crafts</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,17 +177,13 @@ habits to take good care of ourselves</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p>b.&nbsp;&nbsp; &nbsp;practising positive values</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Click on the picture to access the link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,11 +200,6 @@ habits to take good care of ourselves</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; background-color: initial; width: 259px; height: 137px;" height="auto" width="100%" alt="gracious singapore.png" src="/images/gracious%20singapore.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Build a gracious Singapore together through games, stories and videos.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,9 +209,6 @@ habits to take good care of ourselves</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mind your Manners</p>
@@ -288,9 +223,6 @@ habits to take good care of ourselves</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mind Your Manners</p>
 <p>Courteous: The Word on the Street</p>
 </td>
@@ -303,14 +235,6 @@ habits to take good care of ourselves</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; cursor: pointer; width: 331px;" height="auto" width="100%" alt="Kindsville Times.png" src="/images/Kindsville%20Times.png">
-</div>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Kindsville Times</p>
 <p>Read current and past issues to learn about the different adventures of
 the lion cubs</p>
@@ -320,17 +244,13 @@ the lion cubs</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p>c.&nbsp;&nbsp; &nbsp;appreciating other cultures</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Click on the picture to access the link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,11 +265,6 @@ the lion cubs</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 239px; height: 192px;" height="auto" width="100%" alt="Vesak Day.jpg" src="/images/Vesak%20Day.jpeg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vesak Day</p>
@@ -363,11 +278,6 @@ the lion cubs</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 254px; height: 133px;" height="auto" width="100%" alt="Hari Raya Puasa.jpg" src="/images/Hari%20Raya%20Puasa.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ramadan and Hari Raya Puasa</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -375,7 +285,7 @@ the lion cubs</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p>d.&nbsp;&nbsp; &nbsp;seeking help when we need it</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -385,10 +295,6 @@ the lion cubs</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Click on the picture to access the link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,11 +311,6 @@ the lion cubs</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 192px; height: 93px;" height="auto" width="100%" alt="email.jpg" src="/images/email.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Email our teachers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,11 +320,6 @@ the lion cubs</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; cursor: pointer; display: block; width: 192px; height: 154px;" height="auto" width="100%" alt="tinkle.png" src="/images/tinkle.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tinkle Friend</p>

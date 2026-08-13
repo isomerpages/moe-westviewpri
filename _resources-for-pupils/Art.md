@@ -20,9 +20,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Drawing and Colouring</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drawing and Colouring.jpg" src="/images/Drawing%20and%20Colouring.jpeg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://bomomo.com/" rel="noopener noreferrer nofollow" target="_blank">Interesting Abstract Digital Art</a>
@@ -35,9 +32,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Do-It-Yourself Crafts</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="133" width="132" alt="Do-It-Yourself Crafts.png" src="/images/Do-It-Yourself%20Crafts.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.thebestideasforkids.com/fathers-day-handprint-craft/" rel="noopener noreferrer nofollow" target="_blank">Create a Fathers' Day card</a>
@@ -66,9 +60,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>More Activities</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="99" width="132" alt="More Activities.png" src="/images/More%20Activities.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lower Primary (Primary 1 to Primary 3)</strong>

@@ -7,9 +7,8 @@ variant: tiptap
 <h2><strong>Stay Home Edition (Malay Language)</strong></h2>
 <p><strong>Recommended Malay Language Reading Materials</strong>
 </p>
-<table style="minWidth: 175px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -25,10 +24,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Icon</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,14 +55,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/NLB_Mobile_App_Logo.jpg">
-</div>
-<p></p>
-<p>NLB Mobile App</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>NLB Mobile App is your personal library, anytime, anywhere. There are
 lots of Mother Tongue books and magazines to choose from.</p>
 </td>
@@ -88,14 +75,6 @@ lots of Mother Tongue books and magazines to choose from.</p>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.mllpc.sg/publications/3" rel="noopener nofollow" target="_blank">Nabil &amp; Nabilah Reader Series</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Siri_Nabil_N_Nabilah.png">
-</div>
-<p>&nbsp;</p>
-<p>Siri Nabil &amp; Nabilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Malay Language Learning and Promotional Community has come up with
@@ -120,13 +99,6 @@ various story books that is suitable for all levels.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/BH_Logo.png">
-</div>
-<p>Berita Harian Singapura</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Malay E-newspaper to catch the latest news and happenings in Singapore
 and around the world.</p>
 </td>
@@ -147,14 +119,6 @@ and around the world.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/anthology" rel="noopener nofollow" target="_blank">Antologi Cerpen ‘Benih’</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Benih.png">
-</div>
-<p>&nbsp;</p>
-<p>Benih</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Benih is a collection of short stories by teachers. This short collection
@@ -180,13 +144,6 @@ especially in Primary 5 and 6.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Cetusan.png">
-</div>
-<p>Cetusan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nine schools in Singapore worked together to produce this magazine which
 comprises of compilation of pupil’s composition, grammar notes, articles
 on culture, drawings on proverbs and tips to write a good composition.</p>
@@ -210,14 +167,6 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Pantun_Anak.png">
-</div>
-<p>Pantun Anak Singapura</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <p>A compilation of Pantun by pupils from various schools in Singapore.</p>
 </td>
@@ -234,9 +183,8 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 </tbody>
 </table>
 <h1><strong>Recommended Apps &amp;Websites for the learning of Mother Tongue</strong></h1>
-<table style="minWidth: 175px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -252,10 +200,6 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Icon</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -284,12 +228,6 @@ on culture, drawings on proverbs and tips to write a good composition.</p>
 <p>Kamus Pro App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Kamus.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Consists of Kamus Dewan Fourth edition and Malay-English Dewan Dictionary
 by DBP</p>
 <p>&nbsp;</p>
@@ -315,12 +253,6 @@ by DBP</p>
 <p>Pintar Bahasa Melayu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Pintar_Bahasa_Melayu_App_Logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Interactive learning application to help children master basic Malay skills
 in a more fun and effective way.</p>
 </td>
@@ -344,12 +276,6 @@ in a more fun and effective way.</p>
 <p>Belajar Membaca</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/Belajar_Membaca.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>For early reader</p>
 <p>Games to suits pupils learning needs</p>
 </td>
@@ -371,12 +297,6 @@ in a more fun and effective way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TTS Pintar – Teka Teki Silang App</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources for pupils/TTS_Pintar_App_Logo.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Helps pupils to widen their vocabulary through crossword puzzle</p>

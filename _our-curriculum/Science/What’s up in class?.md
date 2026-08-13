@@ -79,9 +79,6 @@ about the things around them. Explicit teaching of process skills are conducted
 termly with progression of skills as pupils advance through the different
 levels. Hence, these level-appropriate skills packages are designed to
 customise to the needs of the pupils based on their readiness.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Explicit teaching of scientific process skills" src="/images/Explicit%20teaching%20of%20scientific%20process%20skills.jpg">
-</div>
 <p><strong><u>Questioning</u></strong>
 <br>As facilitators in the classroom, teachers adopt various questioning techniques
 to invoke the spirit of curiosity among the pupils. Opportunities are also
