@@ -21,18 +21,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 277px; height: 155px;" height="auto" width="100%" alt="Global Warming1.jpg" src="/images/Global%20Warming1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 227px; height: 155px;" height="auto" width="100%" alt="Global Warming2.jpg" src="/images/Global%20Warming2.jpeg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>Discover why the Earth is getting hotter day by day and how you can play
 your part to save the Earth through many fun-filled interactive activities!</p>
@@ -82,18 +70,6 @@ your part to save the Earth through many fun-filled interactive activities!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 275px; height: 145px;" height="auto" width="100%" alt="Food Waste1.png" src="/images/Food%20Waste1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 340px; height: 145px;" height="auto" width="100%" alt="Food Waste2.jpg" src="/images/Food%20Waste2.jpeg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>Find out how you can play your part to reduce and recycle food waste through
 the interactive activities.</p>
@@ -127,18 +103,6 @@ the interactive activities.</p>
 <td rowspan="1" colspan="2">
 <p>•<strong>&nbsp;<u>Recycling plastics &amp; papers</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 235px; height: 155px;" height="auto" width="100%" alt="Recycling1.jpg" src="/images/Recycling1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 211px; height: 155px;" height="auto" width="100%" alt="Recycling2.jpg" src="/images/Recycling2.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -186,74 +150,6 @@ quizzes and more!</p>
 <h5><strong>Theme: Diversity</strong></h5>
 <p><strong>Animal Diversity</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>•<strong>&nbsp;<u>Find out the different types of animals and their interesting facts.</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 266px; height: 196px;" height="auto" width="100%" alt="BioDiversity1.jpg" src="/images/BioDiversity1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 262px; height: 196px;" height="auto" width="100%" alt="BioDiversity2.jpg" src="/images/BioDiversity2.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Interactive activities for you to try and find out more about the animals
-you love!
-<br>Take a virtual tour through the exhibitions and engage in interactive
-activities.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="http://bit.ly/3byIMmX" rel="noopener noreferrer nofollow" target="_blank"><u>bit.ly/3byIMmX</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.sciencekids.co.nz/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kids.nationalgeographic.com/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.highlightskids.com/games" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.highlightskids.com/games</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><em><a href="https://neal.fun/deep-sea/" rel="noopener noreferrer nofollow" target="_blank"><u>https://neal.fun/deep-sea/</u></a></em>
-</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
 <p><strong>Animal Conservation</strong>
 </p>
 <table style="minWidth: 50px">
@@ -266,13 +162,6 @@ activities.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Find out which animals are endangered and how you can play a part in saving them.</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Adaptations.png" src="/images/Adaptations.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -312,122 +201,8 @@ animals and how you can play a part in saving these animals!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>•&nbsp;<u>Characteristics of living things</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 249px;" height="auto" width="100%" alt="Livingthings1.jpg" src="/images/Livingthings1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>These websites lead you to games that allow you to identify living or
-non-living things. You will also be asked to recall the characteristics
-of living things.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.turacogames.com/games/living-non-living/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.turacogames.com/games/living-non-living/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.bbc.co.uk/bitesize/topics/z6882hv" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.bbc.co.uk/bitesize/topics/z6882hv</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.brainpop.com/science/diversityoflife/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.brainpop.com/science/diversityoflife/</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://www.sciencekids.co.nz/gamesactivities/plantanimaldif.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sciencekids.co.nz/gamesactivities/plantanimaldif.html</u></a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em><a href="https://easyscienceforkids.com/all-about-new-zealand/" rel="noopener noreferrer nofollow" target="_blank"><u>https://easyscienceforkids.com/all-about-new-zealand/</u></a></em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p><u>• Groups of animals</u>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="353" width="387" alt="ClassificationofAnimals1.jpg" src="/images/ClassificationofAnimals1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>These websites show you the different animal groups and their unique characteristics.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Resources:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://kids.nationalgeographic.com/animals/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com/animals/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://kids.sandiegozoo.org/index.php/animals" rel="noopener noreferrer nofollow" target="_blank">https://kids.sandiegozoo.org/index.php/animals</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Plant and fungi</u><br></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 196px;" height="auto" width="100%" alt="Fungi1.jpg" src="/images/Fungi1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 196px;" height="auto" width="100%" alt="Fungi2.jpg" src="/images/Fungi2.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -461,13 +236,6 @@ of plants and fungi.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Properties of materials</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Propertiesofmaterials1.png" src="/images/Propertiesofmaterials1.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -516,13 +284,6 @@ you experiment with a variety of objects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 232px;" height="auto" width="100%" alt="FunctionofPlant.jpg" src="/images/FunctionofPlant.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>This science game helps pupils to revisit their knowledge on parts of
 a plant and their functions.</p>
 </td>
@@ -551,13 +312,6 @@ a plant and their functions.</p>
 <td rowspan="1" colspan="2">
 <p>•&nbsp;<strong><u>Magnetic materials &amp; Attraction and Repulsion</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center;" height="auto" width="100%" alt="Magnetic1.png" src="/images/Magnetic1.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -595,18 +349,6 @@ a plant and their functions.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Life cycles of plants and animals</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 300px; height: 255px;" height="auto" width="100%" alt="Lifecycle1.jpg" src="/images/Lifecycle1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 255px;" height="auto" width="100%" alt="Lifecycle2.jpg" src="/images/Lifecycle2.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -668,13 +410,6 @@ and animals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 646px;" height="auto" width="100%" alt="StatesofMatter1.jpg" src="/images/StatesofMatter1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Explore these websites to find out more about matter and their different
 states.</p>
 </td>
@@ -714,13 +449,6 @@ states.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TypesofEnergy1.png" src="/images/TypesofEnergy1.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Watch this video to find out what energy is.</p>
 </td>
 </tr>
@@ -747,13 +475,6 @@ states.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Heat and temperature</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Heat1.jpg" src="/images/Heat1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -807,13 +528,6 @@ states.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 313px;" height="auto" width="100%" alt="Light1.jpg" src="/images/Light1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Explore these websites to find out more about light energy</p>
 </td>
 </tr>
@@ -852,13 +566,6 @@ states.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 213px;" height="auto" width="100%" alt="Shadows1.gif" src="/images/Shadows1.gif">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Explore these websites to find out more about how shadows are formed.</p>
 </td>
 </tr>
@@ -892,13 +599,6 @@ states.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Different shapes and sizes of shadows (application)</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Shadows2.jpg" src="/images/Shadows2.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -949,13 +649,6 @@ states.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Plants reproduction</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 375px;" height="auto" width="100%" alt="Reproduction1.jpg" src="/images/Reproduction1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1030,13 +723,6 @@ states.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 528px;" height="auto" width="100%" alt="Watercycle1.jpg" src="/images/Watercycle1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Watch these videos to explore the unique properties of water that makes
 it so important for all living things. In addition, appreciate the importance
 of water as a resource and its journey since the formation of earth.</p>
@@ -1090,18 +776,6 @@ of water as a resource and its journey since the formation of earth.</p>
 <td rowspan="1" colspan="2">
 <p>•&nbsp;<strong><u>Human circulatory and respiratory systems</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 341px; height: 255px;" height="auto" width="100%" alt="respiratory1.jpg" src="/images/respiratory1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 343px; height: 255px;" height="auto" width="100%" alt="respiratory2.jpg" src="/images/respiratory2.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1169,13 +843,6 @@ us carry out daily functions.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Plant transport system</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Planttransport1.jpg" src="/images/Planttransport1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1257,18 +924,6 @@ help the plant carry out life processes.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Electrical1.png" src="/images/Electrical1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Electrical2.png" src="/images/Electrical2.png">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>Explore these websites to know more about electricity!</p>
 </td>
@@ -1327,13 +982,6 @@ help the plant carry out life processes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="differentenergy1.jpg" src="/images/differentenergy1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Explore the different types of energy that can be found in our everyday
 lives.</p>
 </td>
@@ -1361,13 +1009,6 @@ lives.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Let's explore energy</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; text-align: center; width: 500px; height: 375px;" height="auto" width="100%" alt="ScienceEnergy1.jpg" src="/images/ScienceEnergy1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1406,13 +1047,6 @@ lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TypesofEnergy1.png" src="/images/TypesofEnergy1%20(1).png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Explore concepts of energy at different levels of difficulties</p>
 </td>
 </tr>
@@ -1437,13 +1071,6 @@ lives.</p>
 <td rowspan="1" colspan="2">
 <p><strong><u>•&nbsp;Energy forms and conversion</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 499px; height: 280px;" height="auto" width="100%" alt="EnergyForms1.jpg" src="/images/EnergyForms1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1475,13 +1102,6 @@ lives.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 499px; height: 251px;" height="auto" width="100%" alt="EnergyConversion1.gif" src="/images/EnergyConversion1.gif">
-</div>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Theme: Interactions</strong></h4>
@@ -1497,13 +1117,6 @@ lives.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Let’s explore forces</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 374px;" height="auto" width="100%" alt="Motion1.png" src="/images/Motion1.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -1542,13 +1155,6 @@ lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 280px;" height="auto" width="100%" alt="Gravitational Force1.png" src="/images/Gravitational%20Force1.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Explore concepts of forces at different levels of difficulties.</p>
 </td>
 </tr>
@@ -1573,13 +1179,6 @@ lives.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Types of forces</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="TypesofForces1.jpg" src="/images/TypesofForces1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1616,13 +1215,6 @@ lives.</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Types of habitats</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 283px;" height="auto" width="100%" alt="Habitats1.jpg" src="/images/Habitats1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1667,13 +1259,6 @@ lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" height="auto" width="100%" alt="Interdependency1.jpg" src="/images/Interdependency1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Animal Planet: Learn about the survival of the fittest in the animal world</p>
 <p>My Animal Buddy (Singapore Zoo): Explore fun behind the scene facts about
 the animals</p>
@@ -1705,13 +1290,6 @@ the animals</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 250px;" height="auto" width="100%" alt="Food Chains1.jpg" src="/images/Food%20Chains1.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Interactive games on food chains and food web.</p>
 </td>
 </tr>
@@ -1737,13 +1315,6 @@ the animals</p>
 <p><strong>•&nbsp;<u>Adaptation of animals and plants</u></strong>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 249px;" height="auto" width="100%" alt="Wildlife Conservation1.jpg" src="/images/Wildlife%20Conservation1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
@@ -1797,13 +1368,6 @@ and plants</p>
 <td rowspan="1" colspan="2">
 <p><strong>•&nbsp;<u>Man’s impact on the environment</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 500px; height: 280px;" height="auto" width="100%" alt="Greenhouse1.jpg" src="/images/Greenhouse1.jpeg">
-</div>
 </td>
 </tr>
 <tr>
