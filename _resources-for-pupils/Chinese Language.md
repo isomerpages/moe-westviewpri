@@ -11,9 +11,8 @@ variant: tiptap
 <p><strong>✅ Recommended YouTube Channels for Pupils</strong>
 <br><strong>These are engaging, age-appropriate, and updated channels that make learning Chinese enjoyable:</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -22,10 +21,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>YouTube Channel</strong>
-</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Link</strong>
@@ -37,13 +32,6 @@ variant: tiptap
 <p><strong>1</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>EduSpore YouTube Channel</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon1.png">
-</div>
-</td>
 <td rowspan="1" colspan="2">
 <p>🔗 Watch here<strong>&nbsp;</strong>
 <br><a href="https://www.youtube.com/results?search_query=EduSpore+YouTube+Channel" rel="noopener noreferrer nofollow" target="_blank"><u>EduSpore YouTube Channel - YouTube</u></a>
@@ -54,13 +42,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>2</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Little Fox Chinese</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon2.png">
-</div>
 </td>
 <td rowspan="1" colspan="2">
 <p>🔗 Watch here<strong>&nbsp;</strong>
@@ -75,14 +56,6 @@ listening, and reading.
 <p><strong>3</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p><strong>YOYO TV</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon3.png">
-</div>
-<p></p>
-</td>
 <td rowspan="2" colspan="2">
 <p>🔗 Watch here&nbsp;
 <br><a href="https://www.youtube.com/results?search_query=yoyo+tv" rel="noopener noreferrer nofollow" target="_blank"><u>yoyo tv - YouTube</u></a>
@@ -94,15 +67,6 @@ listening, and reading.
 <tr>
 <td rowspan="2" colspan="1">
 <p><strong>4</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>Momo亲子台</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon4.png">
-</div>
-<p><strong><u><br></u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -120,13 +84,6 @@ listening, and reading.
 <td rowspan="2" colspan="1">
 <p><strong>5</strong>
 </p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong><u>西游记 Journey to the West</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
-</div>
 </td>
 <td rowspan="1" colspan="2">
 <p>🔗 Watch here</p>
@@ -149,13 +106,6 @@ encounters.</p>
 <p><strong>6</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p><strong>Learn Chinese with ChineseClass101</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon6.png">
-</div>
-</td>
 <td rowspan="1" colspan="2">
 <p>🔗 Watch here</p>
 <p><a href="https://www.youtube.com/watch?v=wOZji5OKDAY" rel="noopener noreferrer nofollow" target="_blank"><u>Day 1: 10/300 | Learn 300 Chinese Words in 30 Days Challenge</u></a>
@@ -173,13 +123,6 @@ minutes with Audio and Video lessons.</p>
 <td rowspan="6" colspan="1">
 <p><strong>7</strong>
 </p>
-</td>
-<td rowspan="6" colspan="1">
-<p><strong>Yoyo Chinese</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon7.png">
-</div>
 </td>
 <td rowspan="1" colspan="2">
 <p>🔗 Watch here</p>
@@ -205,9 +148,8 @@ view, making the learning process much easier and more effective.</p>
 <p></p>
 <p><strong>🌐 <u>Interactive Websites for Singapore Students</u></strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -215,10 +157,6 @@ view, making the learning process much easier and more effective.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>e-Resource</strong>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Link</strong>
@@ -231,14 +169,6 @@ view, making the learning process much easier and more effective.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>我们 心中的故事</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon8.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>🔗 Read here
 <br><a href="https://www.westviewpri.moe.edu.sg/files/Our_stories_CL_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>链接</u></a>
 </p>
@@ -248,20 +178,6 @@ view, making the learning process much easier and more effective.</p>
 <td rowspan="1" colspan="1">
 <p><strong>2</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>WOW! Publication</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon10.png">
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>🔗 Read here<strong>&nbsp;</strong>
@@ -297,20 +213,6 @@ view, making the learning process much easier and more effective.</p>
 <td rowspan="2" colspan="1">
 <p><strong>3</strong>
 </p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>联合早报</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon11.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site photo update for 2026/Resources for pupils/icon12.png">
-</div>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>🔗 Read here<strong>&nbsp;</strong>
