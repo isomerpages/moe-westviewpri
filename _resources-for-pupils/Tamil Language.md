@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2>Recommended Apps for the learning of Tamil Language</h2>
-<table style="minWidth: 175px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -22,9 +21,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Name of App</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>App Icon</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -47,11 +43,6 @@ variant: tiptap
 <p>Tamil Alphabet for Kids App</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="85" width="33" alt="alphabet.png" src="/images/alphabet.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>· This engaging app helps pupils to learn Tamil Alphabets in fun way.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,11 +61,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil Kathaigal App</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="90" width="33" alt="kathaigal.png" src="/images/kathaigal.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Interesting Tamil Moral Stories.</p>
@@ -97,11 +83,6 @@ variant: tiptap
 <p>Tamil Kids Stories App</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="92" width="33" alt="stories.png" src="/images/stories.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>· Interesting Tamil Stories for kids.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,11 +101,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil Stories Kathaigal App</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="91" width="33" alt="tamil stories kathaigal app.png" src="/images/tamil%20stories%20kathaigal%20app.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Compilation of Tamil stories for leisure reading</p>
@@ -147,11 +123,6 @@ variant: tiptap
 <p>Tamil Crossword Game App</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="83" width="33" alt="tamil letter game.png" src="/images/tamil%20letter%20game.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>· Fun Tamil Language Game for kids.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,11 +143,6 @@ variant: tiptap
 <p>Tamil Letters Memory Game App</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="83" width="33" alt="letter memory.png" src="/images/letter%20memory.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>· Memory Game for kids to recall the Tamil Alphabets</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,11 +161,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn Tamil Easily App</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="87" width="33" alt="learn tamil easily.png" src="/images/learn%20tamil%20easily.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>· An application that enables kids to learn tamil alphabets in fun way.
@@ -226,11 +187,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="90" width="33" alt="agaram tamil teacher app.png" src="/images/agaram%20tamil%20teacher%20app.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>· This engaging app helps pupils to learn Tamil Alphabets in fun way.
 <br>· It also includes interesting and fun games to increase tamil vocabulary.</p>
 </td>
@@ -250,11 +206,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Kani Mani Bk 1 App</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="92" width="33" alt="kani mani bk 1.png" src="/images/kani%20mani%20bk%201.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>· This app contains stories and fun activities that help children to learn
@@ -278,11 +229,6 @@ Tamil in fun way.
 </td>
 <td rowspan="1" colspan="1">
 <p>SEITHI Mediacorp</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="seithi mediacorp.png" src="/images/seithi%20mediacorp.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>· This app contains current news in Tamil suitable for children and adults.
@@ -310,11 +256,6 @@ Tamil in fun way.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="76" width="33" alt="nlb.png" src="/images/nlb.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>· NLB mobile is your personal library, anytime, anywhere. There are lots
 of Tamil books and magazines to choose from!</p>
 </td>
@@ -331,9 +272,8 @@ of Tamil books and magazines to choose from!</p>
 </tbody>
 </table>
 <h2>Recommended Apps &amp; Websites for the learning of Mother Tongue</h2>
-<table style="minWidth: 175px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -343,12 +283,12 @@ of Tamil books and magazines to choose from!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="7">
+<th rowspan="1" colspan="6">
 <p>Stay Home Edition (Mother Tongue)</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="7">
+<td rowspan="1" colspan="6">
 <p>Recommended Apps &amp;Websites for the learning of Mother Tongue</p>
 </td>
 </tr>
@@ -358,9 +298,6 @@ of Tamil books and magazines to choose from!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Icon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Description</p>
@@ -388,12 +325,6 @@ of Tamil books and magazines to choose from!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="116" width="63" alt="nlb.jpg" src="/images/nlb%20.jpeg">
-</div>
-<p>NLB Mobile App</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>·With lots of Mother Tongue books to choose from, download this app to
 meet your reading needs!</p>
 </td>
@@ -415,12 +346,6 @@ meet your reading needs!</p>
 <p>Learning Mother Tongue Languages - Duolingo
 <br><a href="https://www.duolingo.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.duolingo.com/</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="76" width="63" alt="duolingo.png" src="/images/duolingo.png">
-</div>
-<p>Duolingo App</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·You can learn Chinese, Malay, Tamil and other languages with this fun
