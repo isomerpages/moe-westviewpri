@@ -100,12 +100,6 @@ thinking skills.</p>
 of discovery using the Young Botanist Card. This will also be aligned to
 the Blooming Gardens Programme @ WVPS that we are embarking this year which
 will further enhance our pupils’ learning experience as Young Scientist.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci5.png">
-</div>
 <p><strong><u>(3) E2K Science in WVPS</u></strong>
 <br>At West View Primary School, we believe in nurturing every student to
 their full potential. Excellence 2000 (E2K) Science program will be part
