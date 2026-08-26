@@ -52,9 +52,9 @@ to keep a positive and respectful learning environment.
 </tbody>
 </table>
 <hr>
-<h4>Survey</h4>
-<p>Click <a href="https://form.gov.sg/6a67ff1f8eacaa5d51e72024" rel="noopener nofollow" target="_blank">image</a> to
-access the survey</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6a67ff1f8eacaa5d51e72024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Rep_Survey.png"></a>
+<h4>P6 Citizenship Education Survey</h4>
+<p><a href="https://go.gov.sg/moecesurvey2026" rel="noopener nofollow" target="_blank">Click HERE to access the survey</a>
+</p>
 <p></p>
 <hr>
 <h4><strong>Notice for Students:</strong></h4>
