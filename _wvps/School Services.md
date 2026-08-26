@@ -119,11 +119,54 @@ to check</p>
 <p>Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
+<h4><strong>Important Notice:</strong></h4>
+<p>Please be informed that the Roving Dental Clinic will cease operations
+at our school from 1 September 2026 and will reopen from January 2027.</p>
 <p></p>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dental_Notice_20260803.jpg">
-</div>
+<p>Students requiring urgent dental treatment may contact our staff at any
+of the following clinics:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dental Clinic</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tel No.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roving Dental Clinic 10 (RDC 10)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8798 5043</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bukit Timah Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9759 8567</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bukit Panjang Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9114 2186</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
