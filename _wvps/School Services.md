@@ -121,7 +121,14 @@ to check</p>
 <td rowspan="1" colspan="1">
 <h4><strong>Important Notice:</strong></h4>
 <p>Please be informed that the Roving Dental Clinic will cease operations
-at our school from 1 September 2026 and will reopen from January 2027.</p>
+at our school from 31 August 2026 to March/April 2027 (to be confirmed).</p>
+<p>(A) For any dental enquiries, please contact the following:</p>
+<p></p>
+<p><strong>First Point Of Contact: </strong>8798 5043</p>
+<p><em>Whatsapp messages are preferred as our staff may be occupied with providing treatment for patients. If it is urgent, please call.</em>
+</p>
+<p>General Enquiry, please email: <a href="mailto:yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yps@hpb.gov.sg</a> 
+</p>
 <p></p>
 <p>Students requiring urgent dental treatment may contact our staff at any
 of the following clinics:</p>
