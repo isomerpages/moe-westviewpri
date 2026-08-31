@@ -193,6 +193,12 @@ at our school from 31 August 2026 to March/April 2027 (to be confirmed).</p>
 <p>9730 1309</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>Due to limited availability, some appointments may be scheduled for afternoons or school holidays. Thank you for your understanding.</em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </td>
