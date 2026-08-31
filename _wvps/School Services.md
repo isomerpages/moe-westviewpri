@@ -129,8 +129,7 @@ at our school from 31 August 2026 to March/April 2027 (to be confirmed).</p>
 <br><strong>General Enquiry, please email:</strong>  <a href="mailto:yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yps@hpb.gov.sg</a>
 </p>
 <p></p>
-<p>(B) Information on urgent dental needs and buddy dental clinics as a supporting
-role:</p>
+<h4>(B) Information on urgent dental needs and buddy dental clinics as a supporting role:</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
