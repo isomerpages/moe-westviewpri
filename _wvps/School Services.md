@@ -119,49 +119,51 @@ to check</p>
 <p>Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Important Notice:</strong></h4>
+<h3><strong>Important Notice:</strong></h3>
 <p>Please be informed that the Roving Dental Clinic will cease operations
 at our school from 31 August 2026 to March/April 2027 (to be confirmed).</p>
-<p>(A) For any dental enquiries, please contact the following:</p>
 <p></p>
-<p><strong>First Point Of Contact: </strong>8798 5043</p>
-<p><em>Whatsapp messages are preferred as our staff may be occupied with providing treatment for patients. If it is urgent, please call.</em>
-</p>
-<p>General Enquiry, please email: <a href="mailto:yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yps@hpb.gov.sg</a> 
+<h4>(A) For any dental enquiries, please contact the following:</h4>
+<p><strong>First Point Of Contact: </strong>8798 5043
+<br><em>Whatsapp messages are preferred as our staff may be occupied with providing treatment for patients. If it is urgent, please call.</em>
+<br><strong>General Enquiry, please email:</strong>  <a href="mailto:yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yps@hpb.gov.sg</a>
 </p>
 <p></p>
-<p>Students requiring urgent dental treatment may contact our staff at any
-of the following clinics:</p>
-<table style="minWidth: 50px">
+<p>(B) Information on urgent dental needs and buddy dental clinics as a supporting
+role:</p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dental Clinic</strong>
-</p>
+<p>Urgent dental conditions</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Tel No.</strong>
-</p>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Fever due to toothache</p>
+</li>
+<li>
+<p>Facial swelling</p>
+</li>
+<li>
+<p>Injury to mouth and teeth</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roving Dental Clinic 10 (RDC 10)</p>
+<p><strong>Buddy Dental Clinic (Supporting Role)</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>8798 5043</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bukit Timah Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9759 8567</p>
+<td rowspan="1" colspan="2">
+<p><strong>Contact Number</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -171,6 +173,26 @@ of the following clinics:</p>
 <td rowspan="1" colspan="1">
 <p>9114 2186</p>
 </td>
+<td rowspan="3" colspan="1">
+<p><em>Whatsapp messages are preferred as our staff may be occupied with providing treatment for patients. If it is urgent, please call.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Beason Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9114 1358</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teck Whye Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9730 1309</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -178,7 +200,6 @@ of the following clinics:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
