@@ -179,7 +179,7 @@ at our school from 31 August 2026 to March/April 2027 (to be confirmed).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Beason Primary School</p>
+<p>Beacon Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9114 1358</p>
